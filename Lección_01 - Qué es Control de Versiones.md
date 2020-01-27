@@ -32,9 +32,9 @@ Objetivos principales de Git:
 
 ## Modelos de Sistemas de Control de Versiones
 
-![Git vs GitHub](images/img_Git_vs_GitHub.png)
+![Git vs GitHub](images/img_modelo_centralizado.png)
 
-![Git vs GitHub](images/img_Git_vs_GitHub.png)
+![Git vs GitHub](images/img_modelo_distribuido.png)
 
 image::images/img_modelo_centralizado.png[]
 
@@ -110,6 +110,6 @@ video::dVil8e0yptQ[youtube]
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc2MTQ4NzE1LDIxMDExODk1MjksMjYwMD
-IwMjNdfQ==
+eyJoaXN0b3J5IjpbMTk5NjI1NDE4NSwyMTAxMTg5NTI5LDI2MD
+AyMDIzXX0=
 -->
