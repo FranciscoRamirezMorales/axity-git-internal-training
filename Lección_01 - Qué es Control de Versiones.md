@@ -42,20 +42,20 @@ Existen principalmente dos tipos de modelos de VCS:
  - Modelo Distribuido: cada usuario tiene el repositorio completo en su computadora
 
 > Git  es un sistema de control de versiones distribuido.
-
+---
 # Conceptos básicos
 
-## Sistema de control de versiones / Administrador de código fuente
+###  Sistema de control de versiones / Administrador de código fuente
 
 Sistema de Control de Versiones (VCS) es una herramienta que administra diferentes versiones del código fuente. Administrador de Código Fuente (abreviado como SCM) es otro nombre para un Sistema de Control de Versiones.
 
-## Commit
+###  Commit
 
 Git esta diseñado para administrar datos/archivos como un conjunto de fotos de un mini sistema de archivos. En Git, cada vez que se realiza una acción de *Commit*, básicamente se toma una fotografía del estado en que se encuentran todos los archivos en ese momento y almacena una referencia a esa foto.
 
 > Un **Commit** es la unidad básica y fundamental en Git.
 
-## Repository / Repositorio
+### Repository / Repositorio
 
 Un *repositorio - es un directorio que contiene un proyecto, así como algunos archivos internos para la gestión y administración del propio proyecto de Git.
 
@@ -63,7 +63,7 @@ Los repositorios pueden existir localmente en tu computadora o como una copia re
 
 > Un repositorio está formado por **Commits**.*
 
-## Working Directory / Directorio de Trabajo
+### Working Directory / Directorio de Trabajo
 
 El directorio de trabajo son los archivos que ves en el sistema de archivos de tu computadora. Cuando abres los archivos de tu proyecto en un editor de código, estás trabajando con archivos en el Directorio de Trabajo.
 
@@ -72,11 +72,11 @@ Esto es diferente a los archivos que se han guardado (con commits) en el reposit
 **Ojo**: *El repositorio de trabajo no es lo mismo directorio actual (pwd/cd) donde te encuentras cuando usas una terminal.*
 
 
-## Checkout
+### Checkout
 
 Un Checkout es cuando el contenido del Repositorio se ha copiado al Directorio de Trabajo.
 
-## Staging Area / Staging Index / Index
+### Staging Area / Staging Index / Index
 
 Es un archivo en el directorio de Git que almacena información sobre lo que se incluirá en en el siguiente **Commit**, es decir, los archivos en el Staging Area están listos para ser agregados al repositorio.
 
@@ -101,6 +101,6 @@ video::dVil8e0yptQ[youtube]
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MTc2NzU1OCwtNjkxNzg1MzExLDYyND
+eyJoaXN0b3J5IjpbMTMxNjAzMTE5NSwtNjkxNzg1MzExLDYyND
 czNjAzLDIxMDExODk1MjksMjYwMDIwMjNdfQ==
 -->
