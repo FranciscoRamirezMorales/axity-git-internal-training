@@ -7,7 +7,7 @@
  - Deshacer cambios Trabajar con repositorios remotos (GitHub)
  - Trabajando sobre un repositorio de otro desarrollador Crear y administrar Pull Requests
 
-## ¿Qué es Control de Versiones?
+# ¿Qué es Control de Versiones?
 
 > Version Control System (**VCS**) es un software cuyo propósito es ayudar a controlar y administrar diferentes versiones de algo, típicamente código fuente.
 
@@ -43,11 +43,9 @@ Existen principalmente dos tipos de modelos de VCS:
 
 > Git  es un sistema de control de versiones distribuido.
 
-## Conceptos básicos
+# Conceptos básicos
 
-# Heading
-
-Sistema de control de versiones / Administrador de código fuente
+## Sistema de control de versiones / Administrador de código fuente
 
 Sistema de Control de Versiones (VCS) es una herramienta que administra diferentes versiones del código fuente. Administrador de Código Fuente (abreviado como SCM) es otro nombre para un Sistema de Control de Versiones.
 
@@ -108,6 +106,6 @@ video::dVil8e0yptQ[youtube]
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5Nzc2ODAwNCw2MjQ3MzYwMywyMTAxMT
+eyJoaXN0b3J5IjpbLTMwMjYzMDQ1OSw2MjQ3MzYwMywyMTAxMT
 g5NTI5LDI2MDAyMDIzXX0=
 -->
