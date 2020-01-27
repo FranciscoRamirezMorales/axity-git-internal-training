@@ -32,13 +32,9 @@ Objetivos principales de Git:
 
 ## Modelos de Sistemas de Control de Versiones
 
-![Git vs GitHub](images/img_modelo_centralizado.png)
+![img_modelo_centralizado](images/img_modelo_centralizado.png)
 
-![Git vs GitHub](images/img_modelo_distribuido.png)
-
-image::images/img_modelo_centralizado.png[]
-
-image::images/img_modelo_distribuido.png[]
+![img_modelo_distribuido](images/img_modelo_distribuido.png)
 
 Existen principalmente dos tipos de modelos de VCS:
 
@@ -110,6 +106,6 @@ video::dVil8e0yptQ[youtube]
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NjI1NDE4NSwyMTAxMTg5NTI5LDI2MD
-AyMDIzXX0=
+eyJoaXN0b3J5IjpbNjI0NzM2MDMsMjEwMTE4OTUyOSwyNjAwMj
+AyM119
 -->
