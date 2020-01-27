@@ -67,22 +67,20 @@ Los repositorios pueden existir localmente en tu computadora o como una copia re
 
 El directorio de trabajo son los archivos que ves en el sistema de archivos de tu computadora. Cuando abres los archivos de tu proyecto en un editor de código, estás trabajando con archivos en el Directorio de Trabajo.
 
-*Esto es diferente a los archivos que se han guardado (con commits) en el repositorio.*
+Esto es diferente a los archivos que se han guardado (con commits) en el repositorio.
 
-[NOTE]
-####
-El repositorio de trabajo no es lo mismo directorio actual (pwd/cd) donde te encuentras cuando usas una terminal.
+**Ojo**: *El repositorio de trabajo no es lo mismo directorio actual (pwd/cd) donde te encuentras cuando usas una terminal.*
 
 
 ## Checkout
 
-Un Checkout es cuando el contenido del Repositorio se ha copiado al Directorio de trabajo.
+Un Checkout es cuando el contenido del Repositorio se ha copiado al Directorio de Trabajo.
 
 ## Staging Area / Staging Index / Index
 
 Es un archivo en el directorio de Git que almacena información sobre lo que se incluirá en en el siguiente **Commit**, es decir, los archivos en el Staging Area están listos para ser agregados al repositorio.
 
-## SHA
+### SHA
 
 Un SHA (Secure Hash Algorithm) es básicamente un ID para cada **Commit**. Así es como se vería el SHA de un Commit:
 
@@ -103,6 +101,6 @@ video::dVil8e0yptQ[youtube]
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MTc4NTMxMSw2MjQ3MzYwMywyMTAxMT
-g5NTI5LDI2MDAyMDIzXX0=
+eyJoaXN0b3J5IjpbMjA2MTc2NzU1OCwtNjkxNzg1MzExLDYyND
+czNjAzLDIxMDExODk1MjksMjYwMDIwMjNdfQ==
 -->
