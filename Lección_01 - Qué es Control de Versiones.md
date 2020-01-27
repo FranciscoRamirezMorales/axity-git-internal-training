@@ -1,4 +1,4 @@
-## Control de versiones con Git
+# Control de versiones con Git
 
  - ¿Qué es Control de Versiones?
  - Crear un repositorio de Git
@@ -26,13 +26,9 @@ Objetivos principales de Git:
 
 ## Otros Sistemas de Control de Versiones
 
-[Git](https://git-scm.com)
-[Subversion](https://subversion.apache.org)
-[enter link description here](https://www.mercurial-scm.org)
-
- - https://git-scm.com/[Git]
- - https://subversion.apache.org/[Subversion]
- - https://www.mercurial-scm.org/[Mercurial]
+ - [Git](https://git-scm.com)
+ - [Subversion](https://subversion.apache.org)
+ - [Mercurial](https://www.mercurial-scm.org)
 
 ## Modelos de Sistemas de Control de Versiones
 
@@ -45,11 +41,13 @@ Existen principalmente dos tipos de modelos de VCS:
  - Modelo Centralizado: todos los usuarios se conectan a un repositorio maestro central
  - Modelo Distribuido: cada usuario tiene el repositorio completo en su computadora
 
-Git  es un sistema de control de versiones distribuido.
+> Git  es un sistema de control de versiones distribuido.
 
-= Conceptos básicos
+## Conceptos básicos
 
-## Sistema de control de versiones / Administrador de código fuente
+# Heading
+
+Sistema de control de versiones / Administrador de código fuente
 
 Sistema de Control de Versiones (VCS) es una herramienta que administra diferentes versiones del código fuente. Administrador de Código Fuente (abreviado como SCM) es otro nombre para un Sistema de Control de Versiones.
 
@@ -110,6 +108,6 @@ video::dVil8e0yptQ[youtube]
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjczNjczMjE1LDYyNDczNjAzLDIxMDExOD
-k1MjksMjYwMDIwMjNdfQ==
+eyJoaXN0b3J5IjpbLTg5Nzc2ODAwNCw2MjQ3MzYwMywyMTAxMT
+g5NTI5LDI2MDAyMDIzXX0=
 -->
