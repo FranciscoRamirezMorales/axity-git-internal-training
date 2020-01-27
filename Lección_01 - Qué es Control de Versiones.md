@@ -26,6 +26,10 @@ Objetivos principales de Git:
 
 ## Otros Sistemas de Control de Versiones
 
+[Git](https://git-scm.com)
+[Subversion](https://subversion.apache.org)
+[enter link description here](https://www.mercurial-scm.org)
+
  - https://git-scm.com/[Git]
  - https://subversion.apache.org/[Subversion]
  - https://www.mercurial-scm.org/[Mercurial]
@@ -106,6 +110,6 @@ video::dVil8e0yptQ[youtube]
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI0NzM2MDMsMjEwMTE4OTUyOSwyNjAwMj
-AyM119
+eyJoaXN0b3J5IjpbNjczNjczMjE1LDYyNDczNjAzLDIxMDExOD
+k1MjksMjYwMDIwMjNdfQ==
 -->
