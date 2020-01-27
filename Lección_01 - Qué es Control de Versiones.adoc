@@ -108,4 +108,4 @@ Una rama es cuando se crea una nueva línea de desarrollo que diverge de la lín
 
 Con esta terminología en mente, echemos un vistazo de alto nivel a cómo usaremos Git al observar el flujo de trabajo típico al trabajar con el control de versiones.
 
-video::dVil8e0yptQ[youtube]
+video::dVil8e0yptQ[youtube width=640, start=60, end=140, options=autoplay]
