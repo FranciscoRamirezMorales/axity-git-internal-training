@@ -67,12 +67,12 @@ Los repositorios pueden existir localmente en tu computadora o como una copia re
 
 El directorio de trabajo son los archivos que ves en el sistema de archivos de tu computadora. Cuando abres los archivos de tu proyecto en un editor de código, estás trabajando con archivos en el Directorio de Trabajo.
 
-Esto es diferente a los archivos que se han guardado (con commits) en el repositorio.
+*Esto es diferente a los archivos que se han guardado (con commits) en el repositorio.*
 
 [NOTE]
 ####
 El repositorio de trabajo no es lo mismo directorio actual (pwd/cd) donde te encuentras cuando usas una terminal.
-####
+
 
 ## Checkout
 
@@ -103,6 +103,6 @@ video::dVil8e0yptQ[youtube]
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTUwNDAxOTksNjI0NzM2MDMsMjEwMT
-E4OTUyOSwyNjAwMjAyM119
+eyJoaXN0b3J5IjpbLTY5MTc4NTMxMSw2MjQ3MzYwMywyMTAxMT
+g5NTI5LDI2MDAyMDIzXX0=
 -->
