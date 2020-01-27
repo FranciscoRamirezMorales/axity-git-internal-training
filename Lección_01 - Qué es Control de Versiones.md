@@ -9,9 +9,7 @@
 
 ## ¿Qué es Control de Versiones?
 
-____
-Version Control System (**VCS**) es un software cuyo propósito es ayudar a controlar y administrar diferentes versiones de algo, típicamente código fuente.
-____
+> Version Control System (**VCS**) es un software cuyo propósito es ayudar a controlar y administrar diferentes versiones de algo, típicamente código fuente.
 
 Objetivos principales de Git:
 
@@ -107,5 +105,5 @@ Con esta terminología en mente, echemos un vistazo de alto nivel a cómo usarem
 video::dVil8e0yptQ[youtube]
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjI5NzM4MTldfQ==
+eyJoaXN0b3J5IjpbMjYwMDIwMjNdfQ==
 -->
