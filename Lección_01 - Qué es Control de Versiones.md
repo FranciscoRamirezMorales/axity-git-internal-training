@@ -53,10 +53,7 @@ Sistema de Control de Versiones (VCS) es una herramienta que administra diferent
 
 Git esta diseñado para administrar datos/archivos como un conjunto de fotos de un mini sistema de archivos. En Git, cada vez que se realiza una acción de *Commit*, básicamente se toma una fotografía del estado en que se encuentran todos los archivos en ese momento y almacena una referencia a esa foto.
 
-[quote]
-____
-Un commit es la unidad básica y fundamental en Git.
-____
+> Un **Commit** es la unidad básica y fundamental en Git.
 
 ## Repository / Repositorio
 
@@ -64,7 +61,7 @@ Un *repositorio - es un directorio que contiene un proyecto, así como algunos a
 
 Los repositorios pueden existir localmente en tu computadora o como una copia remota en otra computadora. 
 
-*Un repositorio está formado por commits.*
+> Un repositorio está formado por **Commits**.*
 
 ## Working Directory / Directorio de Trabajo
 
@@ -106,6 +103,6 @@ video::dVil8e0yptQ[youtube]
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMjYzMDQ1OSw2MjQ3MzYwMywyMTAxMT
-g5NTI5LDI2MDAyMDIzXX0=
+eyJoaXN0b3J5IjpbLTE4NTUwNDAxOTksNjI0NzM2MDMsMjEwMT
+E4OTUyOSwyNjAwMjAyM119
 -->
