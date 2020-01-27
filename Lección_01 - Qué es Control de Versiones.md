@@ -19,6 +19,7 @@ Objetivos principales de Git:
 
 ## Diferencias entre Git y GitHub
 
+
 image::images/img_Git_vs_GitHub.png[img_Git_vs_GitHub]
 
  - https://git-scm.com/[Git] es la herramienta de control de versiones
@@ -106,5 +107,5 @@ video::dVil8e0yptQ[youtube]
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1ODQ0NzgwNiwyNjAwMjAyM119
+eyJoaXN0b3J5IjpbLTcxNzk1ODg4LDI2MDAyMDIzXX0=
 -->
