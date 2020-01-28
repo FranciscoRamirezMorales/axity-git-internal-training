@@ -97,8 +97,9 @@ Con esta terminología en mente, echemos un vistazo de alto nivel a cómo usarem
 
 [![Git](images/img_video_L01_01.jpg)](https://youtu.be/dVil8e0yptQ "Git")
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NTE3MDM4MiwtMTQ4NjkzNDg2MiwtMT
+eyJoaXN0b3J5IjpbMTE0NDI1NjIyNCwtMTQ4NjkzNDg2MiwtMT
 I4MzkyODg1MywtMTY0MDM3NDkzLC05MzgwOTkyNTUsMTg5NDAy
 OTM1LC02OTE3ODUzMTEsNjI0NzM2MDMsMjEwMTE4OTUyOSwyNj
 AwMjAyM119
