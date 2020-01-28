@@ -9,8 +9,8 @@ Instalar Git
  5. Descargar el software para **Linux**/Mac/Windows
  6. Instalar Git eligiendo las opciones por defecto
 
-Preparar 
+Confi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk0NTg1ODA3LDM1OTY3MzQ2LDczMDk5OD
-ExNl19
+eyJoaXN0b3J5IjpbLTk3NjY1MTMzMywzNTk2NzM0Niw3MzA5OT
+gxMTZdfQ==
 -->
