@@ -97,12 +97,11 @@ Con esta terminología en mente, echemos un vistazo de alto nivel a cómo usarem
 
 [![Git](images/img_video_L01_01.jpg)](https://youtu.be/dVil8e0yptQ "Git")
 
-```
-[![dasdasd](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMDQyMTQ4LC0xMjgzOTI4ODUzLC0xNj
-QwMzc0OTMsLTkzODA5OTI1NSwxODk0MDI5MzUsLTY5MTc4NTMx
-MSw2MjQ3MzYwMywyMTAxMTg5NTI5LDI2MDAyMDIzXX0=
+eyJoaXN0b3J5IjpbLTEyMTk3NDc3NTYsLTEyODM5Mjg4NTMsLT
+E2NDAzNzQ5MywtOTM4MDk5MjU1LDE4OTQwMjkzNSwtNjkxNzg1
+MzExLDYyNDczNjAzLDIxMDExODk1MjksMjYwMDIwMjNdfQ==
 -->
