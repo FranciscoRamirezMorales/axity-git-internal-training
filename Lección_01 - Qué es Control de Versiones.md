@@ -86,16 +86,12 @@ Un **SHA** (Secure Hash Algorithm) es básicamente un **ID** para cada **Commit*
 
     59eab362889d69dc9a52a44dff4f3656ebc1fd41
 
-[source,]
-----
-59eab362889d69dc9a52a44dff4f3656ebc1fd41
-----
+**SHA** es una cadena de 40 caracteres compuesta de caracteres (0–9 y a – f) y calculada en función del contenido de un archivo o estructura de directorios en Git.
 
-SHA es una cadena de 40 caracteres compuesta de caracteres (0–9 y a – f) y calculada en función del contenido de un archivo o estructura de directorio en Git.
-
-## Branch / Rama
+### Branch / Rama
 
 Una rama es cuando se crea una nueva línea de desarrollo que diverge de la línea principal de desarrollo. Esta línea alterna de desarrollo puede continuar sin alterar la línea principal.
+##
 
 Con esta terminología en mente, echemos un vistazo de alto nivel a cómo usaremos Git al observar el flujo de trabajo típico al trabajar con el control de versiones.
 
@@ -103,6 +99,6 @@ video::dVil8e0yptQ[youtube]
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMjMxOTMxMiwtNjkxNzg1MzExLDYyND
-czNjAzLDIxMDExODk1MjksMjYwMDIwMjNdfQ==
+eyJoaXN0b3J5IjpbMTg5NDAyOTM1LC02OTE3ODUzMTEsNjI0Nz
+M2MDMsMjEwMTE4OTUyOSwyNjAwMjAyM119
 -->
