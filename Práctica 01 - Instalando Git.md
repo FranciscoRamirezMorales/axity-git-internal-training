@@ -1,7 +1,6 @@
+Instalando Git
+Para instalar Git es necesario realizar los siguientes pasos:
 
-
-
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTM3OTk0MDcwMiw3MzA5OTgxMTZdfQ==
 -->
