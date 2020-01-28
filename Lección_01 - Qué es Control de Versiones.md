@@ -42,7 +42,7 @@ Existen principalmente dos tipos de modelos de VCS:
  - Modelo Distribuido: cada usuario tiene el repositorio completo en su computadora
 
 > Git  es un sistema de control de versiones distribuido.
----
+
 # Conceptos básicos
 
 ###  Sistema de control de versiones / Administrador de código fuente
@@ -82,7 +82,9 @@ Es un archivo en el directorio de Git que almacena información sobre lo que se 
 
 ### SHA
 
-Un SHA (Secure Hash Algorithm) es básicamente un ID para cada **Commit**. Así es como se vería el SHA de un Commit:
+Un **SHA** (Secure Hash Algorithm) es básicamente un **ID** para cada **Commit**. Así es como se vería el SHA de un Commit:
+
+    59eab362889d69dc9a52a44dff4f3656ebc1fd41
 
 [source,]
 ----
@@ -101,6 +103,6 @@ video::dVil8e0yptQ[youtube]
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNjAzMTE5NSwtNjkxNzg1MzExLDYyND
+eyJoaXN0b3J5IjpbLTMzMjMxOTMxMiwtNjkxNzg1MzExLDYyND
 czNjAzLDIxMDExODk1MjksMjYwMDIwMjNdfQ==
 -->
