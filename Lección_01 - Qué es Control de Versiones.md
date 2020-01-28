@@ -33,9 +33,9 @@ Objetivos principales de Git:
 ## Modelos de Sistemas de Control de Versiones
 
 ![img_modelo_centralizado](images/img_modelo_centralizado.png)
-
+##
 ![img_modelo_distribuido](images/img_modelo_distribuido.png)
-
+##
 Existen principalmente dos tipos de modelos de VCS:
 
  - Modelo Centralizado: todos los usuarios se conectan a un repositorio maestro central
@@ -98,7 +98,7 @@ Con esta terminología en mente, echemos un vistazo de alto nivel a cómo usarem
 [![Git](https://res.cloudinary.com/marcomontalbano/image/upload/v1580170385/video_to_markdown/images/youtube--dVil8e0yptQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/dVil8e0yptQ "Git")
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMzc2OTQxOSwtOTM4MDk5MjU1LDE4OT
+eyJoaXN0b3J5IjpbLTE2NDAzNzQ5MywtOTM4MDk5MjU1LDE4OT
 QwMjkzNSwtNjkxNzg1MzExLDYyNDczNjAzLDIxMDExODk1Mjks
 MjYwMDIwMjNdfQ==
 -->
