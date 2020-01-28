@@ -2,8 +2,8 @@
 Para instalar Git es necesario realizar los siguientes pasos:
 Ir 
 ## Instalar Git
- 1. Iniciar la máquina virtual "**CentOS - Internal Training - Git**"
- 2. Iniciar sesión con el **usuario**: **internal** / **password**: **Welcome1**
+ 1. Iniciar la máquina virtual "**VM - Internal Training - Git**"
+ 2. Iniciar sesión con el **usuario**: **axity** / **password**: **Welcome1**
  3. Abrir el navegador Mozilla Firefox
  4. Ir a [https://git-scm.com/downloads](https://git-scm.com/downloads)
  5. Descargar el software para **Linux**/Mac/Windows
@@ -17,6 +17,6 @@ Ir
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzg3MjU2NzEsMzU5NjczNDYsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbMTk2ODA3MTgzNCwtMTkzODcyNTY3MSwzNT
+k2NzM0Niw3MzA5OTgxMTZdfQ==
 -->
