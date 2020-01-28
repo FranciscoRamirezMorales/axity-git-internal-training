@@ -95,11 +95,10 @@ Una rama es cuando se crea una nueva línea de desarrollo que diverge de la lín
 
 Con esta terminología en mente, echemos un vistazo de alto nivel a cómo usaremos Git al observar el flujo de trabajo típico al trabajar con el control de versiones.
 
-video::dVil8e0yptQ[youtube]
 [![Git](https://res.cloudinary.com/marcomontalbano/image/upload/v1580170385/video_to_markdown/images/youtube--dVil8e0yptQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/dVil8e0yptQ "Git")
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzODA5OTI1NSwxODk0MDI5MzUsLTY5MT
-c4NTMxMSw2MjQ3MzYwMywyMTAxMTg5NTI5LDI2MDAyMDIzXX0=
-
+eyJoaXN0b3J5IjpbMTcxMzc2OTQxOSwtOTM4MDk5MjU1LDE4OT
+QwMjkzNSwtNjkxNzg1MzExLDYyNDczNjAzLDIxMDExODk1Mjks
+MjYwMDIwMjNdfQ==
 -->
