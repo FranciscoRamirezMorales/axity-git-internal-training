@@ -97,9 +97,9 @@ Con esta terminología en mente, echemos un vistazo de alto nivel a cómo usarem
 
 [![Git](images/img_video_L01_01.jpg)](https://youtu.be/dVil8e0yptQ "Git")
 
-[![Git](https://res.cloudinary.com/marcomontalbano/image/upload/v1580170385/video_to_markdown/images/youtube--dVil8e0yptQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/dVil8e0yptQ "Git")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODY5MzQ4NjIsLTEyODM5Mjg4NTMsLT
-E2NDAzNzQ5MywtOTM4MDk5MjU1LDE4OTQwMjkzNSwtNjkxNzg1
-MzExLDYyNDczNjAzLDIxMDExODk1MjksMjYwMDIwMjNdfQ==
+eyJoaXN0b3J5IjpbLTc2NTE3MDM4MiwtMTQ4NjkzNDg2MiwtMT
+I4MzkyODg1MywtMTY0MDM3NDkzLC05MzgwOTkyNTUsMTg5NDAy
+OTM1LC02OTE3ODUzMTEsNjI0NzM2MDMsMjEwMTE4OTUyOSwyNj
+AwMjAyM119
 -->
