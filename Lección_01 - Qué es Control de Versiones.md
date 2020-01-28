@@ -93,14 +93,14 @@ Un **SHA** (Secure Hash Algorithm) es básicamente un **ID** para cada **Commit*
 Una rama es cuando se crea una nueva línea de desarrollo que diverge de la línea principal de desarrollo. Esta línea alterna de desarrollo puede continuar sin alterar la línea principal.
 ##
 
-Con esta terminología en mente, echemos un vistazo de alto nivel a cómo usaremos Git al observar el flujo de trabajo típico al trabajar con el control de versiones.
+Echemos un vistazo a alto nivel para entender como usar Git al observar el flujo de trabajo típico cuando trabaja con el control de versiones.
 
 [![Git](images/img_video_L01_01.jpg)](https://youtu.be/dVil8e0yptQ "Git")
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NDI1NjIyNCwtMTQ4NjkzNDg2MiwtMT
-I4MzkyODg1MywtMTY0MDM3NDkzLC05MzgwOTkyNTUsMTg5NDAy
-OTM1LC02OTE3ODUzMTEsNjI0NzM2MDMsMjEwMTE4OTUyOSwyNj
-AwMjAyM119
+eyJoaXN0b3J5IjpbMTkyMzg1NTIyLDExNDQyNTYyMjQsLTE0OD
+Y5MzQ4NjIsLTEyODM5Mjg4NTMsLTE2NDAzNzQ5MywtOTM4MDk5
+MjU1LDE4OTQwMjkzNSwtNjkxNzg1MzExLDYyNDczNjAzLDIxMD
+ExODk1MjksMjYwMDIwMjNdfQ==
 -->
