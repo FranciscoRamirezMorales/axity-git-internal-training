@@ -12,10 +12,6 @@ Para habilitar un ambiente de Git es necesario realizar los siguientes pasos:
  3. Abrir una Terminal
  4. Para instalar Git ejecutar:
 
-`# add-apt-repository ppa:git-core/ppa`
-`# apt update`
-`#apt install git`
-
     # sudo add-apt-repository ppa:git-core/ppa
     # sudo apt update
     # sudo apt install git
@@ -35,7 +31,7 @@ asdasdasd
     asdadsa
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MDQwNzI2OSwxODM2MjM3MDIsOTAzMz
-AyOTk4LC03MTcyMzY3MTMsLTMwNDEyNjMxOCwxOTY4MDcxODM0
-LC0xOTM4NzI1NjcxLDM1OTY3MzQ2LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE5NjM0MTc4MDksMTgzNjIzNzAyLDkwMz
+MwMjk5OCwtNzE3MjM2NzEzLC0zMDQxMjYzMTgsMTk2ODA3MTgz
+NCwtMTkzODcyNTY3MSwzNTk2NzM0Niw3MzA5OTgxMTZdfQ==
 -->
