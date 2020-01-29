@@ -40,7 +40,7 @@ Aquí hay una breve sinopsis de cada uno de los archivos/directorios en el direc
   
  - **hooks**: aquí es donde se pueden colocar scripts ya sea del lado del cliente o del servidor y que se pueden usar para conectar los diferentes eventos del ciclo de vida de Git  
   
-directorio de información: contiene el archivo de exclusión global  
+ - **info**: contiene el archivo de exclusión global  
   
 directorio de objetos: este directorio almacenará todas las confirmaciones que hacemos  
   
@@ -56,6 +56,6 @@ Guardadas
 
 Comunidad
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NDY0MTYxLDE3ODY0Njk4MDEsMTY0Nj
-g3MTQzNiw0MTczMTY4MV19
+eyJoaXN0b3J5IjpbMTk0ODEyNTg5NiwxNzg2NDY5ODAxLDE2ND
+Y4NzE0MzYsNDE3MzE2ODFdfQ==
 -->
