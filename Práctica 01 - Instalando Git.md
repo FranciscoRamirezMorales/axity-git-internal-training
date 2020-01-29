@@ -59,9 +59,9 @@ Configurar Git con tu email
 
 Configurar la configuración de colores del texto de salida
 
-    git config --global color.ui auto
+    # git config --global color.ui auto
 
-# displays the original state in a conflict
+Configurar la forma en que se despliegan los estatus en conflicto
 git config --global merge.conflictstyle diff3
 
 git config --list
@@ -70,7 +70,7 @@ git config --list
 ## Configurar Editor por defecto
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjQxNjk3NDMsLTU0ODI4NDM4NiwtOD
+eyJoaXN0b3J5IjpbLTIwOTM2NDU5MTYsLTU0ODI4NDM4NiwtOD
 czODI4ODk4LC0xMTkzMTUyMjksLTEwMDcyODEwNDMsLTM4Mzkz
 MDQ1LC0yMTAxMTI2MzA3LDc3Mzk0MTMwNSw4MDQwNjM4NTcsMT
 gzNjIzNzAyLDkwMzMwMjk5OCwtNzE3MjM2NzEzLC0zMDQxMjYz
