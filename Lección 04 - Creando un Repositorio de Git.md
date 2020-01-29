@@ -36,9 +36,9 @@ Aquí hay una breve sinopsis de cada uno de los archivos/directorios en el direc
 
  - **config**: donde se guardan todos los ajustes de configuración específicos del proyecto, incluida la configuración inicial (nombre, e-mail). Ver la siguiente documentación para mayor detalle: [Git Book](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration)
   
- - **description**: este archivo solo lo usa el programa GitWeb, por lo que podemos ignorarlo  
+ - **description**: este archivo solo lo usa el programa GitWeb, por lo que puede ser ignorado
   
-directorio de ganchos: aquí es donde podríamos colocar scripts del lado del cliente o del servidor que podemos usar para conectar los diferentes eventos del ciclo de vida de Git  
+ - **hooks**: aquí es donde podríamos colocar scripts del lado del cliente o del servidor que podemos usar para conectar los diferentes eventos del ciclo de vida de Git  
   
 directorio de información: contiene el archivo de exclusión global  
   
@@ -56,6 +56,6 @@ Guardadas
 
 Comunidad
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MjYzMTU2NSwxNzg2NDY5ODAxLDE2ND
-Y4NzE0MzYsNDE3MzE2ODFdfQ==
+eyJoaXN0b3J5IjpbNjAyMzA0NjY4LDE3ODY0Njk4MDEsMTY0Nj
+g3MTQzNiw0MTczMTY4MV19
 -->
