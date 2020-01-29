@@ -66,14 +66,14 @@ Configurar la forma en que se despliegan los estatus en conflicto
     # git config --global merge.conflictstyle diff3
     # git config --list
 
-
 ## Configurar Editor por defecto
 
+Instalar el editor Atom ejecutando la siguiente línea 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MDQ3Nzc5MiwxOTMzNTY5MzEzLC01ND
-gyODQzODYsLTg3MzgyODg5OCwtMTE5MzE1MjI5LC0xMDA3Mjgx
-MDQzLC0zODM5MzA0NSwtMjEwMTEyNjMwNyw3NzM5NDEzMDUsOD
-A0MDYzODU3LDE4MzYyMzcwMiw5MDMzMDI5OTgsLTcxNzIzNjcx
-MywtMzA0MTI2MzE4LDE5NjgwNzE4MzQsLTE5Mzg3MjU2NzEsMz
-U5NjczNDYsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEyODU2NDkzMDAsMTkzMzU2OTMxMywtNT
+Q4Mjg0Mzg2LC04NzM4Mjg4OTgsLTExOTMxNTIyOSwtMTAwNzI4
+MTA0MywtMzgzOTMwNDUsLTIxMDExMjYzMDcsNzczOTQxMzA1LD
+gwNDA2Mzg1NywxODM2MjM3MDIsOTAzMzAyOTk4LC03MTcyMzY3
+MTMsLTMwNDEyNjMxOCwxOTY4MDcxODM0LC0xOTM4NzI1NjcxLD
+M1OTY3MzQ2LDczMDk5ODExNl19
 -->
