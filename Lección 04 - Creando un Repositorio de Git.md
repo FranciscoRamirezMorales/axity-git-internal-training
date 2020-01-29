@@ -34,7 +34,7 @@ Al ejecutar el comando git init se generan todos los directorios y archivos nece
 Aquí hay una breve sinopsis de cada uno de los archivos/directorios en el directorio **.git**:
   
 
- - **config**: donde se guardan todos los ajustes de configuración específicos del proyecto. 
+ - **config**: donde se guardan todos los ajustes de configuración específicos del proyecto. Ver la siguiente documentación para mayor detalle: [Git Book](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration) - 
  - 
 Del libro de Git:  
   
@@ -62,6 +62,6 @@ Guardadas
 
 Comunidad
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNzgyODM2MywxNzg2NDY5ODAxLDE2ND
-Y4NzE0MzYsNDE3MzE2ODFdfQ==
+eyJoaXN0b3J5IjpbLTIwNDUxNjgwNTAsMTc4NjQ2OTgwMSwxNj
+Q2ODcxNDM2LDQxNzMxNjgxXX0=
 -->
