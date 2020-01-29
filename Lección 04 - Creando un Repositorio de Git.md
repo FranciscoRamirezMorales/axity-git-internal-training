@@ -27,9 +27,12 @@ Inicializar un proyecto es una de las actividades más simples, basta con ejecut
 
     # git ini
 
-Al ejecutar el comando git ini
+Al ejecutar el comando git init se generan todos los directorios y archivos necesarios que Git usará para mantener el control de versiones de todo.
+
+![img_git_repo](images/img_git_repo.png)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM1NzU3ODIyLDE2NDY4NzE0MzYsNDE3Mz
-E2ODFdfQ==
+eyJoaXN0b3J5IjpbMTc4NjQ2OTgwMSwxNjQ2ODcxNDM2LDQxNz
+MxNjgxXX0=
 -->
