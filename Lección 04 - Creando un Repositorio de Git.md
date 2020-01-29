@@ -7,10 +7,15 @@ Si recordamos:
 > Un **repositorio** - es un directorio que contiene un proyecto, así como algunos archivos internos para la gestión y administración del propio proyecto de Git.
 
 ## Crear directorio
-El primer paso es crear un directorio de archivos.
-Ejecutar las 
+
+El primer paso es crear un directorio de archivos. Para esto se deben ejecutar las siguientes líneas:
+
+    # mkdir -p udacity-git-course
+
+    # mkdir -p udacity-git-course/new-git-project && cd $_`
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjgwNTA5MDZdfQ==
+eyJoaXN0b3J5IjpbMTYxMzQxNTkyNV19
 -->
