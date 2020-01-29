@@ -31,8 +31,35 @@ Al ejecutar el comando git init se generan todos los directorios y archivos nece
 
 ![img_git_repo](images/img_git_repo.png)
 
+Aquí hay una breve sinopsis de cada uno de los archivos/directorios en el directorio **.git**:
+  
+configuración: donde se almacenan todos los ajustes de configuración específicos del proyecto.  
+Del libro de Git:  
+  
+Git busca valores de configuración en el archivo de configuración en el directorio Git (.git / config) del repositorio que esté utilizando actualmente. Estos valores son específicos de ese único repositorio.  
+  
+Por ejemplo, supongamos que establece que la configuración global de Git utiliza su dirección de correo electrónico personal. Si desea que su correo electrónico de trabajo se use para un proyecto específico en lugar de su correo electrónico personal, ese cambio se agregará a este archivo.  
+  
+archivo de descripción: este archivo solo lo usa el programa GitWeb, por lo que podemos ignorarlo  
+  
+directorio de ganchos: aquí es donde podríamos colocar scripts del lado del cliente o del servidor que podemos usar para conectar los diferentes eventos del ciclo de vida de Git  
+  
+directorio de información: contiene el archivo de exclusión global  
+  
+directorio de objetos: este directorio almacenará todas las confirmaciones que hacemos  
+  
+directorio de referencias: este directorio contiene punteros para confirmar (básicamente las "ramas" y las "etiquetas")
 
+Enviar comentarios
+
+Historial
+
+Guardadas
+
+[](https://translate.google.com/community?source=mfooter)
+
+Comunidad
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NjQ2OTgwMSwxNjQ2ODcxNDM2LDQxNz
-MxNjgxXX0=
+eyJoaXN0b3J5IjpbNjc3MTY0NTk2LDE3ODY0Njk4MDEsMTY0Nj
+g3MTQzNiw0MTczMTY4MV19
 -->
