@@ -12,9 +12,12 @@ Para habilitar un ambiente de Git es necesario realizar los siguientes pasos:
  3. Abrir una Terminal
  4. Para instalar Git ejecutar:
 
-
-
-
+``
+asdasdasdasdasdasdad
+asdasdasd
+asdasd
+asdasdasd
+``
     qeqweqweqwe
 
 
@@ -30,7 +33,7 @@ asdasdasd
     aasdasdasda
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ3MjAyNTExLDkwMzMwMjk5OCwtNzE3Mj
-M2NzEzLC0zMDQxMjYzMTgsMTk2ODA3MTgzNCwtMTkzODcyNTY3
-MSwzNTk2NzM0Niw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTA0MTAxOTY3OCw5MDMzMDI5OTgsLTcxNz
+IzNjcxMywtMzA0MTI2MzE4LDE5NjgwNzE4MzQsLTE5Mzg3MjU2
+NzEsMzU5NjczNDYsNzMwOTk4MTE2XX0=
 -->
