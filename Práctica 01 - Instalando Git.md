@@ -23,34 +23,34 @@ Para habilitar un ambiente de Git es necesario realizar los siguientes pasos:
 
 1. Agregar las siguientes líneas al archivo `.bashrc`
 
-```
-# Enable tab completion
-source ~/.udacity-terminal-config/git-completion.bash
 
-# Change command prompt
-source ~/.udacity-terminal-config/git-prompt.sh
+		# Enable tab completion
+		source ~/.udacity-terminal-config/git-completion.bash
 
-# colors!
-red="\[\033[38;5;203m\]"
-green="\[\033[38;05;38m\]"
-blue="\[\033[0;34m\]"
-reset="\[\033[0m\]"
+		# Change command prompt
+		source ~/.udacity-terminal-config/git-prompt.sh
 
-export GIT_PS1_SHOWDIRTYSTATE=1
+		# colors!
+		red="\[\033[38;5;203m\]"
+		green="\[\033[38;05;38m\]"
+		blue="\[\033[0;34m\]"
+		reset="\[\033[0m\]"
 
-# '\u' adds the name of the current user to the prompt
-# '\$(__git_ps1)' adds git-related stuff
-# '\W' adds the name of the current directory
-export PS1="$red\u$green\$(__git_ps1)$blue \W
-$ $reset"
-```
+		export GIT_PS1_SHOWDIRTYSTATE=1
+
+		# '\u' adds the name of the current user to the prompt
+		# '\$(__git_ps1)' adds git-related stuff
+		# '\W' adds the name of the current directory
+		export PS1="$red\u$green\$(__git_ps1)$blue \W
+		$ $reset"
+
 
 1. Guardar y Cerrar
 
 ## Configuración Inicial de Git
 
 1. Agregar cosas
-```
+
 # sets up Git with your name
 git config --global user.name "<Your-Full-Name>"
 
@@ -69,9 +69,9 @@ git config --list
 ## Configurar Editor por defecto
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg4MjQ3NDE2LC0xMDA3MjgxMDQzLC0zOD
-M5MzA0NSwtMjEwMTEyNjMwNyw3NzM5NDEzMDUsODA0MDYzODU3
-LDE4MzYyMzcwMiw5MDMzMDI5OTgsLTcxNzIzNjcxMywtMzA0MT
-I2MzE4LDE5NjgwNzE4MzQsLTE5Mzg3MjU2NzEsMzU5NjczNDYs
-NzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTIwNzgwMjU4NjIsLTEwMDcyODEwNDMsLT
+M4MzkzMDQ1LC0yMTAxMTI2MzA3LDc3Mzk0MTMwNSw4MDQwNjM4
+NTcsMTgzNjIzNzAyLDkwMzMwMjk5OCwtNzE3MjM2NzEzLC0zMD
+QxMjYzMTgsMTk2ODA3MTgzNCwtMTkzODcyNTY3MSwzNTk2NzM0
+Niw3MzA5OTgxMTZdfQ==
 -->
