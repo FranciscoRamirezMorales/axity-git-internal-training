@@ -38,7 +38,7 @@ Aquí hay una breve sinopsis de cada uno de los archivos/directorios en el direc
   
  - **description**: este archivo solo lo usa el programa GitWeb, por lo que puede ser ignorado
   
- - **hooks**: aquí es donde podríamos colocar scripts del lado del cliente o del servidor que podemos usar para conectar los diferentes eventos del ciclo de vida de Git  
+ - **hooks**: aquí es donde se pueden colocar scripts ya sea del lado del cliente o del servidor y que se pueden usar para conectar los diferentes eventos del ciclo de vida de Git  
   
 directorio de información: contiene el archivo de exclusión global  
   
@@ -56,6 +56,6 @@ Guardadas
 
 Comunidad
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAyMzA0NjY4LDE3ODY0Njk4MDEsMTY0Nj
+eyJoaXN0b3J5IjpbMjA5NDY0MTYxLDE3ODY0Njk4MDEsMTY0Nj
 g3MTQzNiw0MTczMTY4MV19
 -->
