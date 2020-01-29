@@ -21,8 +21,12 @@ Otra forma de hacerlo es ejecutando la siguiente línea:
     # cd ~
     # mkdir -p axity-git-course/new-git-project && cd $_
 
-## 
+## Inicializando un Repositorio
+
+Inicializar un proyecto es una de las actividades más simples, basta con ejecutar la siguiente línea:
+
+    # git ini
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE3MzE2ODFdfQ==
+eyJoaXN0b3J5IjpbLTczNzA5NDk5Miw0MTczMTY4MV19
 -->
