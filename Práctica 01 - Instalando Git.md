@@ -20,7 +20,7 @@ Para habilitar un ambiente de Git es necesario realizar los siguientes pasos:
 > Si se requiere, ingresar el password **Welcome1** y reponder "**Y**" en todas las opciones.
 
 ## Configurar Terminal de Linux
-1. Agregar las siguientes líneas al archivo .bashrc
+1. Agregar las siguientes líneas al archivo `.bashrc`
 
        # Enable tab completion
        source ~/.udacity-terminal-config/git-completion.bash
@@ -48,9 +48,9 @@ Para habilitar un ambiente de Git es necesario realizar los siguientes pasos:
 ## Configurar Editor por defecto
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5Mzc3MzE3MSwtMzgzOTMwNDUsLTIxMD
-ExMjYzMDcsNzczOTQxMzA1LDgwNDA2Mzg1NywxODM2MjM3MDIs
-OTAzMzAyOTk4LC03MTcyMzY3MTMsLTMwNDEyNjMxOCwxOTY4MD
-cxODM0LC0xOTM4NzI1NjcxLDM1OTY3MzQ2LDczMDk5ODExNl19
-
+eyJoaXN0b3J5IjpbLTEwMDcyODEwNDMsLTM4MzkzMDQ1LC0yMT
+AxMTI2MzA3LDc3Mzk0MTMwNSw4MDQwNjM4NTcsMTgzNjIzNzAy
+LDkwMzMwMjk5OCwtNzE3MjM2NzEzLC0zMDQxMjYzMTgsMTk2OD
+A3MTgzNCwtMTkzODcyNTY3MSwzNTk2NzM0Niw3MzA5OTgxMTZd
+fQ==
 -->
