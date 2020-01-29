@@ -44,18 +44,9 @@ Aquí hay una breve sinopsis de cada uno de los archivos/directorios en el direc
   
  - **objects**: almacena todos los **commits** realizados
   
- - **refs**: contiene apuntadores a los **commits**, básicamente a los "**branch**" y "**tags**")
+ - **refs**: contiene apuntadores a los **commits**, básicamente a los "**branch**" y "**tags**"
 
-Enviar comentarios
-
-Historial
-
-Guardadas
-
-[](https://translate.google.com/community?source=mfooter)
-
-Comunidad
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDM5OTAwMDAsMTc4NjQ2OTgwMSwxNj
-Q2ODcxNDM2LDQxNzMxNjgxXX0=
+eyJoaXN0b3J5IjpbLTMyNDg0Nzk5OCwxNzg2NDY5ODAxLDE2ND
+Y4NzE0MzYsNDE3MzE2ODFdfQ==
 -->
