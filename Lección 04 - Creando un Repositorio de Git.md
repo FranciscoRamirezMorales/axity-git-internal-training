@@ -18,10 +18,10 @@ El primer paso es crear un directorio de archivos. Para esto se deben ejecutar l
 Otra forma de hacerlo es ejecutando la siguiente línea:
 
     # cd ~
-    # mkdir -p udacity-git-course/new-git-project && cd $_
+    # mkdir -p axity-git-course/new-git-project && cd $_
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1OTAwMjI0OF19
+eyJoaXN0b3J5IjpbNTU3NTE4ODZdfQ==
 -->
