@@ -47,7 +47,7 @@ Para habilitar un ambiente de Git es necesario realizar los siguientes pasos:
 
 ## Configuración Inicial de Git
 
-
+1. Agregar cosas
 ```
 # sets up Git with your name
 git config --global user.name "<Your-Full-Name>"
@@ -67,9 +67,9 @@ git config --list
 ## Configurar Editor por defecto
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNjc4NjU0NSwtMTAwNzI4MTA0MywtMz
-gzOTMwNDUsLTIxMDExMjYzMDcsNzczOTQxMzA1LDgwNDA2Mzg1
-NywxODM2MjM3MDIsOTAzMzAyOTk4LC03MTcyMzY3MTMsLTMwND
-EyNjMxOCwxOTY4MDcxODM0LC0xOTM4NzI1NjcxLDM1OTY3MzQ2
-LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNjQxNDQyODg2LC0xMDA3MjgxMDQzLC0zOD
+M5MzA0NSwtMjEwMTEyNjMwNyw3NzM5NDEzMDUsODA0MDYzODU3
+LDE4MzYyMzcwMiw5MDMzMDI5OTgsLTcxNzIzNjcxMywtMzA0MT
+I2MzE4LDE5NjgwNzE4MzQsLTE5Mzg3MjU2NzEsMzU5NjczNDYs
+NzMwOTk4MTE2XX0=
 -->
