@@ -5,8 +5,14 @@ Ir
  1. Iniciar la máquina virtual "**VM - Internal Training - Git**"
  2. Iniciar sesión con el **usuario**: **axity** / **password**: **Welcome1**
  3. Abrir una Terminal
- 4. Para instalar Git ejecutar
+ 4. Para instalar Git ejecutar:
 ``# sudo apt-get install git``
+saddwq
+ 5. List item
+wdqwdq
+qwdqdqw
+
+1. List item
 
 ## Configurar Terminal de Linux
 
@@ -16,7 +22,7 @@ Ir
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc5MDU2MDUwLC0zMDQxMjYzMTgsMTk2OD
-A3MTgzNCwtMTkzODcyNTY3MSwzNTk2NzM0Niw3MzA5OTgxMTZd
-fQ==
+eyJoaXN0b3J5IjpbLTE3NjY4MzMyNzcsLTMwNDEyNjMxOCwxOT
+Y4MDcxODM0LC0xOTM4NzI1NjcxLDM1OTY3MzQ2LDczMDk5ODEx
+Nl19
 -->
