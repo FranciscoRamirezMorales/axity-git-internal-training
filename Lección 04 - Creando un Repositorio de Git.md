@@ -33,7 +33,9 @@ Al ejecutar el comando git init se generan todos los directorios y archivos nece
 
 Aquí hay una breve sinopsis de cada uno de los archivos/directorios en el directorio **.git**:
   
-configuración: donde se almacenan todos los ajustes de configuración específicos del proyecto.  
+
+ - **config**: donde se guardan todos los ajustes de configuración específicos del proyecto. 
+ - 
 Del libro de Git:  
   
 Git busca valores de configuración en el archivo de configuración en el directorio Git (.git / config) del repositorio que esté utilizando actualmente. Estos valores son específicos de ese único repositorio.  
@@ -60,6 +62,6 @@ Guardadas
 
 Comunidad
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc3MTY0NTk2LDE3ODY0Njk4MDEsMTY0Nj
-g3MTQzNiw0MTczMTY4MV19
+eyJoaXN0b3J5IjpbMjAwNzgyODM2MywxNzg2NDY5ODAxLDE2ND
+Y4NzE0MzYsNDE3MzE2ODFdfQ==
 -->
