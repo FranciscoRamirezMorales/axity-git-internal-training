@@ -65,9 +65,9 @@ Cuando trabajamos en algún proyecto de desarrollo, por ejemplo, el desarrollo d
  -   agregar el código HTML inicial en `index.html`
  -   ...
 
-Estos pasos se ejecutan cada vez que se inicia un nuevo proyecto. Lo m
+Estos pasos se ejecutan cada vez que se inicia un nuevo proyecto, lo cual sería una tarea tediosa si . Lo más práctico es realizar una copia idéntica.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyOTc0NTAxNiwtMTc1MzA2ODM4MCwxNz
+eyJoaXN0b3J5IjpbMTQ1NTE1ODY2OCwtMTc1MzA2ODM4MCwxNz
 g2NDY5ODAxLDE2NDY4NzE0MzYsNDE3MzE2ODFdfQ==
 -->
