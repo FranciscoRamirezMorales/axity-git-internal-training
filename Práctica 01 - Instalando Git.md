@@ -51,14 +51,15 @@ Ejecutar las siguientes lineas en línea de comandos para realizar la configurac
 
 Configurar Git con tu nombre
 
-        git config --global user.name "<Tu nombre completo>"
+    # git config --global user.name "<Tu nombre completo>"
 
 Configurar Git con tu email
 
-git config --global user.email "<Tu e-mail>"
+    # git config --global user.email "<Tu e-mail>"
 
-# makes sure that Git output is colored
-git config --global color.ui auto
+Configurar la configuración de colores del texto de salida
+
+    git config --global color.ui auto
 
 # displays the original state in a conflict
 git config --global merge.conflictstyle diff3
@@ -69,10 +70,10 @@ git config --list
 ## Configurar Editor por defecto
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NjM1OTczNiwtNTQ4Mjg0Mzg2LC04Nz
-M4Mjg4OTgsLTExOTMxNTIyOSwtMTAwNzI4MTA0MywtMzgzOTMw
-NDUsLTIxMDExMjYzMDcsNzczOTQxMzA1LDgwNDA2Mzg1NywxOD
-M2MjM3MDIsOTAzMzAyOTk4LC03MTcyMzY3MTMsLTMwNDEyNjMx
-OCwxOTY4MDcxODM0LC0xOTM4NzI1NjcxLDM1OTY3MzQ2LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbLTE5NjQxNjk3NDMsLTU0ODI4NDM4NiwtOD
+czODI4ODk4LC0xMTkzMTUyMjksLTEwMDcyODEwNDMsLTM4Mzkz
+MDQ1LC0yMTAxMTI2MzA3LDc3Mzk0MTMwNSw4MDQwNjM4NTcsMT
+gzNjIzNzAyLDkwMzMwMjk5OCwtNzE3MjM2NzEzLC0zMDQxMjYz
+MTgsMTk2ODA3MTgzNCwtMTkzODcyNTY3MSwzNTk2NzM0Niw3Mz
+A5OTgxMTZdfQ==
 -->
