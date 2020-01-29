@@ -69,8 +69,8 @@ Estos pasos se ejecutan cada vez que se inicia un nuevo proyecto, lo cual sería
 
 Para clonar un repositorio usaremos el siguiente comando:
 
-    # git clone <path-to-repository-to-clone>
+    # git clone <ruta del repositorio a clonar> <>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEzMzE4Mzk0LC0xNzUzMDY4MzgwLDE3OD
-Y0Njk4MDEsMTY0Njg3MTQzNiw0MTczMTY4MV19
+eyJoaXN0b3J5IjpbMTA4MDM0NTA3NiwtMTc1MzA2ODM4MCwxNz
+g2NDY5ODAxLDE2NDY4NzE0MzYsNDE3MzE2ODFdfQ==
 -->
