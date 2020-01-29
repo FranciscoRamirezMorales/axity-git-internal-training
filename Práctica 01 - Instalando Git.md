@@ -11,10 +11,9 @@ Para habilitar un ambiente de Git es necesario realizar los siguientes pasos:
  2. Iniciar sesión con el **usuario**: **axity** / **password**: **Welcome1**
  3. Abrir una Terminal
  4. Para instalar Git ejecutar:
-
-``# sudo add-apt-repository ppa:git-core/ppa``
-``# sudo apt update``
-``# sudo apt install git``
+	# sudo add-apt-repository ppa:git-core/ppa
+	# sudo apt update
+	# sudo apt install git
 
 > Si se requiere, ingresar el password **Welcome1** y reponder "**Y**" en todas las opciones.
 
@@ -24,9 +23,8 @@ Para habilitar un ambiente de Git es necesario realizar los siguientes pasos:
 
 ## Configurar Editor por defecto
 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEzMjc1MDc5LDkwMzMwMjk5OCwtNzE3Mj
-M2NzEzLC0zMDQxMjYzMTgsMTk2ODA3MTgzNCwtMTkzODcyNTY3
-MSwzNTk2NzM0Niw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTExMzQ5OTU2MjksOTAzMzAyOTk4LC03MT
+cyMzY3MTMsLTMwNDEyNjMxOCwxOTY4MDcxODM0LC0xOTM4NzI1
+NjcxLDM1OTY3MzQ2LDczMDk5ODExNl19
 -->
