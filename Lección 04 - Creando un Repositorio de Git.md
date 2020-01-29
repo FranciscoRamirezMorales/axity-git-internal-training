@@ -10,12 +10,16 @@ Si recordamos:
 
 El primer paso es crear un directorio de archivos. Para esto se deben ejecutar las siguientes líneas:
 
-    # mkdir -p udacity-git-course
+    # mkdir axity-git-course
+    # cd axity-git-course
+    # mkdir new-git-project
+
+Otra forma de hace es ejecutar la siguiente línea:
 
     # mkdir -p udacity-git-course/new-git-project && cd $_`
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMzQxNTkyNV19
+eyJoaXN0b3J5IjpbMTUxMjQ3OTU4XX0=
 -->
