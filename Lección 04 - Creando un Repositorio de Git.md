@@ -27,6 +27,8 @@ Inicializar un proyecto es una de las actividades más simples, basta con ejecut
 
     # git ini
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNzA5NDk5Miw0MTczMTY4MV19
+eyJoaXN0b3J5IjpbMTY0Njg3MTQzNiw0MTczMTY4MV19
 -->
