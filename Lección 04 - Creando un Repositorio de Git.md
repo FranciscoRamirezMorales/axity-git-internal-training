@@ -8,7 +8,7 @@ Si recordamos:
 
 ## Crear directorio
 
-El primer paso es crear un directorio de archivos. Para esto se deben ejecutar las siguientes líneas:
+El primer paso es crear un directorio de archivos. Para esto se deben ejecutar los siguientes comandos:
 
     # cd ~
     # mkdir axity-git-course
@@ -16,14 +16,14 @@ El primer paso es crear un directorio de archivos. Para esto se deben ejecutar l
     # mkdir new-git-project
     # cd new-git-project
 
-Otra forma de hacerlo es ejecutando la siguiente línea:
+Otra forma de hacerlo es ejecutando el siguiente comando:
 
     # cd ~
     # mkdir -p axity-git-course/new-git-project && cd $_
 
 ## Inicializando un Repositorio
 
-Inicializar un proyecto es una de las actividades más simples, basta con ejecutar la siguiente línea:
+Inicializar un proyecto es una de las actividades más simples, basta con ejecutar el siguiente comando:
 
     # git ini
 
@@ -47,6 +47,6 @@ Aquí hay una breve sinopsis de cada uno de los archivos/directorios en el direc
  - **refs**: contiene apuntadores a los **commits**, básicamente a los "**branch**" y "**tags**"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNDg0Nzk5OCwxNzg2NDY5ODAxLDE2ND
-Y4NzE0MzYsNDE3MzE2ODFdfQ==
+eyJoaXN0b3J5IjpbLTE3NTMwNjgzODAsMTc4NjQ2OTgwMSwxNj
+Q2ODcxNDM2LDQxNzMxNjgxXX0=
 -->
