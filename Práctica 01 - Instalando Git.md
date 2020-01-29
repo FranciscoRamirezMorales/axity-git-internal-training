@@ -51,7 +51,7 @@ Ejecutar las siguientes lineas en línea de comandos para realizar la configurac
 
 ```
 # sets up Git with your name
-git config --global user.name "<Tu nombre completo>"
+git config --global user.name "<***Tu nombre completo***>"
 
 # sets up Git with your email
 git config --global user.email "<Tu e-mail>"
@@ -68,9 +68,9 @@ git config --list
 ## Configurar Editor por defecto
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MzgyODg5OCwtMTE5MzE1MjI5LC0xMD
-A3MjgxMDQzLC0zODM5MzA0NSwtMjEwMTEyNjMwNyw3NzM5NDEz
-MDUsODA0MDYzODU3LDE4MzYyMzcwMiw5MDMzMDI5OTgsLTcxNz
-IzNjcxMywtMzA0MTI2MzE4LDE5NjgwNzE4MzQsLTE5Mzg3MjU2
-NzEsMzU5NjczNDYsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEwNDI0MjI1MiwtODczODI4ODk4LC0xMT
+kzMTUyMjksLTEwMDcyODEwNDMsLTM4MzkzMDQ1LC0yMTAxMTI2
+MzA3LDc3Mzk0MTMwNSw4MDQwNjM4NTcsMTgzNjIzNzAyLDkwMz
+MwMjk5OCwtNzE3MjM2NzEzLC0zMDQxMjYzMTgsMTk2ODA3MTgz
+NCwtMTkzODcyNTY3MSwzNTk2NzM0Niw3MzA5OTgxMTZdfQ==
 -->
