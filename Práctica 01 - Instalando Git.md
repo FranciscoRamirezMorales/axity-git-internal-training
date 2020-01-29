@@ -21,31 +21,29 @@ Para habilitar un ambiente de Git es necesario realizar los siguientes pasos:
 
 ## Configurar Terminal de Linux
 
-1. Agregar las siguientes líneas al archivo `.bashrc`
+Agregar las siguientes líneas al archivo `.bashrc` (Usar vi o algun otro editor)
 
+```
+# Enable tab completion
+source ~/.udacity-terminal-config/git-completion.bash
 
-		# Enable tab completion
-		source ~/.udacity-terminal-config/git-completion.bash
+# Change command prompt
+source ~/.udacity-terminal-config/git-prompt.sh
 
-		# Change command prompt
-		source ~/.udacity-terminal-config/git-prompt.sh
+# colors!
+red="\[\033[38;5;203m\]"
+green="\[\033[38;05;38m\]"
+blue="\[\033[0;34m\]"
+reset="\[\033[0m\]"
 
-		# colors!
-		red="\[\033[38;5;203m\]"
-		green="\[\033[38;05;38m\]"
-		blue="\[\033[0;34m\]"
-		reset="\[\033[0m\]"
+export GIT_PS1_SHOWDIRTYSTATE=1
 
-		export GIT_PS1_SHOWDIRTYSTATE=1
-
-		# '\u' adds the name of the current user to the prompt
-		# '\$(__git_ps1)' adds git-related stuff
-		# '\W' adds the name of the current directory
-		export PS1="$red\u$green\$(__git_ps1)$blue \W
-		$ $reset"
-
-
-1. Guardar y Cerrar
+# '\u' adds the name of the current user to the prompt
+# '\$(__git_ps1)' adds git-related stuff
+# '\W' adds the name of the current directory
+export PS1="$red\u$green\$(__git_ps1)$blue \W
+$ $reset"
+```
 
 ## Configuración Inicial de Git
 
@@ -69,7 +67,7 @@ git config --list
 ## Configurar Editor por defecto
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NDkyNDQ4LC0xMDA3MjgxMDQzLC0zOD
+eyJoaXN0b3J5IjpbNjYyMTIxNTAyLC0xMDA3MjgxMDQzLC0zOD
 M5MzA0NSwtMjEwMTEyNjMwNyw3NzM5NDEzMDUsODA0MDYzODU3
 LDE4MzYyMzcwMiw5MDMzMDI5OTgsLTcxNzIzNjcxMywtMzA0MT
 I2MzE4LDE5NjgwNzE4MzQsLTE5Mzg3MjU2NzEsMzU5NjczNDYs
