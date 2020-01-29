@@ -47,7 +47,7 @@ $ $reset"
 
 ## Configuración Inicial de Git
 
-Ejecutar las siguientes lineas en línea de comandos para realizar la configuración inicial de Git:
+Ejecutar las siguientes lineas para realizar la configuración inicial de Git:
 
 Configurar Git con tu nombre
 
@@ -68,15 +68,15 @@ Configurar la forma en que se despliegan los estatus en conflicto
 
 ## Configurar Editor por defecto
 
-Para configurar el editor por defecto (Aom) de Git con el :
+Para configurar el editor por defecto (Atom) de Git ejecutar la siguiente línea:
 
-    git config --global core.editor "atom --wait"
+    # git config --global core.editor "atom --wait"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAzOTkwODUyLDEwMTI4MDU3NDIsMTkzMz
-U2OTMxMywtNTQ4Mjg0Mzg2LC04NzM4Mjg4OTgsLTExOTMxNTIy
-OSwtMTAwNzI4MTA0MywtMzgzOTMwNDUsLTIxMDExMjYzMDcsNz
-czOTQxMzA1LDgwNDA2Mzg1NywxODM2MjM3MDIsOTAzMzAyOTk4
-LC03MTcyMzY3MTMsLTMwNDEyNjMxOCwxOTY4MDcxODM0LC0xOT
-M4NzI1NjcxLDM1OTY3MzQ2LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTA0MzQzMTI2MSwxMDEyODA1NzQyLDE5Mz
+M1NjkzMTMsLTU0ODI4NDM4NiwtODczODI4ODk4LC0xMTkzMTUy
+MjksLTEwMDcyODEwNDMsLTM4MzkzMDQ1LC0yMTAxMTI2MzA3LD
+c3Mzk0MTMwNSw4MDQwNjM4NTcsMTgzNjIzNzAyLDkwMzMwMjk5
+OCwtNzE3MjM2NzEzLC0zMDQxMjYzMTgsMTk2ODA3MTgzNCwtMT
+kzODcyNTY3MSwzNTk2NzM0Niw3MzA5OTgxMTZdfQ==
 -->
