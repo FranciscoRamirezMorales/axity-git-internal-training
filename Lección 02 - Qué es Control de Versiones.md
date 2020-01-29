@@ -48,7 +48,7 @@ Git esta diseñado para administrar datos/archivos como un conjunto de fotos de 
 
 ### Repository / Repositorio
 
-Un *repositorio - es un directorio que contiene un proyecto, así como algunos archivos internos para la gestión y administración del propio proyecto de Git.
+Un **repositorio** - es un directorio que contiene un proyecto, así como algunos archivos internos para la gestión y administración del propio proyecto de Git.
 
 Los repositorios pueden existir localmente en tu computadora o como una copia remota en otra computadora. 
 
@@ -90,5 +90,5 @@ Echemos un vistazo a alto nivel para entender como usar Git al observar el flujo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODUyODI1MjddfQ==
+eyJoaXN0b3J5IjpbLTUxNTk0NDQ2OSwtMTk4NTI4MjUyN119
 -->
