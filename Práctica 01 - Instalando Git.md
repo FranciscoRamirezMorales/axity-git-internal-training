@@ -21,7 +21,7 @@ Para habilitar un ambiente de Git es necesario realizar los siguientes pasos:
 
 ## Configurar Terminal de Linux
 
-Agregar las siguientes líneas al archivo `.bashrc` (Usar vi o algun otro editor)
+Agregar las siguientes líneas al archivo `.bashrc` (Usar vi o algun otro editor):
 
 ```
 # Enable tab completion
@@ -47,7 +47,8 @@ $ $reset"
 
 ## Configuración Inicial de Git
 
-1. Agregar cosas
+Ejecutar las siguientes lineas en línea de comandos para realizar la configuración inicial de Git:
+
 ```
 # sets up Git with your name
 git config --global user.name "<Your-Full-Name>"
@@ -67,9 +68,9 @@ git config --list
 ## Configurar Editor por defecto
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYyMTIxNTAyLC0xMDA3MjgxMDQzLC0zOD
-M5MzA0NSwtMjEwMTEyNjMwNyw3NzM5NDEzMDUsODA0MDYzODU3
-LDE4MzYyMzcwMiw5MDMzMDI5OTgsLTcxNzIzNjcxMywtMzA0MT
-I2MzE4LDE5NjgwNzE4MzQsLTE5Mzg3MjU2NzEsMzU5NjczNDYs
-NzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTExOTMxNTIyOSwtMTAwNzI4MTA0MywtMz
+gzOTMwNDUsLTIxMDExMjYzMDcsNzczOTQxMzA1LDgwNDA2Mzg1
+NywxODM2MjM3MDIsOTAzMzAyOTk4LC03MTcyMzY3MTMsLTMwND
+EyNjMxOCwxOTY4MDcxODM0LC0xOTM4NzI1NjcxLDM1OTY3MzQ2
+LDczMDk5ODExNl19
 -->
