@@ -1,12 +1,12 @@
 # Control de versiones con Git
 
  - ¿Qué es Control de Versiones?
- - Crear un repositorio de Git
+ - Crea un repositorio de Git
  - Revisar el historial de un repositorio Agregar Commit’s a un repositorio
  - Tagging, Branching ang Merging
  - Deshacer cambios Trabajar con repositorios remotos (GitHub)
  - Trabajando sobre un repositorio de otro desarrollador Crear y administrar Pull Requests
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMjMxOTgwMl19
+eyJoaXN0b3J5IjpbLTIyNzc2MjIyNl19
 -->
