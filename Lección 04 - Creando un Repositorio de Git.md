@@ -67,8 +67,8 @@ Cuando trabajamos en algún proyecto de desarrollo, por ejemplo, el desarrollo d
 
 Estos pasos se ejecutan cada vez que se inicia un nuevo proyecto, lo cual sería una tarea tediosa si debemos hacerlo desde cero. Lo más práctico es realizar una copia idéntica de un repositorio existente.
 
-
+Para clonar un repositorio usaremos el siguiente comando
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzE1MzA5NzksLTE3NTMwNjgzODAsMT
+eyJoaXN0b3J5IjpbLTEzNzcxNDc1ODAsLTE3NTMwNjgzODAsMT
 c4NjQ2OTgwMSwxNjQ2ODcxNDM2LDQxNzMxNjgxXX0=
 -->
