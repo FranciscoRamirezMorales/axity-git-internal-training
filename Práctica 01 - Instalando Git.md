@@ -24,16 +24,10 @@ Para habilitar un ambiente de Git es necesario realizar los siguientes pasos:
 ## Configuración Inicial de Git
 
 ## Configurar Editor por defecto
-asdasdasd
-
-    # aasdasdasda
-    # asdadad
-    # asdasdasd
-    asdadsa
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDExMjYzMDcsNzczOTQxMzA1LDgwND
-A2Mzg1NywxODM2MjM3MDIsOTAzMzAyOTk4LC03MTcyMzY3MTMs
-LTMwNDEyNjMxOCwxOTY4MDcxODM0LC0xOTM4NzI1NjcxLDM1OT
-Y3MzQ2LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTM4MzkzMDQ1LC0yMTAxMTI2MzA3LDc3Mz
+k0MTMwNSw4MDQwNjM4NTcsMTgzNjIzNzAyLDkwMzMwMjk5OCwt
+NzE3MjM2NzEzLC0zMDQxMjYzMTgsMTk2ODA3MTgzNCwtMTkzOD
+cyNTY3MSwzNTk2NzM0Niw3MzA5OTgxMTZdfQ==
 -->
