@@ -43,7 +43,7 @@ Para habilitar un ambiente de Git es necesario realizar los siguientes pasos:
        export PS1="$red\u$green\$(__git_ps1)$blue \W
        $ $reset"
 
-Guardar y Cerrar
+1. Guardar y Cerrar
 
 ## Configuración Inicial de Git
 
@@ -67,7 +67,7 @@ git config --list
 ## Configurar Editor por defecto
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MjA5ODU1MiwtMTAwNzI4MTA0MywtMz
+eyJoaXN0b3J5IjpbMTIxNjc4NjU0NSwtMTAwNzI4MTA0MywtMz
 gzOTMwNDUsLTIxMDExMjYzMDcsNzczOTQxMzA1LDgwNDA2Mzg1
 NywxODM2MjM3MDIsOTAzMzAyOTk4LC03MTcyMzY3MTMsLTMwND
 EyNjMxOCwxOTY4MDcxODM0LC0xOTM4NzI1NjcxLDM1OTY3MzQ2
