@@ -52,10 +52,20 @@ Aquí hay una breve sinopsis de cada uno de los archivos/directorios en el direc
 
 > acción de obtener una copia idéntica
 
-**¿Para qué serviría crear una copia idéntica de?**
+**¿Para qué serviría crear una copia idéntica?**
 
+Cuando trabajamos en algún proyecto 
+
+-   create an `index.html` file
+-   create a `js` directory
+-   create a `css` directory
+-   create an `img` directory
+-   create `app.css` in the css directory
+-   create `app.js` in the js directory
+-   add starter HTML code in `index.html`
+-   add configuration files for linting (validating code syntax)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMDkyODg2MiwtMTc1MzA2ODM4MCwxNz
-g2NDY5ODAxLDE2NDY4NzE0MzYsNDE3MzE2ODFdfQ==
+eyJoaXN0b3J5IjpbLTE4OTY1OTcxODQsLTE3NTMwNjgzODAsMT
+c4NjQ2OTgwMSwxNjQ2ODcxNDM2LDQxNzMxNjgxXX0=
 -->
