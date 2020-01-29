@@ -22,19 +22,19 @@ Para habilitar un ambiente de Git es necesario realizar los siguientes pasos:
 ## Configurar Terminal de Linux
 
 
-# Enable tab completion
-source ~/.udacity-terminal-config/git-completion.bash
-
-# Change command prompt
-source ~/.udacity-terminal-config/git-prompt.sh
-
-# colors!
-red="\[\033[38;5;203m\]"
-green="\[\033[38;05;38m\]"
-blue="\[\033[0;34m\]"
-reset="\[\033[0m\]"
-
-export GIT_PS1_SHOWDIRTYSTATE=1
+    # Enable tab completion
+    source ~/.udacity-terminal-config/git-completion.bash
+    
+    # Change command prompt
+    source ~/.udacity-terminal-config/git-prompt.sh
+    
+    # colors!
+    red="\[\033[38;5;203m\]"
+    green="\[\033[38;05;38m\]"
+    blue="\[\033[0;34m\]"
+    reset="\[\033[0m\]"
+    
+    export GIT_PS1_SHOWDIRTYSTATE=1
 
     # '\u' adds the name of the current user to the prompt
     # '\$(__git_ps1)' adds git-related stuff
@@ -48,7 +48,7 @@ export GIT_PS1_SHOWDIRTYSTATE=1
 ## Configurar Editor por defecto
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MjA5NDUxNywtMzgzOTMwNDUsLTIxMD
+eyJoaXN0b3J5IjpbLTg4MzMzOTcwMSwtMzgzOTMwNDUsLTIxMD
 ExMjYzMDcsNzczOTQxMzA1LDgwNDA2Mzg1NywxODM2MjM3MDIs
 OTAzMzAyOTk4LC03MTcyMzY3MTMsLTMwNDEyNjMxOCwxOTY4MD
 cxODM0LC0xOTM4NzI1NjcxLDM1OTY3MzQ2LDczMDk5ODExNl19
