@@ -56,16 +56,16 @@ Aquí hay una breve sinopsis de cada uno de los archivos/directorios en el direc
 
 Cuando trabajamos en algún proyecto de desarrollo, por ejemplo, el desarrollo de una página web, siempre se ejecutan los siguientes pasos:
 
- -   crear un archivo `index.html` file
- -   crear un `js` directory
- -   crear un `css` directory
- -   crear un `img` directory
- -   crear `app.css` en el  directorio css directory
- -   crear `app.js` in the js directory
- -   agrgar el código HTML en `index.html`
+ -   crear un archivo `index.html`
+ -   crear un directorio `js`
+ -   crear un directorio `css`
+ -   crear un directorio `img`
+ -   crear `app.css` en el  directorio *css*
+ -   crear `app.js`en el  directorio *js*
+ -   agregar el código HTML inicial en `index.html`
  -   add configuration files for linting (validating code syntax)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MTU4NTMyNSwtMTc1MzA2ODM4MCwxNz
-g2NDY5ODAxLDE2NDY4NzE0MzYsNDE3MzE2ODFdfQ==
+eyJoaXN0b3J5IjpbNDcxNjI3NTkyLC0xNzUzMDY4MzgwLDE3OD
+Y0Njk4MDEsMTY0Njg3MTQzNiw0MTczMTY4MV19
 -->
