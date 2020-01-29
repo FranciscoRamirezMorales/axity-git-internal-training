@@ -20,6 +20,7 @@ Para habilitar un ambiente de Git es necesario realizar los siguientes pasos:
 > Si se requiere, ingresar el password **Welcome1** y reponder "**Y**" en todas las opciones.
 
 ## Configurar Terminal de Linux
+
 1. Agregar las siguientes líneas al archivo `.bashrc`
 
        # Enable tab completion
@@ -42,15 +43,33 @@ Para habilitar un ambiente de Git es necesario realizar los siguientes pasos:
        export PS1="$red\u$green\$(__git_ps1)$blue \W
        $ $reset"
 
+Guardar y Cerrar
 
 ## Configuración Inicial de Git
+
+
+```
+# sets up Git with your name
+git config --global user.name "<Your-Full-Name>"
+
+# sets up Git with your email
+git config --global user.email "<your-email-address>"
+
+# makes sure that Git output is colored
+git config --global color.ui auto
+
+# displays the original state in a conflict
+git config --global merge.conflictstyle diff3
+
+git config --list
+```
 
 ## Configurar Editor por defecto
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDcyODEwNDMsLTM4MzkzMDQ1LC0yMT
-AxMTI2MzA3LDc3Mzk0MTMwNSw4MDQwNjM4NTcsMTgzNjIzNzAy
-LDkwMzMwMjk5OCwtNzE3MjM2NzEzLC0zMDQxMjYzMTgsMTk2OD
-A3MTgzNCwtMTkzODcyNTY3MSwzNTk2NzM0Niw3MzA5OTgxMTZd
-fQ==
+eyJoaXN0b3J5IjpbMTQ3MjA5ODU1MiwtMTAwNzI4MTA0MywtMz
+gzOTMwNDUsLTIxMDExMjYzMDcsNzczOTQxMzA1LDgwNDA2Mzg1
+NywxODM2MjM3MDIsOTAzMzAyOTk4LC03MTcyMzY3MTMsLTMwND
+EyNjMxOCwxOTY4MDcxODM0LC0xOTM4NzI1NjcxLDM1OTY3MzQ2
+LDczMDk5ODExNl19
 -->
