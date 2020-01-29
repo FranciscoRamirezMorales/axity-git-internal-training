@@ -53,7 +53,7 @@ Configurar Git con tu nombre
 
     # git config --global user.name "<Tu nombre completo>"
 
-Configurar Git con tu email
+Configurar Git con tu e-mail
 
     # git config --global user.email "<Tu e-mail>"
 
@@ -73,10 +73,11 @@ Para configurar el editor por defecto (Atom) de Git ejecutar la siguiente línea
     # git config --global core.editor "atom --wait"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MzQzMTI2MSwxMDEyODA1NzQyLDE5Mz
-M1NjkzMTMsLTU0ODI4NDM4NiwtODczODI4ODk4LC0xMTkzMTUy
-MjksLTEwMDcyODEwNDMsLTM4MzkzMDQ1LC0yMTAxMTI2MzA3LD
-c3Mzk0MTMwNSw4MDQwNjM4NTcsMTgzNjIzNzAyLDkwMzMwMjk5
-OCwtNzE3MjM2NzEzLC0zMDQxMjYzMTgsMTk2ODA3MTgzNCwtMT
-kzODcyNTY3MSwzNTk2NzM0Niw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTc3ODk1NTA1MCwxMDQzNDMxMjYxLDEwMT
+I4MDU3NDIsMTkzMzU2OTMxMywtNTQ4Mjg0Mzg2LC04NzM4Mjg4
+OTgsLTExOTMxNTIyOSwtMTAwNzI4MTA0MywtMzgzOTMwNDUsLT
+IxMDExMjYzMDcsNzczOTQxMzA1LDgwNDA2Mzg1NywxODM2MjM3
+MDIsOTAzMzAyOTk4LC03MTcyMzY3MTMsLTMwNDEyNjMxOCwxOT
+Y4MDcxODM0LC0xOTM4NzI1NjcxLDM1OTY3MzQ2LDczMDk5ODEx
+Nl19
 -->
