@@ -12,7 +12,7 @@ Para habilitar un ambiente de Git es necesario realizar los siguientes pasos:
  3. Abrir una Terminal
  4. Para instalar Git ejecutar:
 
-        # sudo add-apt-repository ppa:git-core/ppa
+        sudo add-apt-repository ppa:git-core/ppa
         # sudo apt update
         # sudo apt install git
     
@@ -51,29 +51,29 @@ Ejecutar las siguientes lineas en línea de comandos para realizar la configurac
 
 Configurar Git con tu nombre
 
-    $ git config --global user.name "<Tu nombre completo>"
+    git config --global user.name "<Tu nombre completo>"
 
 Configurar Git con tu email
 
-    $ git config --global user.email "<Tu e-mail>"
+    git config --global user.email "<Tu e-mail>"
 
 Configurar la configuración de colores del texto de salida
 
-    $ git config --global color.ui auto
+    git config --global color.ui auto
 
 Configurar la forma en que se despliegan los estatus en conflicto
 
-    $ git config --global merge.conflictstyle diff3
-    $ git config --list
+    git config --global merge.conflictstyle diff3
+    git config --list
 
 
 ## Configurar Editor por defecto
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMzU2OTMxMywtNTQ4Mjg0Mzg2LC04Nz
-M4Mjg4OTgsLTExOTMxNTIyOSwtMTAwNzI4MTA0MywtMzgzOTMw
-NDUsLTIxMDExMjYzMDcsNzczOTQxMzA1LDgwNDA2Mzg1NywxOD
-M2MjM3MDIsOTAzMzAyOTk4LC03MTcyMzY3MTMsLTMwNDEyNjMx
-OCwxOTY4MDcxODM0LC0xOTM4NzI1NjcxLDM1OTY3MzQ2LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbLTE3MzUyOTYyNTYsMTkzMzU2OTMxMywtNT
+Q4Mjg0Mzg2LC04NzM4Mjg4OTgsLTExOTMxNTIyOSwtMTAwNzI4
+MTA0MywtMzgzOTMwNDUsLTIxMDExMjYzMDcsNzczOTQxMzA1LD
+gwNDA2Mzg1NywxODM2MjM3MDIsOTAzMzAyOTk4LC03MTcyMzY3
+MTMsLTMwNDEyNjMxOCwxOTY4MDcxODM0LC0xOTM4NzI1NjcxLD
+M1OTY3MzQ2LDczMDk5ODExNl19
 -->
