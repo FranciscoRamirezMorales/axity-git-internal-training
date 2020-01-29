@@ -4,10 +4,8 @@ Ir
 ## Instalar Git
  1. Iniciar la máquina virtual "**VM - Internal Training - Git**"
  2. Iniciar sesión con el **usuario**: **axity** / **password**: **Welcome1**
- 3. Abrir el navegador Mozilla Firefox
- 4. Ir a [https://git-scm.com/downloads](https://git-scm.com/downloads)
- 5. Descargar el software para **Linux**/Mac/Windows
- 6. Instalar Git eligiendo las opciones por defecto
+ 3. Instalar Git
+``# apt-get install git``
 
 ## Configurar Terminal de Linux
 
@@ -17,6 +15,6 @@ Ir
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2ODA3MTgzNCwtMTkzODcyNTY3MSwzNT
-k2NzM0Niw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTMwNDEyNjMxOCwxOTY4MDcxODM0LC0xOT
+M4NzI1NjcxLDM1OTY3MzQ2LDczMDk5ODExNl19
 -->
