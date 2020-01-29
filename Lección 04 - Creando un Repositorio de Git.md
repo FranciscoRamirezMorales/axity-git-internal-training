@@ -38,13 +38,13 @@ Aquí hay una breve sinopsis de cada uno de los archivos/directorios en el direc
   
  - **description**: este archivo solo lo usa el programa GitWeb, por lo que puede ser ignorado
   
- - **hooks**: aquí es donde se pueden colocar scripts ya sea del lado del cliente o del servidor y que se pueden usar para conectar los diferentes eventos del ciclo de vida de Git  
+ - **hooks**: aquí es donde se pueden colocar scripts ya sea del lado del cliente o del servidor y que se pueden usar para conectar los diferentes eventos del ciclo de vida de Git
   
- - **info**: contiene el archivo de exclusión global  
+ - **info**: contiene el archivo de exclusión global
   
-directorio de objetos: este directorio almacenará todas las confirmaciones que hacemos  
+ - **objects**: almacena todos los commits realizados
   
-directorio de referencias: este directorio contiene punteros para confirmar (básicamente las "ramas" y las "etiquetas")
+ - **refs**: este directorio contiene punteros para confirmar (básicamente las "ramas" y las "etiquetas")
 
 Enviar comentarios
 
@@ -56,6 +56,6 @@ Guardadas
 
 Comunidad
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0ODEyNTg5NiwxNzg2NDY5ODAxLDE2ND
+eyJoaXN0b3J5IjpbLTcyNDkwMTc5NiwxNzg2NDY5ODAxLDE2ND
 Y4NzE0MzYsNDE3MzE2ODFdfQ==
 -->
