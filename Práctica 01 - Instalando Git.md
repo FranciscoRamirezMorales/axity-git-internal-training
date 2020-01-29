@@ -49,11 +49,12 @@ $ $reset"
 
 Ejecutar las siguientes lineas en línea de comandos para realizar la configuración inicial de Git:
 
-```
-# sets up Git with your name
-git config --global user.name "<Tu nombre completo>"
+Configurar Git con tu nombre
 
-# sets up Git with your email
+        git config --global user.name "<Tu nombre completo>"
+
+Configurar Git con tu email
+
 git config --global user.email "<Tu e-mail>"
 
 # makes sure that Git output is colored
@@ -63,14 +64,15 @@ git config --global color.ui auto
 git config --global merge.conflictstyle diff3
 
 git config --list
-```
+
 
 ## Configurar Editor por defecto
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0ODI4NDM4NiwtODczODI4ODk4LC0xMT
-kzMTUyMjksLTEwMDcyODEwNDMsLTM4MzkzMDQ1LC0yMTAxMTI2
-MzA3LDc3Mzk0MTMwNSw4MDQwNjM4NTcsMTgzNjIzNzAyLDkwMz
-MwMjk5OCwtNzE3MjM2NzEzLC0zMDQxMjYzMTgsMTk2ODA3MTgz
-NCwtMTkzODcyNTY3MSwzNTk2NzM0Niw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTg3NjM1OTczNiwtNTQ4Mjg0Mzg2LC04Nz
+M4Mjg4OTgsLTExOTMxNTIyOSwtMTAwNzI4MTA0MywtMzgzOTMw
+NDUsLTIxMDExMjYzMDcsNzczOTQxMzA1LDgwNDA2Mzg1NywxOD
+M2MjM3MDIsOTAzMzAyOTk4LC03MTcyMzY3MTMsLTMwNDEyNjMx
+OCwxOTY4MDcxODM0LC0xOTM4NzI1NjcxLDM1OTY3MzQ2LDczMD
+k5ODExNl19
 -->
