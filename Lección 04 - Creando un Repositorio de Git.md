@@ -46,7 +46,8 @@ Aquí hay una breve sinopsis de cada uno de los archivos/directorios en el direc
   
  - **refs**: contiene apuntadores a los **commits**, básicamente a los "**branch**" y "**tags**"
 
+## Clonando un Repositorio
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTMwNjgzODAsMTc4NjQ2OTgwMSwxNj
-Q2ODcxNDM2LDQxNzMxNjgxXX0=
+eyJoaXN0b3J5IjpbNDEyMjYxNTA4LC0xNzUzMDY4MzgwLDE3OD
+Y0Njk4MDEsMTY0Njg3MTQzNiw0MTczMTY4MV19
 -->
