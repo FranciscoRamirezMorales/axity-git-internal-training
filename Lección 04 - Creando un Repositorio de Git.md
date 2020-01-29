@@ -48,14 +48,14 @@ Aquí hay una breve sinopsis de cada uno de los archivos/directorios en el direc
 
 ## Clonando un Repositorio
 
-¿A que nos referimos con clonar?
+**¿A que nos referimos con clonar?**
 
 > acción de obtener una copia idéntica
 
-¿Para qué serviría crear una copia idéntica de?
+**¿Para qué serviría crear una copia idéntica de?**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNzg2Njk3NCwtMTc1MzA2ODM4MCwxNz
+eyJoaXN0b3J5IjpbLTQyMDkyODg2MiwtMTc1MzA2ODM4MCwxNz
 g2NDY5ODAxLDE2NDY4NzE0MzYsNDE3MzE2ODFdfQ==
 -->
