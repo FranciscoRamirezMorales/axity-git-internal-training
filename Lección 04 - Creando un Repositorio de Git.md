@@ -60,12 +60,14 @@ Cuando trabajamos en algún proyecto de desarrollo, por ejemplo, el desarrollo d
  -   crear un directorio `js`
  -   crear un directorio `css`
  -   crear un directorio `img`
- -   crear `app.css` en el  directorio *css*
- -   crear `app.js`en el  directorio *js*
+ -   crear un archivo `app.css` en el  directorio *css*
+ -   crear un archivo `app.js` en el  directorio *js*
  -   agregar el código HTML inicial en `index.html`
- -   add configuration files for linting (validating code syntax)
+ -   ...
+
+Estos pasos se ejecutan cada vez que se inicia un nuevo proyecto. Lo m
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcxNjI3NTkyLC0xNzUzMDY4MzgwLDE3OD
-Y0Njk4MDEsMTY0Njg3MTQzNiw0MTczMTY4MV19
+eyJoaXN0b3J5IjpbMTAyOTc0NTAxNiwtMTc1MzA2ODM4MCwxNz
+g2NDY5ODAxLDE2NDY4NzE0MzYsNDE3MzE2ODFdfQ==
 -->
