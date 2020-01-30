@@ -83,9 +83,16 @@ El comando `git status` muestra información sobre el estado de los archivos, di
     # cd ~/axity-git-course/my-travel-plans
     # git status
 
+La salida debería verse así:
+
+    On branch master
+    Your branch is up to date with 'origin/master'.
+
+    nothing to commit, working tree clean
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM4NzUzMDUsLTEyMTMxMTE1NjYsLTExNz
-g5NjgyMjQsMjAwNjc1NDU5MCwtMTc1MzA2ODM4MCwxNzg2NDY5
-ODAxLDE2NDY4NzE0MzYsNDE3MzE2ODFdfQ==
+eyJoaXN0b3J5IjpbLTE1MTMxOTAzMDAsLTEyMTMxMTE1NjYsLT
+ExNzg5NjgyMjQsMjAwNjc1NDU5MCwtMTc1MzA2ODM4MCwxNzg2
+NDY5ODAxLDE2NDY4NzE0MzYsNDE3MzE2ODFdfQ==
 -->
