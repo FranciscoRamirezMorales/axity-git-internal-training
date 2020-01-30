@@ -106,14 +106,12 @@ Para el repositorio `new-git-project` la salida debería verse así:
     nothing to commit (create/copy files and use "git add" to track)
 
 
-**
-
  - **On branch master**: indica la rama en la estamos situados actualmente. En este ejemplo, nos encontramos  en la rama **master**.
- - **Your branch is up to date with 'origin/master'.** - Dado que previamente usamos **git clone** para hacer una copia de este repositorio, esto nos indica si nuestro proyecto está sincronizado con el que copiamos. No trataremos el proyecto en la otra computadora, por lo que esta línea puede ignorarse.  
-no hay nada que comprometerse, directorio de trabajo limpio: esto significa que no hay cambios pendientes.
+ - **Your branch is up to date with 'origin/master'.** - Dado que previamente usamos **git clone** para hacer una copia de este repositorio, esto nos indica si nuestro proyecto está sincronizado con el repositorio que copiamos y que no existen cambios pendientes a sincronizar.
+ - no hay nada que comprometerse, directorio de trabajo limpio: esto significa que no hay cambios pendientes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDI5NjA2NTYsLTEwOTAzNjkzNDIsLT
-E1MTMxOTAzMDAsLTEyMTMxMTE1NjYsLTExNzg5NjgyMjQsMjAw
-Njc1NDU5MCwtMTc1MzA2ODM4MCwxNzg2NDY5ODAxLDE2NDY4Nz
-E0MzYsNDE3MzE2ODFdfQ==
+eyJoaXN0b3J5IjpbOTgyNTk5MjU3LC0xMDkwMzY5MzQyLC0xNT
+EzMTkwMzAwLC0xMjEzMTExNTY2LC0xMTc4OTY4MjI0LDIwMDY3
+NTQ1OTAsLTE3NTMwNjgzODAsMTc4NjQ2OTgwMSwxNjQ2ODcxND
+M2LDQxNzMxNjgxXX0=
 -->
