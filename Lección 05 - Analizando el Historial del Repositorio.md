@@ -81,13 +81,12 @@ Ejecutar el siguiente comando para ver su comportamiento:
 ![img_git_log_stat](images/img_git_log_stat.png)
 
 
-
 ## Revisar los cambios en los archivos
 
 
 ## Revisar un commit específico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ5MDkzNzUwLC0xMjg0MDQ5ODEwLDEwMD
-cxOTA3NTksLTEyNjIyODU5MywtNjQ0MDY3MjM5LDgxMDg3MTI4
-OCwxNDMzNzQwOTAzLC00NDgyNDQ1OTVdfQ==
+eyJoaXN0b3J5IjpbMzY5NzQ3NTU2LDI0OTA5Mzc1MCwtMTI4ND
+A0OTgxMCwxMDA3MTkwNzU5LC0xMjYyMjg1OTMsLTY0NDA2NzIz
+OSw4MTA4NzEyODgsMTQzMzc0MDkwMywtNDQ4MjQ0NTk1XX0=
 -->
