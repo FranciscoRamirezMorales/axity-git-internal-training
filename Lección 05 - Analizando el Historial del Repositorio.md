@@ -60,7 +60,7 @@ Ejecutar el siguiente comando para ver su comportamiento:
 
     # git log --oneline
 
-
+![img_git_log_oneline](images/img_git_log_oneline.png)
 
 ## Revisar los archivos modificados
 
@@ -70,6 +70,7 @@ Ejecutar el siguiente comando para ver su comportamiento:
 
 ## Revisar un commit específico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjIyODU5MywtNjQ0MDY3MjM5LDgxMD
-g3MTI4OCwxNDMzNzQwOTAzLC00NDgyNDQ1OTVdfQ==
+eyJoaXN0b3J5IjpbMTAwNzE5MDc1OSwtMTI2MjI4NTkzLC02ND
+QwNjcyMzksODEwODcxMjg4LDE0MzM3NDA5MDMsLTQ0ODI0NDU5
+NV19
 -->
