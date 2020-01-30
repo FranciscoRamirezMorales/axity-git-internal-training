@@ -70,14 +70,14 @@ En resumen, `git log --oneline`:
 
 ## Revisar los archivos modificados
 
-El comando `git log` tiene otra opción para mostra los archivos que han sido modificad
+El comando `git log` tiene otra opción, --stat (statistics) para mostrar los archivos que han sido modificados dentro del commit. También muestra información sobre el número de líneas agregadas o eliminadas
 
 ## Revisar los cambios en los archivos
 
 
 ## Revisar un commit específico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NjU5MzMxOCwxMDA3MTkwNzU5LC0xMj
-YyMjg1OTMsLTY0NDA2NzIzOSw4MTA4NzEyODgsMTQzMzc0MDkw
-MywtNDQ4MjQ0NTk1XX0=
+eyJoaXN0b3J5IjpbMjcyNjMwNzMsMTAwNzE5MDc1OSwtMTI2Mj
+I4NTkzLC02NDQwNjcyMzksODEwODcxMjg4LDE0MzM3NDA5MDMs
+LTQ0ODI0NDU5NV19
 -->
