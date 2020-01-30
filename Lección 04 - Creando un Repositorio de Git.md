@@ -97,10 +97,18 @@ Ahora, ejecutar los siguientes comandos:
     cd ../new-git-project/
     # git status
 
-Para el repositorio `new-git-project` salida debería verse así:
+Para el repositorio `new-git-project` la salida debería verse así:
+
+    On branch master
+
+    No commits yet
+
+    nothing to commit (create/copy files and use "git add" to track)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAxMDU2MzksLTE1MTMxOTAzMDAsLTEyMT
-MxMTE1NjYsLTExNzg5NjgyMjQsMjAwNjc1NDU5MCwtMTc1MzA2
-ODM4MCwxNzg2NDY5ODAxLDE2NDY4NzE0MzYsNDE3MzE2ODFdfQ
-==
+eyJoaXN0b3J5IjpbLTEwOTAzNjkzNDIsLTE1MTMxOTAzMDAsLT
+EyMTMxMTE1NjYsLTExNzg5NjgyMjQsMjAwNjc1NDU5MCwtMTc1
+MzA2ODM4MCwxNzg2NDY5ODAxLDE2NDY4NzE0MzYsNDE3MzE2OD
+FdfQ==
 -->
