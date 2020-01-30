@@ -28,9 +28,18 @@ Para conocer todos los cambios realizados sobre el repositorio, ejecutar el sigu
     # cd ~/axity-git-course/training-kit
     # git log
 
-Como resultado se debería mostrar lo siguiente:
+Como resultado podemos ver todo el historial de cambios realizado a los archivos:
 
 ![img_git_log](images/img_git_log.png)
+
+-   to scroll **down**, press
+    -   `j` or `↓` to move _down_ one line at a time
+    -   `d` to move by half the page screen
+    -   `f` to move by a whole page screen
+-   to scroll **up**, press
+    -   `k` or `↑` to move _up_ one line at a time
+    -   `u` to move by half the page screen
+    -   `b` to move by a whole page screen
 
 ## Cambiar la forma en que Git Log muestra la información
 
@@ -43,6 +52,6 @@ Como resultado se debería mostrar lo siguiente:
 
 ## Revisar un commit específico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEwODcxMjg4LDE0MzM3NDA5MDMsLTQ0OD
-I0NDU5NV19
+eyJoaXN0b3J5IjpbMTQ2MzYxNzY5NCw4MTA4NzEyODgsMTQzMz
+c0MDkwMywtNDQ4MjQ0NTk1XX0=
 -->
