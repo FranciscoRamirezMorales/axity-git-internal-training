@@ -76,8 +76,7 @@ Ejecutar el siguiente comando para ver su comportamiento:
 
     # git log --stat
 
-![img_git_log_oneline](images/img_git_log_oneline.png)
-
+![img_git_log_stat](images/img_git_log_stat.png)
 
 
 
@@ -86,7 +85,7 @@ Ejecutar el siguiente comando para ver su comportamiento:
 
 ## Revisar un commit específico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODQwNDk4MTAsMTAwNzE5MDc1OSwtMT
-I2MjI4NTkzLC02NDQwNjcyMzksODEwODcxMjg4LDE0MzM3NDA5
-MDMsLTQ0ODI0NDU5NV19
+eyJoaXN0b3J5IjpbMTEzODYzMzg0MCwtMTI4NDA0OTgxMCwxMD
+A3MTkwNzU5LC0xMjYyMjg1OTMsLTY0NDA2NzIzOSw4MTA4NzEy
+ODgsMTQzMzc0MDkwMywtNDQ4MjQ0NTk1XX0=
 -->
