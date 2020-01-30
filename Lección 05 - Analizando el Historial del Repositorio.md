@@ -32,11 +32,13 @@ Como resultado podemos ver todo el historial de cambios realizado a los archivos
 
 ![img_git_log](images/img_git_log.png)
 
--   to scroll **down**, press
-    -   `j` or `↓` to move _down_ one line at a time
+Para navegar a través de log podemos usar las siguiente teclas:
+
+-   scroll **down**
+    -   `j` o `↓` to move _down_ one line at a time
     -   `d` to move by half the page screen
     -   `f` to move by a whole page screen
--   to scroll **up**, press
+-   scroll **up**
     -   `k` or `↑` to move _up_ one line at a time
     -   `u` to move by half the page screen
     -   `b` to move by a whole page screen
@@ -52,6 +54,6 @@ Como resultado podemos ver todo el historial de cambios realizado a los archivos
 
 ## Revisar un commit específico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MzYxNzY5NCw4MTA4NzEyODgsMTQzMz
-c0MDkwMywtNDQ4MjQ0NTk1XX0=
+eyJoaXN0b3J5IjpbOTEwOTk5MTc2LDgxMDg3MTI4OCwxNDMzNz
+QwOTAzLC00NDgyNDQ1OTVdfQ==
 -->
