@@ -6,9 +6,12 @@ Si recordamos:
 
 > Un **repositorio** - es un directorio que contiene un proyecto, así como algunos archivos internos para la gestión y administración del propio proyecto de Git.
 
-Crear un directorio
-Inicializar el Repositorio
+Para generar un repositorio de Git es necesario realizar las siguientes tareas:
 
+ - Crear un directorio
+- Inicializar el Repositorio
+ó
+ - Clonando un Repositorio
 
 
 ## Crear directorio
@@ -129,7 +132,7 @@ Esto debería generar la salida:
 En este punto este mensaje no debería ser un problema ya que en este repositorio aún no existen **commits** que mostrar. En siguientes lecciones se verá con más detalle el comando `git log`.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk5NTMxOTI0LDIwNjk3OTQ0NTQsLTEwOT
+eyJoaXN0b3J5IjpbNTAyMTY1MTk0LDIwNjk3OTQ0NTQsLTEwOT
 AzNjkzNDIsLTE1MTMxOTAzMDAsLTEyMTMxMTE1NjYsLTExNzg5
 NjgyMjQsMjAwNjc1NDU5MCwtMTc1MzA2ODM4MCwxNzg2NDY5OD
 AxLDE2NDY4NzE0MzYsNDE3MzE2ODFdfQ==
