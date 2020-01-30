@@ -11,6 +11,20 @@ En esta lección revisaremos los siguientes temas:
 ## Mostrar los commits del repositorio
 
 
+Para ver el comportamiento de este comando, ejecutar lo siguiente:
+
+>    ``# cd ~/axity-git-course/my-travel-plans
+    # git status
+
+La salida debería verse así:
+
+    On branch master
+    Your branch is up to date with 'origin/master'.
+
+    nothing to commit, working tree clean
+
+
+
 ## Cambiar la forma en que Git Log muestra la información
 
 
@@ -22,5 +36,5 @@ En esta lección revisaremos los siguientes temas:
 
 ## Revisar un commit específico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNzM4NzYzOV19
+eyJoaXN0b3J5IjpbMjA5ODI1OTkyMl19
 -->
