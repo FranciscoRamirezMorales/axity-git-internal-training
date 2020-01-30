@@ -90,7 +90,7 @@ El comando `git status` permite mostrar información sobre el estado de los arch
 
 Para ver el comportamiento de este comando, ejecutar lo siguiente:
 
-    # cd ~/axity-git-course/my-travel-plans
+    # cd ~/axity-git-course/training-kit
     # git status
 
 La salida debería verse así:
@@ -132,9 +132,9 @@ Esto debería generar la salida:
 En este punto este mensaje no debería ser un problema ya que en este repositorio aún no existen **commits** que mostrar. En siguientes lecciones se verá con más detalle el comando `git log`.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjkzMjIzMDQsLTI0MjczMjA3MywyMD
-Y5Nzk0NDU0LC0xMDkwMzY5MzQyLC0xNTEzMTkwMzAwLC0xMjEz
-MTExNTY2LC0xMTc4OTY4MjI0LDIwMDY3NTQ1OTAsLTE3NTMwNj
-gzODAsMTc4NjQ2OTgwMSwxNjQ2ODcxNDM2LDQxNzMxNjgxXX0=
-
+eyJoaXN0b3J5IjpbMTY2NjI0MDIyMSwtMTQyOTMyMjMwNCwtMj
+QyNzMyMDczLDIwNjk3OTQ0NTQsLTEwOTAzNjkzNDIsLTE1MTMx
+OTAzMDAsLTEyMTMxMTE1NjYsLTExNzg5NjgyMjQsMjAwNjc1ND
+U5MCwtMTc1MzA2ODM4MCwxNzg2NDY5ODAxLDE2NDY4NzE0MzYs
+NDE3MzE2ODFdfQ==
 -->
