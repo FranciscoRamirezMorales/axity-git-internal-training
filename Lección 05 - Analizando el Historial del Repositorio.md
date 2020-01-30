@@ -110,8 +110,10 @@ Hemos visto que `git log` nos proporciona información sobre los cambios hechos 
 
 ¿Pero como podemos obtener información de un commit específico?
 
+```
+git log -p fdf5493
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MTc0NjcyOSwyNDEyMTIzODIsLTkzMz
+eyJoaXN0b3J5IjpbLTIyNzkyMzEwNywyNDEyMTIzODIsLTkzMz
 k0NDMxOCwxOTAzNDA1NTk4LC0xMTY1NDkyOTUwLDI0OTA5Mzc1
 MCwtMTI4NDA0OTgxMCwxMDA3MTkwNzU5LC0xMjYyMjg1OTMsLT
 Y0NDA2NzIzOSw4MTA4NzEyODgsMTQzMzc0MDkwMywtNDQ4MjQ0
