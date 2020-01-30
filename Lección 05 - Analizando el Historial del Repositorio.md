@@ -112,18 +112,21 @@ Hemos visto que `git log` nos proporciona información sobre los cambios hechos 
 
     # git log -p 15bc8f5
 
-Otro comando que permite obtener la misma información en con el siguiente comando:
+Otro comando que permite obtener la misma información es con el siguiente comando:
 
     # git show
 
+Este s
 Y para obtener información de un commit específico:
 
     # git show 15bc8f5
 
+Diferencias de git show respecto a 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NjkzMzc5MywzMDc5NDk1MDUsMjQxMj
-EyMzgyLC05MzM5NDQzMTgsMTkwMzQwNTU5OCwtMTE2NTQ5Mjk1
-MCwyNDkwOTM3NTAsLTEyODQwNDk4MTAsMTAwNzE5MDc1OSwtMT
-I2MjI4NTkzLC02NDQwNjcyMzksODEwODcxMjg4LDE0MzM3NDA5
-MDMsLTQ0ODI0NDU5NV19
+eyJoaXN0b3J5IjpbMTE5MTE2MzczOSwxMTU2OTMzNzkzLDMwNz
+k0OTUwNSwyNDEyMTIzODIsLTkzMzk0NDMxOCwxOTAzNDA1NTk4
+LC0xMTY1NDkyOTUwLDI0OTA5Mzc1MCwtMTI4NDA0OTgxMCwxMD
+A3MTkwNzU5LC0xMjYyMjg1OTMsLTY0NDA2NzIzOSw4MTA4NzEy
+ODgsMTQzMzc0MDkwMywtNDQ4MjQ0NTk1XX0=
 -->
