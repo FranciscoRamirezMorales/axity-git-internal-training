@@ -90,7 +90,7 @@ Otra opción del comando `git log` es, `--patch` o su abreviación `-p`, para mo
 
 Ejecutar el siguiente comando para ver su comportamiento:
 
-    # git log --p
+    # git log -p
     
    ó
     
@@ -125,7 +125,7 @@ Para obtener información de un commit específico:
 Diferencias de `git show` respecto a `git log`:
 git show puede ser combinado con las opciones --`--stat`, `--patch` o `-p`, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk0ODA5NzQ1LDExNTY5MzM3OTMsMzA3OT
+eyJoaXN0b3J5IjpbMTEwNTQ3MTIyLDExNTY5MzM3OTMsMzA3OT
 Q5NTA1LDI0MTIxMjM4MiwtOTMzOTQ0MzE4LDE5MDM0MDU1OTgs
 LTExNjU0OTI5NTAsMjQ5MDkzNzUwLC0xMjg0MDQ5ODEwLDEwMD
 cxOTA3NTksLTEyNjIyODU5MywtNjQ0MDY3MjM5LDgxMDg3MTI4
