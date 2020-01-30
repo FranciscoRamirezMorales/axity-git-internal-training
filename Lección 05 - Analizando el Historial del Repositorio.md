@@ -23,7 +23,10 @@ En esta lección revisaremos los siguientes temas:
 
 En este punto no podemos saber que cambios se hicieron sobre los archivo de este repositorio.
 
-Para 
+Para conocer todos los cambios realizados sobre el repositorio, ejecutar el siguiente comando:
+
+    # cd ~/axity-git-course/training-kit
+    # git log
 
 ## Cambiar la forma en que Git Log muestra la información
 
@@ -36,5 +39,5 @@ Para
 
 ## Revisar un commit específico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk4NDk1MTk2LC00NDgyNDQ1OTVdfQ==
+eyJoaXN0b3J5IjpbLTE1Mjk3NjU5NDksLTQ0ODI0NDU5NV19
 -->
