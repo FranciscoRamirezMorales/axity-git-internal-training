@@ -28,6 +28,8 @@ Para conocer todos los cambios realizados sobre el repositorio, ejecutar el sigu
     # cd ~/axity-git-course/training-kit
     # git log
 
+
+
 ## Cambiar la forma en que Git Log muestra la información
 
 
@@ -39,5 +41,5 @@ Para conocer todos los cambios realizados sobre el repositorio, ejecutar el sigu
 
 ## Revisar un commit específico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjk3NjU5NDksLTQ0ODI0NDU5NV19
+eyJoaXN0b3J5IjpbMTQzMzc0MDkwMywtNDQ4MjQ0NTk1XX0=
 -->
