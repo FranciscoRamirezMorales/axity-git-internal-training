@@ -80,6 +80,8 @@ Ejecutar el siguiente comando para clonar un repositorio:
 
 El comando `git status` muestra información sobre el estado de los archivos, directorio de trabajo y el repositorio.
 
+Para ver el comportamiento de este comando ejecutar lo siguiente:
+
     # cd ~/axity-git-course/my-travel-plans
     # git status
 
@@ -90,15 +92,15 @@ La salida debería verse así:
 
     nothing to commit, working tree clean
 
-Ahora ejecute los 
+Ahora, ejecutar los siguientes comandos:
+
     cd ../new-git-project/
     # git status
 
-
-
+Para el repositorio `new-git-project` salida debería verse así:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUyMzY1NDgxLC0xNTEzMTkwMzAwLC0xMj
-EzMTExNTY2LC0xMTc4OTY4MjI0LDIwMDY3NTQ1OTAsLTE3NTMw
-NjgzODAsMTc4NjQ2OTgwMSwxNjQ2ODcxNDM2LDQxNzMxNjgxXX
-0=
+eyJoaXN0b3J5IjpbODAxMDU2MzksLTE1MTMxOTAzMDAsLTEyMT
+MxMTE1NjYsLTExNzg5NjgyMjQsMjAwNjc1NDU5MCwtMTc1MzA2
+ODM4MCwxNzg2NDY5ODAxLDE2NDY4NzE0MzYsNDE3MzE2ODFdfQ
+==
 -->
