@@ -91,7 +91,8 @@ Otra opción del comando `git log` es, `--patch` o su abreviación `-p`, para mo
 Ejecutar el siguiente comando para ver su comportamiento:
 
     # git log --p
-   o
+    
+   ó
     
     # git log -patch
 
@@ -105,8 +106,8 @@ En resumen, `git log --patch` muestra:
 
 ## Revisar un commit específico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc3MzU2OTcyLDE5MDM0MDU1OTgsLTExNj
-U0OTI5NTAsMjQ5MDkzNzUwLC0xMjg0MDQ5ODEwLDEwMDcxOTA3
-NTksLTEyNjIyODU5MywtNjQ0MDY3MjM5LDgxMDg3MTI4OCwxND
-MzNzQwOTAzLC00NDgyNDQ1OTVdfQ==
+eyJoaXN0b3J5IjpbLTkzMzk0NDMxOCwxOTAzNDA1NTk4LC0xMT
+Y1NDkyOTUwLDI0OTA5Mzc1MCwtMTI4NDA0OTgxMCwxMDA3MTkw
+NzU5LC0xMjYyMjg1OTMsLTY0NDA2NzIzOSw4MTA4NzEyODgsMT
+QzMzc0MDkwMywtNDQ4MjQ0NTk1XX0=
 -->
