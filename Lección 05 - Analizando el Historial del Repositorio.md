@@ -95,9 +95,9 @@ Ejecutar el siguiente comando para ver su comportamiento:
     
     # git log -patch
 
-![img_git_log_stat](images/img_git_log_stat.png)
+![img_git_log_patch](images/img_git_log_patch.png)
 
-En resumen, `git log --stat`:
+En resumen, `git log --patch`:
 
  - Los archivos modificados
  - Número de líneas agregadas o eliminadas
@@ -105,8 +105,8 @@ En resumen, `git log --stat`:
 
 ## Revisar un commit específico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjU0OTI5NTAsMjQ5MDkzNzUwLC0xMj
-g0MDQ5ODEwLDEwMDcxOTA3NTksLTEyNjIyODU5MywtNjQ0MDY3
-MjM5LDgxMDg3MTI4OCwxNDMzNzQwOTAzLC00NDgyNDQ1OTVdfQ
-==
+eyJoaXN0b3J5IjpbMTkwMzQwNTU5OCwtMTE2NTQ5Mjk1MCwyND
+kwOTM3NTAsLTEyODQwNDk4MTAsMTAwNzE5MDc1OSwtMTI2MjI4
+NTkzLC02NDQwNjcyMzksODEwODcxMjg4LDE0MzM3NDA5MDMsLT
+Q0ODI0NDU5NV19
 -->
