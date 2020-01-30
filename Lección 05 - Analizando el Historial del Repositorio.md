@@ -10,17 +10,17 @@ En esta lección revisaremos los siguientes temas:
 
 ## Mostrar los commits del repositorio
 
-En la lección anterior ejecutamos:
+> En la lección anterior ejecutamos:
 
 >    ```# cd ~/axity-git-course/my-travel-plans```
 >    ```# git status```
 
-La salida debería verse así:
+> Dónde la salida nos mostró lo siguiente:
 
-    On branch master
-    Your branch is up to date with 'origin/master'.
-
-    nothing to commit, working tree clean
+>    ```    On branch master```
+>    ```    Your branch is up to date with 'origin/master'.```
+>    ``````
+>    ```    nothing to commit, working tree clean
 
 
 
@@ -35,5 +35,5 @@ La salida debería verse así:
 
 ## Revisar un commit específico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMzMzI2ODcwXX0=
+eyJoaXN0b3J5IjpbMTQ1Mjk0NTk3Ml19
 -->
