@@ -2,8 +2,9 @@
 
 En esta lección revisaremos los siguientes temas:
 
-Revisando cambios
+Mostrar los Commits del Repositorio
+Cambiar
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODM3MjI1NzVdfQ==
+eyJoaXN0b3J5IjpbLTEyMjc5OTUwMTddfQ==
 -->
