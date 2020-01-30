@@ -43,6 +43,8 @@ Para navegar a través de log podemos usar las siguiente teclas:
     -   `u` para moverse cada mitad de página
     -   `b` para moverse una página entera
 
+ - `q` para **salir** out of the log (returns to the regular command prompt)
+
 ## Cambiar la forma en que Git Log muestra la información
 
 
@@ -54,6 +56,6 @@ Para navegar a través de log podemos usar las siguiente teclas:
 
 ## Revisar un commit específico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NDA2NzIzOSw4MTA4NzEyODgsMTQzMz
-c0MDkwMywtNDQ4MjQ0NTk1XX0=
+eyJoaXN0b3J5IjpbLTc2ODgwNDExNSwtNjQ0MDY3MjM5LDgxMD
+g3MTI4OCwxNDMzNzQwOTAzLC00NDgyNDQ1OTVdfQ==
 -->
