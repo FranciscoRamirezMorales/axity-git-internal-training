@@ -18,11 +18,10 @@ En esta lección revisaremos los siguientes temas:
 > Dónde la salida nos mostró lo siguiente:
 
 >    ```    On branch master```
->    ```    Your branch is up to date with 'origin/master'.
->    ```
->    ```    nothing to commit, working tree clean
+>    ```    Your branch is up to date with 'origin/master'.```
+>    ```nothing to commit, working tree clean```
 
-
+En este punto no podemos saber que cambios se hicieron sobre los archvivos
 
 ## Cambiar la forma en que Git Log muestra la información
 
@@ -35,5 +34,5 @@ En esta lección revisaremos los siguientes temas:
 
 ## Revisar un commit específico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg3NzY3MzcyXX0=
+eyJoaXN0b3J5IjpbMjY5MjEwMTI5XX0=
 -->
