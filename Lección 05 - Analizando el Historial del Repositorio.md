@@ -116,17 +116,18 @@ Otro comando que permite obtener la misma información es con el siguiente coman
 
     # git show
 
-Este s
-Y para obtener información de un commit específico:
+Este solo muestra información del último commit.
+
+Para obtener información de un commit específico:
 
     # git show 15bc8f5
 
-Diferencias de git show respecto a 
-
+Diferencias de `git show` respecto a `git log`:
+git show puede ser combinado con las opciones --`--stat`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MTE2MzczOSwxMTU2OTMzNzkzLDMwNz
-k0OTUwNSwyNDEyMTIzODIsLTkzMzk0NDMxOCwxOTAzNDA1NTk4
-LC0xMTY1NDkyOTUwLDI0OTA5Mzc1MCwtMTI4NDA0OTgxMCwxMD
-A3MTkwNzU5LC0xMjYyMjg1OTMsLTY0NDA2NzIzOSw4MTA4NzEy
-ODgsMTQzMzc0MDkwMywtNDQ4MjQ0NTk1XX0=
+eyJoaXN0b3J5IjpbNzk3MDQxNDg3LDExNTY5MzM3OTMsMzA3OT
+Q5NTA1LDI0MTIxMjM4MiwtOTMzOTQ0MzE4LDE5MDM0MDU1OTgs
+LTExNjU0OTI5NTAsMjQ5MDkzNzUwLC0xMjg0MDQ5ODEwLDEwMD
+cxOTA3NTksLTEyNjIyODU5MywtNjQ0MDY3MjM5LDgxMDg3MTI4
+OCwxNDMzNzQwOTAzLC00NDgyNDQ1OTVdfQ==
 -->
