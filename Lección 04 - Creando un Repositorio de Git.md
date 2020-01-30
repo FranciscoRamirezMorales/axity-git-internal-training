@@ -78,10 +78,12 @@ Ejecutar el siguiente comando para clonar un repositorio:
 
 ## Determinando el estatus de un repositorio
 
-El comando git status muestra información sobre el estado de los archivos, 
+El comando `git status` muestra información sobre el estado de los archivos, directorio de trabajo y el repositorio.
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NTU4Nzg1OSwtMTIxMzExMTU2NiwtMT
+eyJoaXN0b3J5IjpbMTM4MTQ3ODUyNiwtMTIxMzExMTU2NiwtMT
 E3ODk2ODIyNCwyMDA2NzU0NTkwLC0xNzUzMDY4MzgwLDE3ODY0
 Njk4MDEsMTY0Njg3MTQzNiw0MTczMTY4MV19
 -->
