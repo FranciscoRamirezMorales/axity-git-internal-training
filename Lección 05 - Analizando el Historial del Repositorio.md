@@ -2,9 +2,11 @@
 
 En esta lección revisaremos los siguientes temas:
 
-Mostrar los Commits del Repositorio
+Mostrar los Commits del repositorio
 Cambiar la forma en que Git Log muestra la información
+Revisar los cambios en los archivos
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODYzOTU3OF19
+eyJoaXN0b3J5IjpbMTgyMTcyNDgyMF19
 -->
