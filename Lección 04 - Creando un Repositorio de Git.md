@@ -6,6 +6,10 @@ Si recordamos:
 
 > Un **repositorio** - es un directorio que contiene un proyecto, así como algunos archivos internos para la gestión y administración del propio proyecto de Git.
 
+Crear un directorio
+
+
+
 ## Crear directorio
 
 El primer paso es crear un directorio de archivos. Para esto se deben ejecutar los siguientes comandos:
@@ -21,7 +25,7 @@ Otra forma de hacerlo es ejecutando el siguiente comando:
     # cd ~
     # mkdir -p axity-git-course/new-git-project && cd $_
 
-## Inicializando un Repositorio
+## Inicializar el Repositorio
 
 Inicializar un proyecto es una de las actividades más simples, basta con ejecutar el siguiente comando:
 
@@ -124,8 +128,8 @@ Esto debería generar la salida:
 En este punto este mensaje no debería ser un problema ya que en este repositorio aún no existen **commits** que mostrar. En siguientes lecciones se verá con más detalle el comando `git log`.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2OTc5NDQ1NCwtMTA5MDM2OTM0MiwtMT
-UxMzE5MDMwMCwtMTIxMzExMTU2NiwtMTE3ODk2ODIyNCwyMDA2
-NzU0NTkwLC0xNzUzMDY4MzgwLDE3ODY0Njk4MDEsMTY0Njg3MT
-QzNiw0MTczMTY4MV19
+eyJoaXN0b3J5IjpbLTM4NDQ5MDY1OSwyMDY5Nzk0NDU0LC0xMD
+kwMzY5MzQyLC0xNTEzMTkwMzAwLC0xMjEzMTExNTY2LC0xMTc4
+OTY4MjI0LDIwMDY3NTQ1OTAsLTE3NTMwNjgzODAsMTc4NjQ2OT
+gwMSwxNjQ2ODcxNDM2LDQxNzMxNjgxXX0=
 -->
