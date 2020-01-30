@@ -121,10 +121,10 @@ Esto debería generar la salida:
     fatal: your current branch 'master' does not have any commits yet
     axity (master) new-git-project
 
-Esto es no de
+En este punto este mensaje no debería ser un problema ya que en este repositorio aún no existen commits que mostrar. En siguientes lecciones se verá conmmas detalle el comando `git log`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMDQ5NjI2MiwtMTA5MDM2OTM0MiwtMT
-UxMzE5MDMwMCwtMTIxMzExMTU2NiwtMTE3ODk2ODIyNCwyMDA2
-NzU0NTkwLC0xNzUzMDY4MzgwLDE3ODY0Njk4MDEsMTY0Njg3MT
-QzNiw0MTczMTY4MV19
+eyJoaXN0b3J5IjpbLTE1MjcyMTA5OTEsLTEwOTAzNjkzNDIsLT
+E1MTMxOTAzMDAsLTEyMTMxMTE1NjYsLTExNzg5NjgyMjQsMjAw
+Njc1NDU5MCwtMTc1MzA2ODM4MCwxNzg2NDY5ODAxLDE2NDY4Nz
+E0MzYsNDE3MzE2ODFdfQ==
 -->
