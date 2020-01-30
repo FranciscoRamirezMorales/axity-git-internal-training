@@ -90,9 +90,15 @@ La salida debería verse así:
 
     nothing to commit, working tree clean
 
+Ahora ejecute los 
+    cd ../new-git-project/
+    # git status
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTMxOTAzMDAsLTEyMTMxMTE1NjYsLT
-ExNzg5NjgyMjQsMjAwNjc1NDU5MCwtMTc1MzA2ODM4MCwxNzg2
-NDY5ODAxLDE2NDY4NzE0MzYsNDE3MzE2ODFdfQ==
+eyJoaXN0b3J5IjpbNDUyMzY1NDgxLC0xNTEzMTkwMzAwLC0xMj
+EzMTExNTY2LC0xMTc4OTY4MjI0LDIwMDY3NTQ1OTAsLTE3NTMw
+NjgzODAsMTc4NjQ2OTgwMSwxNjQ2ODcxNDM2LDQxNzMxNjgxXX
+0=
 -->
