@@ -73,10 +73,10 @@ Estos pasos se ejecutan cada vez que se inicia un nuevo proyecto, lo cual sería
 
 Ejecutar el siguiente comando para clonar un repositorio:
 
-    # git clone https://github.com/udacity/course-git-blog-project
+    # git clone https://github.com/achamizoch/my-travel-plans.git
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzg5NjgyMjQsMjAwNjc1NDU5MCwtMT
-c1MzA2ODM4MCwxNzg2NDY5ODAxLDE2NDY4NzE0MzYsNDE3MzE2
-ODFdfQ==
+eyJoaXN0b3J5IjpbMTMyMzkxNTExMywtMTE3ODk2ODIyNCwyMD
+A2NzU0NTkwLC0xNzUzMDY4MzgwLDE3ODY0Njk4MDEsMTY0Njg3
+MTQzNiw0MTczMTY4MV19
 -->
