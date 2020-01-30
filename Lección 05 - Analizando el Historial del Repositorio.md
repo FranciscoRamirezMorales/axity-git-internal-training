@@ -54,6 +54,9 @@ Para navegar a través de log podemos usar las siguiente teclas:
 
 ## Cambiar la forma en que Git Log muestra la información
 
+El comando `git log` tiene la opción `--oneline` la cual permite modificar la forma en que se muestra la información por defecto.
+
+
 
 ## Revisar los archivos modificados
 
@@ -63,6 +66,6 @@ Para navegar a través de log podemos usar las siguiente teclas:
 
 ## Revisar un commit específico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODM1NTYxOCwtNjQ0MDY3MjM5LDgxMD
+eyJoaXN0b3J5IjpbMTY5Mjg2NjE0MCwtNjQ0MDY3MjM5LDgxMD
 g3MTI4OCwxNDMzNzQwOTAzLC00NDgyNDQ1OTVdfQ==
 -->
