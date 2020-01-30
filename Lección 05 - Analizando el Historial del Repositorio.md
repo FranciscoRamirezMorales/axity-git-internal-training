@@ -74,7 +74,9 @@ El comando `git log` tiene otra opción, `--stat` (statistics) para mostrar los 
 
 Ejecutar el siguiente comando para ver su comportamiento:
 
-`# git log --stat`
+```
+# git log --stat
+```
 
 ![img_git_log_stat](images/img_git_log_stat.png)
 
@@ -85,7 +87,7 @@ Ejecutar el siguiente comando para ver su comportamiento:
 
 ## Revisar un commit específico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMTU1ODE3MCwtMTI4NDA0OTgxMCwxMD
-A3MTkwNzU5LC0xMjYyMjg1OTMsLTY0NDA2NzIzOSw4MTA4NzEy
-ODgsMTQzMzc0MDkwMywtNDQ4MjQ0NTk1XX0=
+eyJoaXN0b3J5IjpbMjAyODIyNjQ2LC0xMjg0MDQ5ODEwLDEwMD
+cxOTA3NTksLTEyNjIyODU5MywtNjQ0MDY3MjM5LDgxMDg3MTI4
+OCwxNDMzNzQwOTAzLC00NDgyNDQ1OTVdfQ==
 -->
