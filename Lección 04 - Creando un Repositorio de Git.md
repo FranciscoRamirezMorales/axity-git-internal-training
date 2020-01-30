@@ -109,11 +109,11 @@ Para el repositorio `new-git-project` la salida debería verse así:
 
     nothing to commit (create/copy files and use "git add" to track)
 
- - ** No commits yet (Initial commit** para versiones previas **)**: dado que previamente usamos **git clone** para hacer una copia de este repositorio, esto nos indica si nuestro proyecto está sincronizado con el repositorio que copiamos y que no existen cambios pendientes a sincronizar.
- - **nothing to commit, working tree clean**: indica que el directorio de trabajo esta vacio/limpio, lo que significa que no hay cambios pendientes.
+ - **No commits yet (Initial commit** para versiones previas **)**: dado que este repositorioesta recién creado, esto indica que aún no tenemos **commits** registrados.
+ - **nothing to commit (create/copy files and use "git add" to track)**: indica que el directorio de trabajo esta vacio/limpio, lo que significa que no hay cambios pendientes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTA4NDc5OTIsLTEwOTAzNjkzNDIsLT
-E1MTMxOTAzMDAsLTEyMTMxMTE1NjYsLTExNzg5NjgyMjQsMjAw
-Njc1NDU5MCwtMTc1MzA2ODM4MCwxNzg2NDY5ODAxLDE2NDY4Nz
-E0MzYsNDE3MzE2ODFdfQ==
+eyJoaXN0b3J5IjpbMTczMDA5MjE4NiwtMTA5MDM2OTM0MiwtMT
+UxMzE5MDMwMCwtMTIxMzExMTU2NiwtMTE3ODk2ODIyNCwyMDA2
+NzU0NTkwLC0xNzUzMDY4MzgwLDE3ODY0Njk4MDEsMTY0Njg3MT
+QzNiw0MTczMTY4MV19
 -->
