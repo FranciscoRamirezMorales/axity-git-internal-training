@@ -111,9 +111,10 @@ Para el repositorio `new-git-project` la salida debería verse así:
 
  - **No commits yet (Initial commit** para versiones previas **)**: dado que este repositorio esta recién creado, esto indica que aún no tenemos **commits** registrados.
  - **nothing to commit (create/copy files and use "git add" to track)**: indica que el directorio de trabajo esta vacío/limpio ya que es un repositorio recién creado e inicializado.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NjI1MzU2OCwtMTA5MDM2OTM0MiwtMT
-UxMzE5MDMwMCwtMTIxMzExMTU2NiwtMTE3ODk2ODIyNCwyMDA2
-NzU0NTkwLC0xNzUzMDY4MzgwLDE3ODY0Njk4MDEsMTY0Njg3MT
-QzNiw0MTczMTY4MV19
+eyJoaXN0b3J5IjpbLTIwNDc5MDE2NTAsLTEwOTAzNjkzNDIsLT
+E1MTMxOTAzMDAsLTEyMTMxMTE1NjYsLTExNzg5NjgyMjQsMjAw
+Njc1NDU5MCwtMTc1MzA2ODM4MCwxNzg2NDY5ODAxLDE2NDY4Nz
+E0MzYsNDE3MzE2ODFdfQ==
 -->
