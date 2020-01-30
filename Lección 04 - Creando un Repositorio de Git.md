@@ -116,9 +116,15 @@ Ejecutar el siguiente comando dentro del repositorio `new-git-project`:
 
     # git log
 
+Esto debería generar la salida:
+
+    fatal: your current branch 'master' does not have any commits yet
+    axity (master) new-git-project
+
+Esto es no de
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzMxOTA4NTgsLTEwOTAzNjkzNDIsLT
-E1MTMxOTAzMDAsLTEyMTMxMTE1NjYsLTExNzg5NjgyMjQsMjAw
-Njc1NDU5MCwtMTc1MzA2ODM4MCwxNzg2NDY5ODAxLDE2NDY4Nz
-E0MzYsNDE3MzE2ODFdfQ==
+eyJoaXN0b3J5IjpbMjAwMDQ5NjI2MiwtMTA5MDM2OTM0MiwtMT
+UxMzE5MDMwMCwtMTIxMzExMTU2NiwtMTE3ODk2ODIyNCwyMDA2
+NzU0NTkwLC0xNzUzMDY4MzgwLDE3ODY0Njk4MDEsMTY0Njg3MT
+QzNiw0MTczMTY4MV19
 -->
