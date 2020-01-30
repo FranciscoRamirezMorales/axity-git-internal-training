@@ -35,11 +35,11 @@ Como resultado podemos ver todo el historial de cambios realizado a los archivos
 Para navegar a través de log podemos usar las siguiente teclas:
 
 -   scroll **down**
-    -   `j` o `↓` to move _down_ one line at a time
-    -   `d` to move by half the page screen
+    -   `j` o `↓` para moverse hacia abajo una línea a la vez
+    -   `d` para moverse to move by half the page screen
     -   `f` to move by a whole page screen
 -   scroll **up**
-    -   `k` or `↑` to move _up_ one line at a time
+    -   `k` o `↑` para moverse hacia arribauna línea a la vez
     -   `u` to move by half the page screen
     -   `b` to move by a whole page screen
 
@@ -54,6 +54,6 @@ Para navegar a través de log podemos usar las siguiente teclas:
 
 ## Revisar un commit específico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEwOTk5MTc2LDgxMDg3MTI4OCwxNDMzNz
-QwOTAzLC00NDgyNDQ1OTVdfQ==
+eyJoaXN0b3J5IjpbLTE2MDI0MTA1NjQsODEwODcxMjg4LDE0Mz
+M3NDA5MDMsLTQ0ODI0NDU5NV19
 -->
