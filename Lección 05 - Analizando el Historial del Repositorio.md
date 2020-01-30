@@ -80,16 +80,29 @@ Ejecutar el siguiente comando para ver su comportamiento:
 
 En resumen, `git log --stat`:
 
-Los archivos modificados
-Número de líneas agregadas o eliminadas
-Resumen de los arch
+ - Los archivos modificados
+ - Número de líneas agregadas o eliminadas
+ - Resumen de los archivos y líneas que fueron agregados o eliminados
 
 ## Revisar los cambios en los archivos
 
+Otra opción del comando `git log` es, `--stat` (statistics) para mostrar los archivos que han sido modificados dentro del commit. También muestra información sobre el número de líneas agregadas o eliminadas.
+
+Ejecutar el siguiente comando para ver su comportamiento:
+
+    # git log --stat
+
+![img_git_log_stat](images/img_git_log_stat.png)
+
+En resumen, `git log --stat`:
+
+ - Los archivos modificados
+ - Número de líneas agregadas o eliminadas
+ - Resumen de los archivos y líneas que fueron agregados o eliminados
 
 ## Revisar un commit específico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5ODUzNDA3MCwyNDkwOTM3NTAsLTEyOD
-QwNDk4MTAsMTAwNzE5MDc1OSwtMTI2MjI4NTkzLC02NDQwNjcy
-MzksODEwODcxMjg4LDE0MzM3NDA5MDMsLTQ0ODI0NDU5NV19
+eyJoaXN0b3J5IjpbNjk3NjQ4MzYwLDI0OTA5Mzc1MCwtMTI4ND
+A0OTgxMCwxMDA3MTkwNzU5LC0xMjYyMjg1OTMsLTY0NDA2NzIz
+OSw4MTA4NzEyODgsMTQzMzc0MDkwMywtNDQ4MjQ0NTk1XX0=
 -->
