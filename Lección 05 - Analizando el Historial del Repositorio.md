@@ -105,9 +105,11 @@ En resumen, `git log --patch` muestra:
  - Los cambios que han sido aplicados
 
 ## Revisar un commit específico
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMzk0NDMxOCwxOTAzNDA1NTk4LC0xMT
-Y1NDkyOTUwLDI0OTA5Mzc1MCwtMTI4NDA0OTgxMCwxMDA3MTkw
-NzU5LC0xMjYyMjg1OTMsLTY0NDA2NzIzOSw4MTA4NzEyODgsMT
-QzMzc0MDkwMywtNDQ4MjQ0NTk1XX0=
+eyJoaXN0b3J5IjpbMjQxMjEyMzgyLC05MzM5NDQzMTgsMTkwMz
+QwNTU5OCwtMTE2NTQ5Mjk1MCwyNDkwOTM3NTAsLTEyODQwNDk4
+MTAsMTAwNzE5MDc1OSwtMTI2MjI4NTkzLC02NDQwNjcyMzksOD
+EwODcxMjg4LDE0MzM3NDA5MDMsLTQ0ODI0NDU5NV19
 -->
