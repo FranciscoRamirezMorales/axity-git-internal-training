@@ -109,10 +109,10 @@ Para el repositorio `new-git-project` la salida debería verse así:
 **
 
  - **On branch master**: indica la rama en la estamos situados actualmente. En este ejemplo, nos encontramos  en la rama **master**.
- - Su sucursal está actualizada con 'origin / master'. - Debido a que se usó git clone para copiar este repositorio desde otra computadora, esto nos dice si nuestro proyecto está sincronizado con el que copiamos. No trataremos el proyecto en la otra computadora, por lo que esta línea puede ignorarse.  
+ - **Your branch is up to date with 'origin/master'.** - Dado que previamente usamos **git clone** para hacer una copia de este repositorio, esto nos indica si nuestro proyecto está sincronizado con el que copiamos. No trataremos el proyecto en la otra computadora, por lo que esta línea puede ignorarse.  
 no hay nada que comprometerse, directorio de trabajo limpio: esto significa que no hay cambios pendientes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDkzNDYxOTEsLTEwOTAzNjkzNDIsLT
+eyJoaXN0b3J5IjpbLTE1NDI5NjA2NTYsLTEwOTAzNjkzNDIsLT
 E1MTMxOTAzMDAsLTEyMTMxMTE1NjYsLTExNzg5NjgyMjQsMjAw
 Njc1NDU5MCwtMTc1MzA2ODM4MCwxNzg2NDY5ODAxLDE2NDY4Nz
 E0MzYsNDE3MzE2ODFdfQ==
