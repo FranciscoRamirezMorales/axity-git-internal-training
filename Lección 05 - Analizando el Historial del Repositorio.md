@@ -36,8 +36,8 @@ Por defecto este comando muestra la siguiente información:
 
 -   SHA
 -   El autor
--   la
--   and the message
+-   Fecha
+-   Mensaje
 
 Para navegar a través de log podemos usar las siguiente teclas:
 
@@ -63,6 +63,6 @@ Para navegar a través de log podemos usar las siguiente teclas:
 
 ## Revisar un commit específico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjU2NTIwNzYsLTY0NDA2NzIzOSw4MT
-A4NzEyODgsMTQzMzc0MDkwMywtNDQ4MjQ0NTk1XX0=
+eyJoaXN0b3J5IjpbLTEzODM1NTYxOCwtNjQ0MDY3MjM5LDgxMD
+g3MTI4OCwxNDMzNzQwOTAzLC00NDgyNDQ1OTVdfQ==
 -->
