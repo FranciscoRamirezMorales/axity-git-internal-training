@@ -12,7 +12,7 @@ En esta lección revisaremos los siguientes temas:
 
 > En la lección anterior ejecutamos:
 
->    ```# cd ~/axity-git-course/my-travel-plans```
+>    ```# cd ~/axity-git-course/training-kit```
 >    ```# git status```
 
 > Dónde la salida nos mostró lo siguiente:
@@ -36,5 +36,5 @@ Para
 
 ## Revisar un commit específico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0ODI0NDU5NV19
+eyJoaXN0b3J5IjpbMjk4NDk1MTk2LC00NDgyNDQ1OTVdfQ==
 -->
