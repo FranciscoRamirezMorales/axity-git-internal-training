@@ -10,11 +10,10 @@ En esta lección revisaremos los siguientes temas:
 
 ## Mostrar los commits del repositorio
 
+En la lección anterior ejecutamos:
 
-Para ver el comportamiento de este comando, ejecutar lo siguiente:
-
->    ``# cd ~/axity-git-course/my-travel-plans
-    # git status
+>    ```# cd ~/axity-git-course/my-travel-plans```
+>    ```# git status```
 
 La salida debería verse así:
 
@@ -36,5 +35,5 @@ La salida debería verse así:
 
 ## Revisar un commit específico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5ODI1OTkyMl19
+eyJoaXN0b3J5IjpbMjMzMzI2ODcwXX0=
 -->
