@@ -73,10 +73,11 @@ Estos pasos se ejecutan cada vez que se inicia un nuevo proyecto, lo cual sería
 
 Ejecutar el siguiente comando para clonar un repositorio:
 
+    # cd ~/
     # git clone https://github.com/achamizoch/my-travel-plans.git
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMzkxNTExMywtMTE3ODk2ODIyNCwyMD
+eyJoaXN0b3J5IjpbMTA5NTc3NDE2OCwtMTE3ODk2ODIyNCwyMD
 A2NzU0NTkwLC0xNzUzMDY4MzgwLDE3ODY0Njk4MDEsMTY0Njg3
 MTQzNiw0MTczMTY4MV19
 -->
