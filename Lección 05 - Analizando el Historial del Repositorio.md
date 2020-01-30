@@ -107,11 +107,13 @@ En resumen, `git log --patch` muestra:
 ## Revisar un commit específico
 
 Hemos visto que `git log` nos proporciona información sobre los cambios hechos a los archovs dentro de un repositorio de Git.
-Pero como podemos obtener i
+
+¿Pero como podemos obtener información de un commit específico?
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzA4NDM4MDgsMjQxMjEyMzgyLC05Mz
-M5NDQzMTgsMTkwMzQwNTU5OCwtMTE2NTQ5Mjk1MCwyNDkwOTM3
-NTAsLTEyODQwNDk4MTAsMTAwNzE5MDc1OSwtMTI2MjI4NTkzLC
-02NDQwNjcyMzksODEwODcxMjg4LDE0MzM3NDA5MDMsLTQ0ODI0
-NDU5NV19
+eyJoaXN0b3J5IjpbMTY5MTc0NjcyOSwyNDEyMTIzODIsLTkzMz
+k0NDMxOCwxOTAzNDA1NTk4LC0xMTY1NDkyOTUwLDI0OTA5Mzc1
+MCwtMTI4NDA0OTgxMCwxMDA3MTkwNzU5LC0xMjYyMjg1OTMsLT
+Y0NDA2NzIzOSw4MTA4NzEyODgsMTQzMzc0MDkwMywtNDQ4MjQ0
+NTk1XX0=
 -->
