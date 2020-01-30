@@ -112,11 +112,18 @@ Hemos visto que `git log` nos proporciona información sobre los cambios hechos 
 
     # git log -p fdf5493
 
-Otra forma de obtener 
+Otra forma de obtener la misma información en con el siguiente comando:
+
+    # git show
+
+Y para obtener información de un commit específico:
+
+    # git show fdf5493
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQzNTc0NjA3LDI0MTIxMjM4MiwtOTMzOT
-Q0MzE4LDE5MDM0MDU1OTgsLTExNjU0OTI5NTAsMjQ5MDkzNzUw
-LC0xMjg0MDQ5ODEwLDEwMDcxOTA3NTksLTEyNjIyODU5MywtNj
-Q0MDY3MjM5LDgxMDg3MTI4OCwxNDMzNzQwOTAzLC00NDgyNDQ1
-OTVdfQ==
+eyJoaXN0b3J5IjpbLTEyMjg3Mzc0NjUsMjQxMjEyMzgyLC05Mz
+M5NDQzMTgsMTkwMzQwNTU5OCwtMTE2NTQ5Mjk1MCwyNDkwOTM3
+NTAsLTEyODQwNDk4MTAsMTAwNzE5MDc1OSwtMTI2MjI4NTkzLC
+02NDQwNjcyMzksODEwODcxMjg4LDE0MzM3NDA5MDMsLTQ0ODI0
+NDU5NV19
 -->
