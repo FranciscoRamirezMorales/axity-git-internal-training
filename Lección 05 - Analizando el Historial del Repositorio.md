@@ -100,12 +100,12 @@ Ejecutar el siguiente comando para ver su comportamiento:
 En resumen, `git log --patch` muestra:
 
  - Los archivos que han sido modificados
- - Número de líneas agregadas o eliminadas
- - Resumen de los archivos y líneas que fueron agregados o eliminados
+ - La ubicación de las líneas que han sido agregadas o eliminadas
+ - Los cambios que han sido aplicados
 
 ## Revisar un commit específico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ3MTE4NDU2LDE5MDM0MDU1OTgsLTExNj
+eyJoaXN0b3J5IjpbOTc3MzU2OTcyLDE5MDM0MDU1OTgsLTExNj
 U0OTI5NTAsMjQ5MDkzNzUwLC0xMjg0MDQ5ODEwLDEwMDcxOTA3
 NTksLTEyNjIyODU5MywtNjQ0MDY3MjM5LDgxMDg3MTI4OCwxND
 MzNzQwOTAzLC00NDgyNDQ1OTVdfQ==
