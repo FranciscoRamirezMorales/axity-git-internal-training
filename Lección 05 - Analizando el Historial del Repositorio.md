@@ -106,10 +106,11 @@ En resumen, `git log --patch` muestra:
 
 ## Revisar un commit específico
 
-
+Hemos visto que `git log` nos proporciona información sobre los cambios hechos a los archovs dentro de un repositorio de Git
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQxMjEyMzgyLC05MzM5NDQzMTgsMTkwMz
-QwNTU5OCwtMTE2NTQ5Mjk1MCwyNDkwOTM3NTAsLTEyODQwNDk4
-MTAsMTAwNzE5MDc1OSwtMTI2MjI4NTkzLC02NDQwNjcyMzksOD
-EwODcxMjg4LDE0MzM3NDA5MDMsLTQ0ODI0NDU5NV19
+eyJoaXN0b3J5IjpbMzgzMDUwMzgxLDI0MTIxMjM4MiwtOTMzOT
+Q0MzE4LDE5MDM0MDU1OTgsLTExNjU0OTI5NTAsMjQ5MDkzNzUw
+LC0xMjg0MDQ5ODEwLDEwMDcxOTA3NTksLTEyNjIyODU5MywtNj
+Q0MDY3MjM5LDgxMDg3MTI4OCwxNDMzNzQwOTAzLC00NDgyNDQ1
+OTVdfQ==
 -->
