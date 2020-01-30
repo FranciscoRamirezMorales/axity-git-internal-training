@@ -108,12 +108,12 @@ Para el repositorio `new-git-project` la salida debería verse así:
 
 **
 
- - **On branch master**: indica que Git está en el branch mas. Tienes una descripción de una rama en tu hoja de términos, así que esta es la rama "maestra" (que es la rama predeterminada). Veremos más en las ramas en la lección 5  
-Su sucursal está actualizada con 'origin / master'. - Debido a que se usó git clone para copiar este repositorio desde otra computadora, esto nos dice si nuestro proyecto está sincronizado con el que copiamos. No trataremos el proyecto en la otra computadora, por lo que esta línea puede ignorarse.  
+ - **On branch master**: indica la rama en la estamos situados actualmente. En este ejemplo, nos encontramos  en la rama **master**.
+ - Su sucursal está actualizada con 'origin / master'. - Debido a que se usó git clone para copiar este repositorio desde otra computadora, esto nos dice si nuestro proyecto está sincronizado con el que copiamos. No trataremos el proyecto en la otra computadora, por lo que esta línea puede ignorarse.  
 no hay nada que comprometerse, directorio de trabajo limpio: esto significa que no hay cambios pendientes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NTkzMDA0OSwtMTA5MDM2OTM0MiwtMT
-UxMzE5MDMwMCwtMTIxMzExMTU2NiwtMTE3ODk2ODIyNCwyMDA2
-NzU0NTkwLC0xNzUzMDY4MzgwLDE3ODY0Njk4MDEsMTY0Njg3MT
-QzNiw0MTczMTY4MV19
+eyJoaXN0b3J5IjpbLTE1NDkzNDYxOTEsLTEwOTAzNjkzNDIsLT
+E1MTMxOTAzMDAsLTEyMTMxMTE1NjYsLTExNzg5NjgyMjQsMjAw
+Njc1NDU5MCwtMTc1MzA2ODM4MCwxNzg2NDY5ODAxLDE2NDY4Nz
+E0MzYsNDE3MzE2ODFdfQ==
 -->
