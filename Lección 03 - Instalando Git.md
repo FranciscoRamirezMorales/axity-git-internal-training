@@ -25,10 +25,10 @@ Agregar las siguientes líneas al archivo `.bashrc` (Usar **vi** o algun otro ed
 
 ```
 # Enable tab completion
-source ~/.udacity-terminal-config/git-completion.bash
+source ~/.axity-terminal-config/git-completion.bash
 
 # Change command prompt
-source ~/.udacity-terminal-config/git-prompt.sh
+source ~/.axity-terminal-config/git-prompt.sh
 
 # colors!
 red="\[\033[38;5;203m\]"
@@ -68,10 +68,10 @@ Configurar la forma en que se despliegan los estatus en conflicto
 
 ## Configurar Editor por defecto
 
-Para configurar el editor por defecto (Atom) de Git ejecutar la siguiente línea:
+Para configurar el editor por defecto (**Atom**) de Git ejecutar el siguiente comando:
 
     # git config --global core.editor "atom --wait"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3ODk1NTA1MF19
+eyJoaXN0b3J5IjpbMTMzMjI1NTQ1MiwxNzc4OTU1MDUwXX0=
 -->
