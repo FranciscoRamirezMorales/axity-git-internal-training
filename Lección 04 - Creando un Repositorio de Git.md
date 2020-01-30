@@ -67,12 +67,17 @@ Cuando trabajamos en algún proyecto de desarrollo, por ejemplo, el desarrollo d
 
 Estos pasos se ejecutan cada vez que se inicia un nuevo proyecto, lo cual sería una tarea tediosa si debemos hacerlo desde cero. Lo más práctico es realizar una copia idéntica de un repositorio existente.
 
-Para clonar un repositorio usaremos el siguiente comando:
+> Para clonar un repositorio usaremos el siguiente comando:
+> 
+>     # git clone <ruta del repositorio a clonar> <nuevo nombre del repositorio (opcional)>
 
-    # git clone <ruta del repositorio a clonar> <nuevo nombre del repositorio (opcional)>
+```
+git clone https://github.com/udacity/course-git-blog-project
+```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNjc1NDU5MCwtMTc1MzA2ODM4MCwxNz
-g2NDY5ODAxLDE2NDY4NzE0MzYsNDE3MzE2ODFdfQ==
+eyJoaXN0b3J5IjpbMTY3OTU4ODg0OCwyMDA2NzU0NTkwLC0xNz
+UzMDY4MzgwLDE3ODY0Njk4MDEsMTY0Njg3MTQzNiw0MTczMTY4
+MV19
 -->
