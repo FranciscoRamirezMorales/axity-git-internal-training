@@ -86,11 +86,14 @@ En resumen, `git log --stat`:
 
 ## Revisar los cambios en los archivos
 
-Otra opción del comando `git log` es, `--patch` o su abreviación `-p`, para mostrar información sobre los cambios rea.
+Otra opción del comando `git log` es, `--patch` o su abreviación `-p`, para mostrar información más detallada sobre los cambios realizados a los archivos.
 
 Ejecutar el siguiente comando para ver su comportamiento:
 
-    # git log --stat
+    # git log --p
+   o
+    
+    # git log -patch
 
 ![img_git_log_stat](images/img_git_log_stat.png)
 
@@ -102,7 +105,8 @@ En resumen, `git log --stat`:
 
 ## Revisar un commit específico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1Mzc5NDcyMCwyNDkwOTM3NTAsLTEyOD
-QwNDk4MTAsMTAwNzE5MDc1OSwtMTI2MjI4NTkzLC02NDQwNjcy
-MzksODEwODcxMjg4LDE0MzM3NDA5MDMsLTQ0ODI0NDU5NV19
+eyJoaXN0b3J5IjpbLTExNjU0OTI5NTAsMjQ5MDkzNzUwLC0xMj
+g0MDQ5ODEwLDEwMDcxOTA3NTksLTEyNjIyODU5MywtNjQ0MDY3
+MjM5LDgxMDg3MTI4OCwxNDMzNzQwOTAzLC00NDgyNDQ1OTVdfQ
+==
 -->
