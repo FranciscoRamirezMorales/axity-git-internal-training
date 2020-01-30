@@ -15,7 +15,7 @@ Para habilitar un ambiente de Git es necesario realizar los siguientes pasos:
         # sudo add-apt-repository ppa:git-core/ppa
         # 
         # sudo apt-get update
-        # sudo apt install git
+        # sudo apt-get install git
     
 
 > Si se requiere, ingresar el password **Welcome1** y reponder "**Y**" en todas las opciones.
@@ -74,6 +74,6 @@ Para configurar el editor por defecto (**Atom**) de Git ejecutar el siguiente co
     # git config --global core.editor "atom --wait"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0OTA2OTA4NCwxMzMyMjU1NDUyLDE3Nz
+eyJoaXN0b3J5IjpbMTE3MjQxMjI2OSwxMzMyMjU1NDUyLDE3Nz
 g5NTUwNTBdfQ==
 -->
