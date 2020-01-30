@@ -5,7 +5,7 @@
 Objetivos principales de Git:
 
  - Mantener un historial detallado del proyecto, así como la capacidad de trabajar en diferentes versiones del mismo. 
- - Mantener un historial detallado de un proyecto para dar seguimienti a su progreso y avance a lo largo del tiempo. 
+ - Mantener un historial detallado de un proyecto para dar seguimiento a su progreso y avance a lo largo del tiempo. 
  - Volver a cualquier punto del proyecto para recuperar datos o archivos.
 
 ## Diferencias entre Git y GitHub
@@ -90,5 +90,6 @@ Echemos un vistazo a alto nivel para entender como usar Git al observar el flujo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNTk0NDQ2OSwtMTk4NTI4MjUyN119
+eyJoaXN0b3J5IjpbMTcyMDQwODE3LC01MTU5NDQ0NjksLTE5OD
+UyODI1MjddfQ==
 -->
