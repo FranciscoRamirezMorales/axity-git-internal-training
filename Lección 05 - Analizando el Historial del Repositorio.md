@@ -81,15 +81,15 @@ Ejecutar el siguiente comando para ver su comportamiento:
 En resumen, `git log --stat`:
 
 Los archivos modificados
-Ubicación de las líneas que fueron agregadas o eliminadas
-Número de líneas agregadas o eliminadas.
+Número de líneas agregadas o eliminadas
+Resumen de los arch
 
 ## Revisar los cambios en los archivos
 
 
 ## Revisar un commit específico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NjUwMTc1LDI0OTA5Mzc1MCwtMTI4ND
-A0OTgxMCwxMDA3MTkwNzU5LC0xMjYyMjg1OTMsLTY0NDA2NzIz
-OSw4MTA4NzEyODgsMTQzMzc0MDkwMywtNDQ4MjQ0NTk1XX0=
+eyJoaXN0b3J5IjpbMTg5ODUzNDA3MCwyNDkwOTM3NTAsLTEyOD
+QwNDk4MTAsMTAwNzE5MDc1OSwtMTI2MjI4NTkzLC02NDQwNjcy
+MzksODEwODcxMjg4LDE0MzM3NDA5MDMsLTQ0ODI0NDU5NV19
 -->
