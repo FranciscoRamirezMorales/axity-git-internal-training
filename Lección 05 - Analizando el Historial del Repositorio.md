@@ -32,6 +32,13 @@ Como resultado podemos ver todo el historial de cambios realizado a los archivos
 
 ![img_git_log](images/img_git_log.png)
 
+Por defecto este comando muestra la siguiente información:
+
+-   SHA
+-   El autor
+-   la
+-   and the message
+
 Para navegar a través de log podemos usar las siguiente teclas:
 
 -   scroll **down**
@@ -56,6 +63,6 @@ Para navegar a través de log podemos usar las siguiente teclas:
 
 ## Revisar un commit específico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMDAxMjg2OSwtNjQ0MDY3MjM5LDgxMD
-g3MTI4OCwxNDMzNzQwOTAzLC00NDgyNDQ1OTVdfQ==
+eyJoaXN0b3J5IjpbLTEzMjU2NTIwNzYsLTY0NDA2NzIzOSw4MT
+A4NzEyODgsMTQzMzc0MDkwMywtNDQ4MjQ0NTk1XX0=
 -->
