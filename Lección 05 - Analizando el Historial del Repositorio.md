@@ -98,6 +98,9 @@ Ejecutar el siguiente comando para ver su comportamiento:
 
 ![img_git_log_patch](images/img_git_log_patch.png)
 
+> git log -p -w omite los cambios
+> 
+
 En resumen, `git log --patch` muestra:
 
  - Los archivos que han sido modificados
@@ -125,9 +128,9 @@ Para obtener información de un commit específico:
 Diferencias de `git show` respecto a `git log`:
 git show puede ser combinado con las opciones --`--stat`, `--patch` o `-p`, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNTQ3MTIyLDExNTY5MzM3OTMsMzA3OT
-Q5NTA1LDI0MTIxMjM4MiwtOTMzOTQ0MzE4LDE5MDM0MDU1OTgs
-LTExNjU0OTI5NTAsMjQ5MDkzNzUwLC0xMjg0MDQ5ODEwLDEwMD
-cxOTA3NTksLTEyNjIyODU5MywtNjQ0MDY3MjM5LDgxMDg3MTI4
-OCwxNDMzNzQwOTAzLC00NDgyNDQ1OTVdfQ==
+eyJoaXN0b3J5IjpbNDMzNDY3NzAxLDExMDU0NzEyMiwxMTU2OT
+MzNzkzLDMwNzk0OTUwNSwyNDEyMTIzODIsLTkzMzk0NDMxOCwx
+OTAzNDA1NTk4LC0xMTY1NDkyOTUwLDI0OTA5Mzc1MCwtMTI4ND
+A0OTgxMCwxMDA3MTkwNzU5LC0xMjYyMjg1OTMsLTY0NDA2NzIz
+OSw4MTA4NzEyODgsMTQzMzc0MDkwMywtNDQ4MjQ0NTk1XX0=
 -->
