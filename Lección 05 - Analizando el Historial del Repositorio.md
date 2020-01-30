@@ -21,7 +21,9 @@ En esta lección revisaremos los siguientes temas:
 >    ```    Your branch is up to date with 'origin/master'.```
 >    ```nothing to commit, working tree clean```
 
-En este punto no podemos saber que cambios se hicieron sobre los archvivos
+En este punto no podemos saber que cambios se hicieron sobre los archivo de este repositorio.
+
+Para 
 
 ## Cambiar la forma en que Git Log muestra la información
 
@@ -34,5 +36,5 @@ En este punto no podemos saber que cambios se hicieron sobre los archvivos
 
 ## Revisar un commit específico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY5MjEwMTI5XX0=
+eyJoaXN0b3J5IjpbLTQ0ODI0NDU5NV19
 -->
