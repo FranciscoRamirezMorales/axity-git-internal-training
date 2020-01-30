@@ -94,7 +94,7 @@ La salida debería verse así:
 
  - **On branch master**: indica la rama en la estamos situados actualmente. En este ejemplo, nos encontramos  en la rama **master**.
  - **Your branch is up to date with 'origin/master'.**: dado que previamente usamos **git clone** para hacer una copia de este repositorio, esto nos indica si nuestro proyecto está sincronizado con el repositorio que copiamos y que no existen cambios pendientes a sincronizar.
- - **nothing to commit, working tree clean**: indica que el directorio de trabajo esta vacio/limpio, lo que significa que no hay cambios pendientes.
+ - **nothing to commit, working tree clean**: indica que el directorio de trabajo esta vacío/limpio, lo que significa que no hay cambios pendientes.
 
 Ahora, ejecutar los siguientes comandos:
 
@@ -109,10 +109,10 @@ Para el repositorio `new-git-project` la salida debería verse así:
 
     nothing to commit (create/copy files and use "git add" to track)
 
- - **No commits yet (Initial commit** para versiones previas **)**: dado que este repositorioesta recién creado, esto indica que aún no tenemos **commits** registrados.
- - **nothing to commit (create/copy files and use "git add" to track)**: indica que el directorio de trabajo esta vacio/limpio, lo que significa que no hay cambios pendientes.
+ - **No commits yet (Initial commit** para versiones previas **)**: dado que este repositorio esta recién creado, esto indica que aún no tenemos **commits** registrados.
+ - **nothing to commit (create/copy files and use "git add" to track)**: indica que el directorio de trabajo esta vacío/limpio ya que es un repositorio recién creado e inicializado.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMDA5MjE4NiwtMTA5MDM2OTM0MiwtMT
+eyJoaXN0b3J5IjpbMTg4NjI1MzU2OCwtMTA5MDM2OTM0MiwtMT
 UxMzE5MDMwMCwtMTIxMzExMTU2NiwtMTE3ODk2ODIyNCwyMDA2
 NzU0NTkwLC0xNzUzMDY4MzgwLDE3ODY0Njk4MDEsMTY0Njg3MT
 QzNiw0MTczMTY4MV19
