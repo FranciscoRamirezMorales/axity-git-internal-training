@@ -17,8 +17,8 @@ En esta lección revisaremos los siguientes temas:
 
 > Dónde la salida nos mostró lo siguiente:
 
->    ```    On branch master```
->    ```    Your branch is up to date with 'origin/master'.```
+>    ```On branch master```
+>    ```Your branch is up to date with 'origin/master'.```
 >    ```nothing to commit, working tree clean```
 
 En este punto no podemos saber que cambios se hicieron sobre los archivo de este repositorio.
@@ -87,7 +87,7 @@ Ejecutar el siguiente comando para ver su comportamiento:
 
 ## Revisar un commit específico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyODIyNjQ2LC0xMjg0MDQ5ODEwLDEwMD
+eyJoaXN0b3J5IjpbMjQ5MDkzNzUwLC0xMjg0MDQ5ODEwLDEwMD
 cxOTA3NTksLTEyNjIyODU5MywtNjQ0MDY3MjM5LDgxMDg3MTI4
 OCwxNDMzNzQwOTAzLC00NDgyNDQ1OTVdfQ==
 -->
