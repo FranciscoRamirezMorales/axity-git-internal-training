@@ -12,7 +12,7 @@ Para generar un repositorio de Git es necesario realizar las siguientes tareas:
 - Inicializar el Repositorio
 ó
  - Clonando un Repositorio
-
+ - Determinar el estatus de un repositorio
 
 ## Crear directorio
 
@@ -84,11 +84,11 @@ Ejecutar el siguiente comando para clonar un repositorio:
     # cd ~/axity-git-course
     # git clone https://github.com/achamizoch/my-travel-plans.git
 
-## Determinando el estatus de un repositorio
+## Determinar el estatus de un repositorio
 
-El comando `git status` muestra información sobre el estado de los archivos, directorio de trabajo y el repositorio.
+El comando `git status` permite mostrar información sobre el estado de los archivos, directorio de trabajo y el repositorio.
 
-Para ver el comportamiento de este comando ejecutar lo siguiente:
+Para ver el comportamiento de este comando, ejecutar lo siguiente:
 
     # cd ~/axity-git-course/my-travel-plans
     # git status
@@ -132,8 +132,8 @@ Esto debería generar la salida:
 En este punto este mensaje no debería ser un problema ya que en este repositorio aún no existen **commits** que mostrar. En siguientes lecciones se verá con más detalle el comando `git log`.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAyMTY1MTk0LDIwNjk3OTQ0NTQsLTEwOT
-AzNjkzNDIsLTE1MTMxOTAzMDAsLTEyMTMxMTE1NjYsLTExNzg5
-NjgyMjQsMjAwNjc1NDU5MCwtMTc1MzA2ODM4MCwxNzg2NDY5OD
-AxLDE2NDY4NzE0MzYsNDE3MzE2ODFdfQ==
+eyJoaXN0b3J5IjpbLTIwNzYyOTM1MywyMDY5Nzk0NDU0LC0xMD
+kwMzY5MzQyLC0xNTEzMTkwMzAwLC0xMjEzMTExNTY2LC0xMTc4
+OTY4MjI0LDIwMDY3NTQ1OTAsLTE3NTMwNjgzODAsMTc4NjQ2OT
+gwMSwxNjQ2ODcxNDM2LDQxNzMxNjgxXX0=
 -->
