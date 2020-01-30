@@ -76,10 +76,12 @@ Ejecutar el siguiente comando para clonar un repositorio:
     # cd ~/axity-git-course
     # git clone https://github.com/achamizoch/my-travel-plans.git
 
-## Verificar el estatus
+## Determinando el estatus de un repositorio
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTg3ODA1NDcsLTEyMTMxMTE1NjYsLT
-ExNzg5NjgyMjQsMjAwNjc1NDU5MCwtMTc1MzA2ODM4MCwxNzg2
-NDY5ODAxLDE2NDY4NzE0MzYsNDE3MzE2ODFdfQ==
+eyJoaXN0b3J5IjpbMTY1NjYwNTExNSwtMTIxMzExMTU2NiwtMT
+E3ODk2ODIyNCwyMDA2NzU0NTkwLC0xNzUzMDY4MzgwLDE3ODY0
+Njk4MDEsMTY0Njg3MTQzNiw0MTczMTY4MV19
 -->
