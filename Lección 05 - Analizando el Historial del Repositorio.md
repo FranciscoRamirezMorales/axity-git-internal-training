@@ -123,9 +123,9 @@ Para obtener información de un commit específico:
     # git show 15bc8f5
 
 Diferencias de `git show` respecto a `git log`:
-git show puede ser combinado con las opciones --`--stat`
+git show puede ser combinado con las opciones --`--stat`, `--patch` o `-p`, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk3MDQxNDg3LDExNTY5MzM3OTMsMzA3OT
+eyJoaXN0b3J5IjpbNTk0ODA5NzQ1LDExNTY5MzM3OTMsMzA3OT
 Q5NTA1LDI0MTIxMjM4MiwtOTMzOTQ0MzE4LDE5MDM0MDU1OTgs
 LTExNjU0OTI5NTAsMjQ5MDkzNzUwLC0xMjg0MDQ5ODEwLDEwMD
 cxOTA3NTksLTEyNjIyODU5MywtNjQ0MDY3MjM5LDgxMDg3MTI4
