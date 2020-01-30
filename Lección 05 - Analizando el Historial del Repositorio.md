@@ -18,8 +18,8 @@ En esta lección revisaremos los siguientes temas:
 > Dónde la salida nos mostró lo siguiente:
 
 >    ```    On branch master```
->    ```    Your branch is up to date with 'origin/master'.```
->    ``````
+>    ```    Your branch is up to date with 'origin/master'.
+>    ```
 >    ```    nothing to commit, working tree clean
 
 
@@ -35,5 +35,5 @@ En esta lección revisaremos los siguientes temas:
 
 ## Revisar un commit específico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1Mjk0NTk3Ml19
+eyJoaXN0b3J5IjpbODg3NzY3MzcyXX0=
 -->
