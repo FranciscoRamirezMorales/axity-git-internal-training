@@ -62,6 +62,10 @@ Ejecutar el siguiente comando para ver su comportamiento:
 
 ![img_git_log_oneline](images/img_git_log_oneline.png)
 
+En resumen, git log --oneline:
+
+Lista los commits por línea
+Muestra solo los primero 7 caracteres del SHA
 ## Revisar los archivos modificados
 
 
@@ -70,7 +74,7 @@ Ejecutar el siguiente comando para ver su comportamiento:
 
 ## Revisar un commit específico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNzE5MDc1OSwtMTI2MjI4NTkzLC02ND
-QwNjcyMzksODEwODcxMjg4LDE0MzM3NDA5MDMsLTQ0ODI0NDU5
-NV19
+eyJoaXN0b3J5IjpbNDExNDExNDM1LDEwMDcxOTA3NTksLTEyNj
+IyODU5MywtNjQ0MDY3MjM5LDgxMDg3MTI4OCwxNDMzNzQwOTAz
+LC00NDgyNDQ1OTVdfQ==
 -->
