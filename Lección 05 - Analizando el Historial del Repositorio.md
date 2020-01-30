@@ -74,19 +74,22 @@ El comando `git log` tiene otra opción, `--stat` (statistics) para mostrar los 
 
 Ejecutar el siguiente comando para ver su comportamiento:
 
-```
-# git log --stat
-```
+    # git log --stat
 
 ![img_git_log_stat](images/img_git_log_stat.png)
 
+En resumen, `git log --stat`:
+
+Los archivos modificados
+Número de líneas agregadas o eliminadas.
 
 ## Revisar los cambios en los archivos
 
 
 ## Revisar un commit específico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY5NzQ3NTU2LDI0OTA5Mzc1MCwtMTI4ND
-A0OTgxMCwxMDA3MTkwNzU5LC0xMjYyMjg1OTMsLTY0NDA2NzIz
-OSw4MTA4NzEyODgsMTQzMzc0MDkwMywtNDQ4MjQ0NTk1XX0=
+eyJoaXN0b3J5IjpbLTEyNjc3NDQ1OTIsMjQ5MDkzNzUwLC0xMj
+g0MDQ5ODEwLDEwMDcxOTA3NTksLTEyNjIyODU5MywtNjQ0MDY3
+MjM5LDgxMDg3MTI4OCwxNDMzNzQwOTAzLC00NDgyNDQ1OTVdfQ
+==
 -->
