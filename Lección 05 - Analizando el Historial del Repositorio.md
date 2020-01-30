@@ -118,12 +118,12 @@ Otro comando que permite obtener la misma información en con el siguiente coman
 
 Y para obtener información de un commit específico:
 
-    # git show fdf5493
+    # git show 15bc8f5
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU5MjUzNDEwLDMwNzk0OTUwNSwyNDEyMT
-IzODIsLTkzMzk0NDMxOCwxOTAzNDA1NTk4LC0xMTY1NDkyOTUw
-LDI0OTA5Mzc1MCwtMTI4NDA0OTgxMCwxMDA3MTkwNzU5LC0xMj
-YyMjg1OTMsLTY0NDA2NzIzOSw4MTA4NzEyODgsMTQzMzc0MDkw
-MywtNDQ4MjQ0NTk1XX0=
+eyJoaXN0b3J5IjpbMTE1NjkzMzc5MywzMDc5NDk1MDUsMjQxMj
+EyMzgyLC05MzM5NDQzMTgsMTkwMzQwNTU5OCwtMTE2NTQ5Mjk1
+MCwyNDkwOTM3NTAsLTEyODQwNDk4MTAsMTAwNzE5MDc1OSwtMT
+I2MjI4NTkzLC02NDQwNjcyMzksODEwODcxMjg4LDE0MzM3NDA5
+MDMsLTQ0ODI0NDU5NV19
 -->
