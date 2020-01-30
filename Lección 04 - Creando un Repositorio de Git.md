@@ -82,7 +82,7 @@ Estos pasos se ejecutan cada vez que se inicia un nuevo proyecto, lo cual sería
 Ejecutar el siguiente comando para clonar un repositorio:
 
     # cd ~/axity-git-course
-    # git clone https://github.com/achamizoch/my-travel-plans.git
+    # git clone https://github.com/github/training-kit.git
 
 ## Determinar el estatus de un repositorio
 
@@ -132,8 +132,9 @@ Esto debería generar la salida:
 En este punto este mensaje no debería ser un problema ya que en este repositorio aún no existen **commits** que mostrar. En siguientes lecciones se verá con más detalle el comando `git log`.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MjczMjA3MywyMDY5Nzk0NDU0LC0xMD
-kwMzY5MzQyLC0xNTEzMTkwMzAwLC0xMjEzMTExNTY2LC0xMTc4
-OTY4MjI0LDIwMDY3NTQ1OTAsLTE3NTMwNjgzODAsMTc4NjQ2OT
-gwMSwxNjQ2ODcxNDM2LDQxNzMxNjgxXX0=
+eyJoaXN0b3J5IjpbLTE0MjkzMjIzMDQsLTI0MjczMjA3MywyMD
+Y5Nzk0NDU0LC0xMDkwMzY5MzQyLC0xNTEzMTkwMzAwLC0xMjEz
+MTExNTY2LC0xMTc4OTY4MjI0LDIwMDY3NTQ1OTAsLTE3NTMwNj
+gzODAsMTc4NjQ2OTgwMSwxNjQ2ODcxNDM2LDQxNzMxNjgxXX0=
+
 -->
