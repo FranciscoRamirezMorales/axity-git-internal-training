@@ -9,9 +9,9 @@ Si recordamos:
 Para generar un repositorio de Git es necesario realizar las siguientes tareas:
 
  - Crear un directorio
-- Inicializar el Repositorio
+- Inicializar el repositorio
 ó
- - Clonando un Repositorio
+ - Clonando un repositorio
  - Determinar el estatus de un repositorio
 
 ## Crear directorio
@@ -29,7 +29,7 @@ Otra forma de hacerlo es ejecutando el siguiente comando:
     # cd ~
     # mkdir -p axity-git-course/new-git-project && cd $_
 
-## Inicializar el Repositorio
+## Inicializar el repositorio
 
 Inicializar un proyecto es una de las actividades más simples, basta con ejecutar el siguiente comando:
 
@@ -54,7 +54,7 @@ Aquí hay una breve sinopsis de cada uno de los archivos/directorios en el direc
   
  - **refs**: contiene apuntadores a los **commits**, básicamente a los "**branch**" y "**tags**"
 
-## Clonando un Repositorio
+## Clonando un repositorio
 
 **¿A que nos referimos con clonar?**
 
@@ -132,7 +132,7 @@ Esto debería generar la salida:
 En este punto este mensaje no debería ser un problema ya que en este repositorio aún no existen **commits** que mostrar. En siguientes lecciones se verá con más detalle el comando `git log`.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzYyOTM1MywyMDY5Nzk0NDU0LC0xMD
+eyJoaXN0b3J5IjpbLTI0MjczMjA3MywyMDY5Nzk0NDU0LC0xMD
 kwMzY5MzQyLC0xNTEzMTkwMzAwLC0xMjEzMTExNTY2LC0xMTc4
 OTY4MjI0LDIwMDY3NTQ1OTAsLTE3NTMwNjgzODAsMTc4NjQ2OT
 gwMSwxNjQ2ODcxNDM2LDQxNzMxNjgxXX0=
