@@ -86,7 +86,7 @@ En resumen, `git log --stat`:
 
 ## Revisar los cambios en los archivos
 
-Otra opción del comando `git log` es, `--stat` (statistics) para mostrar los archivos que han sido modificados dentro del commit. También muestra información sobre el número de líneas agregadas o eliminadas.
+Otra opción del comando `git log` es, `--patch` o su abreviación `-p`, para mostrar información sobre los cambios rea.
 
 Ejecutar el siguiente comando para ver su comportamiento:
 
@@ -102,7 +102,7 @@ En resumen, `git log --stat`:
 
 ## Revisar un commit específico
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk3NjQ4MzYwLDI0OTA5Mzc1MCwtMTI4ND
-A0OTgxMCwxMDA3MTkwNzU5LC0xMjYyMjg1OTMsLTY0NDA2NzIz
-OSw4MTA4NzEyODgsMTQzMzc0MDkwMywtNDQ4MjQ0NTk1XX0=
+eyJoaXN0b3J5IjpbMjA1Mzc5NDcyMCwyNDkwOTM3NTAsLTEyOD
+QwNDk4MTAsMTAwNzE5MDc1OSwtMTI2MjI4NTkzLC02NDQwNjcy
+MzksODEwODcxMjg4LDE0MzM3NDA5MDMsLTQ0ODI0NDU5NV19
 -->
