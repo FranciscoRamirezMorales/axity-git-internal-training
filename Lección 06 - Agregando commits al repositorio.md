@@ -13,19 +13,20 @@ En esta lección veremos como:
 
 Antes de empezar a trabajar en nuestro repositorio debemos movernos al directorio `new-git-project` 
 
-```
-# cd cd ~/axity-git-course/new-git-project/
+```bash
+$ cd ~/axity-git-course/new-git-project/
 ``` 
 Posteriormente ejecutar el comando:
 
-    # git status
+```bash
+$ git status
+```
+```bash
+On branch master
 
-```json
-    On branch master
+Initial commit
 
-    Initial commit
-
-    nothing to commit (create/copy files and use "git add" to track)
+nothing to commit (create/copy files and use "git add" to track)
 ```
 
 ### Crear un archivo HTML
@@ -109,7 +110,7 @@ Volvemos a revisar el estatus del repositorio:
     # git status
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MTUxOTQ5OSwtNzQxODQ4Njg1LC03ND
+eyJoaXN0b3J5IjpbLTQxNjYwMjY4OCwtNzQxODQ4Njg1LC03ND
 E4NDg2ODUsLTEwNzc5ODgxMTksMTM1MTA2NjY1MywtMTgwNDYy
 NzQ0LC0xODIyMTg0NzI0LC0xNzg0NjY1MTQ3LC0xODk4OTg0Nz
 IyLC01ODMwODA2MjQsMTcxODIzNzI4MSwxMzI1NzQ2Mzc0LDE1
