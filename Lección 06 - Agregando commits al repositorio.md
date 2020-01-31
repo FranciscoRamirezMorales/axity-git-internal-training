@@ -88,12 +88,17 @@ nothing added to commit but untracked files present (use "git add" to track)
 
 Para agregar el archivo `index.html` al Staging Index, ejecutar el comando:
 
-    # 
+    # git add index.html
+
+Revisar nuevamente el estatus del repositorio:
+
+    # git status
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzcyMzgzOTgsLTEwNzc5ODgxMTksMT
-M1MTA2NjY1MywtMTgwNDYyNzQ0LC0xODIyMTg0NzI0LC0xNzg0
-NjY1MTQ3LC0xODk4OTg0NzIyLC01ODMwODA2MjQsMTcxODIzNz
-I4MSwxMzI1NzQ2Mzc0LDE1NjI0MzUyNzksMTc1MDIwOTU0Niw0
-MjEwNDM2NiwyMDQwMjI4OTY5LC0xNzU4OTg0NzI0LDEzMjY5ND
-Y3NjcsMTgxNTEyMTc4MCw0MTYzNTgwNjNdfQ==
+eyJoaXN0b3J5IjpbMTQxOTk5ODAzLC0xMDc3OTg4MTE5LDEzNT
+EwNjY2NTMsLTE4MDQ2Mjc0NCwtMTgyMjE4NDcyNCwtMTc4NDY2
+NTE0NywtMTg5ODk4NDcyMiwtNTgzMDgwNjI0LDE3MTgyMzcyOD
+EsMTMyNTc0NjM3NCwxNTYyNDM1Mjc5LDE3NTAyMDk1NDYsNDIx
+MDQzNjYsMjA0MDIyODk2OSwtMTc1ODk4NDcyNCwxMzI2OTQ2Nz
+Y3LDE4MTUxMjE3ODAsNDE2MzU4MDYzXX0=
 -->
