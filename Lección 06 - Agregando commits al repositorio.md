@@ -44,30 +44,23 @@ Crear un archivo index.html con el siguiente código:
 </html>
 ```
 
-dadsad
+dadsa
 
+```js
+  import { Component } from '@angular/core';
+  import { MovieService } from './services/movie.service';
 
-
-
-// resets
-s { text-decoration:none; } //strike-through
-em { font-style: normal; font-weight: bold; } //italic emphasis
-
-
-// colors
-s { color: green }
-em { color: blue }
-
-<span style="color:blue">some *This is Blue italic.* text</span>
-
-
-<span style="color:red">some **This is Red Bold.** text</span>
-
-
-~~This is green~~
-_this is blue_
-
+  @Component({
+    selector: 'app-root',
+    templateUrl: './app.component.html',
+    styleUrls: ['./app.component.css'],
+    providers: [ MovieService ]
+  })
+  export class AppComponent {
+    title = 'app works!';
+  }
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMTQyNTUwMSwtMTc1ODk4NDcyNCwxMz
-I2OTQ2NzY3LDE4MTUxMjE3ODAsNDE2MzU4MDYzXX0=
+eyJoaXN0b3J5IjpbLTE0NjIzODM0ODAsLTE3NTg5ODQ3MjQsMT
+MyNjk0Njc2NywxODE1MTIxNzgwLDQxNjM1ODA2M119
 -->
