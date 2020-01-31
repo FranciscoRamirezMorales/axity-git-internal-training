@@ -103,9 +103,12 @@ $ git add css/app.css js/app.js
 $ git add .
 ```
 
+Ver nuevamente el estatus:
+
+    # git status
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxOTQ5NjkyNSwtMTA3Nzk4ODExOSwxMz
+eyJoaXN0b3J5IjpbLTc0MTg0ODY4NSwtMTA3Nzk4ODExOSwxMz
 UxMDY2NjUzLC0xODA0NjI3NDQsLTE4MjIxODQ3MjQsLTE3ODQ2
 NjUxNDcsLTE4OTg5ODQ3MjIsLTU4MzA4MDYyNCwxNzE4MjM3Mj
 gxLDEzMjU3NDYzNzQsMTU2MjQzNTI3OSwxNzUwMjA5NTQ2LDQy
