@@ -15,7 +15,7 @@ Antes de empezar a trabajar en nuestro repositorio debemos movernos al directori
 
     # cd cd ~/axity-git-course/new-git-project/
     
-y posteriormente ejecutar el comando:
+Posteriormente ejecutar el comando:
 
     # git status
 
@@ -33,7 +33,7 @@ Crear un archivo `index.html`
 
     # touch index.html
 
-Dentro del archivo `index.html` ingresar el siguiente código:
+Dentro del archivo `index.html` debemo el siguiente código:
 
 ```html
 <!doctype html>
@@ -108,11 +108,11 @@ Ver nuevamente el estatus:
     # git status
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MTg0ODY4NSwtNzQxODQ4Njg1LC0xMD
-c3OTg4MTE5LDEzNTEwNjY2NTMsLTE4MDQ2Mjc0NCwtMTgyMjE4
-NDcyNCwtMTc4NDY2NTE0NywtMTg5ODk4NDcyMiwtNTgzMDgwNj
-I0LDE3MTgyMzcyODEsMTMyNTc0NjM3NCwxNTYyNDM1Mjc5LDE3
-NTAyMDk1NDYsNDIxMDQzNjYsMjA0MDIyODk2OSwtMTc1ODk4ND
-cyNCwxMzI2OTQ2NzY3LDE4MTUxMjE3ODAsNDE2MzU4MDYzXX0=
-
+eyJoaXN0b3J5IjpbMTY0ODAyMTY2NywtNzQxODQ4Njg1LC03ND
+E4NDg2ODUsLTEwNzc5ODgxMTksMTM1MTA2NjY1MywtMTgwNDYy
+NzQ0LC0xODIyMTg0NzI0LC0xNzg0NjY1MTQ3LC0xODk4OTg0Nz
+IyLC01ODMwODA2MjQsMTcxODIzNzI4MSwxMzI1NzQ2Mzc0LDE1
+NjI0MzUyNzksMTc1MDIwOTU0Niw0MjEwNDM2NiwyMDQwMjI4OT
+Y5LC0xNzU4OTg0NzI0LDEzMjY5NDY3NjcsMTgxNTEyMTc4MCw0
+MTYzNTgwNjNdfQ==
 -->
