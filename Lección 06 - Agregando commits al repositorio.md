@@ -96,14 +96,13 @@ Revisar nuevamente el estatus del repositorio:
 
 Mover el resto de los archivos al Staging Index:
 
-
-    # git add css/app.css js/app.js
-   
-# would become
+```bash
+$ git add css/app.css js/app.js
+# otra opci
 $ git add .
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg5ODk3MTY0LC0xMDc3OTg4MTE5LDEzNT
+eyJoaXN0b3J5IjpbMjkwMTkzNjk2LC0xMDc3OTg4MTE5LDEzNT
 EwNjY2NTMsLTE4MDQ2Mjc0NCwtMTgyMjE4NDcyNCwtMTc4NDY2
 NTE0NywtMTg5ODk4NDcyMiwtNTgzMDgwNjI0LDE3MTgyMzcyOD
 EsMTMyNTc0NjM3NCwxNTYyNDM1Mjc5LDE3NTAyMDk1NDYsNDIx
