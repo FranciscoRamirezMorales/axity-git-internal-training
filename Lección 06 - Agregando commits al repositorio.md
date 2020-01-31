@@ -94,12 +94,19 @@ Revisar nuevamente el estatus del repositorio:
 
     # git status
 
-Mover el resto de los archivos al Staging
+Mover el resto de los archivos al Staging Index:
+
+
+    # git add css/app.css js/app.js
+   
+# would become
+$ git add .
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDc4NTA1MzIsLTEwNzc5ODgxMTksMT
-M1MTA2NjY1MywtMTgwNDYyNzQ0LC0xODIyMTg0NzI0LC0xNzg0
-NjY1MTQ3LC0xODk4OTg0NzIyLC01ODMwODA2MjQsMTcxODIzNz
-I4MSwxMzI1NzQ2Mzc0LDE1NjI0MzUyNzksMTc1MDIwOTU0Niw0
-MjEwNDM2NiwyMDQwMjI4OTY5LC0xNzU4OTg0NzI0LDEzMjY5ND
-Y3NjcsMTgxNTEyMTc4MCw0MTYzNTgwNjNdfQ==
+eyJoaXN0b3J5IjpbMjg5ODk3MTY0LC0xMDc3OTg4MTE5LDEzNT
+EwNjY2NTMsLTE4MDQ2Mjc0NCwtMTgyMjE4NDcyNCwtMTc4NDY2
+NTE0NywtMTg5ODk4NDcyMiwtNTgzMDgwNjI0LDE3MTgyMzcyOD
+EsMTMyNTc0NjM3NCwxNTYyNDM1Mjc5LDE3NTAyMDk1NDYsNDIx
+MDQzNjYsMjA0MDIyODk2OSwtMTc1ODk4NDcyNCwxMzI2OTQ2Nz
+Y3LDE4MTUxMjE3ODAsNDE2MzU4MDYzXX0=
 -->
