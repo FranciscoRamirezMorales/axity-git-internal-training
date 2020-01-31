@@ -13,6 +13,8 @@ En esta lección veremos como:
 
 Antes de empezar a trabajar en nuestro repositorio debemos movernos al directorio `new-git-project` y posteriormente ejecutar el comando:
 
+### Checar el estatus actual del repositorio
+
     # git status
 
 Salida:
@@ -24,7 +26,8 @@ Salida:
     nothing to commit (create/copy files and use "git add" to track)
 
 ### Crear un archivo HTML
-Primero, crear un archivo 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE4Njk1NjU5XX0=
+eyJoaXN0b3J5IjpbMTE5NDYyOTk5MF19
 -->
