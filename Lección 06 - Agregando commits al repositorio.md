@@ -57,14 +57,15 @@ dadsa
 sdasdsa
 
 
+
+```
 <div class="text-purple">
   This text is purple, <a href="#" class="text-inherit">including the link</a>
 </div>
 
-
-
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2OTcxMjI3OCw0MjEwNDM2NiwyMDQwMj
+eyJoaXN0b3J5IjpbMTc1MDIwOTU0Niw0MjEwNDM2NiwyMDQwMj
 I4OTY5LC0xNzU4OTg0NzI0LDEzMjY5NDY3NjcsMTgxNTEyMTc4
 MCw0MTYzNTgwNjNdfQ==
 -->
