@@ -46,30 +46,24 @@ Crear un archivo index.html con el siguiente código:
 
 dadsa
 
-```
-  import { Component } from '@angular/core';
-  import { MovieService } from './services/movie.service';
-
-  @Component({
-    selector: 'app-root',
-    templateUrl: './app.component.html',
-    styleUrls: ['./app.component.css'],
-    providers: [ MovieService ]
-  })
-  export class AppComponent {
-    title = 'app works!';
+```json
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
   }
 ```
 
 sdasdsa
 
 
-```diff
-+ this text is highlighted in green
+```git
+//  this text is highlighted in green
 - this text is highlighted in red
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MDIyODk2OSwtMTc1ODk4NDcyNCwxMz
-I2OTQ2NzY3LDE4MTUxMjE3ODAsNDE2MzU4MDYzXX0=
+eyJoaXN0b3J5IjpbODk2NDIwMTI4LDIwNDAyMjg5NjksLTE3NT
+g5ODQ3MjQsMTMyNjk0Njc2NywxODE1MTIxNzgwLDQxNjM1ODA2
+M119
 -->
