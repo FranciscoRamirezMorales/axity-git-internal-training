@@ -27,7 +27,7 @@ Salida:
 
 Crear un archivo index.html con el siguiente código:
 
-```
+```html
 <!doctype html>
 <html lang="en">
 <head>
@@ -46,26 +46,11 @@ Crear un archivo index.html con el siguiente código:
 
 dadsa
 
-```json
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-  }
-```
-
-sdasdsa
 
 
 
-```
-<div class="text-purple">
-  This text is purple, <a href="#" class="text-inherit">including the link</a>
-</div>
-
-```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MDIwOTU0Niw0MjEwNDM2NiwyMDQwMj
-I4OTY5LC0xNzU4OTg0NzI0LDEzMjY5NDY3NjcsMTgxNTEyMTc4
-MCw0MTYzNTgwNjNdfQ==
+eyJoaXN0b3J5IjpbMTU2MjQzNTI3OSwxNzUwMjA5NTQ2LDQyMT
+A0MzY2LDIwNDAyMjg5NjksLTE3NTg5ODQ3MjQsMTMyNjk0Njc2
+NywxODE1MTIxNzgwLDQxNjM1ODA2M119
 -->
