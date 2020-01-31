@@ -71,19 +71,7 @@ Revisamos el estatus del repositorio después de crear directorios y archivos:
 ```bash
 $ git status
 ```
-```
-On branch master
-
-No commits yet
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	css/
-	index.html
-	js/
-
-nothing added to commit but untracked files present (use "git add" to track)
-```
+![img_git_status_02](images/img_06_git_status_02.png)
 
 #### ¿Qué significa esto?
 
@@ -97,6 +85,8 @@ Revisamos nuevamente el estatus del repositorio:
 ```bash
 $ git status
 ```
+![img_git_status_03](images/img_06_git_status_03.png)
+
 Para mover el resto de los archivos al Staging Index, ejecutamos el siguiente comando:
 
 ```bash
@@ -130,11 +120,11 @@ $ git commit
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMTgxNDAyMSwtMTkwMjcxNzQ1NiwtMT
-A3NTExMTA4NiwxMTMwNjAxMDM3LDIzNTkzMTYxNSwtMTEzMjg2
-NzA5NiwtNDE2NjAyNjg4LC03NDE4NDg2ODUsLTc0MTg0ODY4NS
-wtMTA3Nzk4ODExOSwxMzUxMDY2NjUzLC0xODA0NjI3NDQsLTE4
-MjIxODQ3MjQsLTE3ODQ2NjUxNDcsLTE4OTg5ODQ3MjIsLTU4Mz
-A4MDYyNCwxNzE4MjM3MjgxLDEzMjU3NDYzNzQsMTU2MjQzNTI3
-OSwxNzUwMjA5NTQ2XX0=
+eyJoaXN0b3J5IjpbMTc4MzEyMDU1OCwyMTAxODE0MDIxLC0xOT
+AyNzE3NDU2LC0xMDc1MTExMDg2LDExMzA2MDEwMzcsMjM1OTMx
+NjE1LC0xMTMyODY3MDk2LC00MTY2MDI2ODgsLTc0MTg0ODY4NS
+wtNzQxODQ4Njg1LC0xMDc3OTg4MTE5LDEzNTEwNjY2NTMsLTE4
+MDQ2Mjc0NCwtMTgyMjE4NDcyNCwtMTc4NDY2NTE0NywtMTg5OD
+k4NDcyMiwtNTgzMDgwNjI0LDE3MTgyMzcyODEsMTMyNTc0NjM3
+NCwxNTYyNDM1Mjc5XX0=
 -->
