@@ -39,10 +39,8 @@ Al ejecutar el comando git init se generan todos los directorios y archivos nece
 
 ![img_git_repo](images/img_git_repo.png)
 
-Aquí hay una breve sinopsis de cada uno de los archivos/directorios en el directorio **.git**:
-  
-
- - **config**: donde se guardan todos los ajustes de configuración específicos del proyecto, incluida la configuración inicial (nombre, e-mail). Ver la siguiente documentación para mayor detalle: [Git Book](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration)
+Archivos/directorios en el directorio **.git**:
+  - **config**: donde se guardan todos los ajustes de configuración específicos del proyecto, incluida la configuración inicial (nombre, e-mail). Ver la siguiente documentación para mayor detalle: [Git Book](https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration)
   
  - **description**: este archivo solo lo usa el programa GitWeb, por lo que puede ser ignorado
   
@@ -132,9 +130,9 @@ Esto debería generar la salida:
 En este punto este mensaje no debería ser un problema ya que en este repositorio aún no existen **commits** que mostrar. En siguientes lecciones se verá con más detalle el comando `git log`.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NjI0MDIyMSwtMTQyOTMyMjMwNCwtMj
-QyNzMyMDczLDIwNjk3OTQ0NTQsLTEwOTAzNjkzNDIsLTE1MTMx
-OTAzMDAsLTEyMTMxMTE1NjYsLTExNzg5NjgyMjQsMjAwNjc1ND
-U5MCwtMTc1MzA2ODM4MCwxNzg2NDY5ODAxLDE2NDY4NzE0MzYs
-NDE3MzE2ODFdfQ==
+eyJoaXN0b3J5IjpbNTk3NDQ5MzQ2LC0xNDI5MzIyMzA0LC0yND
+I3MzIwNzMsMjA2OTc5NDQ1NCwtMTA5MDM2OTM0MiwtMTUxMzE5
+MDMwMCwtMTIxMzExMTU2NiwtMTE3ODk2ODIyNCwyMDA2NzU0NT
+kwLC0xNzUzMDY4MzgwLDE3ODY0Njk4MDEsMTY0Njg3MTQzNiw0
+MTczMTY4MV19
 -->
