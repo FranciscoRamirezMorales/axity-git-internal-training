@@ -58,16 +58,16 @@ Crear el directorio `css` y dentro de él crear el archivo `app.css`
 Crear el directorio `js` y dentro de él crear el archivo `app.js`
 
 ```bash
-> mkdir css
-> mkdir js
+$ mkdir css
+$ mkdir js
 $ touch css/app.css
 $ touch js/app.js
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTk4NjE1OTYsLTE4OTg5ODQ3MjIsLT
-U4MzA4MDYyNCwxNzE4MjM3MjgxLDEzMjU3NDYzNzQsMTU2MjQz
-NTI3OSwxNzUwMjA5NTQ2LDQyMTA0MzY2LDIwNDAyMjg5NjksLT
-E3NTg5ODQ3MjQsMTMyNjk0Njc2NywxODE1MTIxNzgwLDQxNjM1
-ODA2M119
+eyJoaXN0b3J5IjpbMjE1MzY1MDkyLC0xODk4OTg0NzIyLC01OD
+MwODA2MjQsMTcxODIzNzI4MSwxMzI1NzQ2Mzc0LDE1NjI0MzUy
+NzksMTc1MDIwOTU0Niw0MjEwNDM2NiwyMDQwMjI4OTY5LC0xNz
+U4OTg0NzI0LDEzMjY5NDY3NjcsMTgxNTEyMTc4MCw0MTYzNTgw
+NjNdfQ==
 -->
