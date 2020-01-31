@@ -66,10 +66,10 @@ $ touch js/app.js
 
 Revisar el estatus del repositorio:
 
-```bash
+```batch
 $ git status
 ```
-```bash
+```batch
 On branch master
 
 No commits yet
@@ -88,9 +88,9 @@ nothing added to commit but untracked files present (use "git add" to track)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjIxODQ3MjQsLTE3ODQ2NjUxNDcsLT
-E4OTg5ODQ3MjIsLTU4MzA4MDYyNCwxNzE4MjM3MjgxLDEzMjU3
-NDYzNzQsMTU2MjQzNTI3OSwxNzUwMjA5NTQ2LDQyMTA0MzY2LD
-IwNDAyMjg5NjksLTE3NTg5ODQ3MjQsMTMyNjk0Njc2NywxODE1
-MTIxNzgwLDQxNjM1ODA2M119
+eyJoaXN0b3J5IjpbLTE4MDQ2Mjc0NCwtMTgyMjE4NDcyNCwtMT
+c4NDY2NTE0NywtMTg5ODk4NDcyMiwtNTgzMDgwNjI0LDE3MTgy
+MzcyODEsMTMyNTc0NjM3NCwxNTYyNDM1Mjc5LDE3NTAyMDk1ND
+YsNDIxMDQzNjYsMjA0MDIyODk2OSwtMTc1ODk4NDcyNCwxMzI2
+OTQ2NzY3LDE4MTUxMjE3ODAsNDE2MzU4MDYzXX0=
 -->
