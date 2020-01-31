@@ -57,7 +57,7 @@ Dentro del archivo `index.html` ingresar el siguiente código:
 Crear el directorio `css` y dentro de él crear el archivo `app.css`
 Crear el directorio `js` y dentro de él crear el archivo `app.js`
 
-```bash
+```batch
 mkdir css
 $ mkdir js
 $ touch css/app.css
@@ -88,9 +88,9 @@ nothing added to commit but untracked files present (use "git add" to track)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NDExMzU0NSwtMTc4NDY2NTE0NywtMT
-g5ODk4NDcyMiwtNTgzMDgwNjI0LDE3MTgyMzcyODEsMTMyNTc0
-NjM3NCwxNTYyNDM1Mjc5LDE3NTAyMDk1NDYsNDIxMDQzNjYsMj
-A0MDIyODk2OSwtMTc1ODk4NDcyNCwxMzI2OTQ2NzY3LDE4MTUx
-MjE3ODAsNDE2MzU4MDYzXX0=
+eyJoaXN0b3J5IjpbMzA5NTc2MTQzLC0xNzg0NjY1MTQ3LC0xOD
+k4OTg0NzIyLC01ODMwODA2MjQsMTcxODIzNzI4MSwxMzI1NzQ2
+Mzc0LDE1NjI0MzUyNzksMTc1MDIwOTU0Niw0MjEwNDM2NiwyMD
+QwMjI4OTY5LC0xNzU4OTg0NzI0LDEzMjY5NDY3NjcsMTgxNTEy
+MTc4MCw0MTYzNTgwNjNdfQ==
 -->
