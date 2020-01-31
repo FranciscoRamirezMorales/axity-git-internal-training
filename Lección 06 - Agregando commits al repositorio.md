@@ -70,6 +70,7 @@ Revisar el estatus del repositorio:
 $ git status
 ```
 
+```bash
 On branch master
 
 No commits yet
@@ -81,10 +82,10 @@ Untracked files:
 	js/
 
 nothing added to commit but untracked files present (use "git add" to track)
-
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDc4Nzk0MjUsLTE4OTg5ODQ3MjIsLT
+eyJoaXN0b3J5IjpbLTE2NDc1MzIzMjksLTE4OTg5ODQ3MjIsLT
 U4MzA4MDYyNCwxNzE4MjM3MjgxLDEzMjU3NDYzNzQsMTU2MjQz
 NTI3OSwxNzUwMjA5NTQ2LDQyMTA0MzY2LDIwNDAyMjg5NjksLT
 E3NTg5ODQ3MjQsMTMyNjk0Njc2NywxODE1MTIxNzgwLDQxNjM1
