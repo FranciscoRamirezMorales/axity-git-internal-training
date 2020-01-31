@@ -122,17 +122,17 @@ Podemos observar que ahora todos los archivos se encuentran en el Staging Index.
 
 ## Agregar commits
 
-Para hacer un commit usaremos el comando git commit:
+Para hacer un commit debemos ejecutar el siguiente comando:
 ```bash
 $ git commit
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NzAyODc5MCwtMTkwMjcxNzQ1NiwtMT
-A3NTExMTA4NiwxMTMwNjAxMDM3LDIzNTkzMTYxNSwtMTEzMjg2
-NzA5NiwtNDE2NjAyNjg4LC03NDE4NDg2ODUsLTc0MTg0ODY4NS
-wtMTA3Nzk4ODExOSwxMzUxMDY2NjUzLC0xODA0NjI3NDQsLTE4
-MjIxODQ3MjQsLTE3ODQ2NjUxNDcsLTE4OTg5ODQ3MjIsLTU4Mz
-A4MDYyNCwxNzE4MjM3MjgxLDEzMjU3NDYzNzQsMTU2MjQzNTI3
-OSwxNzUwMjA5NTQ2XX0=
+eyJoaXN0b3J5IjpbLTE4NTcyMjAzNTksLTE5MDI3MTc0NTYsLT
+EwNzUxMTEwODYsMTEzMDYwMTAzNywyMzU5MzE2MTUsLTExMzI4
+NjcwOTYsLTQxNjYwMjY4OCwtNzQxODQ4Njg1LC03NDE4NDg2OD
+UsLTEwNzc5ODgxMTksMTM1MTA2NjY1MywtMTgwNDYyNzQ0LC0x
+ODIyMTg0NzI0LC0xNzg0NjY1MTQ3LC0xODk4OTg0NzIyLC01OD
+MwODA2MjQsMTcxODIzNzI4MSwxMzI1NzQ2Mzc0LDE1NjI0MzUy
+NzksMTc1MDIwOTU0Nl19
 -->
