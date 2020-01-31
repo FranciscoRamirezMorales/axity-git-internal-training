@@ -57,13 +57,12 @@ dadsa
 sdasdsa
 
 
-```git
-//  this text is highlighted in green
+```git  this text is highlighted in green
 - this text is highlighted in red
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk2NDIwMTI4LDIwNDAyMjg5NjksLTE3NT
-g5ODQ3MjQsMTMyNjk0Njc2NywxODE1MTIxNzgwLDQxNjM1ODA2
-M119
+eyJoaXN0b3J5IjpbNDIxMDQzNjYsMjA0MDIyODk2OSwtMTc1OD
+k4NDcyNCwxMzI2OTQ2NzY3LDE4MTUxMjE3ODAsNDE2MzU4MDYz
+XX0=
 -->
