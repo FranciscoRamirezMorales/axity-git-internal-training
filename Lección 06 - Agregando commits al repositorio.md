@@ -86,15 +86,15 @@ nothing added to commit but untracked files present (use "git add" to track)
 
 ![img_work_to_index](images/img_work_to_index.gif)
 
-Para agregar el archivo `index.html` al Staging Index,  el comando:
+Para agregar el archivo `index.html` al Staging Index, debemos ejecutar el comando:
 
     # git add index.html
 
-Revisar nuevamente el estatus del repositorio:
+Revisamos nuevamente el estatus del repositorio:
 
     # git status
 
-Mover el resto de los archivos al Staging Index:
+Para mover el resto de los archivos al Staging Index, ejecutamos el siguiente comando:
 
 ```bash
 $ git add css/app.css js/app.js
@@ -103,16 +103,16 @@ $ git add css/app.css js/app.js
 $ git add .
 ```
 
-Ver nuevamente el estatus:
+Volvemos a revisar el estatus del repositorio:
 
     # git status
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTkxMDE5OTgsLTc0MTg0ODY4NSwtNz
-QxODQ4Njg1LC0xMDc3OTg4MTE5LDEzNTEwNjY2NTMsLTE4MDQ2
-Mjc0NCwtMTgyMjE4NDcyNCwtMTc4NDY2NTE0NywtMTg5ODk4ND
-cyMiwtNTgzMDgwNjI0LDE3MTgyMzcyODEsMTMyNTc0NjM3NCwx
-NTYyNDM1Mjc5LDE3NTAyMDk1NDYsNDIxMDQzNjYsMjA0MDIyOD
-k2OSwtMTc1ODk4NDcyNCwxMzI2OTQ2NzY3LDE4MTUxMjE3ODAs
-NDE2MzU4MDYzXX0=
+eyJoaXN0b3J5IjpbMTM0ODY3NTQzOSwtNzQxODQ4Njg1LC03ND
+E4NDg2ODUsLTEwNzc5ODgxMTksMTM1MTA2NjY1MywtMTgwNDYy
+NzQ0LC0xODIyMTg0NzI0LC0xNzg0NjY1MTQ3LC0xODk4OTg0Nz
+IyLC01ODMwODA2MjQsMTcxODIzNzI4MSwxMzI1NzQ2Mzc0LDE1
+NjI0MzUyNzksMTc1MDIwOTU0Niw0MjEwNDM2NiwyMDQwMjI4OT
+Y5LC0xNzU4OTg0NzI0LDEzMjY5NDY3NjcsMTgxNTEyMTc4MCw0
+MTYzNTgwNjNdfQ==
 -->
