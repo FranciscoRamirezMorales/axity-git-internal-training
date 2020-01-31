@@ -13,8 +13,9 @@ En esta lección veremos como:
 
 Antes de empezar a trabajar en nuestro repositorio debemos movernos al directorio `new-git-project` y posteriormente ejecutar el comando:
 
-```json
+```shell
 <html lang="en">
+<head>
 git status
 ```
 
@@ -53,7 +54,7 @@ dadsa
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyODc2NjI0MSwxNTYyNDM1Mjc5LDE3NT
-AyMDk1NDYsNDIxMDQzNjYsMjA0MDIyODk2OSwtMTc1ODk4NDcy
-NCwxMzI2OTQ2NzY3LDE4MTUxMjE3ODAsNDE2MzU4MDYzXX0=
+eyJoaXN0b3J5IjpbMjY4NjU1OTczLDE1NjI0MzUyNzksMTc1MD
+IwOTU0Niw0MjEwNDM2NiwyMDQwMjI4OTY5LC0xNzU4OTg0NzI0
+LDEzMjY5NDY3NjcsMTgxNTEyMTc4MCw0MTYzNTgwNjNdfQ==
 -->
