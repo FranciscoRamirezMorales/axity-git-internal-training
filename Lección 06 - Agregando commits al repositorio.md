@@ -16,7 +16,7 @@ Antes de empezar a trabajar en nuestro repositorio debemos movernos al directori
 
     # git status
 
-```data
+```gitignore
 git status -p
 ```
 
@@ -55,7 +55,7 @@ dadsa
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNjk5NTQ1MCwxNTYyNDM1Mjc5LDE3NT
+eyJoaXN0b3J5IjpbMTMyNTc0NjM3NCwxNTYyNDM1Mjc5LDE3NT
 AyMDk1NDYsNDIxMDQzNjYsMjA0MDIyODk2OSwtMTc1ODk4NDcy
 NCwxMzI2OTQ2NzY3LDE4MTUxMjE3ODAsNDE2MzU4MDYzXX0=
 -->
