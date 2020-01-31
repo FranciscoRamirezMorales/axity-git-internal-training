@@ -13,8 +13,9 @@ En esta lección veremos como:
 
 Antes de empezar a trabajar en nuestro repositorio debemos movernos al directorio `new-git-project` 
 
-    # cd cd ~/axity-git-course/new-git-project/
-    
+```
+# cd cd ~/axity-git-course/new-git-project/
+``` 
 Posteriormente ejecutar el comando:
 
     # git status
@@ -88,11 +89,11 @@ nothing added to commit but untracked files present (use "git add" to track)
 
 Para agregar el archivo `index.html` al Staging Index, debemos ejecutar el comando:
 
-    # git add index.html
+    $ git add index.html
 
 Revisamos nuevamente el estatus del repositorio:
 
-    # git status
+    $ git status
 
 Para mover el resto de los archivos al Staging Index, ejecutamos el siguiente comando:
 
@@ -108,7 +109,7 @@ Volvemos a revisar el estatus del repositorio:
     # git status
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0ODY3NTQzOSwtNzQxODQ4Njg1LC03ND
+eyJoaXN0b3J5IjpbMTY5MTUxOTQ5OSwtNzQxODQ4Njg1LC03ND
 E4NDg2ODUsLTEwNzc5ODgxMTksMTM1MTA2NjY1MywtMTgwNDYy
 NzQ0LC0xODIyMTg0NzI0LC0xNzg0NjY1MTQ3LC0xODk4OTg0Nz
 IyLC01ODMwODA2MjQsMTcxODIzNzI4MSwxMzI1NzQ2Mzc0LDE1
