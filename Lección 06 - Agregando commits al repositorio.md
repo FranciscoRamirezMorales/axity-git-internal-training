@@ -44,15 +44,16 @@ Crear un archivo index.html con el siguiente código:
 </html>
 ```
 dadsad
-```
+
+
 ```json
 {
   "firstName": "John",
   "lastName": "Smith",
   "age": 25
 }
-```
-```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTQ0NjY3OCw0MTYzNTgwNjNdfQ==
+eyJoaXN0b3J5IjpbMjAxNTczNjk4OCw0MTYzNTgwNjNdfQ==
 -->
