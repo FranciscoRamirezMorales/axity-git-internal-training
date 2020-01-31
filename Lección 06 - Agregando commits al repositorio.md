@@ -45,12 +45,13 @@ Crear un archivo index.html con el siguiente código:
 </html>
 ```
 
+Podemos ver que en código hace referencia 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzE2MTE2NDgsMTcxODIzNzI4MSwxMz
+eyJoaXN0b3J5IjpbLTIwMTE4MTM5MDYsMTcxODIzNzI4MSwxMz
 I1NzQ2Mzc0LDE1NjI0MzUyNzksMTc1MDIwOTU0Niw0MjEwNDM2
 NiwyMDQwMjI4OTY5LC0xNzU4OTg0NzI0LDEzMjY5NDY3NjcsMT
 gxNTEyMTc4MCw0MTYzNTgwNjNdfQ==
