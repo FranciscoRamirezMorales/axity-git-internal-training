@@ -11,8 +11,11 @@ En esta lección veremos como:
 
 ## Empezar a utilizar nuestro repositorio
 
-Antes de empezar a trabajar en nuestro repositorio debemos movernos al directorio `new-git-project` y posteriormente ejecutar el comando:
+Antes de empezar a trabajar en nuestro repositorio debemos movernos al directorio `new-git-project` 
 
+    # cd ~/new-git-project
+    
+y posteriormente ejecutar el comando:
 
     # git status
 
@@ -50,15 +53,18 @@ Crear un archivo `index.html` con el siguiente código:
 Crear el directorio `css` y dentro de él crear el archivo `app.css`
 Crear el directorio `js` y dentro de él crear el archivo `app.js`
 
-
+mkdir css
+mkdir js
+touch css/app.css
+touch js/app.js
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNTgxMjczOSwxNzE4MjM3MjgxLDEzMj
-U3NDYzNzQsMTU2MjQzNTI3OSwxNzUwMjA5NTQ2LDQyMTA0MzY2
-LDIwNDAyMjg5NjksLTE3NTg5ODQ3MjQsMTMyNjk0Njc2NywxOD
-E1MTIxNzgwLDQxNjM1ODA2M119
+eyJoaXN0b3J5IjpbLTE0NDk5MTk4OTMsMTcxODIzNzI4MSwxMz
+I1NzQ2Mzc0LDE1NjI0MzUyNzksMTc1MDIwOTU0Niw0MjEwNDM2
+NiwyMDQwMjI4OTY5LC0xNzU4OTg0NzI0LDEzMjY5NDY3NjcsMT
+gxNTEyMTc4MCw0MTYzNTgwNjNdfQ==
 -->
