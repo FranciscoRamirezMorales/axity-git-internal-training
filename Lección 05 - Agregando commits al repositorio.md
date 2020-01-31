@@ -22,9 +22,10 @@ Salida:
     Initial commit
 
     nothing to commit (create/copy files and use "git add" to track)
-```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1ODc5OTg1MywtMTIwNTk0NDEwNSw1Nz
+eyJoaXN0b3J5IjpbMTEzODQyMDYyOSwtMTIwNTk0NDEwNSw1Nz
 M1MDQxMTYsODQ0MTM3MDk5LDc1OTI5OTA3MSw1MTQ3MDUzNTNd
 fQ==
 -->
