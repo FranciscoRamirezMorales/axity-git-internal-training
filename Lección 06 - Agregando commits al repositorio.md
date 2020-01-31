@@ -13,7 +13,10 @@ En esta lección veremos como:
 
 Antes de empezar a trabajar en nuestro repositorio debemos movernos al directorio `new-git-project` y posteriormente ejecutar el comando:
 
-    # git status
+```json
+<html lang="en">
+git status
+```
 
 Salida:
 
@@ -50,7 +53,7 @@ dadsa
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MjQzNTI3OSwxNzUwMjA5NTQ2LDQyMT
-A0MzY2LDIwNDAyMjg5NjksLTE3NTg5ODQ3MjQsMTMyNjk0Njc2
-NywxODE1MTIxNzgwLDQxNjM1ODA2M119
+eyJoaXN0b3J5IjpbMTAyODc2NjI0MSwxNTYyNDM1Mjc5LDE3NT
+AyMDk1NDYsNDIxMDQzNjYsMjA0MDIyODk2OSwtMTc1ODk4NDcy
+NCwxMzI2OTQ2NzY3LDE4MTUxMjE3ODAsNDE2MzU4MDYzXX0=
 -->
