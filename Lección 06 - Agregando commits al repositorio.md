@@ -45,11 +45,11 @@ Crear un archivo index.html con el siguiente código:
 ```
 dadsad
 
-```
+
 Some Markdown text with <span style="color:blue">some *blue* text</span>.
-```
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzcwNTcwNTksMTgxNTEyMTc4MCw0MT
-YzNTgwNjNdfQ==
+eyJoaXN0b3J5IjpbMTMyNjk0Njc2NywxODE1MTIxNzgwLDQxNj
+M1ODA2M119
 -->
