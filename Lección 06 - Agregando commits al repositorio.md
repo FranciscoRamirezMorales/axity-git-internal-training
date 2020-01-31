@@ -31,8 +31,9 @@ y posteriormente ejecutar el comando:
 
 Crear un archivo `index.html` 
 
+    # touch index.html
 
-Dentro del archivo `index.html` con el siguiente código:
+Dentro del archivo `index.html` ingresar el siguiente código:
 
 ```html
 <!doctype html>
@@ -66,8 +67,8 @@ touch js/app.js
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDQzMDAwODEsMTcxODIzNzI4MSwxMz
-I1NzQ2Mzc0LDE1NjI0MzUyNzksMTc1MDIwOTU0Niw0MjEwNDM2
-NiwyMDQwMjI4OTY5LC0xNzU4OTg0NzI0LDEzMjY5NDY3NjcsMT
-gxNTEyMTc4MCw0MTYzNTgwNjNdfQ==
+eyJoaXN0b3J5IjpbMTA3OTc0MjQ3LDE3MTgyMzcyODEsMTMyNT
+c0NjM3NCwxNTYyNDM1Mjc5LDE3NTAyMDk1NDYsNDIxMDQzNjYs
+MjA0MDIyODk2OSwtMTc1ODk4NDcyNCwxMzI2OTQ2NzY3LDE4MT
+UxMjE3ODAsNDE2MzU4MDYzXX0=
 -->
