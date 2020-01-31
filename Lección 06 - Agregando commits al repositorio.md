@@ -58,7 +58,7 @@ Crear el directorio `css` y dentro de él crear el archivo `app.css`
 Crear el directorio `js` y dentro de él crear el archivo `app.js`
 
 ```bash
-$ mkdir css
+mkdir css
 $ mkdir js
 $ touch css/app.css
 $ touch js/app.js
@@ -82,13 +82,13 @@ Untracked files:
 
 nothing added to commit but untracked files present (use "git add" to track)
 ```
-
+#### ¿Qué significa esto?
 
 ![img_work_to_index](images/img_work_to_index.gif)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNjE0NTAyOCwtMTc4NDY2NTE0NywtMT
+eyJoaXN0b3J5IjpbMjE0NDExMzU0NSwtMTc4NDY2NTE0NywtMT
 g5ODk4NDcyMiwtNTgzMDgwNjI0LDE3MTgyMzcyODEsMTMyNTc0
 NjM3NCwxNTYyNDM1Mjc5LDE3NTAyMDk1NDYsNDIxMDQzNjYsMj
 A0MDIyODk2OSwtMTc1ODk4NDcyNCwxMzI2OTQ2NzY3LDE4MTUx
