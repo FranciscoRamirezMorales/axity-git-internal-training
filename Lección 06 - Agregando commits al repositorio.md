@@ -16,9 +16,8 @@ Antes de empezar a trabajar en nuestro repositorio debemos movernos al directori
     # cd ~/new-git-project
     
 y posteriormente ejecutar el comando:
-```
+
     # git status
-```
 
 ```json
     On branch master
@@ -30,7 +29,10 @@ y posteriormente ejecutar el comando:
 
 ### Crear un archivo HTML
 
-Crear un archivo `index.html` con el siguiente código:
+Crear un archivo `index.html` 
+
+
+Dentro del archivo `index.html` con el siguiente código:
 
 ```html
 <!doctype html>
@@ -64,8 +66,8 @@ touch js/app.js
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwNjg1NzUxLDE3MTgyMzcyODEsMTMyNT
-c0NjM3NCwxNTYyNDM1Mjc5LDE3NTAyMDk1NDYsNDIxMDQzNjYs
-MjA0MDIyODk2OSwtMTc1ODk4NDcyNCwxMzI2OTQ2NzY3LDE4MT
-UxMjE3ODAsNDE2MzU4MDYzXX0=
+eyJoaXN0b3J5IjpbLTEwNDQzMDAwODEsMTcxODIzNzI4MSwxMz
+I1NzQ2Mzc0LDE1NjI0MzUyNzksMTc1MDIwOTU0Niw0MjEwNDM2
+NiwyMDQwMjI4OTY5LC0xNzU4OTg0NzI0LDEzMjY5NDY3NjcsMT
+gxNTEyMTc4MCw0MTYzNTgwNjNdfQ==
 -->
