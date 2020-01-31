@@ -112,12 +112,15 @@ Volvemos a revisar el estatus del repositorio:
 $ git status
 ```
 
-Podemos observar que ahora todos los archivos se encuentran en el Staging Index
-
 ![img_git_status_04](images/img_06_git_status_04.png)
+
+Podemos observar que ahora todos los archivos se encuentran en el Staging Index.
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDI3MTc0NTYsLTEwNzUxMTEwODYsLT
-E5MDI3MTc0NTYsMTEzMDYwMTAzNywyMzU5MzE2MTUsLTExMzI4
+eyJoaXN0b3J5IjpbLTEzNTc1OTM4NDAsLTE5MDI3MTc0NTYsLT
+EwNzUxMTEwODYsMTEzMDYwMTAzNywyMzU5MzE2MTUsLTExMzI4
 NjcwOTYsLTQxNjYwMjY4OCwtNzQxODQ4Njg1LC03NDE4NDg2OD
 UsLTEwNzc5ODgxMTksMTM1MTA2NjY1MywtMTgwNDYyNzQ0LC0x
 ODIyMTg0NzI0LC0xNzg0NjY1MTQ3LC0xODk4OTg0NzIyLC01OD
