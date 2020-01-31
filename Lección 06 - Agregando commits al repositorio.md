@@ -45,15 +45,11 @@ Crear un archivo index.html con el siguiente código:
 ```
 dadsad
 
-
-```json
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
+```
+Some Markdown text with <span style="color:blue">some *blue* text</span>.
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNTEyMTc4MCw0MTYzNTgwNjNdfQ==
+eyJoaXN0b3J5IjpbLTE1NzcwNTcwNTksMTgxNTEyMTc4MCw0MT
+YzNTgwNjNdfQ==
 -->
