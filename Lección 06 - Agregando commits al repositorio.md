@@ -16,9 +16,9 @@ Antes de empezar a trabajar en nuestro repositorio debemos movernos al directori
 
     # git status
 
-```ini
+```git
 ".gitconfig"
-git status -p
+"git status -p"
 ```
 
 Salida:
@@ -56,8 +56,8 @@ dadsa
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjAwNTU3OTgsMTMyNTc0NjM3NCwxNT
-YyNDM1Mjc5LDE3NTAyMDk1NDYsNDIxMDQzNjYsMjA0MDIyODk2
-OSwtMTc1ODk4NDcyNCwxMzI2OTQ2NzY3LDE4MTUxMjE3ODAsND
-E2MzU4MDYzXX0=
+eyJoaXN0b3J5IjpbMTY5NDczNzE0NCwxMzI1NzQ2Mzc0LDE1Nj
+I0MzUyNzksMTc1MDIwOTU0Niw0MjEwNDM2NiwyMDQwMjI4OTY5
+LC0xNzU4OTg0NzI0LDEzMjY5NDY3NjcsMTgxNTEyMTc4MCw0MT
+YzNTgwNjNdfQ==
 -->
