@@ -58,7 +58,7 @@ Crear el directorio `css` y dentro de él crear el archivo `app.css`
 Crear el directorio `js` y dentro de él crear el archivo `app.js`
 
 ```batch
-# mkdir css
+$ mkdir css
 $ mkdir js
 $ touch css/app.css
 $ touch js/app.js
@@ -67,7 +67,7 @@ $ touch js/app.js
 Revisar el estatus del repositorio:
 
 ```batch
-> git status
+$ git status
 ```
 ```
 On branch master
@@ -88,10 +88,10 @@ nothing added to commit but untracked files present (use "git add" to track)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MjcxNDg2LC0xODA0NjI3NDQsLTE4Mj
-IxODQ3MjQsLTE3ODQ2NjUxNDcsLTE4OTg5ODQ3MjIsLTU4MzA4
-MDYyNCwxNzE4MjM3MjgxLDEzMjU3NDYzNzQsMTU2MjQzNTI3OS
-wxNzUwMjA5NTQ2LDQyMTA0MzY2LDIwNDAyMjg5NjksLTE3NTg5
-ODQ3MjQsMTMyNjk0Njc2NywxODE1MTIxNzgwLDQxNjM1ODA2M1
-19
+eyJoaXN0b3J5IjpbMTM1MTA2NjY1MywtMTgwNDYyNzQ0LC0xOD
+IyMTg0NzI0LC0xNzg0NjY1MTQ3LC0xODk4OTg0NzIyLC01ODMw
+ODA2MjQsMTcxODIzNzI4MSwxMzI1NzQ2Mzc0LDE1NjI0MzUyNz
+ksMTc1MDIwOTU0Niw0MjEwNDM2NiwyMDQwMjI4OTY5LC0xNzU4
+OTg0NzI0LDEzMjY5NDY3NjcsMTgxNTEyMTc4MCw0MTYzNTgwNj
+NdfQ==
 -->
