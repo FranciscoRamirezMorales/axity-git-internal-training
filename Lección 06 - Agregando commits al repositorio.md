@@ -65,8 +65,9 @@ $ mkdir js
 $ touch css/app.css
 $ touch js/app.js
 ```
+### Aprovechar el poder del comando `git status`
 
-Revisar el estatus del repositorio:
+Revisemos el estatus del repositorio después de crear directorios y archivos:
 
 ```bash
 $ git status
@@ -119,11 +120,11 @@ Podemos observar que ahora todos los archivos se encuentran en el Staging Index.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTc1OTM4NDAsLTE5MDI3MTc0NTYsLT
-EwNzUxMTEwODYsMTEzMDYwMTAzNywyMzU5MzE2MTUsLTExMzI4
-NjcwOTYsLTQxNjYwMjY4OCwtNzQxODQ4Njg1LC03NDE4NDg2OD
-UsLTEwNzc5ODgxMTksMTM1MTA2NjY1MywtMTgwNDYyNzQ0LC0x
-ODIyMTg0NzI0LC0xNzg0NjY1MTQ3LC0xODk4OTg0NzIyLC01OD
-MwODA2MjQsMTcxODIzNzI4MSwxMzI1NzQ2Mzc0LDE1NjI0MzUy
-NzksMTc1MDIwOTU0Nl19
+eyJoaXN0b3J5IjpbNDAwNjg1OTUwLC0xOTAyNzE3NDU2LC0xMD
+c1MTExMDg2LDExMzA2MDEwMzcsMjM1OTMxNjE1LC0xMTMyODY3
+MDk2LC00MTY2MDI2ODgsLTc0MTg0ODY4NSwtNzQxODQ4Njg1LC
+0xMDc3OTg4MTE5LDEzNTEwNjY2NTMsLTE4MDQ2Mjc0NCwtMTgy
+MjE4NDcyNCwtMTc4NDY2NTE0NywtMTg5ODk4NDcyMiwtNTgzMD
+gwNjI0LDE3MTgyMzcyODEsMTMyNTc0NjM3NCwxNTYyNDM1Mjc5
+LDE3NTAyMDk1NDZdfQ==
 -->
