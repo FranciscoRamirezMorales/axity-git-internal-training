@@ -45,14 +45,13 @@ Crear un archivo index.html con el siguiente código:
 </html>
 ```
 
-dadsa
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxODIzNzI4MSwxMzI1NzQ2Mzc0LDE1Nj
-I0MzUyNzksMTc1MDIwOTU0Niw0MjEwNDM2NiwyMDQwMjI4OTY5
-LC0xNzU4OTg0NzI0LDEzMjY5NDY3NjcsMTgxNTEyMTc4MCw0MT
-YzNTgwNjNdfQ==
+eyJoaXN0b3J5IjpbLTExNzE2MTE2NDgsMTcxODIzNzI4MSwxMz
+I1NzQ2Mzc0LDE1NjI0MzUyNzksMTc1MDIwOTU0Niw0MjEwNDM2
+NiwyMDQwMjI4OTY5LC0xNzU4OTg0NzI0LDEzMjY5NDY3NjcsMT
+gxNTEyMTc4MCw0MTYzNTgwNjNdfQ==
 -->
