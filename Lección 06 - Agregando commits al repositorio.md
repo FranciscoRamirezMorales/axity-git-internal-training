@@ -118,11 +118,11 @@ Podemos observar que ahora todos los archivos se encuentran en el Staging Index.
 
 ### Aprovechar el poder del comando `git status`
 
-> En este punto ya podemos identificar que el  git status es 
+> En este punto ya podemos identificar que git status es un comando bastante útil. Siempre debemos tenerlo en mente antes y despues de cualquier otro comando de Git
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NTY1MjE1LC0xOTAyNzE3NDU2LC0xMD
+eyJoaXN0b3J5IjpbNTg0MDYzODM5LC0xOTAyNzE3NDU2LC0xMD
 c1MTExMDg2LDExMzA2MDEwMzcsMjM1OTMxNjE1LC0xMTMyODY3
 MDk2LC00MTY2MDI2ODgsLTc0MTg0ODY4NSwtNzQxODQ4Njg1LC
 0xMDc3OTg4MTE5LDEzNTEwNjY2NTMsLTE4MDQ2Mjc0NCwtMTgy
