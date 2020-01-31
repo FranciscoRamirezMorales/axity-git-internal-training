@@ -94,8 +94,9 @@ Para agregar el archivo `index.html` al Staging Index, debemos ejecutar el coman
 
 Revisamos nuevamente el estatus del repositorio:
 
+```bash
     $ git status
-
+```
 Para mover el resto de los archivos al Staging Index, ejecutamos el siguiente comando:
 
 ```bash
@@ -107,10 +108,11 @@ $ git add .
 
 Volvemos a revisar el estatus del repositorio:
 
-    # git status
-
+```bash
+$ git status
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NTU1MjQxMiwtNDE2NjAyNjg4LC03ND
+eyJoaXN0b3J5IjpbLTcxOTIxNjk4MywtNDE2NjAyNjg4LC03ND
 E4NDg2ODUsLTc0MTg0ODY4NSwtMTA3Nzk4ODExOSwxMzUxMDY2
 NjUzLC0xODA0NjI3NDQsLTE4MjIxODQ3MjQsLTE3ODQ2NjUxND
 csLTE4OTg5ODQ3MjIsLTU4MzA4MDYyNCwxNzE4MjM3MjgxLDEz
