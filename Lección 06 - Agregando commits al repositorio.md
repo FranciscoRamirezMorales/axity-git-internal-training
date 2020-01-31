@@ -47,16 +47,18 @@ Crear un archivo `index.html` con el siguiente código:
 
 > Podemos ver que en código hace referencia a un archivo CSS  y JavaScript.
 
-Crear el directorio css y dentro de él crear el archivo app.css
+Crear el directorio `css` y dentro de él crear el archivo `app.css`
+Crear el directorio `js` y dentro de él crear el archivo `app.js`
 
-Crear el directorio js y dentro de él crear el archivo app.js
+
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzQ1MTI3MzksMTcxODIzNzI4MSwxMz
-I1NzQ2Mzc0LDE1NjI0MzUyNzksMTc1MDIwOTU0Niw0MjEwNDM2
-NiwyMDQwMjI4OTY5LC0xNzU4OTg0NzI0LDEzMjY5NDY3NjcsMT
-gxNTEyMTc4MCw0MTYzNTgwNjNdfQ==
+eyJoaXN0b3J5IjpbLTUyNTgxMjczOSwxNzE4MjM3MjgxLDEzMj
+U3NDYzNzQsMTU2MjQzNTI3OSwxNzUwMjA5NTQ2LDQyMTA0MzY2
+LDIwNDAyMjg5NjksLTE3NTg5ODQ3MjQsMTMyNjk0Njc2NywxOD
+E1MTIxNzgwLDQxNjM1ODA2M119
 -->
