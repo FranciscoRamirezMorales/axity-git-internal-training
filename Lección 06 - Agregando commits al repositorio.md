@@ -46,12 +46,19 @@ Crear un archivo index.html con el siguiente código:
 dadsad
 
 
-```
-<span style="color:red">some **This is Red Bold.** text</span>
-```
+
+
+// resets
+s { text-decoration:none; } //strike-through
+em { font-style: normal; font-weight: bold; } //italic emphasis
+
+
+// colors
+s { color: green }
+em { color: blue }
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0ODI5Nzg5MCwxMzI2OTQ2NzY3LDE4MT
-UxMjE3ODAsNDE2MzU4MDYzXX0=
+eyJoaXN0b3J5IjpbLTE4NDAwNDY1MzcsMTMyNjk0Njc2NywxOD
+E1MTIxNzgwLDQxNjM1ODA2M119
 -->
