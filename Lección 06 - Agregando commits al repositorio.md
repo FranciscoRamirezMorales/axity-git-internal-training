@@ -57,12 +57,12 @@ dadsa
 sdasdsa
 
 
-```git  this text is highlighted in green
-- this text is highlighted in red
-```
+<div class="text-purple">
+  This text is purple, <a href="#" class="text-inherit">including the link</a>
+</div>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIxMDQzNjYsMjA0MDIyODk2OSwtMTc1OD
-k4NDcyNCwxMzI2OTQ2NzY3LDE4MTUxMjE3ODAsNDE2MzU4MDYz
-XX0=
+eyJoaXN0b3J5IjpbLTI3NTk3NzA3NCw0MjEwNDM2NiwyMDQwMj
+I4OTY5LC0xNzU4OTg0NzI0LDEzMjY5NDY3NjcsMTgxNTEyMTc4
+MCw0MTYzNTgwNjNdfQ==
 -->
