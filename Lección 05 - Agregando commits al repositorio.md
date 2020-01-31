@@ -15,15 +15,16 @@ Antes de empezar a trabajar en nuestro repositorio debemos movernos al directori
 
     # git status
 
+Salida:
 
-```
-On branch master
+    On branch master
 
-Initial commit
+    Initial commit
 
-nothing to commit (create/copy files and use "git add" to track)
+    nothing to commit (create/copy files and use "git add" to track)
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDU5NDQxMDUsNTczNTA0MTE2LDg0ND
-EzNzA5OSw3NTkyOTkwNzEsNTE0NzA1MzUzXX0=
+eyJoaXN0b3J5IjpbMTI1ODc5OTg1MywtMTIwNTk0NDEwNSw1Nz
+M1MDQxMTYsODQ0MTM3MDk5LDc1OTI5OTA3MSw1MTQ3MDUzNTNd
+fQ==
 -->
