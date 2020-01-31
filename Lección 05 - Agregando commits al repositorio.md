@@ -9,8 +9,12 @@ En esta lección veremos como:
  - Ver cambios realizados antes de un commit
  - Omitir archivos en Git
 
-## 
+## Empezar a utilizar nuestro repositorio
+
+Ejecutar el siguiente comando
+
+    # git status
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTczNTA0MTE2LDg0NDEzNzA5OSw3NTkyOT
-kwNzEsNTE0NzA1MzUzXX0=
+eyJoaXN0b3J5IjpbLTUwMDc3OTc0Nyw1NzM1MDQxMTYsODQ0MT
+M3MDk5LDc1OTI5OTA3MSw1MTQ3MDUzNTNdfQ==
 -->
