@@ -86,12 +86,14 @@ nothing added to commit but untracked files present (use "git add" to track)
 
 ![img_work_to_index](images/img_work_to_index.gif)
 
-Para agregar el archivo index.html al area de 
+Para agregar el archivo `index.html` al Staging Index, ejecutar el comando:
+
+    # 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzc5ODgxMTksMTM1MTA2NjY1MywtMT
-gwNDYyNzQ0LC0xODIyMTg0NzI0LC0xNzg0NjY1MTQ3LC0xODk4
-OTg0NzIyLC01ODMwODA2MjQsMTcxODIzNzI4MSwxMzI1NzQ2Mz
-c0LDE1NjI0MzUyNzksMTc1MDIwOTU0Niw0MjEwNDM2NiwyMDQw
-MjI4OTY5LC0xNzU4OTg0NzI0LDEzMjY5NDY3NjcsMTgxNTEyMT
-c4MCw0MTYzNTgwNjNdfQ==
+eyJoaXN0b3J5IjpbLTEyMzcyMzgzOTgsLTEwNzc5ODgxMTksMT
+M1MTA2NjY1MywtMTgwNDYyNzQ0LC0xODIyMTg0NzI0LC0xNzg0
+NjY1MTQ3LC0xODk4OTg0NzIyLC01ODMwODA2MjQsMTcxODIzNz
+I4MSwxMzI1NzQ2Mzc0LDE1NjI0MzUyNzksMTc1MDIwOTU0Niw0
+MjEwNDM2NiwyMDQwMjI4OTY5LC0xNzU4OTg0NzI0LDEzMjY5ND
+Y3NjcsMTgxNTEyMTc4MCw0MTYzNTgwNjNdfQ==
 -->
