@@ -89,11 +89,10 @@ nothing added to commit but untracked files present (use "git add" to track)
 ![img_work_to_index](images/img_work_to_index.gif)
 
 Para agregar el archivo `index.html` al Staging Index, debemos ejecutar el comando:
-
+```bash
     $ git add index.html
-
+```
 Revisamos nuevamente el estatus del repositorio:
-
 ```bash
     $ git status
 ```
@@ -112,7 +111,7 @@ Volvemos a revisar el estatus del repositorio:
 $ git status
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxOTIxNjk4MywtNDE2NjAyNjg4LC03ND
+eyJoaXN0b3J5IjpbLTk2ODcxMjAwOSwtNDE2NjAyNjg4LC03ND
 E4NDg2ODUsLTc0MTg0ODY4NSwtMTA3Nzk4ODExOSwxMzUxMDY2
 NjUzLC0xODA0NjI3NDQsLTE4MjIxODQ3MjQsLTE3ODQ2NjUxND
 csLTE4OTg5ODQ3MjIsLTU4MzA4MDYyNCwxNzE4MjM3MjgxLDEz
