@@ -83,10 +83,13 @@ Untracked files:
 nothing added to commit but untracked files present (use "git add" to track)
 ```
 
+![img_work_to_index](images/img_work_to_index.gif)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODQ2NjUxNDcsLTE4OTg5ODQ3MjIsLT
-U4MzA4MDYyNCwxNzE4MjM3MjgxLDEzMjU3NDYzNzQsMTU2MjQz
-NTI3OSwxNzUwMjA5NTQ2LDQyMTA0MzY2LDIwNDAyMjg5NjksLT
-E3NTg5ODQ3MjQsMTMyNjk0Njc2NywxODE1MTIxNzgwLDQxNjM1
-ODA2M119
+eyJoaXN0b3J5IjpbMjA1MjEyMzAzMCwtMTc4NDY2NTE0NywtMT
+g5ODk4NDcyMiwtNTgzMDgwNjI0LDE3MTgyMzcyODEsMTMyNTc0
+NjM3NCwxNTYyNDM1Mjc5LDE3NTAyMDk1NDYsNDIxMDQzNjYsMj
+A0MDIyODk2OSwtMTc1ODk4NDcyNCwxMzI2OTQ2NzY3LDE4MTUx
+MjE3ODAsNDE2MzU4MDYzXX0=
 -->
