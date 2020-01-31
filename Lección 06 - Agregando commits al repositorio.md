@@ -120,9 +120,11 @@ Podemos observar que ahora todos los archivos se encuentran en el Staging Index.
 
 > En este punto ya podemos identificar que git status es un comando bastante útil. Siempre debemos tenerlo en mente antes y después de cualquier otro comando de Git.
 
+## Agregar commits
 
+Para hacer un commit usaremos el comando git commit
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMzUzMzY2MSwtMTkwMjcxNzQ1NiwtMT
+eyJoaXN0b3J5IjpbMTk4NzUwOTEyNSwtMTkwMjcxNzQ1NiwtMT
 A3NTExMTA4NiwxMTMwNjAxMDM3LDIzNTkzMTYxNSwtMTEzMjg2
 NzA5NiwtNDE2NjAyNjg4LC03NDE4NDg2ODUsLTc0MTg0ODY4NS
 wtMTA3Nzk4ODExOSwxMzUxMDY2NjUzLC0xODA0NjI3NDQsLTE4
