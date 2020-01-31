@@ -32,9 +32,9 @@ nothing to commit (create/copy files and use "git add" to track)
 ### Crear un archivo HTML
 
 Crear un archivo `index.html` 
-
-    # touch index.html
-
+```bash
+    $ touch index.html
+```
 Dentro del archivo `index.html` debemos incluir el siguiente código:
 
 ```html
@@ -68,7 +68,7 @@ $ touch js/app.js
 
 Revisar el estatus del repositorio:
 
-```batch
+```bash
 $ git status
 ```
 ```
@@ -84,17 +84,18 @@ Untracked files:
 
 nothing added to commit but untracked files present (use "git add" to track)
 ```
+
 #### ¿Qué significa esto?
 
 ![img_work_to_index](images/img_work_to_index.gif)
 
 Para agregar el archivo `index.html` al Staging Index, debemos ejecutar el comando:
 ```bash
-    $ git add index.html
+$ git add index.html
 ```
 Revisamos nuevamente el estatus del repositorio:
 ```bash
-    $ git status
+$ git status
 ```
 Para mover el resto de los archivos al Staging Index, ejecutamos el siguiente comando:
 
@@ -111,11 +112,11 @@ Volvemos a revisar el estatus del repositorio:
 $ git status
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2ODcxMjAwOSwtNDE2NjAyNjg4LC03ND
-E4NDg2ODUsLTc0MTg0ODY4NSwtMTA3Nzk4ODExOSwxMzUxMDY2
-NjUzLC0xODA0NjI3NDQsLTE4MjIxODQ3MjQsLTE3ODQ2NjUxND
-csLTE4OTg5ODQ3MjIsLTU4MzA4MDYyNCwxNzE4MjM3MjgxLDEz
-MjU3NDYzNzQsMTU2MjQzNTI3OSwxNzUwMjA5NTQ2LDQyMTA0Mz
-Y2LDIwNDAyMjg5NjksLTE3NTg5ODQ3MjQsMTMyNjk0Njc2Nywx
-ODE1MTIxNzgwXX0=
+eyJoaXN0b3J5IjpbLTExMzI4NjcwOTYsLTQxNjYwMjY4OCwtNz
+QxODQ4Njg1LC03NDE4NDg2ODUsLTEwNzc5ODgxMTksMTM1MTA2
+NjY1MywtMTgwNDYyNzQ0LC0xODIyMTg0NzI0LC0xNzg0NjY1MT
+Q3LC0xODk4OTg0NzIyLC01ODMwODA2MjQsMTcxODIzNzI4MSwx
+MzI1NzQ2Mzc0LDE1NjI0MzUyNzksMTc1MDIwOTU0Niw0MjEwND
+M2NiwyMDQwMjI4OTY5LC0xNzU4OTg0NzI0LDEzMjY5NDY3Njcs
+MTgxNTEyMTc4MF19
 -->
