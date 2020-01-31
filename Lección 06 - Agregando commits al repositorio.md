@@ -59,7 +59,7 @@ Dentro del archivo `index.html` debemos incluir el siguiente código:
 Crear el directorio `css` y dentro de él crear el archivo `app.css`
 Crear el directorio `js` y dentro de él crear el archivo `app.js`
 
-```batch
+```bash
 $ mkdir css
 $ mkdir js
 $ touch css/app.css
@@ -110,11 +110,11 @@ Volvemos a revisar el estatus del repositorio:
     # git status
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNjYwMjY4OCwtNzQxODQ4Njg1LC03ND
-E4NDg2ODUsLTEwNzc5ODgxMTksMTM1MTA2NjY1MywtMTgwNDYy
-NzQ0LC0xODIyMTg0NzI0LC0xNzg0NjY1MTQ3LC0xODk4OTg0Nz
-IyLC01ODMwODA2MjQsMTcxODIzNzI4MSwxMzI1NzQ2Mzc0LDE1
-NjI0MzUyNzksMTc1MDIwOTU0Niw0MjEwNDM2NiwyMDQwMjI4OT
-Y5LC0xNzU4OTg0NzI0LDEzMjY5NDY3NjcsMTgxNTEyMTc4MCw0
-MTYzNTgwNjNdfQ==
+eyJoaXN0b3J5IjpbLTU0NTU1MjQxMiwtNDE2NjAyNjg4LC03ND
+E4NDg2ODUsLTc0MTg0ODY4NSwtMTA3Nzk4ODExOSwxMzUxMDY2
+NjUzLC0xODA0NjI3NDQsLTE4MjIxODQ3MjQsLTE3ODQ2NjUxND
+csLTE4OTg5ODQ3MjIsLTU4MzA4MDYyNCwxNzE4MjM3MjgxLDEz
+MjU3NDYzNzQsMTU2MjQzNTI3OSwxNzUwMjA5NTQ2LDQyMTA0Mz
+Y2LDIwNDAyMjg5NjksLTE3NTg5ODQ3MjQsMTMyNjk0Njc2Nywx
+ODE1MTIxNzgwXX0=
 -->
