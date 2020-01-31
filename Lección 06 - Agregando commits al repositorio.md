@@ -46,10 +46,12 @@ Crear un archivo index.html con el siguiente código:
 dadsad
 
 
-Some Markdown text with <span style="color:blue">some *blue* text</span>.
+```
+<span style="color:red">some **This is Red Bold.** text</span>
+```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNjk0Njc2NywxODE1MTIxNzgwLDQxNj
-M1ODA2M119
+eyJoaXN0b3J5IjpbMTc0ODI5Nzg5MCwxMzI2OTQ2NzY3LDE4MT
+UxMjE3ODAsNDE2MzU4MDYzXX0=
 -->
