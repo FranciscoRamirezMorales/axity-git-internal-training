@@ -33,7 +33,7 @@ Crear un archivo `index.html`
 
     # touch index.html
 
-Dentro del archivo `index.html` debemo el siguiente código:
+Dentro del archivo `index.html` debemos incluir el siguiente código:
 
 ```html
 <!doctype html>
@@ -52,7 +52,7 @@ Dentro del archivo `index.html` debemo el siguiente código:
 </html>
 ```
 
-> Podemos ver que en código hace referencia a un archivo CSS  y JavaScript.
+> Podemos ver que en código hace referencia a un archivo CSS  y otro  de JavaScript.
 
 Crear el directorio `css` y dentro de él crear el archivo `app.css`
 Crear el directorio `js` y dentro de él crear el archivo `app.js`
@@ -86,7 +86,7 @@ nothing added to commit but untracked files present (use "git add" to track)
 
 ![img_work_to_index](images/img_work_to_index.gif)
 
-Para agregar el archivo `index.html` al Staging Index, ejecutar el comando:
+Para agregar el archivo `index.html` al Staging Index,  el comando:
 
     # git add index.html
 
@@ -108,11 +108,11 @@ Ver nuevamente el estatus:
     # git status
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0ODAyMTY2NywtNzQxODQ4Njg1LC03ND
-E4NDg2ODUsLTEwNzc5ODgxMTksMTM1MTA2NjY1MywtMTgwNDYy
-NzQ0LC0xODIyMTg0NzI0LC0xNzg0NjY1MTQ3LC0xODk4OTg0Nz
-IyLC01ODMwODA2MjQsMTcxODIzNzI4MSwxMzI1NzQ2Mzc0LDE1
-NjI0MzUyNzksMTc1MDIwOTU0Niw0MjEwNDM2NiwyMDQwMjI4OT
-Y5LC0xNzU4OTg0NzI0LDEzMjY5NDY3NjcsMTgxNTEyMTc4MCw0
-MTYzNTgwNjNdfQ==
+eyJoaXN0b3J5IjpbLTE1OTkxMDE5OTgsLTc0MTg0ODY4NSwtNz
+QxODQ4Njg1LC0xMDc3OTg4MTE5LDEzNTEwNjY2NTMsLTE4MDQ2
+Mjc0NCwtMTgyMjE4NDcyNCwtMTc4NDY2NTE0NywtMTg5ODk4ND
+cyMiwtNTgzMDgwNjI0LDE3MTgyMzcyODEsMTMyNTc0NjM3NCwx
+NTYyNDM1Mjc5LDE3NTAyMDk1NDYsNDIxMDQzNjYsMjA0MDIyOD
+k2OSwtMTc1ODk4NDcyNCwxMzI2OTQ2NzY3LDE4MTUxMjE3ODAs
+NDE2MzU4MDYzXX0=
 -->
