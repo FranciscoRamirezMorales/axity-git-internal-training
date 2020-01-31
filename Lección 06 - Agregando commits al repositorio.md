@@ -30,7 +30,7 @@ nothing to commit (create/copy files and use "git add" to track)
 
 ### Crear un archivo HTML
 
-Crear un archivo `index.html` 
+Ahora creamos un archivo `index.html` 
 ```bash
     $ touch index.html
 ```
@@ -55,6 +55,7 @@ Dentro del archivo `index.html` debemos incluir el siguiente código:
 
 > Podemos ver que en código hace referencia a un archivo CSS  y otro  de JavaScript.
 
+Adicional d
 Crear el directorio `css` y dentro de él crear el archivo `app.css`
 Crear el directorio `js` y dentro de él crear el archivo `app.js`
 
@@ -65,7 +66,7 @@ $ touch css/app.css
 $ touch js/app.js
 ```
 
-Revisemos el estatus del repositorio después de crear directorios y archivos:
+Revisamos el estatus del repositorio después de crear directorios y archivos:
 
 ```bash
 $ git status
@@ -92,8 +93,6 @@ Para agregar el archivo `index.html` al Staging Index, debemos ejecutar el coman
 ```bash
 $ git add index.html
 ```
-### Aprovechar el poder del comando `git status`
-
 Revisamos nuevamente el estatus del repositorio:
 ```bash
 $ git status
@@ -120,11 +119,11 @@ Podemos observar que ahora todos los archivos se encuentran en el Staging Index.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2OTM5NTI0NywtMTkwMjcxNzQ1NiwtMT
-A3NTExMTA4NiwxMTMwNjAxMDM3LDIzNTkzMTYxNSwtMTEzMjg2
-NzA5NiwtNDE2NjAyNjg4LC03NDE4NDg2ODUsLTc0MTg0ODY4NS
-wtMTA3Nzk4ODExOSwxMzUxMDY2NjUzLC0xODA0NjI3NDQsLTE4
-MjIxODQ3MjQsLTE3ODQ2NjUxNDcsLTE4OTg5ODQ3MjIsLTU4Mz
-A4MDYyNCwxNzE4MjM3MjgxLDEzMjU3NDYzNzQsMTU2MjQzNTI3
-OSwxNzUwMjA5NTQ2XX0=
+eyJoaXN0b3J5IjpbLTg2NzI4NDE0LC0xOTAyNzE3NDU2LC0xMD
+c1MTExMDg2LDExMzA2MDEwMzcsMjM1OTMxNjE1LC0xMTMyODY3
+MDk2LC00MTY2MDI2ODgsLTc0MTg0ODY4NSwtNzQxODQ4Njg1LC
+0xMDc3OTg4MTE5LDEzNTEwNjY2NTMsLTE4MDQ2Mjc0NCwtMTgy
+MjE4NDcyNCwtMTc4NDY2NTE0NywtMTg5ODk4NDcyMiwtNTgzMD
+gwNjI0LDE3MTgyMzcyODEsMTMyNTc0NjM3NCwxNTYyNDM1Mjc5
+LDE3NTAyMDk1NDZdfQ==
 -->
