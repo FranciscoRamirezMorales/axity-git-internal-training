@@ -43,7 +43,9 @@ export GIT_PS1_SHOWDIRTYSTATE=1
 export PS1="$red\u$green\$(__git_ps1)$blue \W
 $ $reset"
 ```
-Descargar el directorio `axity-terminal-config` que se encuentra en dentro del directorio resources repositorio de curso y copiarla dentro de la ruta /home/axity/
+Descargar el directorio `axity-terminal-config` que se encuentra en dentro del directorio `resources` del repositorio de curso y copiarla dentro de la ruta `/home/axity/` con el nombre `.axity-terminal-config`. 
+
+L
 
 ## Configuración Inicial de Git
 
@@ -73,6 +75,6 @@ Para configurar el editor por defecto (**Atom**) de Git ejecutar el siguiente co
     # git config --global core.editor "atom --wait"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIwNzA0NzgsMTcyMjM0MDc3OCwxOTUyOD
-MzMywxMzMyMjU1NDUyLDE3Nzg5NTUwNTBdfQ==
+eyJoaXN0b3J5IjpbMTEwOTE1OTY1MiwxNzIyMzQwNzc4LDE5NT
+I4MzMzLDEzMzIyNTU0NTIsMTc3ODk1NTA1MF19
 -->
