@@ -57,18 +57,19 @@ Dentro del archivo `index.html` ingresar el siguiente código:
 Crear el directorio `css` y dentro de él crear el archivo `app.css`
 Crear el directorio `js` y dentro de él crear el archivo `app.js`
 
-mkdir css
-mkdir js
-touch css/app.css
-touch js/app.js
-
+```bash
+ mkdir css
+# mkdir js
+# touch css/app.css
+# touch js/app.js
+```
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MzA4MDYyNCwxNzE4MjM3MjgxLDEzMj
-U3NDYzNzQsMTU2MjQzNTI3OSwxNzUwMjA5NTQ2LDQyMTA0MzY2
-LDIwNDAyMjg5NjksLTE3NTg5ODQ3MjQsMTMyNjk0Njc2NywxOD
-E1MTIxNzgwLDQxNjM1ODA2M119
+eyJoaXN0b3J5IjpbNjMxMzgyMjYzLC01ODMwODA2MjQsMTcxOD
+IzNzI4MSwxMzI1NzQ2Mzc0LDE1NjI0MzUyNzksMTc1MDIwOTU0
+Niw0MjEwNDM2NiwyMDQwMjI4OTY5LC0xNzU4OTg0NzI0LDEzMj
+Y5NDY3NjcsMTgxNTEyMTc4MCw0MTYzNTgwNjNdfQ==
 -->
