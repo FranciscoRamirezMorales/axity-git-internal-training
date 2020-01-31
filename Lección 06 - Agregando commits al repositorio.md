@@ -23,10 +23,8 @@ Salida:
 
     nothing to commit (create/copy files and use "git add" to track)
 
-
-```
-nothing to commit (create/copy files and use "git add" to track)
-```
+### Crear un archivo HTML
+Primero, crear un archivo 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY4MzQwNTddfQ==
+eyJoaXN0b3J5IjpbOTE4Njk1NjU5XX0=
 -->
