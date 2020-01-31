@@ -57,8 +57,13 @@ em { font-style: normal; font-weight: bold; } //italic emphasis
 s { color: green }
 em { color: blue }
 
+<span style="color:blue">some *This is Blue italic.* text</span>
+
+
+<span style="color:red">some **This is Red Bold.** text</span>
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDAwNDY1MzcsMTMyNjk0Njc2NywxOD
+eyJoaXN0b3J5IjpbLTE3NTg5ODQ3MjQsMTMyNjk0Njc2NywxOD
 E1MTIxNzgwLDQxNjM1ODA2M119
 -->
