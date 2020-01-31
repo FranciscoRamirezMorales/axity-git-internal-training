@@ -55,9 +55,9 @@ Dentro del archivo `index.html` debemos incluir el siguiente código:
 
 > Podemos ver que en código hace referencia a un archivo CSS  y otro  de JavaScript.
 
-Adicional d
-Crear el directorio `css` y dentro de él crear el archivo `app.css`
-Crear el directorio `js` y dentro de él crear el archivo `app.js`
+Adicional debemos:
+ - crear el directorio `css` y dentro de él crear el archivo `app.css`
+ - crear el directorio `js` y dentro de él crear el archivo `app.js`
 
 ```bash
 $ mkdir css
@@ -116,10 +116,13 @@ $ git status
 
 Podemos observar que ahora todos los archivos se encuentran en el Staging Index.
 
+### Aprovechar el poder del comando `git status`
+
+> En este punto ya podemos identificar que el  git status es 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NzI4NDE0LC0xOTAyNzE3NDU2LC0xMD
+eyJoaXN0b3J5IjpbMTk1NTY1MjE1LC0xOTAyNzE3NDU2LC0xMD
 c1MTExMDg2LDExMzA2MDEwMzcsMjM1OTMxNjE1LC0xMTMyODY3
 MDk2LC00MTY2MDI2ODgsLTc0MTg0ODY4NSwtNzQxODQ4Njg1LC
 0xMDc3OTg4MTE5LDEzNTEwNjY2NTMsLTE4MDQ2Mjc0NCwtMTgy
