@@ -2,10 +2,11 @@
 
 En esta lección veremos como:
 
+Empezar a utilizar nuestro repositorio
 
 Agregar commits
 Agregar mensaje a un commit
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODM0MTMzMjEsNTE0NzA1MzUzXX0=
+eyJoaXN0b3J5IjpbNzU5Mjk5MDcxLDUxNDcwNTM1M119
 -->
