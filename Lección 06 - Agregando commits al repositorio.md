@@ -64,7 +64,10 @@ em { color: blue }
 <span style="color:red">some **This is Red Bold.** text</span>
 
 
+~~This is green~~
+_this is blue_
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNjg3OTU1MCwtMTc1ODk4NDcyNCwxMz
+eyJoaXN0b3J5IjpbLTcxMTQyNTUwMSwtMTc1ODk4NDcyNCwxMz
 I2OTQ2NzY3LDE4MTUxMjE3ODAsNDE2MzU4MDYzXX0=
 -->
