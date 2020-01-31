@@ -13,8 +13,6 @@ En esta lección veremos como:
 
 Antes de empezar a trabajar en nuestro repositorio debemos movernos al directorio `new-git-project` y posteriormente ejecutar el comando:
 
-### Checar el estatus actual del repositorio
-
     # git status
 
 Salida:
@@ -27,7 +25,25 @@ Salida:
 
 ### Crear un archivo HTML
 
+Crear un archivo index.html con el siguiente código:
+
+```
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Blog Project</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+
+    <script src="js/app.js"></script>
+</body>
+</html>
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NDYyOTk5MF19
+eyJoaXN0b3J5IjpbNDE2MzU4MDYzXX0=
 -->
