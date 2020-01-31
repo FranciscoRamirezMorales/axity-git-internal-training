@@ -13,7 +13,7 @@ En esta lección veremos como:
 
 Antes de empezar a trabajar en nuestro repositorio debemos movernos al directorio `new-git-project` 
 
-    # cd ~/new-git-project
+    # cd cd ~/axity-git-course/new-git-project/
     
 y posteriormente ejecutar el comando:
 
@@ -67,8 +67,8 @@ touch js/app.js
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3OTc0MjQ3LDE3MTgyMzcyODEsMTMyNT
-c0NjM3NCwxNTYyNDM1Mjc5LDE3NTAyMDk1NDYsNDIxMDQzNjYs
-MjA0MDIyODk2OSwtMTc1ODk4NDcyNCwxMzI2OTQ2NzY3LDE4MT
-UxMjE3ODAsNDE2MzU4MDYzXX0=
+eyJoaXN0b3J5IjpbLTU4MzA4MDYyNCwxNzE4MjM3MjgxLDEzMj
+U3NDYzNzQsMTU2MjQzNTI3OSwxNzUwMjA5NTQ2LDQyMTA0MzY2
+LDIwNDAyMjg5NjksLTE3NTg5ODQ3MjQsMTMyNjk0Njc2NywxOD
+E1MTIxNzgwLDQxNjM1ODA2M119
 -->
