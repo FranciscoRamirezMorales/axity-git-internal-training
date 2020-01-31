@@ -46,7 +46,7 @@ Crear un archivo index.html con el siguiente código:
 
 dadsa
 
-```js
+```
   import { Component } from '@angular/core';
   import { MovieService } from './services/movie.service';
 
@@ -60,7 +60,16 @@ dadsa
     title = 'app works!';
   }
 ```
+
+sdasdsa
+
+```
+```diff
++ this text is highlighted in green
+- this text is highlighted in red
+```
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjIzODM0ODAsLTE3NTg5ODQ3MjQsMT
-MyNjk0Njc2NywxODE1MTIxNzgwLDQxNjM1ODA2M119
+eyJoaXN0b3J5IjpbMTYzNDQwNTQ0MywtMTc1ODk4NDcyNCwxMz
+I2OTQ2NzY3LDE4MTUxMjE3ODAsNDE2MzU4MDYzXX0=
 -->
