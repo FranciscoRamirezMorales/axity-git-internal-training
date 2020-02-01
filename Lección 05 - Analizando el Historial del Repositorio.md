@@ -98,7 +98,6 @@ Ejecutar el siguiente comando para ver su comportamiento:
 
 ![img_git_log_patch](images/img_git_log_patch.png)
 ###
-###
 > Otra opción es `git log -p -w` para omitir los cambios de espacios en blanco
 
 En resumen, `git log --patch` muestra:
@@ -128,11 +127,11 @@ Para obtener información de un commit específico:
 A diferencia de `git log`, el comando `git show` puede ser combinado con las opciones `--stat`, `--patch` o `-p`, `-w`.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjUwNTQzNDYsMjA4MTgxODI5OCwzOD
-A4Mjc4NzgsLTEzNTgwMTA5ODgsLTM5NDYwNDI2NSwxMTA1NDcx
-MjIsMTE1NjkzMzc5MywzMDc5NDk1MDUsMjQxMjEyMzgyLC05Mz
-M5NDQzMTgsMTkwMzQwNTU5OCwtMTE2NTQ5Mjk1MCwyNDkwOTM3
-NTAsLTEyODQwNDk4MTAsMTAwNzE5MDc1OSwtMTI2MjI4NTkzLC
-02NDQwNjcyMzksODEwODcxMjg4LDE0MzM3NDA5MDMsLTQ0ODI0
-NDU5NV19
+eyJoaXN0b3J5IjpbLTIxMzc5MjQ2NDcsLTE4MjUwNTQzNDYsMj
+A4MTgxODI5OCwzODA4Mjc4NzgsLTEzNTgwMTA5ODgsLTM5NDYw
+NDI2NSwxMTA1NDcxMjIsMTE1NjkzMzc5MywzMDc5NDk1MDUsMj
+QxMjEyMzgyLC05MzM5NDQzMTgsMTkwMzQwNTU5OCwtMTE2NTQ5
+Mjk1MCwyNDkwOTM3NTAsLTEyODQwNDk4MTAsMTAwNzE5MDc1OS
+wtMTI2MjI4NTkzLC02NDQwNjcyMzksODEwODcxMjg4LDE0MzM3
+NDA5MDNdfQ==
 -->
