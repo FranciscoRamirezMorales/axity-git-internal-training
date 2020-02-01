@@ -21,6 +21,7 @@ El primer paso es crear un directorio de archivos. Para esto se deben ejecutar l
     # cd ~
     # mkdir axity-git-course
     # cd axity-git-course
+    
     # mkdir new-git-project
     # cd new-git-project
 
@@ -131,9 +132,9 @@ Esto debería generar la salida:
 En este punto este mensaje no debería ser un problema ya que en este repositorio aún no existen **commits** que mostrar. En siguientes lecciones se verá con más detalle el comando `git log`.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY1MzI1ODk4LC0xNDI5MzIyMzA0LC0yND
-I3MzIwNzMsMjA2OTc5NDQ1NCwtMTA5MDM2OTM0MiwtMTUxMzE5
-MDMwMCwtMTIxMzExMTU2NiwtMTE3ODk2ODIyNCwyMDA2NzU0NT
-kwLC0xNzUzMDY4MzgwLDE3ODY0Njk4MDEsMTY0Njg3MTQzNiw0
-MTczMTY4MV19
+eyJoaXN0b3J5IjpbMjk0MDkzMjQwLDc2NTMyNTg5OCwtMTQyOT
+MyMjMwNCwtMjQyNzMyMDczLDIwNjk3OTQ0NTQsLTEwOTAzNjkz
+NDIsLTE1MTMxOTAzMDAsLTEyMTMxMTE1NjYsLTExNzg5NjgyMj
+QsMjAwNjc1NDU5MCwtMTc1MzA2ODM4MCwxNzg2NDY5ODAxLDE2
+NDY4NzE0MzYsNDE3MzE2ODFdfQ==
 -->
