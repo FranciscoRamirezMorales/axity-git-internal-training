@@ -179,9 +179,10 @@ Un mensaje de commit **debe**:
 
 Un mensaje de commit no debe:
  - Explicar el cómo o el por qué (`git log -p` hace eso)
- - contener la palabra **y**, si esto sucede es pro
+ - contener la palabra **y**, si esto sucede es probable que se esten realizando varios cambios por lo que es recomendable separarlos diferentes commits
+ - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMzY5ODQwMywtOTU0NjY2MTQ2LDg0Nz
+eyJoaXN0b3J5IjpbMTcwODc0NDkzNCwtOTU0NjY2MTQ2LDg0Nz
 A2NDA0NSwtNTM5Nzg4MzcyLDIwMTAxMjQ3NTUsLTg0ODgzNTAw
 MSwxNDY3NzUxMjc3LC0xMDA5OTg5MjczLDE3ODMxMjA1NTgsMj
 EwMTgxNDAyMSwtMTkwMjcxNzQ1NiwtMTA3NTExMTA4NiwxMTMw
