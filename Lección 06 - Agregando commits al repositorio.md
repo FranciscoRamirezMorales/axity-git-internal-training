@@ -106,7 +106,7 @@ $ git status
 
 Podemos observar que ahora todos los archivos se encuentran en el Staging Index.
 
-> Si por error agregamos un archivo al Staging Index y queremos devolverlo, podemos usar el comando `git rm --cached <file>...`
+> Si por error agregamos un archivo al Staging Index y queremos devolverlo, podemos usar el comando `git rm --cached <file1> <file2>...`
 
 ### Aprovechar el poder del comando `git status`
 
@@ -164,11 +164,11 @@ $ git log
 ![img_06_git_commit_m_log](images/img_06_git_commit_m_log.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTU0NjY0NDYsODQ3MDY0MDQ1LC01Mz
-k3ODgzNzIsMjAxMDEyNDc1NSwtODQ4ODM1MDAxLDE0Njc3NTEy
-NzcsLTEwMDk5ODkyNzMsMTc4MzEyMDU1OCwyMTAxODE0MDIxLC
-0xOTAyNzE3NDU2LC0xMDc1MTExMDg2LDExMzA2MDEwMzcsMjM1
-OTMxNjE1LC0xMTMyODY3MDk2LC00MTY2MDI2ODgsLTc0MTg0OD
-Y4NSwtNzQxODQ4Njg1LC0xMDc3OTg4MTE5LDEzNTEwNjY2NTMs
-LTE4MDQ2Mjc0NF19
+eyJoaXN0b3J5IjpbMTQxNDc5MDEyMyw4NDcwNjQwNDUsLTUzOT
+c4ODM3MiwyMDEwMTI0NzU1LC04NDg4MzUwMDEsMTQ2Nzc1MTI3
+NywtMTAwOTk4OTI3MywxNzgzMTIwNTU4LDIxMDE4MTQwMjEsLT
+E5MDI3MTc0NTYsLTEwNzUxMTEwODYsMTEzMDYwMTAzNywyMzU5
+MzE2MTUsLTExMzI4NjcwOTYsLTQxNjYwMjY4OCwtNzQxODQ4Nj
+g1LC03NDE4NDg2ODUsLTEwNzc5ODgxMTksMTM1MTA2NjY1Mywt
+MTgwNDYyNzQ0XX0=
 -->
