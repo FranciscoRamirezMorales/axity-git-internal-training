@@ -165,7 +165,7 @@ $ git log
 
 ## Mensajes de un commit
 
-Un commit debe registrar un solo cambio.Esto no es limitante para que un commit pueda registrar un cambio en varias líneas de código o varios archivos. Por ejemplo, imáginemos que decidimos cambiar el fondo de nuetra página web, esto requeriría:
+Un commit debe registrar un solo cambio. Esto no es limitante para que un commit pueda registrar un cambio en varias líneas de código o varios archivos. Por ejemplo, imáginemos que decidimos cambiar el fondo de nuestra página web, esto requeriría:
 
  - agregar una nueva imagen
  - modificar el código html
@@ -187,7 +187,7 @@ https://chris.beams.io/posts/git-commit/
 https://udacity.github.io/git-styleguide/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NTE3OTM0NCw0MTI1NDk4ODMsMTcwOD
+eyJoaXN0b3J5IjpbLTUwNDI3MDk5Myw0MTI1NDk4ODMsMTcwOD
 c0NDkzNCwtOTU0NjY2MTQ2LDg0NzA2NDA0NSwtNTM5Nzg4Mzcy
 LDIwMTAxMjQ3NTUsLTg0ODgzNTAwMSwxNDY3NzUxMjc3LC0xMD
 A5OTg5MjczLDE3ODMxMjA1NTgsMjEwMTgxNDAyMSwtMTkwMjcx
