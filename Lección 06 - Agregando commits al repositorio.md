@@ -173,7 +173,7 @@ Un commit debe registrar un solo cambio. Esto no es limitante para que un commit
 
 Un solo commit que registre todos estos cambios debería estar bien.
 
-#### La primera línea del mensaje lo dice todo
+## La primera línea del mensaje lo dice todo
 
 Un mensaje de commit **debe**:
  - contener un mensaje corto de menos de 60 caracteres (50 es el recomendable)
@@ -189,11 +189,11 @@ https://chris.beams.io/posts/git-commit/
 https://udacity.github.io/git-styleguide/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjE4NDI4ODYsNDEyNTQ5ODgzLDE3MD
-g3NDQ5MzQsLTk1NDY2NjE0Niw4NDcwNjQwNDUsLTUzOTc4ODM3
-MiwyMDEwMTI0NzU1LC04NDg4MzUwMDEsMTQ2Nzc1MTI3NywtMT
-AwOTk4OTI3MywxNzgzMTIwNTU4LDIxMDE4MTQwMjEsLTE5MDI3
-MTc0NTYsLTEwNzUxMTEwODYsMTEzMDYwMTAzNywyMzU5MzE2MT
-UsLTExMzI4NjcwOTYsLTQxNjYwMjY4OCwtNzQxODQ4Njg1LC03
-NDE4NDg2ODVdfQ==
+eyJoaXN0b3J5IjpbMzg1MzA2Nzc4LDQxMjU0OTg4MywxNzA4Nz
+Q0OTM0LC05NTQ2NjYxNDYsODQ3MDY0MDQ1LC01Mzk3ODgzNzIs
+MjAxMDEyNDc1NSwtODQ4ODM1MDAxLDE0Njc3NTEyNzcsLTEwMD
+k5ODkyNzMsMTc4MzEyMDU1OCwyMTAxODE0MDIxLC0xOTAyNzE3
+NDU2LC0xMDc1MTExMDg2LDExMzA2MDEwMzcsMjM1OTMxNjE1LC
+0xMTMyODY3MDk2LC00MTY2MDI2ODgsLTc0MTg0ODY4NSwtNzQx
+ODQ4Njg1XX0=
 -->
