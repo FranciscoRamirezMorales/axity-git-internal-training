@@ -120,15 +120,17 @@ $ git commit
 ```
 > Observemos el caracter `*` en el prompt `(master *)`. Esto indica que existen cambios que no hay sido enviados a un commit.
 
-En la prime
+El comando `git commit` abrirá Atom donde podemos ingresar el mensaje del commit. Este mensaje deberpa describir el cambio que se está realizando.
 
 ![img_06_git_commit_atom](images/img_06_git_commit_atom.png)
+
+En este casa
 
 ![img_06_git commit_atom_out](images/img_06_git_commit_atom_out.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzk3NjA5MywtMTAwOTk4OTI3MywxNz
+eyJoaXN0b3J5IjpbLTYxMzAyODg3NCwtMTAwOTk4OTI3MywxNz
 gzMTIwNTU4LDIxMDE4MTQwMjEsLTE5MDI3MTc0NTYsLTEwNzUx
 MTEwODYsMTEzMDYwMTAzNywyMzU5MzE2MTUsLTExMzI4NjcwOT
 YsLTQxNjYwMjY4OCwtNzQxODQ4Njg1LC03NDE4NDg2ODUsLTEw
