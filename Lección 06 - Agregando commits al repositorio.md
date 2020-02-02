@@ -181,12 +181,14 @@ Un mensaje de commit **no debe**:
  - Explicar el cómo o el por qué (`git log -p` hace eso)
  - contener la palabra **y**, si esto sucede es probable que se esten realizando varios cambios por lo que es recomendable separarlos diferentes commits
 
+Para definir un mensaje de commit c
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEyNTQ5ODgzLDE3MDg3NDQ5MzQsLTk1ND
-Y2NjE0Niw4NDcwNjQwNDUsLTUzOTc4ODM3MiwyMDEwMTI0NzU1
-LC04NDg4MzUwMDEsMTQ2Nzc1MTI3NywtMTAwOTk4OTI3MywxNz
-gzMTIwNTU4LDIxMDE4MTQwMjEsLTE5MDI3MTc0NTYsLTEwNzUx
-MTEwODYsMTEzMDYwMTAzNywyMzU5MzE2MTUsLTExMzI4NjcwOT
-YsLTQxNjYwMjY4OCwtNzQxODQ4Njg1LC03NDE4NDg2ODUsLTEw
-Nzc5ODgxMTldfQ==
+eyJoaXN0b3J5IjpbMTI2MDA4NjY1MSw0MTI1NDk4ODMsMTcwOD
+c0NDkzNCwtOTU0NjY2MTQ2LDg0NzA2NDA0NSwtNTM5Nzg4Mzcy
+LDIwMTAxMjQ3NTUsLTg0ODgzNTAwMSwxNDY3NzUxMjc3LC0xMD
+A5OTg5MjczLDE3ODMxMjA1NTgsMjEwMTgxNDAyMSwtMTkwMjcx
+NzQ1NiwtMTA3NTExMTA4NiwxMTMwNjAxMDM3LDIzNTkzMTYxNS
+wtMTEzMjg2NzA5NiwtNDE2NjAyNjg4LC03NDE4NDg2ODUsLTc0
+MTg0ODY4NV19
 -->
