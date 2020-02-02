@@ -129,13 +129,15 @@ En este casa ingresaremos el mensaje `Initial commit`. Pero tú puedes ingresar 
 Guardamos el archivo y cerramos Atom. Esto nos devolverá a la terminal con el siguiente resultado.
 
 ![img_06_git commit_atom_out](images/img_06_git_commit_atom_out.png)
-Ahora veamos otra forma de hacer commit
+Ahora veamos otra forma de hacer commit.
+
+Para esto haremos un segundo a segunda modificación
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMDEyNDc1NSwtODQ4ODM1MDAxLDE0Nj
-c3NTEyNzcsLTEwMDk5ODkyNzMsMTc4MzEyMDU1OCwyMTAxODE0
-MDIxLC0xOTAyNzE3NDU2LC0xMDc1MTExMDg2LDExMzA2MDEwMz
-csMjM1OTMxNjE1LC0xMTMyODY3MDk2LC00MTY2MDI2ODgsLTc0
-MTg0ODY4NSwtNzQxODQ4Njg1LC0xMDc3OTg4MTE5LDEzNTEwNj
-Y2NTMsLTE4MDQ2Mjc0NCwtMTgyMjE4NDcyNCwtMTc4NDY2NTE0
-NywtMTg5ODk4NDcyMl19
+eyJoaXN0b3J5IjpbLTUxMzE2MzI4NCwyMDEwMTI0NzU1LC04ND
+g4MzUwMDEsMTQ2Nzc1MTI3NywtMTAwOTk4OTI3MywxNzgzMTIw
+NTU4LDIxMDE4MTQwMjEsLTE5MDI3MTc0NTYsLTEwNzUxMTEwOD
+YsMTEzMDYwMTAzNywyMzU5MzE2MTUsLTExMzI4NjcwOTYsLTQx
+NjYwMjY4OCwtNzQxODQ4Njg1LC03NDE4NDg2ODUsLTEwNzc5OD
+gxMTksMTM1MTA2NjY1MywtMTgwNDYyNzQ0LC0xODIyMTg0NzI0
+LC0xNzg0NjY1MTQ3XX0=
 -->
