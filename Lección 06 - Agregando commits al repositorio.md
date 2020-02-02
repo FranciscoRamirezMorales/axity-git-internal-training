@@ -181,15 +181,12 @@ Un mensaje de commit no debe:
  - Explicar el cómo o el por qué (`git log -p` hace eso)
  - contener la palabra **y**, si esto sucede es probable que se esten realizando varios cambios por lo que es recomendable separarlos diferentes commits
 
-
-https://udacity.github.io/git-styleguide/
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NTgyNDg5NiwxNzA4NzQ0OTM0LC05NT
-Q2NjYxNDYsODQ3MDY0MDQ1LC01Mzk3ODgzNzIsMjAxMDEyNDc1
-NSwtODQ4ODM1MDAxLDE0Njc3NTEyNzcsLTEwMDk5ODkyNzMsMT
-c4MzEyMDU1OCwyMTAxODE0MDIxLC0xOTAyNzE3NDU2LC0xMDc1
-MTExMDg2LDExMzA2MDEwMzcsMjM1OTMxNjE1LC0xMTMyODY3MD
-k2LC00MTY2MDI2ODgsLTc0MTg0ODY4NSwtNzQxODQ4Njg1LC0x
-MDc3OTg4MTE5XX0=
+eyJoaXN0b3J5IjpbMTYzOTI5NDAzLDE3MDg3NDQ5MzQsLTk1ND
+Y2NjE0Niw4NDcwNjQwNDUsLTUzOTc4ODM3MiwyMDEwMTI0NzU1
+LC04NDg4MzUwMDEsMTQ2Nzc1MTI3NywtMTAwOTk4OTI3MywxNz
+gzMTIwNTU4LDIxMDE4MTQwMjEsLTE5MDI3MTc0NTYsLTEwNzUx
+MTEwODYsMTEzMDYwMTAzNywyMzU5MzE2MTUsLTExMzI4NjcwOT
+YsLTQxNjYwMjY4OCwtNzQxODQ4Njg1LC03NDE4NDg2ODUsLTEw
+Nzc5ODgxMTldfQ==
 -->
