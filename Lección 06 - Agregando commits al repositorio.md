@@ -146,10 +146,10 @@ Ejecutamos git add para agregar el cambio al Staging Index.
 Ejecutamos git commit con la opción -m:
 
 ```
-git commit -m 
+$ git commit -m "Add header to blog"
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc3ODQ4MzI3LC01Mzk3ODgzNzIsMjAxMD
+eyJoaXN0b3J5IjpbMTAzOTMxODc0LC01Mzk3ODgzNzIsMjAxMD
 EyNDc1NSwtODQ4ODM1MDAxLDE0Njc3NTEyNzcsLTEwMDk5ODky
 NzMsMTc4MzEyMDU1OCwyMTAxODE0MDIxLC0xOTAyNzE3NDU2LC
 0xMDc1MTExMDg2LDExMzA2MDEwMzcsMjM1OTMxNjE1LC0xMTMy
