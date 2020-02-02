@@ -166,14 +166,15 @@ $ git log
 
 Un commit debe registrar un solo cambio.Esto no es limitante para que un commit pueda registrar un cambio en varias líneas de código o varios archivos. Por ejemplo, imáginemos que decidimos cambiar el fondo de nuetra página web, esto requeriría:
 
-
+ - agregar una nueva imagen modificar el código html agrgar o modificar 
+   archivos de estilo (css)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjA0MzkzNjIsODQ3MDY0MDQ1LC01Mz
-k3ODgzNzIsMjAxMDEyNDc1NSwtODQ4ODM1MDAxLDE0Njc3NTEy
-NzcsLTEwMDk5ODkyNzMsMTc4MzEyMDU1OCwyMTAxODE0MDIxLC
-0xOTAyNzE3NDU2LC0xMDc1MTExMDg2LDExMzA2MDEwMzcsMjM1
-OTMxNjE1LC0xMTMyODY3MDk2LC00MTY2MDI2ODgsLTc0MTg0OD
-Y4NSwtNzQxODQ4Njg1LC0xMDc3OTg4MTE5LDEzNTEwNjY2NTMs
-LTE4MDQ2Mjc0NF19
+eyJoaXN0b3J5IjpbLTMxOTgwMjE4Miw4NDcwNjQwNDUsLTUzOT
+c4ODM3MiwyMDEwMTI0NzU1LC04NDg4MzUwMDEsMTQ2Nzc1MTI3
+NywtMTAwOTk4OTI3MywxNzgzMTIwNTU4LDIxMDE4MTQwMjEsLT
+E5MDI3MTc0NTYsLTEwNzUxMTEwODYsMTEzMDYwMTAzNywyMzU5
+MzE2MTUsLTExMzI4NjcwOTYsLTQxNjYwMjY4OCwtNzQxODQ4Nj
+g1LC03NDE4NDg2ODUsLTEwNzc5ODgxMTksMTM1MTA2NjY1Mywt
+MTgwNDYyNzQ0XX0=
 -->
