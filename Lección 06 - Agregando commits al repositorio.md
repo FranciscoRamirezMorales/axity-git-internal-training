@@ -5,7 +5,7 @@ En esta lección veremos como:
  - Empezar a utilizar nuestro repositorio
  - Agregar commits
  - Mensajes de un commit
- - El comando git diff
+ - Revisar lo que ha cambiado
  - Omitir archivos en Git
 
 ## Empezar a utilizar nuestro repositorio
@@ -173,13 +173,15 @@ Un commit debe registrar un solo cambio.Esto no es limitante para que un commit 
 
 Un solo commit que registre todos estos cambios debería estar bien.
 
+Un mensaje de commit debe:
+ - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNzgzMjYyOSwtOTU0NjY2MTQ2LDg0Nz
-A2NDA0NSwtNTM5Nzg4MzcyLDIwMTAxMjQ3NTUsLTg0ODgzNTAw
-MSwxNDY3NzUxMjc3LC0xMDA5OTg5MjczLDE3ODMxMjA1NTgsMj
-EwMTgxNDAyMSwtMTkwMjcxNzQ1NiwtMTA3NTExMTA4NiwxMTMw
-NjAxMDM3LDIzNTkzMTYxNSwtMTEzMjg2NzA5NiwtNDE2NjAyNj
-g4LC03NDE4NDg2ODUsLTc0MTg0ODY4NSwtMTA3Nzk4ODExOSwx
-MzUxMDY2NjUzXX0=
+eyJoaXN0b3J5IjpbODU4MzY0NjU2LC05NTQ2NjYxNDYsODQ3MD
+Y0MDQ1LC01Mzk3ODgzNzIsMjAxMDEyNDc1NSwtODQ4ODM1MDAx
+LDE0Njc3NTEyNzcsLTEwMDk5ODkyNzMsMTc4MzEyMDU1OCwyMT
+AxODE0MDIxLC0xOTAyNzE3NDU2LC0xMDc1MTExMDg2LDExMzA2
+MDEwMzcsMjM1OTMxNjE1LC0xMTMyODY3MDk2LC00MTY2MDI2OD
+gsLTc0MTg0ODY4NSwtNzQxODQ4Njg1LC0xMDc3OTg4MTE5LDEz
+NTEwNjY2NTNdfQ==
 -->
