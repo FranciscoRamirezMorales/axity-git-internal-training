@@ -124,17 +124,19 @@ El comando `git commit` abrirá `Atom` donde podemos ingresar el mensaje del com
 
 ![img_06_git_commit_atom](images/img_06_git_commit_atom.png)
 
-En este casa ingresaremos el mensaje `Initial commit`. Pero tú puedes ingresar el mensaje que desees.
+En este casa ingresaremos el mensaje `Initial commit`. Pero tú puedes ingresar el mensaje que desees. 
+
+Guardamos el archivo y cerramos Atom. Esto nos devolverá a la terminal con el siguiente resultado.
 
 ![img_06_git commit_atom_out](images/img_06_git_commit_atom_out.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2Nzc1MTI3NywtMTAwOTk4OTI3MywxNz
-gzMTIwNTU4LDIxMDE4MTQwMjEsLTE5MDI3MTc0NTYsLTEwNzUx
-MTEwODYsMTEzMDYwMTAzNywyMzU5MzE2MTUsLTExMzI4NjcwOT
-YsLTQxNjYwMjY4OCwtNzQxODQ4Njg1LC03NDE4NDg2ODUsLTEw
-Nzc5ODgxMTksMTM1MTA2NjY1MywtMTgwNDYyNzQ0LC0xODIyMT
-g0NzI0LC0xNzg0NjY1MTQ3LC0xODk4OTg0NzIyLC01ODMwODA2
-MjQsMTcxODIzNzI4MV19
+eyJoaXN0b3J5IjpbLTg0ODgzNTAwMSwxNDY3NzUxMjc3LC0xMD
+A5OTg5MjczLDE3ODMxMjA1NTgsMjEwMTgxNDAyMSwtMTkwMjcx
+NzQ1NiwtMTA3NTExMTA4NiwxMTMwNjAxMDM3LDIzNTkzMTYxNS
+wtMTEzMjg2NzA5NiwtNDE2NjAyNjg4LC03NDE4NDg2ODUsLTc0
+MTg0ODY4NSwtMTA3Nzk4ODExOSwxMzUxMDY2NjUzLC0xODA0Nj
+I3NDQsLTE4MjIxODQ3MjQsLTE3ODQ2NjUxNDcsLTE4OTg5ODQ3
+MjIsLTU4MzA4MDYyNF19
 -->
