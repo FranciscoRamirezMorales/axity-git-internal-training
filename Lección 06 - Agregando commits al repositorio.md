@@ -186,14 +186,15 @@ Un mensaje de commit **no debe**:
 Para definir un buen mensaje de commit podemos referirnos a los siguientes recursos:
 
 https://chris.beams.io/posts/git-commit/
+
 https://udacity.github.io/git-styleguide/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTY0Njg5MjksNDEyNTQ5ODgzLDE3MD
-g3NDQ5MzQsLTk1NDY2NjE0Niw4NDcwNjQwNDUsLTUzOTc4ODM3
-MiwyMDEwMTI0NzU1LC04NDg4MzUwMDEsMTQ2Nzc1MTI3NywtMT
-AwOTk4OTI3MywxNzgzMTIwNTU4LDIxMDE4MTQwMjEsLTE5MDI3
-MTc0NTYsLTEwNzUxMTEwODYsMTEzMDYwMTAzNywyMzU5MzE2MT
-UsLTExMzI4NjcwOTYsLTQxNjYwMjY4OCwtNzQxODQ4Njg1LC03
+eyJoaXN0b3J5IjpbLTYyMjE2NzcyNywtMTAxNjQ2ODkyOSw0MT
+I1NDk4ODMsMTcwODc0NDkzNCwtOTU0NjY2MTQ2LDg0NzA2NDA0
+NSwtNTM5Nzg4MzcyLDIwMTAxMjQ3NTUsLTg0ODgzNTAwMSwxND
+Y3NzUxMjc3LC0xMDA5OTg5MjczLDE3ODMxMjA1NTgsMjEwMTgx
+NDAyMSwtMTkwMjcxNzQ1NiwtMTA3NTExMTA4NiwxMTMwNjAxMD
+M3LDIzNTkzMTYxNSwtMTEzMjg2NzA5NiwtNDE2NjAyNjg4LC03
 NDE4NDg2ODVdfQ==
 -->
