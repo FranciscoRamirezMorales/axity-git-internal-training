@@ -118,17 +118,19 @@ Para hacer un commit debemos ejecutar el siguiente comando:
 ```bash
 $ git commit
 ```
+> Observemos el caracter `*` en el prompt `(master *)`. Esto indica que existen cambios que no hay sido enviados a un commit.
 
-> Observemos el caracter `*` en el prom `(master *)`. Esto indica que existen cambios que no hay sido enviados a un commit.
+![img_git_status_04](images/img_06_git_status_04.png)
 
+![img_git_status_04](images/img_06_git_status_04.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDk5ODkyNzMsMTc4MzEyMDU1OCwyMT
-AxODE0MDIxLC0xOTAyNzE3NDU2LC0xMDc1MTExMDg2LDExMzA2
-MDEwMzcsMjM1OTMxNjE1LC0xMTMyODY3MDk2LC00MTY2MDI2OD
-gsLTc0MTg0ODY4NSwtNzQxODQ4Njg1LC0xMDc3OTg4MTE5LDEz
-NTEwNjY2NTMsLTE4MDQ2Mjc0NCwtMTgyMjE4NDcyNCwtMTc4ND
-Y2NTE0NywtMTg5ODk4NDcyMiwtNTgzMDgwNjI0LDE3MTgyMzcy
-ODEsMTMyNTc0NjM3NF19
+eyJoaXN0b3J5IjpbLTEzMzkxNDY1NTcsLTEwMDk5ODkyNzMsMT
+c4MzEyMDU1OCwyMTAxODE0MDIxLC0xOTAyNzE3NDU2LC0xMDc1
+MTExMDg2LDExMzA2MDEwMzcsMjM1OTMxNjE1LC0xMTMyODY3MD
+k2LC00MTY2MDI2ODgsLTc0MTg0ODY4NSwtNzQxODQ4Njg1LC0x
+MDc3OTg4MTE5LDEzNTEwNjY2NTMsLTE4MDQ2Mjc0NCwtMTgyMj
+E4NDcyNCwtMTc4NDY2NTE0NywtMTg5ODk4NDcyMiwtNTgzMDgw
+NjI0LDE3MTgyMzcyODFdfQ==
 -->
