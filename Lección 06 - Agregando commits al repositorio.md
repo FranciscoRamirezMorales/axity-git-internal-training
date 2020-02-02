@@ -4,7 +4,7 @@ En esta lección veremos como:
 
  - Empezar a utilizar nuestro repositorio
  - Agregar commits
- - Agregar mensaje a un commit
+ - Mensajes de un commit
  - Ver cambios realizados antes de un commit
  - Omitir archivos en Git
 
@@ -163,6 +163,7 @@ $ git log
 
 ![img_06_git_commit_m_log](images/img_06_git_commit_m_log.png)
 
+## Mensajes de un commit
 
 Un commit debe registrar un solo cambio.Esto no es limitante para que un commit pueda registrar un cambio en varias líneas de código o varios archivos. Por ejemplo, imáginemos que decidimos cambiar el fondo de nuetra página web, esto requeriría:
 
@@ -174,11 +175,11 @@ Un solo commit que registre todos estos cambios debería estar bien.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NDY2NjE0Niw4NDcwNjQwNDUsLTUzOT
-c4ODM3MiwyMDEwMTI0NzU1LC04NDg4MzUwMDEsMTQ2Nzc1MTI3
-NywtMTAwOTk4OTI3MywxNzgzMTIwNTU4LDIxMDE4MTQwMjEsLT
-E5MDI3MTc0NTYsLTEwNzUxMTEwODYsMTEzMDYwMTAzNywyMzU5
-MzE2MTUsLTExMzI4NjcwOTYsLTQxNjYwMjY4OCwtNzQxODQ4Nj
-g1LC03NDE4NDg2ODUsLTEwNzc5ODgxMTksMTM1MTA2NjY1Mywt
-MTgwNDYyNzQ0XX0=
+eyJoaXN0b3J5IjpbNTMwODcwMzE3LC05NTQ2NjYxNDYsODQ3MD
+Y0MDQ1LC01Mzk3ODgzNzIsMjAxMDEyNDc1NSwtODQ4ODM1MDAx
+LDE0Njc3NTEyNzcsLTEwMDk5ODkyNzMsMTc4MzEyMDU1OCwyMT
+AxODE0MDIxLC0xOTAyNzE3NDU2LC0xMDc1MTExMDg2LDExMzA2
+MDEwMzcsMjM1OTMxNjE1LC0xMTMyODY3MDk2LC00MTY2MDI2OD
+gsLTc0MTg0ODY4NSwtNzQxODQ4Njg1LC0xMDc3OTg4MTE5LDEz
+NTEwNjY2NTNdfQ==
 -->
