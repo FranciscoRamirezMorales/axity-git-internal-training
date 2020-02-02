@@ -178,13 +178,14 @@ Un mensaje de commit **debe**:
  - explicar lo que el comit hace, no el *cómo* o el *por qué*
 
 Un mensaje de commit no debe:
- - Explicar el cómo 
+ - Explicar el cómo o el por qué (`git log -p` hace eso)
+ - contener la palabra **y**, si esto sucede es pro
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzM0NTE2NzYsLTk1NDY2NjE0Niw4ND
-cwNjQwNDUsLTUzOTc4ODM3MiwyMDEwMTI0NzU1LC04NDg4MzUw
-MDEsMTQ2Nzc1MTI3NywtMTAwOTk4OTI3MywxNzgzMTIwNTU4LD
-IxMDE4MTQwMjEsLTE5MDI3MTc0NTYsLTEwNzUxMTEwODYsMTEz
-MDYwMTAzNywyMzU5MzE2MTUsLTExMzI4NjcwOTYsLTQxNjYwMj
-Y4OCwtNzQxODQ4Njg1LC03NDE4NDg2ODUsLTEwNzc5ODgxMTks
-MTM1MTA2NjY1M119
+eyJoaXN0b3J5IjpbMjAzMzY5ODQwMywtOTU0NjY2MTQ2LDg0Nz
+A2NDA0NSwtNTM5Nzg4MzcyLDIwMTAxMjQ3NTUsLTg0ODgzNTAw
+MSwxNDY3NzUxMjc3LC0xMDA5OTg5MjczLDE3ODMxMjA1NTgsMj
+EwMTgxNDAyMSwtMTkwMjcxNzQ1NiwtMTA3NTExMTA4NiwxMTMw
+NjAxMDM3LDIzNTkzMTYxNSwtMTEzMjg2NzA5NiwtNDE2NjAyNj
+g4LC03NDE4NDg2ODUsLTc0MTg0ODY4NSwtMTA3Nzk4ODExOSwx
+MzUxMDY2NjUzXX0=
 -->
