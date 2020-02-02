@@ -131,13 +131,13 @@ Guardamos el archivo y cerramos Atom. Esto nos devolverá a la terminal con el s
 ![img_06_git commit_atom_out](images/img_06_git_commit_atom_out.png)
 Ahora veamos otra forma de hacer commit.
 
-Para esto haremos un segundo a segunda modificación
+Para esto haremos una segunda modificación al archivo index.html agregando las siguientes líneas dentro del bloque <body>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMzE2MzI4NCwyMDEwMTI0NzU1LC04ND
-g4MzUwMDEsMTQ2Nzc1MTI3NywtMTAwOTk4OTI3MywxNzgzMTIw
-NTU4LDIxMDE4MTQwMjEsLTE5MDI3MTc0NTYsLTEwNzUxMTEwOD
-YsMTEzMDYwMTAzNywyMzU5MzE2MTUsLTExMzI4NjcwOTYsLTQx
-NjYwMjY4OCwtNzQxODQ4Njg1LC03NDE4NDg2ODUsLTEwNzc5OD
-gxMTksMTM1MTA2NjY1MywtMTgwNDYyNzQ0LC0xODIyMTg0NzI0
-LC0xNzg0NjY1MTQ3XX0=
+eyJoaXN0b3J5IjpbLTExNjk5ODA4MjgsMjAxMDEyNDc1NSwtOD
+Q4ODM1MDAxLDE0Njc3NTEyNzcsLTEwMDk5ODkyNzMsMTc4MzEy
+MDU1OCwyMTAxODE0MDIxLC0xOTAyNzE3NDU2LC0xMDc1MTExMD
+g2LDExMzA2MDEwMzcsMjM1OTMxNjE1LC0xMTMyODY3MDk2LC00
+MTY2MDI2ODgsLTc0MTg0ODY4NSwtNzQxODQ4Njg1LC0xMDc3OT
+g4MTE5LDEzNTEwNjY2NTMsLTE4MDQ2Mjc0NCwtMTgyMjE4NDcy
+NCwtMTc4NDY2NTE0N119
 -->
