@@ -164,9 +164,9 @@ $ git log
 ![img_06_git_commit_m_log](images/img_06_git_commit_m_log.png)
 
 
-Un commit debe registrar un solo cambio
+Un commit debe registrar un solo cambio.Esto no es limitante para que un commit pueda registrar 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NjM1OTY2MSw4NDcwNjQwNDUsLTUzOT
+eyJoaXN0b3J5IjpbMTYyOTYxNTg5MSw4NDcwNjQwNDUsLTUzOT
 c4ODM3MiwyMDEwMTI0NzU1LC04NDg4MzUwMDEsMTQ2Nzc1MTI3
 NywtMTAwOTk4OTI3MywxNzgzMTIwNTU4LDIxMDE4MTQwMjEsLT
 E5MDI3MTc0NTYsLTEwNzUxMTEwODYsMTEzMDYwMTAzNywyMzU5
