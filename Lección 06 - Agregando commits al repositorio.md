@@ -174,7 +174,7 @@ Un commit debe registrar un solo cambio.Esto no es limitante para que un commit 
 Un solo commit que registre todos estos cambios debería estar bien.
 
 Un mensaje de commit **debe**:
- - contener un mensaje corto de menos de 60 caracteres
+ - contener un mensaje corto de menos de 60 caracteres (50 es el recome)
  - explicar lo que el comit hace, no el *cómo* o el *por qué*
 
 Un mensaje de commit **no debe**:
@@ -182,15 +182,16 @@ Un mensaje de commit **no debe**:
  - contener la palabra **y**, si esto sucede es probable que se esten realizando varios cambios por lo que es recomendable separarlos diferentes commits
 
 Para definir un buen mensaje de commit podemos referirnos al siguinete recurso:
+https://chris.beams.io/posts/git-commit/
 
 https://udacity.github.io/git-styleguide/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU3NzU5ODk0LDQxMjU0OTg4MywxNzA4Nz
-Q0OTM0LC05NTQ2NjYxNDYsODQ3MDY0MDQ1LC01Mzk3ODgzNzIs
-MjAxMDEyNDc1NSwtODQ4ODM1MDAxLDE0Njc3NTEyNzcsLTEwMD
-k5ODkyNzMsMTc4MzEyMDU1OCwyMTAxODE0MDIxLC0xOTAyNzE3
-NDU2LC0xMDc1MTExMDg2LDExMzA2MDEwMzcsMjM1OTMxNjE1LC
-0xMTMyODY3MDk2LC00MTY2MDI2ODgsLTc0MTg0ODY4NSwtNzQx
-ODQ4Njg1XX0=
+eyJoaXN0b3J5IjpbLTIzODE4NDQ3OCw0MTI1NDk4ODMsMTcwOD
+c0NDkzNCwtOTU0NjY2MTQ2LDg0NzA2NDA0NSwtNTM5Nzg4Mzcy
+LDIwMTAxMjQ3NTUsLTg0ODgzNTAwMSwxNDY3NzUxMjc3LC0xMD
+A5OTg5MjczLDE3ODMxMjA1NTgsMjEwMTgxNDAyMSwtMTkwMjcx
+NzQ1NiwtMTA3NTExMTA4NiwxMTMwNjAxMDM3LDIzNTkzMTYxNS
+wtMTEzMjg2NzA5NiwtNDE2NjAyNjg4LC03NDE4NDg2ODUsLTc0
+MTg0ODY4NV19
 -->
