@@ -120,17 +120,19 @@ $ git commit
 ```
 > Observemos el caracter `*` en el prompt `(master *)`. Esto indica que existen cambios que no hay sido enviados a un commit.
 
-![img_git_status_04](images/img_06_git_status_04.png)
+En la prime
 
-![img_git_status_04](images/img_06_git_status_04.png)
+![img_06_git_commit_atom](images/img_06_git_commit_atom.png)
+
+![img_06_git commit_atom_out](images/img_06_git_commit_atom_out.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzkxNDY1NTcsLTEwMDk5ODkyNzMsMT
-c4MzEyMDU1OCwyMTAxODE0MDIxLC0xOTAyNzE3NDU2LC0xMDc1
-MTExMDg2LDExMzA2MDEwMzcsMjM1OTMxNjE1LC0xMTMyODY3MD
-k2LC00MTY2MDI2ODgsLTc0MTg0ODY4NSwtNzQxODQ4Njg1LC0x
-MDc3OTg4MTE5LDEzNTEwNjY2NTMsLTE4MDQ2Mjc0NCwtMTgyMj
-E4NDcyNCwtMTc4NDY2NTE0NywtMTg5ODk4NDcyMiwtNTgzMDgw
-NjI0LDE3MTgyMzcyODFdfQ==
+eyJoaXN0b3J5IjpbLTE3Mzk3NjA5MywtMTAwOTk4OTI3MywxNz
+gzMTIwNTU4LDIxMDE4MTQwMjEsLTE5MDI3MTc0NTYsLTEwNzUx
+MTEwODYsMTEzMDYwMTAzNywyMzU5MzE2MTUsLTExMzI4NjcwOT
+YsLTQxNjYwMjY4OCwtNzQxODQ4Njg1LC03NDE4NDg2ODUsLTEw
+Nzc5ODgxMTksMTM1MTA2NjY1MywtMTgwNDYyNzQ0LC0xODIyMT
+g0NzI0LC0xNzg0NjY1MTQ3LC0xODk4OTg0NzIyLC01ODMwODA2
+MjQsMTcxODIzNzI4MV19
 -->
