@@ -174,20 +174,20 @@ Un commit debe registrar un solo cambio.Esto no es limitante para que un commit 
 Un solo commit que registre todos estos cambios debería estar bien.
 
 Un mensaje de commit **debe**:
- - contener un mensaje corto de menos de 60 caracteres (50 es el recome)
+ - contener un mensaje corto de menos de 60 caracteres (50 es el recomendable)
  - explicar lo que el comit hace, no el *cómo* o el *por qué*
 
 Un mensaje de commit **no debe**:
  - Explicar el cómo o el por qué (`git log -p` hace eso)
  - contener la palabra **y**, si esto sucede es probable que se esten realizando varios cambios por lo que es recomendable separarlos diferentes commits
 
-Para definir un buen mensaje de commit podemos referirnos al siguinete recurso:
-https://chris.beams.io/posts/git-commit/
+Para definir un buen mensaje de commit podemos referirnos a los siguientes recursos:
 
+https://chris.beams.io/posts/git-commit/
 https://udacity.github.io/git-styleguide/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzODE4NDQ3OCw0MTI1NDk4ODMsMTcwOD
+eyJoaXN0b3J5IjpbMTQ5NTE3OTM0NCw0MTI1NDk4ODMsMTcwOD
 c0NDkzNCwtOTU0NjY2MTQ2LDg0NzA2NDA0NSwtNTM5Nzg4Mzcy
 LDIwMTAxMjQ3NTUsLTg0ODgzNTAwMSwxNDY3NzUxMjc3LC0xMD
 A5OTg5MjczLDE3ODMxMjA1NTgsMjEwMTgxNDAyMSwtMTkwMjcx
