@@ -163,8 +163,10 @@ $ git log
 
 ![img_06_git_commit_m_log](images/img_06_git_commit_m_log.png)
 
+
+Un commit debe r
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNDc5MDEyMyw4NDcwNjQwNDUsLTUzOT
+eyJoaXN0b3J5IjpbMTYzNzEwNzM0Myw4NDcwNjQwNDUsLTUzOT
 c4ODM3MiwyMDEwMTI0NzU1LC04NDg4MzUwMDEsMTQ2Nzc1MTI3
 NywtMTAwOTk4OTI3MywxNzgzMTIwNTU4LDIxMDE4MTQwMjEsLT
 E5MDI3MTc0NTYsLTEwNzUxMTEwODYsMTEzMDYwMTAzNywyMzU5
