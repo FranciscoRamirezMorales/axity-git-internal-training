@@ -177,12 +177,12 @@ Un mensaje de commit **debe**:
  - contener un mensaje corto de menos de 60 caracteres
  - explicar lo que el comit hace, no el *cómo* o el *por qué*
 
-Un mensaje de commit no debe:
+Un mensaje de commit **no debe**:
  - Explicar el cómo o el por qué (`git log -p` hace eso)
  - contener la palabra **y**, si esto sucede es probable que se esten realizando varios cambios por lo que es recomendable separarlos diferentes commits
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzOTI5NDAzLDE3MDg3NDQ5MzQsLTk1ND
+eyJoaXN0b3J5IjpbNDEyNTQ5ODgzLDE3MDg3NDQ5MzQsLTk1ND
 Y2NjE0Niw4NDcwNjQwNDUsLTUzOTc4ODM3MiwyMDEwMTI0NzU1
 LC04NDg4MzUwMDEsMTQ2Nzc1MTI3NywtMTAwOTk4OTI3MywxNz
 gzMTIwNTU4LDIxMDE4MTQwMjEsLTE5MDI3MTc0NTYsLTEwNzUx
