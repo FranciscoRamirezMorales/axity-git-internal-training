@@ -114,7 +114,7 @@ Podemos observar que ahora todos los archivos se encuentran en el Staging Index.
 
 > Antes de avanzar, debemos estar seguros de haber configurado el editor por defecto de Git, ya que a partir de aquí lo usaremos para editar los mensajes de los commits.
 
-Para hacer un commit debemos ejecutar el siguiente comando:
+Para hacer nuestro primer commit debemos ejecutar el siguiente comando:
 ```bash
 $ git commit
 ```
@@ -124,17 +124,17 @@ El comando `git commit` abrirá `Atom` donde podemos ingresar el mensaje del com
 
 ![img_06_git_commit_atom](images/img_06_git_commit_atom.png)
 
-En este casa ingresaremos el mensaje `Initial commit`.
+En este casa ingresaremos el mensaje `Initial commit`. Pero tú puedes ingresar el mensaje que desees.
 
 ![img_06_git commit_atom_out](images/img_06_git_commit_atom_out.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODczNDc3ODAsLTEwMDk5ODkyNzMsMT
-c4MzEyMDU1OCwyMTAxODE0MDIxLC0xOTAyNzE3NDU2LC0xMDc1
-MTExMDg2LDExMzA2MDEwMzcsMjM1OTMxNjE1LC0xMTMyODY3MD
-k2LC00MTY2MDI2ODgsLTc0MTg0ODY4NSwtNzQxODQ4Njg1LC0x
-MDc3OTg4MTE5LDEzNTEwNjY2NTMsLTE4MDQ2Mjc0NCwtMTgyMj
-E4NDcyNCwtMTc4NDY2NTE0NywtMTg5ODk4NDcyMiwtNTgzMDgw
-NjI0LDE3MTgyMzcyODFdfQ==
+eyJoaXN0b3J5IjpbMTQ2Nzc1MTI3NywtMTAwOTk4OTI3MywxNz
+gzMTIwNTU4LDIxMDE4MTQwMjEsLTE5MDI3MTc0NTYsLTEwNzUx
+MTEwODYsMTEzMDYwMTAzNywyMzU5MzE2MTUsLTExMzI4NjcwOT
+YsLTQxNjYwMjY4OCwtNzQxODQ4Njg1LC03NDE4NDg2ODUsLTEw
+Nzc5ODgxMTksMTM1MTA2NjY1MywtMTgwNDYyNzQ0LC0xODIyMT
+g0NzI0LC0xNzg0NjY1MTQ3LC0xODk4OTg0NzIyLC01ODMwODA2
+MjQsMTcxODIzNzI4MV19
 -->
