@@ -170,9 +170,11 @@ Un commit debe registrar un solo cambio.Esto no es limitante para que un commit 
  - modificar el código html
  - agregar o modificar archivos de estilo (css)
 
-Un solo commit que registre todos estos cambios debería estar bie
+Un solo commit que registre todos estos cambios debería estar bien.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNjUwMzgwNiw4NDcwNjQwNDUsLTUzOT
+eyJoaXN0b3J5IjpbLTk1NDY2NjE0Niw4NDcwNjQwNDUsLTUzOT
 c4ODM3MiwyMDEwMTI0NzU1LC04NDg4MzUwMDEsMTQ2Nzc1MTI3
 NywtMTAwOTk4OTI3MywxNzgzMTIwNTU4LDIxMDE4MTQwMjEsLT
 E5MDI3MTc0NTYsLTEwNzUxMTEwODYsMTEzMDYwMTAzNywyMzU5
