@@ -148,13 +148,15 @@ Ejecutamos `git commit` con la opción `-m`:
 ```bash
 $ git commit -m "Add header to blog"
 ```
-Notemos que 
+Notemos que cuando usamos la opción `-m` podemos mandar el mensaje de forma directa al `commit` sin pasar por el editor por default.
+
+Ahora podemos ejecutar git log para ver nuestros commits que 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyODY2NDk0NiwtNTM5Nzg4MzcyLDIwMT
-AxMjQ3NTUsLTg0ODgzNTAwMSwxNDY3NzUxMjc3LC0xMDA5OTg5
-MjczLDE3ODMxMjA1NTgsMjEwMTgxNDAyMSwtMTkwMjcxNzQ1Ni
-wtMTA3NTExMTA4NiwxMTMwNjAxMDM3LDIzNTkzMTYxNSwtMTEz
-Mjg2NzA5NiwtNDE2NjAyNjg4LC03NDE4NDg2ODUsLTc0MTg0OD
-Y4NSwtMTA3Nzk4ODExOSwxMzUxMDY2NjUzLC0xODA0NjI3NDQs
-LTE4MjIxODQ3MjRdfQ==
+eyJoaXN0b3J5IjpbNDkyOTU5NTI5LC01Mzk3ODgzNzIsMjAxMD
+EyNDc1NSwtODQ4ODM1MDAxLDE0Njc3NTEyNzcsLTEwMDk5ODky
+NzMsMTc4MzEyMDU1OCwyMTAxODE0MDIxLC0xOTAyNzE3NDU2LC
+0xMDc1MTExMDg2LDExMzA2MDEwMzcsMjM1OTMxNjE1LC0xMTMy
+ODY3MDk2LC00MTY2MDI2ODgsLTc0MTg0ODY4NSwtNzQxODQ4Nj
+g1LC0xMDc3OTg4MTE5LDEzNTEwNjY2NTMsLTE4MDQ2Mjc0NCwt
+MTgyMjE4NDcyNF19
 -->
