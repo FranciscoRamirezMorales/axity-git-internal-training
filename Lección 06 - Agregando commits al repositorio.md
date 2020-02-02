@@ -106,9 +106,11 @@ $ git status
 
 Podemos observar que ahora todos los archivos se encuentran en el Staging Index.
 
+`git rm --cached <file>...`
+
 ### Aprovechar el poder del comando `git status`
 
-> En este punto ya podemos identificar que git status es un comando bastante útil. Siempre debemos tenerlo en mente antes y después de cualquier otro comando de Git.
+> En este punto ya podemos identificar que `git status` es un comando bastante útil. Siempre debemos tenerlo en mente antes y después de cualquier otro comando de Git.
 
 ## Agregar commits
 
@@ -162,11 +164,11 @@ $ git log
 ![img_06_git_commit_m_log](images/img_06_git_commit_m_log.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ3MDY0MDQ1LC01Mzk3ODgzNzIsMjAxMD
-EyNDc1NSwtODQ4ODM1MDAxLDE0Njc3NTEyNzcsLTEwMDk5ODky
-NzMsMTc4MzEyMDU1OCwyMTAxODE0MDIxLC0xOTAyNzE3NDU2LC
-0xMDc1MTExMDg2LDExMzA2MDEwMzcsMjM1OTMxNjE1LC0xMTMy
-ODY3MDk2LC00MTY2MDI2ODgsLTc0MTg0ODY4NSwtNzQxODQ4Nj
-g1LC0xMDc3OTg4MTE5LDEzNTEwNjY2NTMsLTE4MDQ2Mjc0NCwt
-MTgyMjE4NDcyNF19
+eyJoaXN0b3J5IjpbLTYwMDM3NDk1Miw4NDcwNjQwNDUsLTUzOT
+c4ODM3MiwyMDEwMTI0NzU1LC04NDg4MzUwMDEsMTQ2Nzc1MTI3
+NywtMTAwOTk4OTI3MywxNzgzMTIwNTU4LDIxMDE4MTQwMjEsLT
+E5MDI3MTc0NTYsLTEwNzUxMTEwODYsMTEzMDYwMTAzNywyMzU5
+MzE2MTUsLTExMzI4NjcwOTYsLTQxNjYwMjY4OCwtNzQxODQ4Nj
+g1LC03NDE4NDg2ODUsLTEwNzc5ODgxMTksMTM1MTA2NjY1Mywt
+MTgwNDYyNzQ0XX0=
 -->
