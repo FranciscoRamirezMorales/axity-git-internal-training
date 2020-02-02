@@ -141,7 +141,7 @@ Para esto haremos una segunda modificación al archivo index.html agregando las 
 
 Guardamos el archivo.
 
-Ejecutamos git add para agregar el cambio al Staging Index.
+Ejecutamos `git add` para agregar el cambio al Staging Index.
 
 Ejecutamos `git commit` con la opción `-m`:
 
@@ -151,7 +151,7 @@ $ git commit -m "Add header to blog"
 
 ![img_06_git_commit_m_out](images/img_06_git_commit_m_out.png)
 
-Notemos que cuando usamos la opción `-m` podemos mandar el mensaje de forma directa al `commit` sin pasar por el editor por default.
+> Notemos que cuando usamos la opción `-m` podemos mandar el mensaje de forma directa al `commit` sin pasar por el editor por default.
 
 Ahora podemos ejecutar `git log` para ver nuestros commits que hemos registrado:
 
@@ -162,7 +162,7 @@ $ git log
 ![img_06_git_commit_m_log](images/img_06_git_commit_m_log.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk2MjYzMjQ5LC01Mzk3ODgzNzIsMjAxMD
+eyJoaXN0b3J5IjpbODQ3MDY0MDQ1LC01Mzk3ODgzNzIsMjAxMD
 EyNDc1NSwtODQ4ODM1MDAxLDE0Njc3NTEyNzcsLTEwMDk5ODky
 NzMsMTc4MzEyMDU1OCwyMTAxODE0MDIxLC0xOTAyNzE3NDU2LC
 0xMDc1MTExMDg2LDExMzA2MDEwMzcsMjM1OTMxNjE1LC0xMTMy
