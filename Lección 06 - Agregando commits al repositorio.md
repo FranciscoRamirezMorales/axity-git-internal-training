@@ -193,13 +193,13 @@ https://udacity.github.io/git-styleguide/
 
 El comando `git diff` puede ser usado para ver los cambios que se han hecho pero a los que no se les ha hecho commit.
 
-
+Para entender la funcionalidad de este comando realicemos en siguiente cambio en el
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk2NTk3NTg2LDE4MTE3NTEwODAsLTYyMj
-E2NzcyNywtMTAxNjQ2ODkyOSw0MTI1NDk4ODMsMTcwODc0NDkz
-NCwtOTU0NjY2MTQ2LDg0NzA2NDA0NSwtNTM5Nzg4MzcyLDIwMT
-AxMjQ3NTUsLTg0ODgzNTAwMSwxNDY3NzUxMjc3LC0xMDA5OTg5
-MjczLDE3ODMxMjA1NTgsMjEwMTgxNDAyMSwtMTkwMjcxNzQ1Ni
-wtMTA3NTExMTA4NiwxMTMwNjAxMDM3LDIzNTkzMTYxNSwtMTEz
-Mjg2NzA5Nl19
+eyJoaXN0b3J5IjpbLTEwMzUzMDY3NDEsMTgxMTc1MTA4MCwtNj
+IyMTY3NzI3LC0xMDE2NDY4OTI5LDQxMjU0OTg4MywxNzA4NzQ0
+OTM0LC05NTQ2NjYxNDYsODQ3MDY0MDQ1LC01Mzk3ODgzNzIsMj
+AxMDEyNDc1NSwtODQ4ODM1MDAxLDE0Njc3NTEyNzcsLTEwMDk5
+ODkyNzMsMTc4MzEyMDU1OCwyMTAxODE0MDIxLC0xOTAyNzE3ND
+U2LC0xMDc1MTExMDg2LDExMzA2MDEwMzcsMjM1OTMxNjE1LC0x
+MTMyODY3MDk2XX0=
 -->
