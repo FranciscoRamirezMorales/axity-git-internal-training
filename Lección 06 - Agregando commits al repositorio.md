@@ -227,13 +227,14 @@ Recordemos en lecciones anterior en comando `git add .`
 
 git add . agrega todos los archivos que han sido creados o modificados al Staging Index. Pero:
 ¿qué pasa si no queremos que todos sean agregados?
-¿cómo p
+¿cómo puedo ignorar archivos específico?
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MjIyMzQxNCw0Nzc2MjU0MjQsMTU0Nj
-gyNzM5NCwtMjIzMjEwNTcyLDE0NzI4MDM4MzcsMTgxMTc1MTA4
-MCwtNjIyMTY3NzI3LC0xMDE2NDY4OTI5LDQxMjU0OTg4MywxNz
-A4NzQ0OTM0LC05NTQ2NjYxNDYsODQ3MDY0MDQ1LC01Mzk3ODgz
-NzIsMjAxMDEyNDc1NSwtODQ4ODM1MDAxLDE0Njc3NTEyNzcsLT
-EwMDk5ODkyNzMsMTc4MzEyMDU1OCwyMTAxODE0MDIxLC0xOTAy
-NzE3NDU2XX0=
+eyJoaXN0b3J5IjpbMTU5OTgzMDg1LDQ3NzYyNTQyNCwxNTQ2OD
+I3Mzk0LC0yMjMyMTA1NzIsMTQ3MjgwMzgzNywxODExNzUxMDgw
+LC02MjIxNjc3MjcsLTEwMTY0Njg5MjksNDEyNTQ5ODgzLDE3MD
+g3NDQ5MzQsLTk1NDY2NjE0Niw4NDcwNjQwNDUsLTUzOTc4ODM3
+MiwyMDEwMTI0NzU1LC04NDg4MzUwMDEsMTQ2Nzc1MTI3NywtMT
+AwOTk4OTI3MywxNzgzMTIwNTU4LDIxMDE4MTQwMjEsLTE5MDI3
+MTc0NTZdfQ==
 -->
