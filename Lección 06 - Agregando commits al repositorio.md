@@ -225,13 +225,15 @@ Como podemos ver `git diff` muestra los cambios antes de hacer `get commit`.
 
 Recordemos en lecciones anterior en comando `git add .`
 
-
+git add . agrega todos los archivos que han sido creados o modificados al Staging Index. Pero:
+¿qué pasa si no queremos que todos sean agregados?
+¿cómo p
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM2NzE5Niw0Nzc2MjU0MjQsMTU0NjgyNz
-M5NCwtMjIzMjEwNTcyLDE0NzI4MDM4MzcsMTgxMTc1MTA4MCwt
-NjIyMTY3NzI3LC0xMDE2NDY4OTI5LDQxMjU0OTg4MywxNzA4Nz
-Q0OTM0LC05NTQ2NjYxNDYsODQ3MDY0MDQ1LC01Mzk3ODgzNzIs
-MjAxMDEyNDc1NSwtODQ4ODM1MDAxLDE0Njc3NTEyNzcsLTEwMD
-k5ODkyNzMsMTc4MzEyMDU1OCwyMTAxODE0MDIxLC0xOTAyNzE3
-NDU2XX0=
+eyJoaXN0b3J5IjpbLTk2MjIyMzQxNCw0Nzc2MjU0MjQsMTU0Nj
+gyNzM5NCwtMjIzMjEwNTcyLDE0NzI4MDM4MzcsMTgxMTc1MTA4
+MCwtNjIyMTY3NzI3LC0xMDE2NDY4OTI5LDQxMjU0OTg4MywxNz
+A4NzQ0OTM0LC05NTQ2NjYxNDYsODQ3MDY0MDQ1LC01Mzk3ODgz
+NzIsMjAxMDEyNDc1NSwtODQ4ODM1MDAxLDE0Njc3NTEyNzcsLT
+EwMDk5ODkyNzMsMTc4MzEyMDU1OCwyMTAxODE0MDIxLC0xOTAy
+NzE3NDU2XX0=
 -->
