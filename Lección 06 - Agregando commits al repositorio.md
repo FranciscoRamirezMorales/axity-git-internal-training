@@ -191,13 +191,15 @@ https://udacity.github.io/git-styleguide/
 
 ## Revisar lo que ha cambiado
 
-El comando git diff puede ser usado para ver los cambios que se han hecho.
+El comando `git diff` puede ser usado para ver los cambios que se han hecho pero a los que no se les ha hecho commit.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMTc1MTA4MCwtNjIyMTY3NzI3LC0xMD
-E2NDY4OTI5LDQxMjU0OTg4MywxNzA4NzQ0OTM0LC05NTQ2NjYx
-NDYsODQ3MDY0MDQ1LC01Mzk3ODgzNzIsMjAxMDEyNDc1NSwtOD
-Q4ODM1MDAxLDE0Njc3NTEyNzcsLTEwMDk5ODkyNzMsMTc4MzEy
-MDU1OCwyMTAxODE0MDIxLC0xOTAyNzE3NDU2LC0xMDc1MTExMD
-g2LDExMzA2MDEwMzcsMjM1OTMxNjE1LC0xMTMyODY3MDk2LC00
-MTY2MDI2ODhdfQ==
+eyJoaXN0b3J5IjpbMjk2NTk3NTg2LDE4MTE3NTEwODAsLTYyMj
+E2NzcyNywtMTAxNjQ2ODkyOSw0MTI1NDk4ODMsMTcwODc0NDkz
+NCwtOTU0NjY2MTQ2LDg0NzA2NDA0NSwtNTM5Nzg4MzcyLDIwMT
+AxMjQ3NTUsLTg0ODgzNTAwMSwxNDY3NzUxMjc3LC0xMDA5OTg5
+MjczLDE3ODMxMjA1NTgsMjEwMTgxNDAyMSwtMTkwMjcxNzQ1Ni
+wtMTA3NTExMTA4NiwxMTMwNjAxMDM3LDIzNTkzMTYxNSwtMTEz
+Mjg2NzA5Nl19
 -->
