@@ -193,13 +193,15 @@ https://udacity.github.io/git-styleguide/
 
 El comando `git diff` puede ser usado para ver los cambios que se han hecho pero a los que no se les ha hecho commit.
 
-Para entender la funcionalidad de este comando realicemos en siguiente cambio en el
+Para entender la funcionalidad de este comando realicemos en siguiente cambio en el archivo index.html:
+
+Cambiar Expedition a Adventure
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzUzMDY3NDEsMTgxMTc1MTA4MCwtNj
-IyMTY3NzI3LC0xMDE2NDY4OTI5LDQxMjU0OTg4MywxNzA4NzQ0
-OTM0LC05NTQ2NjYxNDYsODQ3MDY0MDQ1LC01Mzk3ODgzNzIsMj
-AxMDEyNDc1NSwtODQ4ODM1MDAxLDE0Njc3NTEyNzcsLTEwMDk5
-ODkyNzMsMTc4MzEyMDU1OCwyMTAxODE0MDIxLC0xOTAyNzE3ND
-U2LC0xMDc1MTExMDg2LDExMzA2MDEwMzcsMjM1OTMxNjE1LC0x
-MTMyODY3MDk2XX0=
+eyJoaXN0b3J5IjpbMTQ3MjgwMzgzNywxODExNzUxMDgwLC02Mj
+IxNjc3MjcsLTEwMTY0Njg5MjksNDEyNTQ5ODgzLDE3MDg3NDQ5
+MzQsLTk1NDY2NjE0Niw4NDcwNjQwNDUsLTUzOTc4ODM3MiwyMD
+EwMTI0NzU1LC04NDg4MzUwMDEsMTQ2Nzc1MTI3NywtMTAwOTk4
+OTI3MywxNzgzMTIwNTU4LDIxMDE4MTQwMjEsLTE5MDI3MTc0NT
+YsLTEwNzUxMTEwODYsMTEzMDYwMTAzNywyMzU5MzE2MTUsLTEx
+MzI4NjcwOTZdfQ==
 -->
