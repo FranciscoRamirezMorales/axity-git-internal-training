@@ -197,14 +197,23 @@ Para entender la funcionalidad de este comando realicemos en siguiente cambio en
 
 En el tag (<h1>), cambiar el título de **Expedition** a **Adventure**
 
+Anterior:
+<header>
+<h1>Expedition</h1>
+</header>
+
+Nuevo:
+    <header>
+      <h1>Adventure</h1>
+    </header>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzU5OTA5MzIsMTQ3MjgwMzgzNywxOD
-ExNzUxMDgwLC02MjIxNjc3MjcsLTEwMTY0Njg5MjksNDEyNTQ5
-ODgzLDE3MDg3NDQ5MzQsLTk1NDY2NjE0Niw4NDcwNjQwNDUsLT
-UzOTc4ODM3MiwyMDEwMTI0NzU1LC04NDg4MzUwMDEsMTQ2Nzc1
-MTI3NywtMTAwOTk4OTI3MywxNzgzMTIwNTU4LDIxMDE4MTQwMj
-EsLTE5MDI3MTc0NTYsLTEwNzUxMTEwODYsMTEzMDYwMTAzNywy
-MzU5MzE2MTVdfQ==
+eyJoaXN0b3J5IjpbMTI1MjAwOTI3MiwxNDcyODAzODM3LDE4MT
+E3NTEwODAsLTYyMjE2NzcyNywtMTAxNjQ2ODkyOSw0MTI1NDk4
+ODMsMTcwODc0NDkzNCwtOTU0NjY2MTQ2LDg0NzA2NDA0NSwtNT
+M5Nzg4MzcyLDIwMTAxMjQ3NTUsLTg0ODgzNTAwMSwxNDY3NzUx
+Mjc3LC0xMDA5OTg5MjczLDE3ODMxMjA1NTgsMjEwMTgxNDAyMS
+wtMTkwMjcxNzQ1NiwtMTA3NTExMTA4NiwxMTMwNjAxMDM3LDIz
+NTkzMTYxNV19
 -->
