@@ -195,13 +195,16 @@ El comando `git diff` puede ser usado para ver los cambios que se han hecho pero
 
 Para entender la funcionalidad de este comando realicemos en siguiente cambio en el archivo index.html:
 
-Cambiar Expedition a Adventure
+En el tag (<h1>), cambiar el título de **Expedition** a **Adventure**
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MjgwMzgzNywxODExNzUxMDgwLC02Mj
-IxNjc3MjcsLTEwMTY0Njg5MjksNDEyNTQ5ODgzLDE3MDg3NDQ5
-MzQsLTk1NDY2NjE0Niw4NDcwNjQwNDUsLTUzOTc4ODM3MiwyMD
-EwMTI0NzU1LC04NDg4MzUwMDEsMTQ2Nzc1MTI3NywtMTAwOTk4
-OTI3MywxNzgzMTIwNTU4LDIxMDE4MTQwMjEsLTE5MDI3MTc0NT
-YsLTEwNzUxMTEwODYsMTEzMDYwMTAzNywyMzU5MzE2MTUsLTEx
-MzI4NjcwOTZdfQ==
+eyJoaXN0b3J5IjpbLTEwNzU5OTA5MzIsMTQ3MjgwMzgzNywxOD
+ExNzUxMDgwLC02MjIxNjc3MjcsLTEwMTY0Njg5MjksNDEyNTQ5
+ODgzLDE3MDg3NDQ5MzQsLTk1NDY2NjE0Niw4NDcwNjQwNDUsLT
+UzOTc4ODM3MiwyMDEwMTI0NzU1LC04NDg4MzUwMDEsMTQ2Nzc1
+MTI3NywtMTAwOTk4OTI3MywxNzgzMTIwNTU4LDIxMDE4MTQwMj
+EsLTE5MDI3MTc0NTYsLTEwNzUxMTEwODYsMTEzMDYwMTAzNywy
+MzU5MzE2MTVdfQ==
 -->
