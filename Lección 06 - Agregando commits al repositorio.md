@@ -276,8 +276,9 @@ $ git status
     -   a/z
     -   a/b/z
     -   a/b/c/z
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzUwMzgyMCw0MDgyNTgwNDAsLTEyMT
+eyJoaXN0b3J5IjpbLTY4OTQ2ODMxOCw0MDgyNTgwNDAsLTEyMT
 E3NDU3NDIsNzgyMzE3MDQsLTYyMzIzMDEwMiw3OTU2NjQzNiw0
 Nzc2MjU0MjQsMTU0NjgyNzM5NCwtMjIzMjEwNTcyLDE0NzI4MD
 M4MzcsMTgxMTc1MTA4MCwtNjIyMTY3NzI3LC0xMDE2NDY4OTI5
