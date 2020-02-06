@@ -230,14 +230,17 @@ git add . agrega todos los archivos que han sido creados o modificados al Stagin
 ¿cómo puedo ignorar archivos específico?
 ¿Cómo puedo evitar que Git lleve el registro de cambios a archivos puntuales?
 
+Imaginemos que creamos un archivo project.docx:
 
-
+```bash
+$ `touch project.docx`
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk1NjY0MzYsNDc3NjI1NDI0LDE1NDY4Mj
-czOTQsLTIyMzIxMDU3MiwxNDcyODAzODM3LDE4MTE3NTEwODAs
-LTYyMjE2NzcyNywtMTAxNjQ2ODkyOSw0MTI1NDk4ODMsMTcwOD
-c0NDkzNCwtOTU0NjY2MTQ2LDg0NzA2NDA0NSwtNTM5Nzg4Mzcy
-LDIwMTAxMjQ3NTUsLTg0ODgzNTAwMSwxNDY3NzUxMjc3LC0xMD
-A5OTg5MjczLDE3ODMxMjA1NTgsMjEwMTgxNDAyMSwtMTkwMjcx
-NzQ1Nl19
+eyJoaXN0b3J5IjpbLTExOTE2ODQ4NDgsNzk1NjY0MzYsNDc3Nj
+I1NDI0LDE1NDY4MjczOTQsLTIyMzIxMDU3MiwxNDcyODAzODM3
+LDE4MTE3NTEwODAsLTYyMjE2NzcyNywtMTAxNjQ2ODkyOSw0MT
+I1NDk4ODMsMTcwODc0NDkzNCwtOTU0NjY2MTQ2LDg0NzA2NDA0
+NSwtNTM5Nzg4MzcyLDIwMTAxMjQ3NTUsLTg0ODgzNTAwMSwxND
+Y3NzUxMjc3LC0xMDA5OTg5MjczLDE3ODMxMjA1NTgsMjEwMTgx
+NDAyMV19
 -->
