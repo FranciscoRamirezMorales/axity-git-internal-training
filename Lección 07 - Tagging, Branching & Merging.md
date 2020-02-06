@@ -61,14 +61,15 @@ $ git tag -d v1.0
 
 ### Agregar un tag a un commit pasado
 
-Si queremos agregar un **tag** sobre un **commit** específico ejecutamos el siguiente comando:
+Si queremos agregar un **tag** sobre un **commit** específico (por ejemplo, apuntando al SHA) ejecutamos el siguiente comando:
 ```bash
 $ git tag -a v1.0 bb352c
 ```
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NzQ2OTg2MSwtNDMwNzI1MDEsMjg2Nj
-g0MTk0LC0xNjYwODMwOTI1LC0xOTMwNTAyNDgsLTE4MTEyMTg1
-OTksMTgyNTUwMzE3NV19
+eyJoaXN0b3J5IjpbLTExMDA2ODE3ODgsMTg0NzQ2OTg2MSwtND
+MwNzI1MDEsMjg2Njg0MTk0LC0xNjYwODMwOTI1LC0xOTMwNTAy
+NDgsLTE4MTEyMTg1OTksMTgyNTUwMzE3NV19
 -->
