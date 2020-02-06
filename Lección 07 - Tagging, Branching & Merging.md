@@ -118,10 +118,13 @@ $ git branch -d sidebar
 $ git branch alt-sidebar-loc bb352c
 ```
 
+![img_07_git_branch_01](images/img_07_git_branch_01.png)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzQxNDQ1MzEsMjA4MTE2MTkxNCwtND
-gxMDkyOTAwLDEwNzYxMzY3NDksNTIwMjA2NjYwLC0xNDE5NDU3
-Nzg4LDE4NDc0Njk4NjEsLTQzMDcyNTAxLDI4NjY4NDE5NCwtMT
-Y2MDgzMDkyNSwtMTkzMDUwMjQ4LC0xODExMjE4NTk5LDE4MjU1
-MDMxNzVdfQ==
+eyJoaXN0b3J5IjpbLTEwNzE2NzgxODEsLTEzMzQxNDQ1MzEsMj
+A4MTE2MTkxNCwtNDgxMDkyOTAwLDEwNzYxMzY3NDksNTIwMjA2
+NjYwLC0xNDE5NDU3Nzg4LDE4NDc0Njk4NjEsLTQzMDcyNTAxLD
+I4NjY4NDE5NCwtMTY2MDgzMDkyNSwtMTkzMDUwMjQ4LC0xODEx
+MjE4NTk5LDE4MjU1MDMxNzVdfQ==
 -->
