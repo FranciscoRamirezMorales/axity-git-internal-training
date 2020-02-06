@@ -49,9 +49,14 @@ $ git log
 
 ![img_07_git_tag_log](images/img_07_git_tag_log.png)
 
+Para borrar un tag ejecutamos:
+```bash
+$ 
+git tag -d v1.0
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDUyMDg1NTQsMjg2Njg0MTk0LC0xNj
-YwODMwOTI1LC0xOTMwNTAyNDgsLTE4MTEyMTg1OTksMTgyNTUw
-MzE3NV19
+eyJoaXN0b3J5IjpbMTA5NjU1NDI4MywyODY2ODQxOTQsLTE2Nj
+A4MzA5MjUsLTE5MzA1MDI0OCwtMTgxMTIxODU5OSwxODI1NTAz
+MTc1XX0=
 -->
