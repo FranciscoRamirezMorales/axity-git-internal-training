@@ -255,8 +255,14 @@ $ echo "project.docx" >> .gitignore
 ```
 > También podemos usar un editor para agregar la línea del comando anterior.
 
+ - Ejecutamos `git status` para comprobar que para `project.docx` ya no se :
+```bash
+$ git status
+```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2OTM3Nzg3MiwtNjIzMjMwMTAyLDc5NT
+eyJoaXN0b3J5IjpbLTI4MTA5NjcwMywtNjIzMjMwMTAyLDc5NT
 Y2NDM2LDQ3NzYyNTQyNCwxNTQ2ODI3Mzk0LC0yMjMyMTA1NzIs
 MTQ3MjgwMzgzNywxODExNzUxMDgwLC02MjIxNjc3MjcsLTEwMT
 Y0Njg5MjksNDEyNTQ5ODgzLDE3MDg3NDQ5MzQsLTk1NDY2NjE0
