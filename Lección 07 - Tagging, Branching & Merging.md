@@ -71,9 +71,13 @@ $ git log
 
 > Para efectos de las lecciones siguientes debemos eliminar el tag que hemos creado previamente.
 
+## Crear Branches
+El siguiente video 
+**Video >>> (dar clic)**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MTA5MjkwMCwxMDc2MTM2NzQ5LDUyMD
-IwNjY2MCwtMTQxOTQ1Nzc4OCwxODQ3NDY5ODYxLC00MzA3MjUw
-MSwyODY2ODQxOTQsLTE2NjA4MzA5MjUsLTE5MzA1MDI0OCwtMT
-gxMTIxODU5OSwxODI1NTAzMTc1XX0=
+eyJoaXN0b3J5IjpbMTUwMzM1NzMyMCwtNDgxMDkyOTAwLDEwNz
+YxMzY3NDksNTIwMjA2NjYwLC0xNDE5NDU3Nzg4LDE4NDc0Njk4
+NjEsLTQzMDcyNTAxLDI4NjY4NDE5NCwtMTY2MDgzMDkyNSwtMT
+kzMDUwMjQ4LC0xODExMjE4NTk5LDE4MjU1MDMxNzVdfQ==
 -->
