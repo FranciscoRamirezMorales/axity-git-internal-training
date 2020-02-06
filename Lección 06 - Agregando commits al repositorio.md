@@ -240,7 +240,7 @@ Ejecutamos:
 $ git status
 ```
 
-![mg_06_git_no_ignore](images/mg_06_git_no_ignore.png)
+![img_06_git_no_ignore](images/img_06_git_no_ignore.png)
 
 Aquí podemos observar que Git está llevando un registro del archivo `project.docx`.
 
@@ -263,14 +263,14 @@ $ echo "project.docx" >> .gitignore
 $ git status
 ```
 
-![mg_06_git_ignore](images/mg_06_git_ignore.png)
+![img_06_git_ignore](images/img_06_git_ignore.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTE3NDU3NDIsNzgyMzE3MDQsLTYyMz
-IzMDEwMiw3OTU2NjQzNiw0Nzc2MjU0MjQsMTU0NjgyNzM5NCwt
-MjIzMjEwNTcyLDE0NzI4MDM4MzcsMTgxMTc1MTA4MCwtNjIyMT
-Y3NzI3LC0xMDE2NDY4OTI5LDQxMjU0OTg4MywxNzA4NzQ0OTM0
-LC05NTQ2NjYxNDYsODQ3MDY0MDQ1LC01Mzk3ODgzNzIsMjAxMD
-EyNDc1NSwtODQ4ODM1MDAxLDE0Njc3NTEyNzcsLTEwMDk5ODky
-NzNdfQ==
+eyJoaXN0b3J5IjpbNDA4MjU4MDQwLC0xMjExNzQ1NzQyLDc4Mj
+MxNzA0LC02MjMyMzAxMDIsNzk1NjY0MzYsNDc3NjI1NDI0LDE1
+NDY4MjczOTQsLTIyMzIxMDU3MiwxNDcyODAzODM3LDE4MTE3NT
+EwODAsLTYyMjE2NzcyNywtMTAxNjQ2ODkyOSw0MTI1NDk4ODMs
+MTcwODc0NDkzNCwtOTU0NjY2MTQ2LDg0NzA2NDA0NSwtNTM5Nz
+g4MzcyLDIwMTAxMjQ3NTUsLTg0ODgzNTAwMSwxNDY3NzUxMjc3
+XX0=
 -->
