@@ -40,7 +40,8 @@ Antes de comenzar, debemos asegurarnos de los siguiente:
 
  - Todos los archivos han sido agregados al Staging Index y se ha realizado un commit.
  - El único branch es master. Si existen otros branches, asegurar que han sido borrados.
- - Al ejecutar git status
+ - Al ejecutar git status, la salida debe indicar que el directorio de trabajo esta limpio (`working directory clean`).
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA3NTkwMjU5LC01ODQ4MDYwNjhdfQ==
+eyJoaXN0b3J5IjpbMTg5MzgyOTkyMywtNTg0ODA2MDY4XX0=
 -->
