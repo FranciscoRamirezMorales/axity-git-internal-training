@@ -51,12 +51,14 @@ $ git log
 
 Para borrar un tag ejecutamos:
 ```bash
-$ 
-git tag -d v1.0
+$ git tag -d v1.0
 ```
 
+> Otra opción es: `git tag --delete v1.0`
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NjU1NDI4MywyODY2ODQxOTQsLTE2Nj
-A4MzA5MjUsLTE5MzA1MDI0OCwtMTgxMTIxODU5OSwxODI1NTAz
-MTc1XX0=
+eyJoaXN0b3J5IjpbLTQzMDcyNTAxLDI4NjY4NDE5NCwtMTY2MD
+gzMDkyNSwtMTkzMDUwMjQ4LC0xODExMjE4NTk5LDE4MjU1MDMx
+NzVdfQ==
 -->
