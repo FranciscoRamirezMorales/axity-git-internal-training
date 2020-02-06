@@ -72,12 +72,16 @@ $ git log
 > Para efectos de las lecciones siguientes debemos eliminar el tag que hemos creado previamente.
 
 ## Crear Branches
-El siguiente video 
+El siguiente video explica de forma general cómo funcionan los banches:
+
 **Video >>> (dar clic)**
 
+[![Git Branches](http://img.youtube.com/vi/ywcOC6CLG4s/0.jpg)](http://www.youtube.com/watch?v=ywcOC6CLG4s "Git Branches")
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMzM1NzMyMCwtNDgxMDkyOTAwLDEwNz
-YxMzY3NDksNTIwMjA2NjYwLC0xNDE5NDU3Nzg4LDE4NDc0Njk4
-NjEsLTQzMDcyNTAxLDI4NjY4NDE5NCwtMTY2MDgzMDkyNSwtMT
-kzMDUwMjQ4LC0xODExMjE4NTk5LDE4MjU1MDMxNzVdfQ==
+eyJoaXN0b3J5IjpbLTExNjgxNTczMjMsLTQ4MTA5MjkwMCwxMD
+c2MTM2NzQ5LDUyMDIwNjY2MCwtMTQxOTQ1Nzc4OCwxODQ3NDY5
+ODYxLC00MzA3MjUwMSwyODY2ODQxOTQsLTE2NjA4MzA5MjUsLT
+E5MzA1MDI0OCwtMTgxMTIxODU5OSwxODI1NTAzMTc1XX0=
 -->
