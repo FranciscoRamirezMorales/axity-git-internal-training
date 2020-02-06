@@ -20,9 +20,9 @@ En esta lección veremos los siguientes comandos:
 
 [![Git Tag](http://img.youtube.com/vi/D4VdXT72ASE/0.jpg)](http://www.youtube.com/watch?v=D4VdXT72ASE "Git Tag")
 
-[![Watch the video](https://youtu.be/vt5fpE0bzSY/0.png)](https://youtu.be/vt5fpE0bzSY)
+[![Git Tag](http://www.youtube.com/watch?v=D4VdXT72ASE/0.png)](http://www.youtube.com/watch?v=D4VdXT72ASE "Git Tag")
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MzQxNTk4NywtMTgxMTIxODU5OSwxOD
-I1NTAzMTc1XX0=
+eyJoaXN0b3J5IjpbMjMzODQyMDYsLTE4MTEyMTg1OTksMTgyNT
+UwMzE3NV19
 -->
