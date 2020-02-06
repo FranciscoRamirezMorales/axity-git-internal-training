@@ -80,13 +80,21 @@ El siguiente video explica de forma general cómo funcionan los banches:
 
 El comando que usaremos para administrar los branches es `git branch`.
 
-## 
+### Visualizar los branches existentes
 ```bash
 $ git branch
 ```
+
+### Crear un nuevo branch
+```bash
+$ git branch sidebar
+```
+
+## Cambiar entre branches
+El siguiente video explica de forma general cómo funcionan los banches:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQzMzQzODMsLTQ4MTA5MjkwMCwxMDc2MT
-M2NzQ5LDUyMDIwNjY2MCwtMTQxOTQ1Nzc4OCwxODQ3NDY5ODYx
-LC00MzA3MjUwMSwyODY2ODQxOTQsLTE2NjA4MzA5MjUsLTE5Mz
-A1MDI0OCwtMTgxMTIxODU5OSwxODI1NTAzMTc1XX0=
+eyJoaXN0b3J5IjpbLTE1OTI1OTM1MSwtNDgxMDkyOTAwLDEwNz
+YxMzY3NDksNTIwMjA2NjYwLC0xNDE5NDU3Nzg4LDE4NDc0Njk4
+NjEsLTQzMDcyNTAxLDI4NjY4NDE5NCwtMTY2MDgzMDkyNSwtMT
+kzMDUwMjQ4LC0xODExMjE4NTk5LDE4MjU1MDMxNzVdfQ==
 -->
