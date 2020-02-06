@@ -239,13 +239,17 @@ Ejecutamos:
 ```bash
 $ git status
 ```
-Aquí podemos observar que Git está llevando unregistro del archivo
+Aquí podemos observar que Git está llevando un registro del archivo `project.docx`.
+
+Ahora, para indicarle a Git que omita los cambios de del archivo `project.docx` necesitamos hacer los siguiente:
+
+Crear un archivo llamadao .gitignore:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzOTk4NjkzOSwtNjIzMjMwMTAyLDc5NT
-Y2NDM2LDQ3NzYyNTQyNCwxNTQ2ODI3Mzk0LC0yMjMyMTA1NzIs
-MTQ3MjgwMzgzNywxODExNzUxMDgwLC02MjIxNjc3MjcsLTEwMT
-Y0Njg5MjksNDEyNTQ5ODgzLDE3MDg3NDQ5MzQsLTk1NDY2NjE0
-Niw4NDcwNjQwNDUsLTUzOTc4ODM3MiwyMDEwMTI0NzU1LC04ND
-g4MzUwMDEsMTQ2Nzc1MTI3NywtMTAwOTk4OTI3MywxNzgzMTIw
-NTU4XX0=
+eyJoaXN0b3J5IjpbLTIwODcwNzM2MDEsLTYyMzIzMDEwMiw3OT
+U2NjQzNiw0Nzc2MjU0MjQsMTU0NjgyNzM5NCwtMjIzMjEwNTcy
+LDE0NzI4MDM4MzcsMTgxMTc1MTA4MCwtNjIyMTY3NzI3LC0xMD
+E2NDY4OTI5LDQxMjU0OTg4MywxNzA4NzQ0OTM0LC05NTQ2NjYx
+NDYsODQ3MDY0MDQ1LC01Mzk3ODgzNzIsMjAxMDEyNDc1NSwtOD
+Q4ODM1MDAxLDE0Njc3NTEyNzcsLTEwMDk5ODkyNzMsMTc4MzEy
+MDU1OF19
 -->
