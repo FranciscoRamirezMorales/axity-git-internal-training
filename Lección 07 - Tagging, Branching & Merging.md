@@ -29,16 +29,20 @@ $ git tag -a v1.0
 ```
 Esto abrirá el editor por defecto para poder generar un mensaje para el tag, en este caso ingresaremos el mensaje `Ready for content`.
 
+Después de esto guardamos y cerramos el editor.
+
 ![img_07_git_tag_atom](images/img_07_git_tag_atom.png)
 
-> Se recomienda el uso de la opción -a ya que esta incluirá información adicional como:
+> Se recomienda el uso de la opción `-a` ya que esta incluirá información adicional como:
 > 
 > - la persona que generó el tag
 > - la fecha en que fue realizado
 > - el mensaje del tag
 >
-> si no se incluye la opción -a entonces se creará un tag ligero
+> si no se incluye la opción `-a` entonces se creará un **tag ligero**
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjA2MjE1NjksLTE2NjA4MzA5MjUsLT
-E5MzA1MDI0OCwtMTgxMTIxODU5OSwxODI1NTAzMTc1XX0=
+eyJoaXN0b3J5IjpbMjg2Njg0MTk0LC0xNjYwODMwOTI1LC0xOT
+MwNTAyNDgsLTE4MTEyMTg1OTksMTgyNTUwMzE3NV19
 -->
