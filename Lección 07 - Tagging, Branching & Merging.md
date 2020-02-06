@@ -22,12 +22,12 @@ En esta lección veremos los siguientes comandos:
 
 ## Cear un Tag
 
-Continuando con nuestro repositorio `new-git-project` crearemos un tag con el siguiente comando:
+Continuando con nuestro repositorio `new-git-project` crearemos un **tag** con el siguiente comando:
 
 ```bash
 $ git tag -a v1.0
 ```
-Esto abrirá el editor por defecto para poder generar un mensaje para el tag, en este caso ingresaremos el mensaje `Ready for content`.
+Esto abrirá el editor por defecto para poder generar un mensaje para el **tag**, en este caso ingresaremos el mensaje `Ready for content`.
 
 Después de esto guardamos y cerramos el editor.
 
@@ -48,8 +48,9 @@ $ git tag -a v1.0
 
 ![img_07_git_tag](images/img_07_git_tag.png)
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0ODA4OTM1OSwyODY2ODQxOTQsLTE2Nj
+eyJoaXN0b3J5IjpbMTYzMzk2ODA5NSwyODY2ODQxOTQsLTE2Nj
 A4MzA5MjUsLTE5MzA1MDI0OCwtMTgxMTIxODU5OSwxODI1NTAz
 MTc1XX0=
 -->
