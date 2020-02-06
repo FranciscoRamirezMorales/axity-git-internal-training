@@ -18,11 +18,11 @@ En esta lección veremos los siguientes comandos:
 
 ## Cear un Tag
 
+**Video >>> (dar clic)**
+
 [![Git Tag](http://img.youtube.com/vi/D4VdXT72ASE/0.jpg)](http://www.youtube.com/watch?v=D4VdXT72ASE "Git Tag")
 
-[![Git Tag](http:/img.youtube.com/vi/D4VdXT72ASE/0.jpg)](http://www.youtube.com/watch?v=D4VdXT72ASE "Git Tag")
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzA1MDI0OCwtMTgxMTIxODU5OSwxOD
-I1NTAzMTc1XX0=
+eyJoaXN0b3J5IjpbLTE1NzI4OTU3NywtMTkzMDUwMjQ4LC0xOD
+ExMjE4NTk5LDE4MjU1MDMxNzVdfQ==
 -->
