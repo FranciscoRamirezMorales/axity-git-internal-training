@@ -22,6 +22,8 @@ En esta lección veremos los siguientes comandos:
 
 ## Cear un Tag
 
+### Crear un tag en el punto actual
+
 Continuando con nuestro repositorio `new-git-project` crearemos un **tag** con el siguiente comando:
 
 ```bash
@@ -49,6 +51,8 @@ $ git log
 
 ![img_07_git_tag_log](images/img_07_git_tag_log.png)
 
+### Borrar un tag
+
 Para borrar un tag ejecutamos:
 ```bash
 $ git tag -d v1.0
@@ -56,9 +60,9 @@ $ git tag -d v1.0
 
 > Otra opción es: `git tag --delete v1.0`
 
-
+### Agregar un tag en el punto actual
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMDcyNTAxLDI4NjY4NDE5NCwtMTY2MD
-gzMDkyNSwtMTkzMDUwMjQ4LC0xODExMjE4NTk5LDE4MjU1MDMx
-NzVdfQ==
+eyJoaXN0b3J5IjpbLTIwMjA2NzU2OSwtNDMwNzI1MDEsMjg2Nj
+g0MTk0LC0xNjYwODMwOTI1LC0xOTMwNTAyNDgsLTE4MTEyMTg1
+OTksMTgyNTUwMzE3NV19
 -->
