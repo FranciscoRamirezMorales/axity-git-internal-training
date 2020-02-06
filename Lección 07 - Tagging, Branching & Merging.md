@@ -46,11 +46,12 @@ Para verificar que el **tag** se ha creado
 $ git tag -a v1.0
 ```
 
-![img_07_git_tag](images/img_07_git_tag.png)
+
+![img_07_git_tag_log](images/img_07_git_tag.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMzk2ODA5NSwyODY2ODQxOTQsLTE2Nj
-A4MzA5MjUsLTE5MzA1MDI0OCwtMTgxMTIxODU5OSwxODI1NTAz
-MTc1XX0=
+eyJoaXN0b3J5IjpbNjg0MzUzNzY4LDI4NjY4NDE5NCwtMTY2MD
+gzMDkyNSwtMTkzMDUwMjQ4LC0xODExMjE4NTk5LDE4MjU1MDMx
+NzVdfQ==
 -->
