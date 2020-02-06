@@ -94,11 +94,10 @@ $ git branch sidebar
 ```bash
 $ git checkout sidebar
 ```
-
-> Blockquote
+> Es importante entender que cuando hacemos git checkout, todos los archivos del repositorio de trabajo son removidos y en su lugar son colocados los archivos que 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDcwNzg3NzQsLTQ4MTA5MjkwMCwxMD
+eyJoaXN0b3J5IjpbLTE3NjA5Njk3NzYsLTQ4MTA5MjkwMCwxMD
 c2MTM2NzQ5LDUyMDIwNjY2MCwtMTQxOTQ1Nzc4OCwxODQ3NDY5
 ODYxLC00MzA3MjUwMSwyODY2ODQxOTQsLTE2NjA4MzA5MjUsLT
 E5MzA1MDI0OCwtMTgxMTIxODU5OSwxODI1NTAzMTc1XX0=
