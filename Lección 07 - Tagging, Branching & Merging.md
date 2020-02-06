@@ -35,8 +35,10 @@ Esto abrirá el editor por defecto para poder generar un mensaje para el tag, en
 > 
 > - la persona que generó el tag
 > - la fecha en que fue realizado
-> -  
+> - el mensaje del tag
+>
+> si no se incluye la opción -a entonces se creará un tag ligero
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjA4NjA4NjksLTE2NjA4MzA5MjUsLT
+eyJoaXN0b3J5IjpbLTE2NjA2MjE1NjksLTE2NjA4MzA5MjUsLT
 E5MzA1MDI0OCwtMTgxMTIxODU5OSwxODI1NTAzMTc1XX0=
 -->
