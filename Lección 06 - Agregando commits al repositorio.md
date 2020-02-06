@@ -249,16 +249,18 @@ Ahora, para indicarle a Git que omita los cambios de del archivo `project.docx` 
 $ touch .gitignore
 ```
  - Agregar la línea `project.docx` al archivo `.gitignore`:
+
 ```bash
 $ echo "project.docx" >> .gitignore
 ```
+> También podemos usar un editor para agregar la línea del comando anterior.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDMzMDIwOTUsLTYyMzIzMDEwMiw3OT
-U2NjQzNiw0Nzc2MjU0MjQsMTU0NjgyNzM5NCwtMjIzMjEwNTcy
-LDE0NzI4MDM4MzcsMTgxMTc1MTA4MCwtNjIyMTY3NzI3LC0xMD
-E2NDY4OTI5LDQxMjU0OTg4MywxNzA4NzQ0OTM0LC05NTQ2NjYx
-NDYsODQ3MDY0MDQ1LC01Mzk3ODgzNzIsMjAxMDEyNDc1NSwtOD
-Q4ODM1MDAxLDE0Njc3NTEyNzcsLTEwMDk5ODkyNzMsMTc4MzEy
-MDU1OF19
+eyJoaXN0b3J5IjpbLTU2OTM3Nzg3MiwtNjIzMjMwMTAyLDc5NT
+Y2NDM2LDQ3NzYyNTQyNCwxNTQ2ODI3Mzk0LC0yMjMyMTA1NzIs
+MTQ3MjgwMzgzNywxODExNzUxMDgwLC02MjIxNjc3MjcsLTEwMT
+Y0Njg5MjksNDEyNTQ5ODgzLDE3MDg3NDQ5MzQsLTk1NDY2NjE0
+Niw4NDcwNjQwNDUsLTUzOTc4ODM3MiwyMDEwMTI0NzU1LC04ND
+g4MzUwMDEsMTQ2Nzc1MTI3NywtMTAwOTk4OTI3MywxNzgzMTIw
+NTU4XX0=
 -->
