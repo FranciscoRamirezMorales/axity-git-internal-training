@@ -67,9 +67,13 @@ $ git tag -a v1.0 bb352c
 $ git log
 ```
 
+![img_07_git_tag_commit](images/img_07_git_tag_commit.png)
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTk0NTc3ODgsMTg0NzQ2OTg2MSwtND
-MwNzI1MDEsMjg2Njg0MTk0LC0xNjYwODMwOTI1LC0xOTMwNTAy
-NDgsLTE4MTEyMTg1OTksMTgyNTUwMzE3NV19
+eyJoaXN0b3J5IjpbNTIwMjA2NjYwLC0xNDE5NDU3Nzg4LDE4ND
+c0Njk4NjEsLTQzMDcyNTAxLDI4NjY4NDE5NCwtMTY2MDgzMDky
+NSwtMTkzMDUwMjQ4LC0xODExMjE4NTk5LDE4MjU1MDMxNzVdfQ
+==
 -->
