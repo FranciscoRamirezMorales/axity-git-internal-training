@@ -233,14 +233,15 @@ git add . agrega todos los archivos que han sido creados o modificados al Stagin
 Imaginemos que creamos un archivo project.docx:
 
 ```bash
-$ `touch project.docx`
+$ touch project.docx
 ```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTE2ODQ4NDgsNzk1NjY0MzYsNDc3Nj
-I1NDI0LDE1NDY4MjczOTQsLTIyMzIxMDU3MiwxNDcyODAzODM3
-LDE4MTE3NTEwODAsLTYyMjE2NzcyNywtMTAxNjQ2ODkyOSw0MT
-I1NDk4ODMsMTcwODc0NDkzNCwtOTU0NjY2MTQ2LDg0NzA2NDA0
-NSwtNTM5Nzg4MzcyLDIwMTAxMjQ3NTUsLTg0ODgzNTAwMSwxND
-Y3NzUxMjc3LC0xMDA5OTg5MjczLDE3ODMxMjA1NTgsMjEwMTgx
-NDAyMV19
+eyJoaXN0b3J5IjpbLTYyMzIzMDEwMiw3OTU2NjQzNiw0Nzc2Mj
+U0MjQsMTU0NjgyNzM5NCwtMjIzMjEwNTcyLDE0NzI4MDM4Mzcs
+MTgxMTc1MTA4MCwtNjIyMTY3NzI3LC0xMDE2NDY4OTI5LDQxMj
+U0OTg4MywxNzA4NzQ0OTM0LC05NTQ2NjYxNDYsODQ3MDY0MDQ1
+LC01Mzk3ODgzNzIsMjAxMDEyNDc1NSwtODQ4ODM1MDAxLDE0Nj
+c3NTEyNzcsLTEwMDk5ODkyNzMsMTc4MzEyMDU1OCwyMTAxODE0
+MDIxXX0=
 -->
