@@ -7,6 +7,7 @@ En esta lección veremos como:
  - Crear Branches
  - Cambiar entre Branches
  - Administrar branches
+ - 
  - Realizar un Merge entre Branches
  - Tratar posibles problemas al hacer Merge
 
@@ -121,10 +122,11 @@ $ git branch alt-sidebar-loc bb352c
 ![img_07_git_branch_01](images/img_07_git_branch_01.png)
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzE2NzgxODEsLTEzMzQxNDQ1MzEsMj
-A4MTE2MTkxNCwtNDgxMDkyOTAwLDEwNzYxMzY3NDksNTIwMjA2
-NjYwLC0xNDE5NDU3Nzg4LDE4NDc0Njk4NjEsLTQzMDcyNTAxLD
-I4NjY4NDE5NCwtMTY2MDgzMDkyNSwtMTkzMDUwMjQ4LC0xODEx
-MjE4NTk5LDE4MjU1MDMxNzVdfQ==
+eyJoaXN0b3J5IjpbMTk3OTUzMTUyOCwtMTA3MTY3ODE4MSwtMT
+MzNDE0NDUzMSwyMDgxMTYxOTE0LC00ODEwOTI5MDAsMTA3NjEz
+Njc0OSw1MjAyMDY2NjAsLTE0MTk0NTc3ODgsMTg0NzQ2OTg2MS
+wtNDMwNzI1MDEsMjg2Njg0MTk0LC0xNjYwODMwOTI1LC0xOTMw
+NTAyNDgsLTE4MTEyMTg1OTksMTgyNTUwMzE3NV19
 -->
