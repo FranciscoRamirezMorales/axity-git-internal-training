@@ -18,7 +18,8 @@ En esta lección veremos los siguientes comandos:
 
 ## Cear un Tag
 
+[![Git Tag](http://img.youtube.com/vi/D4VdXT72ASE/0.jpg)](http://www.youtube.com/watch?v=D4VdXT72ASE "Git Tag")
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MTQzNjUzLDE4MjU1MDMxNzVdfQ==
+eyJoaXN0b3J5IjpbLTE4MTEyMTg1OTksMTgyNTUwMzE3NV19
 -->
