@@ -269,13 +269,14 @@ $ git status
 -   `#` - comentar una línea
 -   `*` - coincidir 0 o más caracteres
 -   `?` - coincidir 1 caracter
+    -  ss
 -   `[abc]` - coincidir a, b, _or_ c
 -   `**` - coincidir directorios anidados: `a/**/z` coincide con:
     -   a/z
     -   a/b/z
     -   a/b/c/z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA4NzA3MzQ4LDQwODI1ODA0MCwtMTIxMT
+eyJoaXN0b3J5IjpbNjQwMDA4ODk5LDQwODI1ODA0MCwtMTIxMT
 c0NTc0Miw3ODIzMTcwNCwtNjIzMjMwMTAyLDc5NTY2NDM2LDQ3
 NzYyNTQyNCwxNTQ2ODI3Mzk0LC0yMjMyMTA1NzIsMTQ3MjgwMz
 gzNywxODExNzUxMDgwLC02MjIxNjc3MjcsLTEwMTY0Njg5Mjks
