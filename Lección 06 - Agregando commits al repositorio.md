@@ -265,6 +265,7 @@ $ git status
 
 ![img_06_git_ignore](images/img_06_git_ignore.png)
 
+Dentro del archivo .gitignore podemos usar algunos carácteres especiales para definir patrones de grupos de archivos, por ejemplo:
 -   líneas en blanco para espaciado
 -   `#` - comentar una línea
 -   `*` - coincidir 0 o más caracteres
@@ -277,8 +278,9 @@ $ git status
     -   a/b/z
     -   a/b/c/z
 
+Para mayor referencia, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4OTQ2ODMxOCw0MDgyNTgwNDAsLTEyMT
+eyJoaXN0b3J5IjpbMTMxMDMyMTczOCw0MDgyNTgwNDAsLTEyMT
 E3NDU3NDIsNzgyMzE3MDQsLTYyMzIzMDEwMiw3OTU2NjQzNiw0
 Nzc2MjU0MjQsMTU0NjgyNzM5NCwtMjIzMjEwNTcyLDE0NzI4MD
 M4MzcsMTgxMTc1MTA4MCwtNjIyMTY3NzI3LC0xMDE2NDY4OTI5
