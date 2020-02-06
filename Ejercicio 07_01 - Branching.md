@@ -39,7 +39,8 @@ Antes de comenzar, debemos asegurarnos de los siguiente:
 ```
 
  - Todos los archivos han sido agregados al Staging Index y se ha realizado un commit.
- - El único branch es master. Si existen
+ - El único branch es master. Si existen otros branches, asegurar que han sido borrados.
+ - Al ejecutar git status
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDM1NDQyMzIsLTU4NDgwNjA2OF19
+eyJoaXN0b3J5IjpbNDA3NTkwMjU5LC01ODQ4MDYwNjhdfQ==
 -->
