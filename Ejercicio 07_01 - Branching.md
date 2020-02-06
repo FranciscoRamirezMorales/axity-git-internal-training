@@ -38,7 +38,7 @@ Antes de comenzar, debemos asegurarnos de los siguiente:
 </html>
 ```
 
-
+ - Todos los archivos han 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NDgwNjA2OF19
+eyJoaXN0b3J5IjpbMTk0OTU5NzgyMiwtNTg0ODA2MDY4XX0=
 -->
