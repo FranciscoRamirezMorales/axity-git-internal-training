@@ -265,12 +265,21 @@ $ git status
 
 ![img_06_git_ignore](images/img_06_git_ignore.png)
 
+-   líneas en blanco para espaciado
+-   `#` - comentar una línea
+-   `*` - matches 0 or more characters
+-   `?` - matches 1 character
+-   `[abc]` - matches a, b, _or_ c
+-   `**` - matches nested directories - `a/**/z` matches
+    -   a/z
+    -   a/b/z
+    -   a/b/c/z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA4MjU4MDQwLC0xMjExNzQ1NzQyLDc4Mj
-MxNzA0LC02MjMyMzAxMDIsNzk1NjY0MzYsNDc3NjI1NDI0LDE1
-NDY4MjczOTQsLTIyMzIxMDU3MiwxNDcyODAzODM3LDE4MTE3NT
-EwODAsLTYyMjE2NzcyNywtMTAxNjQ2ODkyOSw0MTI1NDk4ODMs
-MTcwODc0NDkzNCwtOTU0NjY2MTQ2LDg0NzA2NDA0NSwtNTM5Nz
-g4MzcyLDIwMTAxMjQ3NTUsLTg0ODgzNTAwMSwxNDY3NzUxMjc3
+eyJoaXN0b3J5IjpbLTMyMDkyODQ0MSw0MDgyNTgwNDAsLTEyMT
+E3NDU3NDIsNzgyMzE3MDQsLTYyMzIzMDEwMiw3OTU2NjQzNiw0
+Nzc2MjU0MjQsMTU0NjgyNzM5NCwtMjIzMjEwNTcyLDE0NzI4MD
+M4MzcsMTgxMTc1MTA4MCwtNjIyMTY3NzI3LC0xMDE2NDY4OTI5
+LDQxMjU0OTg4MywxNzA4NzQ0OTM0LC05NTQ2NjYxNDYsODQ3MD
+Y0MDQ1LC01Mzk3ODgzNzIsMjAxMDEyNDc1NSwtODQ4ODM1MDAx
 XX0=
 -->
