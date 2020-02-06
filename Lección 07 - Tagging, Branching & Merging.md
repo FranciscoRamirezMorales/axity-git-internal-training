@@ -27,8 +27,10 @@ Continuando con nuestro repositorio `new-git-project` crearemos un tag con el si
 ```bash
 $ git tag -a v1.0
 ```
-Esto abrirá el editor por defecto para poder agregar 
+Esto abrirá el editor por defecto para poder generar un mensaje para el tag, en este caso ingresaremos el mensaje `Ready for content`.
+
+![img_git__02](images/img_06_git_status_02.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTk1ODUwMjcsLTE2NjA4MzA5MjUsLT
-E5MzA1MDI0OCwtMTgxMTIxODU5OSwxODI1NTAzMTc1XX0=
+eyJoaXN0b3J5IjpbMjA0MzU5OTU2NCwtMTY2MDgzMDkyNSwtMT
+kzMDUwMjQ4LC0xODExMjE4NTk5LDE4MjU1MDMxNzVdfQ==
 -->
