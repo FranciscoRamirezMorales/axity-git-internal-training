@@ -16,13 +16,17 @@ En esta lección veremos los siguientes comandos:
  - `git checkout` el cual nos permite movernos entre los diferentes  branches y tag's
  - `git merge` para combinar los cambios realizados en diferentes branches de forma automática
 
-## Cear un Tag
-
 **Video >>> (dar clic)**
 
 [![Git Tag](http://img.youtube.com/vi/D4VdXT72ASE/0.jpg)](http://www.youtube.com/watch?v=D4VdXT72ASE "Git Tag")
 
+## Cear un Tag
+
+Continuando con los 
+```
+$ git tag -a v1.0
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzI4OTU3NywtMTkzMDUwMjQ4LC0xOD
+eyJoaXN0b3J5IjpbMTM2NjkwNTI3NCwtMTkzMDUwMjQ4LC0xOD
 ExMjE4NTk5LDE4MjU1MDMxNzVdfQ==
 -->
