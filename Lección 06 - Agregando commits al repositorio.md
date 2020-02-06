@@ -267,15 +267,15 @@ $ git status
 
 -   líneas en blanco para espaciado
 -   `#` - comentar una línea
--   `*` - matches 0 or more characters
--   `?` - matches 1 character
+-   `*` - coincidir 0 o más caracteres
+-   `?` - coincidir 1 caracter
 -   `[abc]` - matches a, b, _or_ c
 -   `**` - matches nested directories - `a/**/z` matches
     -   a/z
     -   a/b/z
     -   a/b/c/z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMDkyODQ0MSw0MDgyNTgwNDAsLTEyMT
+eyJoaXN0b3J5IjpbMTkxMzAxMTIxNiw0MDgyNTgwNDAsLTEyMT
 E3NDU3NDIsNzgyMzE3MDQsLTYyMzIzMDEwMiw3OTU2NjQzNiw0
 Nzc2MjU0MjQsMTU0NjgyNzM5NCwtMjIzMjEwNTcyLDE0NzI4MD
 M4MzcsMTgxMTc1MTA4MCwtNjIyMTY3NzI3LC0xMDE2NDY4OTI5
