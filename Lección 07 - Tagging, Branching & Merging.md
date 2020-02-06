@@ -6,6 +6,7 @@ En esta lección veremos como:
  - Crear Tag's
  - Crear Branches
  - Cambiar entre Branches
+ - Administrar 
  - Realizar un Merge entre Branches
  - Tratar posibles problemas al hacer Merge
 
@@ -98,17 +99,19 @@ $ git checkout sidebar
 
 ### Como visualizar los branches en el log
 ```bash
-git log --oneline
+$ git log --oneline
 ```
 ### Como visualizar el branch activo
 ```bash
-git branch
+$ git branch
 ```
+### Como visualizar el branch activo
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MDA5NzIxLDIwODExNjE5MTQsLTQ4MT
-A5MjkwMCwxMDc2MTM2NzQ5LDUyMDIwNjY2MCwtMTQxOTQ1Nzc4
-OCwxODQ3NDY5ODYxLC00MzA3MjUwMSwyODY2ODQxOTQsLTE2Nj
-A4MzA5MjUsLTE5MzA1MDI0OCwtMTgxMTIxODU5OSwxODI1NTAz
-MTc1XX0=
+eyJoaXN0b3J5IjpbMTg2Mzk4MDg4MCwyMDgxMTYxOTE0LC00OD
+EwOTI5MDAsMTA3NjEzNjc0OSw1MjAyMDY2NjAsLTE0MTk0NTc3
+ODgsMTg0NzQ2OTg2MSwtNDMwNzI1MDEsMjg2Njg0MTk0LC0xNj
+YwODMwOTI1LC0xOTMwNTAyNDgsLTE4MTEyMTg1OTksMTgyNTUw
+MzE3NV19
 -->
