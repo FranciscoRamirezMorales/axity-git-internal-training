@@ -39,10 +39,13 @@ Después de esto guardamos y cerramos el editor.
 > - la fecha en que fue realizado
 > - el mensaje del tag
 >
-> si no se incluye la opción `-a` entonces se creará un **tag ligero**
+> si no se incluye la opción `-a` entonces se creará un tag ligero
 
+
+![img_07_git_tag](images/img_07_git_tag.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg2Njg0MTk0LC0xNjYwODMwOTI1LC0xOT
-MwNTAyNDgsLTE4MTEyMTg1OTksMTgyNTUwMzE3NV19
+eyJoaXN0b3J5IjpbLTQxNDgwOTQzOCwyODY2ODQxOTQsLTE2Nj
+A4MzA5MjUsLTE5MzA1MDI0OCwtMTgxMTIxODU5OSwxODI1NTAz
+MTc1XX0=
 -->
