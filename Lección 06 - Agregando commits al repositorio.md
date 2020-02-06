@@ -269,17 +269,17 @@ $ git status
 -   `#` - comentar una línea
 -   `*` - coincidir 0 o más caracteres
 -   `?` - coincidir 1 caracter
--   `[abc]` - matches a, b, _or_ c
--   `**` - matches nested directories - `a/**/z` matches
+-   `[abc]` - coincidir a, b, _or_ c
+-   `**` - coincidir directorios anidados: `a/**/z` coincide con:
     -   a/z
     -   a/b/z
     -   a/b/c/z
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMzAxMTIxNiw0MDgyNTgwNDAsLTEyMT
-E3NDU3NDIsNzgyMzE3MDQsLTYyMzIzMDEwMiw3OTU2NjQzNiw0
-Nzc2MjU0MjQsMTU0NjgyNzM5NCwtMjIzMjEwNTcyLDE0NzI4MD
-M4MzcsMTgxMTc1MTA4MCwtNjIyMTY3NzI3LC0xMDE2NDY4OTI5
-LDQxMjU0OTg4MywxNzA4NzQ0OTM0LC05NTQ2NjYxNDYsODQ3MD
-Y0MDQ1LC01Mzk3ODgzNzIsMjAxMDEyNDc1NSwtODQ4ODM1MDAx
-XX0=
+eyJoaXN0b3J5IjpbODA4NzA3MzQ4LDQwODI1ODA0MCwtMTIxMT
+c0NTc0Miw3ODIzMTcwNCwtNjIzMjMwMTAyLDc5NTY2NDM2LDQ3
+NzYyNTQyNCwxNTQ2ODI3Mzk0LC0yMjMyMTA1NzIsMTQ3MjgwMz
+gzNywxODExNzUxMDgwLC02MjIxNjc3MjcsLTEwMTY0Njg5Mjks
+NDEyNTQ5ODgzLDE3MDg3NDQ5MzQsLTk1NDY2NjE0Niw4NDcwNj
+QwNDUsLTUzOTc4ODM3MiwyMDEwMTI0NzU1LC04NDg4MzUwMDFd
+fQ==
 -->
