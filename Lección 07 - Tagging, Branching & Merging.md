@@ -47,13 +47,11 @@ $ git tag -a v1.0
 $ git log
 ```
 
-
-
 ![img_07_git_tag_log](images/img_07_git_tag_log.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDUwMTQyODYsMjg2Njg0MTk0LC0xNj
+eyJoaXN0b3J5IjpbLTE0MDUyMDg1NTQsMjg2Njg0MTk0LC0xNj
 YwODMwOTI1LC0xOTMwNTAyNDgsLTE4MTEyMTg1OTksMTgyNTUw
 MzE3NV19
 -->
