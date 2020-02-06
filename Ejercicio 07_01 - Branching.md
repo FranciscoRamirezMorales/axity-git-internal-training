@@ -38,7 +38,8 @@ Antes de comenzar, debemos asegurarnos de los siguiente:
 </html>
 ```
 
- - Todos los archivos han 
+ - Todos los archivos han sido agregados al Staging Index y se ha realizado un commit.
+ - El único branch es master. Si existen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0OTU5NzgyMiwtNTg0ODA2MDY4XX0=
+eyJoaXN0b3J5IjpbLTEyNDM1NDQyMzIsLTU4NDgwNjA2OF19
 -->
