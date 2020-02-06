@@ -53,7 +53,7 @@ $ git log
 
 ### Borrar un tag
 
-Para borrar un tag ejecutamos:
+Para borrar un **tag** ejecutamos:
 ```bash
 $ git tag -d v1.0
 ```
@@ -72,7 +72,7 @@ $ git log
 > Para efectos de las lecciones siguientes debemos eliminar el tag que hemos creado previamente.
 
 ## Crear Branches
-El siguiente video explica de forma general cómo funcionan los banches:
+El siguiente video explica de forma general cómo funcionan los branches:
 
 **Video >>> (dar clic)**
 
@@ -91,10 +91,15 @@ $ git branch sidebar
 ```
 
 ## Cambiar entre branches
-El siguiente video explica de forma general cómo funcionan los banches:
+```bash
+$ git checkout sidebar
+```
+
+> Blockquote
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTI1OTM1MSwtNDgxMDkyOTAwLDEwNz
-YxMzY3NDksNTIwMjA2NjYwLC0xNDE5NDU3Nzg4LDE4NDc0Njk4
-NjEsLTQzMDcyNTAxLDI4NjY4NDE5NCwtMTY2MDgzMDkyNSwtMT
-kzMDUwMjQ4LC0xODExMjE4NTk5LDE4MjU1MDMxNzVdfQ==
+eyJoaXN0b3J5IjpbLTIwNDcwNzg3NzQsLTQ4MTA5MjkwMCwxMD
+c2MTM2NzQ5LDUyMDIwNjY2MCwtMTQxOTQ1Nzc4OCwxODQ3NDY5
+ODYxLC00MzA3MjUwMSwyODY2ODQxOTQsLTE2NjA4MzA5MjUsLT
+E5MzA1MDI0OCwtMTgxMTIxODU5OSwxODI1NTAzMTc1XX0=
 -->
