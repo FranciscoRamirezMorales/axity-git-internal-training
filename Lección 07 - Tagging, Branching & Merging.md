@@ -110,11 +110,15 @@ $ git branch
 ```bash
 $ git branch -d sidebar
 ```
-Crear un
+### Crear un branch en un commit específico
+```bash
+$ git branch alt-sidebar-loc bb352c
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTczNjk2ODUxLDIwODExNjE5MTQsLTQ4MT
-A5MjkwMCwxMDc2MTM2NzQ5LDUyMDIwNjY2MCwtMTQxOTQ1Nzc4
-OCwxODQ3NDY5ODYxLC00MzA3MjUwMSwyODY2ODQxOTQsLTE2Nj
-A4MzA5MjUsLTE5MzA1MDI0OCwtMTgxMTIxODU5OSwxODI1NTAz
-MTc1XX0=
+eyJoaXN0b3J5IjpbLTE3MjA4MTQ1MzksMjA4MTE2MTkxNCwtND
+gxMDkyOTAwLDEwNzYxMzY3NDksNTIwMjA2NjYwLC0xNDE5NDU3
+Nzg4LDE4NDc0Njk4NjEsLTQzMDcyNTAxLDI4NjY4NDE5NCwtMT
+Y2MDgzMDkyNSwtMTkzMDUwMjQ4LC0xODExMjE4NTk5LDE4MjU1
+MDMxNzVdfQ==
 -->
