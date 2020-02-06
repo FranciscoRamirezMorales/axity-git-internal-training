@@ -2,11 +2,11 @@
 
 En esta lección veremos como:
 
- - Como crear tag's
- - Como 
- - Mensajes de un commit
+ - Crear Tag's
+ - Crear Branches
+ - Cambiar entre Branches
  - Revisar lo que ha cambiado
  - Omitir archivos en Git
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MzY0MDc5OF19
+eyJoaXN0b3J5IjpbMTgyNTUwMzE3NV19
 -->
