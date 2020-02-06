@@ -243,9 +243,14 @@ Aquí podemos observar que Git está llevando un registro del archivo `project.d
 
 Ahora, para indicarle a Git que omita los cambios de del archivo `project.docx` necesitamos hacer los siguiente:
 
-Crear un archivo llamadao .gitignore:
+ - Crear un archivo llamadao `.gitignore` (nótese que incluye un punto al inicio):
+
+```bash
+$ touch .gitignore
+```
+ - ag
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODcwNzM2MDEsLTYyMzIzMDEwMiw3OT
+eyJoaXN0b3J5IjpbLTEwMDg2MzkyNzAsLTYyMzIzMDEwMiw3OT
 U2NjQzNiw0Nzc2MjU0MjQsMTU0NjgyNzM5NCwtMjIzMjEwNTcy
 LDE0NzI4MDM4MzcsMTgxMTc1MTA4MCwtNjIyMTY3NzI3LC0xMD
 E2NDY4OTI5LDQxMjU0OTg4MywxNzA4NzQ0OTM0LC05NTQ2NjYx
