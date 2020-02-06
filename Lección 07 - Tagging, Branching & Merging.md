@@ -29,8 +29,14 @@ $ git tag -a v1.0
 ```
 Esto abrirá el editor por defecto para poder generar un mensaje para el tag, en este caso ingresaremos el mensaje `Ready for content`.
 
-![img_git__02](images/img_06_git_status_02.png)
+![img_07_git_tag_atom](images/img_07_git_tag_atom.png)
+
+> Se recomienda el uso de la opción -a recommended because they include a lot of extra information such as:
+> 
+> -   the person who made the tag
+> -   the date the tag was made
+> -   a message for the tag
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MzU5OTU2NCwtMTY2MDgzMDkyNSwtMT
-kzMDUwMjQ4LC0xODExMjE4NTk5LDE4MjU1MDMxNzVdfQ==
+eyJoaXN0b3J5IjpbNTU4NTEwNTk2LC0xNjYwODMwOTI1LC0xOT
+MwNTAyNDgsLTE4MTEyMTg1OTksMTgyNTUwMzE3NV19
 -->
