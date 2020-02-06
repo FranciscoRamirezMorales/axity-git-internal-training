@@ -1,9 +1,13 @@
-Antes de comenzar:
-Asegúrate que estas ubicado en el proyecto/directorio `new-git-project` y que existen los siguientes archivos:
+Antes de comenzar, debemos asegu:
 
--   `index.html`
--   `css/app.css` (vacío)
--   `js/app.js` (vacío)
+ - Asegúrate que estas ubicado en el proyecto/directorio `new-git-project` y que existen los siguientes archivos:
+
+    -   `index.html`
+    -   `css/app.css` (vacío)
+    -   `js/app.js` (vacío)
+
+ - List item
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTM0Mzk4MDFdfQ==
+eyJoaXN0b3J5IjpbMTc3NzIzMzA2OF19
 -->
