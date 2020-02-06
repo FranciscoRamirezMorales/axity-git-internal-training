@@ -31,12 +31,12 @@ Esto abrirá el editor por defecto para poder generar un mensaje para el tag, en
 
 ![img_07_git_tag_atom](images/img_07_git_tag_atom.png)
 
-> Se recomienda el uso de la opción -a recommended because they include a lot of extra information such as:
+> Se recomienda el uso de la opción -a ya que esta incluirá información adicional como:
 > 
-> -   the person who made the tag
-> -   the date the tag was made
-> -   a message for the tag
+> - la persona que generó el tag
+> - la fecha en que fue realizado
+> -  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU4NTEwNTk2LC0xNjYwODMwOTI1LC0xOT
-MwNTAyNDgsLTE4MTEyMTg1OTksMTgyNTUwMzE3NV19
+eyJoaXN0b3J5IjpbLTIwMjA4NjA4NjksLTE2NjA4MzA5MjUsLT
+E5MzA1MDI0OCwtMTgxMTIxODU5OSwxODI1NTAzMTc1XX0=
 -->
