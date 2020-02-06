@@ -69,12 +69,10 @@ $ git log
 
 ![img_07_git_tag_commit](images/img_07_git_tag_commit.png)
 
-> Para efectos de las lecciones siguientes debemos eliminar el tag que hemos creado previamente
-
-
+> Para efectos de las lecciones siguientes debemos eliminar el tag que hemos creado previamente.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMDc4MjE0MiwxMDc2MTM2NzQ5LDUyMD
+eyJoaXN0b3J5IjpbLTQ4MTA5MjkwMCwxMDc2MTM2NzQ5LDUyMD
 IwNjY2MCwtMTQxOTQ1Nzc4OCwxODQ3NDY5ODYxLC00MzA3MjUw
 MSwyODY2ODQxOTQsLTE2NjA4MzA5MjUsLTE5MzA1MDI0OCwtMT
 gxMTIxODU5OSwxODI1NTAzMTc1XX0=
