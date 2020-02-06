@@ -217,7 +217,7 @@ Ejecutamos el comando:
 $ git diff
 ```
 
-![img_06_git_dif_01](images/img_06_git_dif_01.png)
+![img_06_git_diff_01](images/img_06_git_diff_01.png)
 
 Como podemos ver `git diff` muestra los cambios antes de hacer `get commit`.
 
@@ -266,11 +266,11 @@ $ git status
 ![mg_06_git_ignore](images/mg_06_git_ignore.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgyMzE3MDQsLTYyMzIzMDEwMiw3OTU2Nj
-QzNiw0Nzc2MjU0MjQsMTU0NjgyNzM5NCwtMjIzMjEwNTcyLDE0
-NzI4MDM4MzcsMTgxMTc1MTA4MCwtNjIyMTY3NzI3LC0xMDE2ND
-Y4OTI5LDQxMjU0OTg4MywxNzA4NzQ0OTM0LC05NTQ2NjYxNDYs
-ODQ3MDY0MDQ1LC01Mzk3ODgzNzIsMjAxMDEyNDc1NSwtODQ4OD
-M1MDAxLDE0Njc3NTEyNzcsLTEwMDk5ODkyNzMsMTc4MzEyMDU1
-OF19
+eyJoaXN0b3J5IjpbLTEyMTE3NDU3NDIsNzgyMzE3MDQsLTYyMz
+IzMDEwMiw3OTU2NjQzNiw0Nzc2MjU0MjQsMTU0NjgyNzM5NCwt
+MjIzMjEwNTcyLDE0NzI4MDM4MzcsMTgxMTc1MTA4MCwtNjIyMT
+Y3NzI3LC0xMDE2NDY4OTI5LDQxMjU0OTg4MywxNzA4NzQ0OTM0
+LC05NTQ2NjYxNDYsODQ3MDY0MDQ1LC01Mzk3ODgzNzIsMjAxMD
+EyNDc1NSwtODQ4ODM1MDAxLDE0Njc3NTEyNzcsLTEwMDk5ODky
+NzNdfQ==
 -->
