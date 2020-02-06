@@ -41,17 +41,19 @@ Después de esto guardamos y cerramos el editor.
 >
 > si no se incluye la opción `-a` entonces se creará un **tag ligero**
 
-Para verificar que el **tag** se ha creado
+Para verificar que el **tag** se ha creado e identificar el punto (HASH) donde se ha creado el tag ejecutamos:
 ```bash
 $ git tag -a v1.0
+$ git log
 ```
 
 
-![img_07_git_tag_log](images/img_07_git_tag.png)
+
+![img_07_git_tag_log](images/img_07_git_tag_log.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg0MzUzNzY4LDI4NjY4NDE5NCwtMTY2MD
-gzMDkyNSwtMTkzMDUwMjQ4LC0xODExMjE4NTk5LDE4MjU1MDMx
-NzVdfQ==
+eyJoaXN0b3J5IjpbLTE3NDUwMTQyODYsMjg2Njg0MTk0LC0xNj
+YwODMwOTI1LC0xOTMwNTAyNDgsLTE4MTEyMTg1OTksMTgyNTUw
+MzE3NV19
 -->
