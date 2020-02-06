@@ -11,8 +11,8 @@ En esta lección veremos como:
 
 ## Vistazo general
 En esta lección veremos los siguientes comandos:
-git tag para agregar etiquetas a un commits específicos; un tag es una etiqueta 
-git branch
+git tag para agregar etiquetas a commits específicos; un tag es una etiqueta que nos permite identificar un punto del desarrollo, por ejemplo, una versión beta. 
+git branch para generar 
 git checkout
 git merge
 
@@ -20,5 +20,5 @@ git merge
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxOTE0NDAxOSwxODI1NTAzMTc1XX0=
+eyJoaXN0b3J5IjpbLTEwMDY5NzA3NTcsMTgyNTUwMzE3NV19
 -->
