@@ -10,11 +10,15 @@ En esta lección veremos como:
  - Tratar posibles problemas al hacer Merge
 
 ## Vistazo general
-
+En esta lección veremos los siguientes comandos:
+git tag para a
+git branch
+git checkout
+git merge
 
 ## Cear un Tag
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3ODczNDMwOCwxODI1NTAzMTc1XX0=
+eyJoaXN0b3J5IjpbLTU5NjYzNTc4NSwxODI1NTAzMTc1XX0=
 -->
