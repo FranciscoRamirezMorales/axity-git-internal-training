@@ -278,9 +278,11 @@ Dentro del archivo .gitignore podemos usar algunos carácteres especiales para d
     -   a/b/z
     -   a/b/c/z
 
-Para mayor referencia, 
+Para mayor referencia, consultar el siguiente enlace:
+https://en.wikipedia.org/wiki/Glob_(programming)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMDMyMTczOCw0MDgyNTgwNDAsLTEyMT
+eyJoaXN0b3J5IjpbLTE2NzI0MTEwOSw0MDgyNTgwNDAsLTEyMT
 E3NDU3NDIsNzgyMzE3MDQsLTYyMzIzMDEwMiw3OTU2NjQzNiw0
 Nzc2MjU0MjQsMTU0NjgyNzM5NCwtMjIzMjEwNTcyLDE0NzI4MD
 M4MzcsMTgxMTc1MTA4MCwtNjIyMTY3NzI3LC0xMDE2NDY4OTI5
