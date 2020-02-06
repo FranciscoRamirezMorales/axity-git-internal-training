@@ -11,7 +11,7 @@ En esta lección veremos como:
 
 ## Vistazo general
 En esta lección veremos los siguientes comandos:
- - `git tag` para agregar etiquetas a commits específicos; un tag es una etiqueta que nos permite identificar un punto del desarrollo, por ejemplo, una versión beta. 
+ - `git tag` para agregar etiquetas a commits específicos; un tag es una etiqueta/apuntador/marcador que nos permite identificar un punto del desarrollo, por ejemplo, una versión beta. 
  - `git branch` para generar ramas las cuales pueden estar asociadas a diferentes características de un proyecto que se desarrollan en paralelo.
  - `git checkout` el cual nos permite movernos entre los diferentes  branches y tag's
  - `git merge` para combinar los cambios realizados en diferentes branches de forma automática
@@ -72,8 +72,8 @@ $ git log
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIwMjA2NjYwLC0xNDE5NDU3Nzg4LDE4ND
-c0Njk4NjEsLTQzMDcyNTAxLDI4NjY4NDE5NCwtMTY2MDgzMDky
-NSwtMTkzMDUwMjQ4LC0xODExMjE4NTk5LDE4MjU1MDMxNzVdfQ
-==
+eyJoaXN0b3J5IjpbMTA3NjEzNjc0OSw1MjAyMDY2NjAsLTE0MT
+k0NTc3ODgsMTg0NzQ2OTg2MSwtNDMwNzI1MDEsMjg2Njg0MTk0
+LC0xNjYwODMwOTI1LC0xOTMwNTAyNDgsLTE4MTEyMTg1OTksMT
+gyNTUwMzE3NV19
 -->
