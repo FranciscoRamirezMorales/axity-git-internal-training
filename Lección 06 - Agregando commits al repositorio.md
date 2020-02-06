@@ -291,10 +291,13 @@ $ git add .gitignore
 ```bash
 $ git commit -m "Add .gitignore file"
 ```
- - Por último ejecutamos git log para confirmar los cam
+ - Por último ejecutamos git log para revisar los cambios realizados:
+```bash
+$ git log
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTI2MjUyOTMsODQyNDA2NzY5LDQwOD
+eyJoaXN0b3J5IjpbLTE2MTM3NDYwMzEsODQyNDA2NzY5LDQwOD
 I1ODA0MCwtMTIxMTc0NTc0Miw3ODIzMTcwNCwtNjIzMjMwMTAy
 LDc5NTY2NDM2LDQ3NzYyNTQyNCwxNTQ2ODI3Mzk0LC0yMjMyMT
 A1NzIsMTQ3MjgwMzgzNywxODExNzUxMDgwLC02MjIxNjc3Mjcs
