@@ -94,11 +94,11 @@ $ git branch sidebar
 ```bash
 $ git checkout sidebar
 ```
-> Es importante entender que cuando hacemos git checkout, todos los archivos del repositorio de trabajo son removidos y en su lugar son colocados los archivos que 
+> Es importante entender que cuando hacemos `git checkout`, todos los archivos del repositorio de trabajo son removidos y en su lugar son colocados los archivos que cuyos **commits** corresponden al **branch** sobre el cual estamos haciendo **checkout**.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjA5Njk3NzYsLTQ4MTA5MjkwMCwxMD
-c2MTM2NzQ5LDUyMDIwNjY2MCwtMTQxOTQ1Nzc4OCwxODQ3NDY5
-ODYxLC00MzA3MjUwMSwyODY2ODQxOTQsLTE2NjA4MzA5MjUsLT
-E5MzA1MDI0OCwtMTgxMTIxODU5OSwxODI1NTAzMTc1XX0=
+eyJoaXN0b3J5IjpbMjA4MTE2MTkxNCwtNDgxMDkyOTAwLDEwNz
+YxMzY3NDksNTIwMjA2NjYwLC0xNDE5NDU3Nzg4LDE4NDc0Njk4
+NjEsLTQzMDcyNTAxLDI4NjY4NDE5NCwtMTY2MDgzMDkyNSwtMT
+kzMDUwMjQ4LC0xODExMjE4NTk5LDE4MjU1MDMxNzVdfQ==
 -->
