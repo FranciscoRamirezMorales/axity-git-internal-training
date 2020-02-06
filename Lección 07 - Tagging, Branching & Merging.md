@@ -27,8 +27,8 @@ Continuando con nuestro repositorio `new-git-project` crearemos un tag con el si
 ```bash
 $ git tag -a v1.0
 ```
-
+Esto abrirá el editor por defecto para poder agregar 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjA4MzA5MjUsLTE5MzA1MDI0OCwtMT
-gxMTIxODU5OSwxODI1NTAzMTc1XX0=
+eyJoaXN0b3J5IjpbLTEzNTk1ODUwMjcsLTE2NjA4MzA5MjUsLT
+E5MzA1MDI0OCwtMTgxMTIxODU5OSwxODI1NTAzMTc1XX0=
 -->
