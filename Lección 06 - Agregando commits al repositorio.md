@@ -283,17 +283,21 @@ Dentro del archivo .gitignore podemos usar algunos carácteres especiales para d
 Para mayor referencia, consultar el siguiente enlace:
 https://en.wikipedia.org/wiki/Glob_(programming)
 
-
- - Agregamos el archivo .gitignore al Staging Index:
+ - Agregamos el archivo `.gitignore` al Staging Index:
 ```bash
 $ git add .gitignore
 ```
+ - Hacemos commit:
+```bash
+$ git add .gitignore
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NzQ4MDI5MCw4NDI0MDY3NjksNDA4Mj
-U4MDQwLC0xMjExNzQ1NzQyLDc4MjMxNzA0LC02MjMyMzAxMDIs
-Nzk1NjY0MzYsNDc3NjI1NDI0LDE1NDY4MjczOTQsLTIyMzIxMD
-U3MiwxNDcyODAzODM3LDE4MTE3NTEwODAsLTYyMjE2NzcyNywt
-MTAxNjQ2ODkyOSw0MTI1NDk4ODMsMTcwODc0NDkzNCwtOTU0Nj
-Y2MTQ2LDg0NzA2NDA0NSwtNTM5Nzg4MzcyLDIwMTAxMjQ3NTVd
-fQ==
+eyJoaXN0b3J5IjpbLTE2MDEzNTU2MjEsODQyNDA2NzY5LDQwOD
+I1ODA0MCwtMTIxMTc0NTc0Miw3ODIzMTcwNCwtNjIzMjMwMTAy
+LDc5NTY2NDM2LDQ3NzYyNTQyNCwxNTQ2ODI3Mzk0LC0yMjMyMT
+A1NzIsMTQ3MjgwMzgzNywxODExNzUxMDgwLC02MjIxNjc3Mjcs
+LTEwMTY0Njg5MjksNDEyNTQ5ODgzLDE3MDg3NDQ5MzQsLTk1ND
+Y2NjE0Niw4NDcwNjQwNDUsLTUzOTc4ODM3MiwyMDEwMTI0NzU1
+XX0=
 -->
