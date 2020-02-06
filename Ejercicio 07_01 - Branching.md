@@ -1,4 +1,5 @@
-Prer
+Antes de comenzar:
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MDQ2MTQ2OV19
+eyJoaXN0b3J5IjpbLTk4MDMzOTMwN119
 -->
