@@ -221,7 +221,7 @@ $ git diff
 
 Como podemos ver `git diff` muestra los cambios antes de hacer `get commit`.
 
-> Realizar commit antes de continuar definiendo un mensaje 
+> Realizar commit antes de continuar definiendo un mensaje, un ejemplo puede ser "Change the travel type"
 
 ## Omitir archivos en Git
 
@@ -284,11 +284,11 @@ Para mayor referencia, consultar el siguiente enlace:
 https://en.wikipedia.org/wiki/Glob_(programming)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMTk4OTgxNCw0MDgyNTgwNDAsLTEyMT
-E3NDU3NDIsNzgyMzE3MDQsLTYyMzIzMDEwMiw3OTU2NjQzNiw0
-Nzc2MjU0MjQsMTU0NjgyNzM5NCwtMjIzMjEwNTcyLDE0NzI4MD
-M4MzcsMTgxMTc1MTA4MCwtNjIyMTY3NzI3LC0xMDE2NDY4OTI5
-LDQxMjU0OTg4MywxNzA4NzQ0OTM0LC05NTQ2NjYxNDYsODQ3MD
-Y0MDQ1LC01Mzk3ODgzNzIsMjAxMDEyNDc1NSwtODQ4ODM1MDAx
-XX0=
+eyJoaXN0b3J5IjpbODQyNDA2NzY5LDQwODI1ODA0MCwtMTIxMT
+c0NTc0Miw3ODIzMTcwNCwtNjIzMjMwMTAyLDc5NTY2NDM2LDQ3
+NzYyNTQyNCwxNTQ2ODI3Mzk0LC0yMjMyMTA1NzIsMTQ3MjgwMz
+gzNywxODExNzUxMDgwLC02MjIxNjc3MjcsLTEwMTY0Njg5Mjks
+NDEyNTQ5ODgzLDE3MDg3NDQ5MzQsLTk1NDY2NjE0Niw4NDcwNj
+QwNDUsLTUzOTc4ODM3MiwyMDEwMTI0NzU1LC04NDg4MzUwMDFd
+fQ==
 -->
