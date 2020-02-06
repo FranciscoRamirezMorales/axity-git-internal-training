@@ -39,13 +39,17 @@ Después de esto guardamos y cerramos el editor.
 > - la fecha en que fue realizado
 > - el mensaje del tag
 >
-> si no se incluye la opción `-a` entonces se creará un tag ligero
+> si no se incluye la opción `-a` entonces se creará un **tag ligero**
 
+Para verificar que el **tag** se ha creado
+```bash
+$ git tag -a v1.0
+```
 
 ![img_07_git_tag](images/img_07_git_tag.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNDgwOTQzOCwyODY2ODQxOTQsLTE2Nj
+eyJoaXN0b3J5IjpbLTY0ODA4OTM1OSwyODY2ODQxOTQsLTE2Nj
 A4MzA5MjUsLTE5MzA1MDI0OCwtMTgxMTIxODU5OSwxODI1NTAz
 MTc1XX0=
 -->
