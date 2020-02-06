@@ -78,10 +78,15 @@ El siguiente video explica de forma general cómo funcionan los banches:
 
 [![Git Branches](http://img.youtube.com/vi/ywcOC6CLG4s/0.jpg)](http://www.youtube.com/watch?v=ywcOC6CLG4s "Git Branches")
 
+El comando que usaremos para administrar los branches es `git branch`.
 
+## 
+```bash
+$ git branch
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjgxNTczMjMsLTQ4MTA5MjkwMCwxMD
-c2MTM2NzQ5LDUyMDIwNjY2MCwtMTQxOTQ1Nzc4OCwxODQ3NDY5
-ODYxLC00MzA3MjUwMSwyODY2ODQxOTQsLTE2NjA4MzA5MjUsLT
-E5MzA1MDI0OCwtMTgxMTIxODU5OSwxODI1NTAzMTc1XX0=
+eyJoaXN0b3J5IjpbMzQzMzQzODMsLTQ4MTA5MjkwMCwxMDc2MT
+M2NzQ5LDUyMDIwNjY2MCwtMTQxOTQ1Nzc4OCwxODQ3NDY5ODYx
+LC00MzA3MjUwMSwyODY2ODQxOTQsLTE2NjA4MzA5MjUsLTE5Mz
+A1MDI0OCwtMTgxMTIxODU5OSwxODI1NTAzMTc1XX0=
 -->
