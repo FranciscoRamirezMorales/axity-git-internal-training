@@ -43,7 +43,7 @@ Después de esto guardamos y cerramos el editor.
 >
 > si no se incluye la opción `-a` entonces se creará un **tag ligero**
 
-Para verificar que el **tag** se ha creado e identificar el punto (HASH) donde se ha creado el tag ejecutamos:
+Para verificar que el **tag** se ha creado e identificar el punto (SHA) donde se ha creado el tag ejecutamos:
 ```bash
 $ git tag -a v1.0
 $ git log
@@ -61,15 +61,15 @@ $ git tag -d v1.0
 
 ### Agregar un tag a un commit pasado
 
-Si queremos agregar un **tag** sobre un **commit** específico (por ejemplo, apuntando al SHA) ejecutamos el siguiente comando:
+Si queremos agregar un **tag** sobre un **commit** específico (por ejemplo, apuntando al SHA asociado al commit **Add header to blog**) ejecutamos el siguiente comando:
 ```bash
 $ git tag -a v1.0 bb352c
+$ git log
 ```
 
 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDA2ODE3ODgsMTg0NzQ2OTg2MSwtND
+eyJoaXN0b3J5IjpbLTE0MTk0NTc3ODgsMTg0NzQ2OTg2MSwtND
 MwNzI1MDEsMjg2Njg0MTk0LC0xNjYwODMwOTI1LC0xOTMwNTAy
 NDgsLTE4MTEyMTg1OTksMTgyNTUwMzE3NV19
 -->
