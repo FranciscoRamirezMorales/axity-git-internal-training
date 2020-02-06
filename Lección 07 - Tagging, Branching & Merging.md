@@ -22,11 +22,11 @@ En esta lección veremos los siguientes comandos:
 
 ## Cear un Tag
 
-Continuando con los 
-```
+Continuando con nuestro repositorio `new-git-project` crearemos un tag con
+```bash
 $ git tag -a v1.0
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NjkwNTI3NCwtMTkzMDUwMjQ4LC0xOD
+eyJoaXN0b3J5IjpbMTE5ODQ3NjI0OCwtMTkzMDUwMjQ4LC0xOD
 ExMjE4NTk5LDE4MjU1MDMxNzVdfQ==
 -->
