@@ -4,7 +4,9 @@ A music streaming startup, Sparkify, has grown their user base and song database
 
 The purpose for this project is:
 Create a database model to store the data stored in JSON files.
-Buit
+Built the ETL pipeline for
+extract data form S3 and load to stage tables
+
 As their data engineer, you are tasked with building an ETL pipeline that extracts their data from S3, stages them in Redshift, and transforms data into a set of dimensional tables for their analytics team to continue finding insights in what songs their users are listening to. You'll be able to test your database and ETL pipeline by running queries given to you by the analytics team from Sparkify and compare your results with their expected results.
 -----
 
@@ -39,5 +41,5 @@ A star schema was created for song play analysis and queries.
    3. To test the results, execute 'test.ipynb'
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE3OTUxMzkzXX0=
+eyJoaXN0b3J5IjpbLTIxNDQyMTE0MzBdfQ==
 -->
