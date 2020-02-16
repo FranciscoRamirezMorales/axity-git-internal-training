@@ -55,17 +55,13 @@ The programs used for ETL pipeline are:
 Follow the next steps:
 
  - Configure the file dwh.cfg
-
- - HOST
- - DB_NAME
- - DB_USER
- - DB_PASSWORD
- - DB_PORT=5439
-   
-   [REGION] DB_REGION='us-west-2'
-
-[IAM_ROLE]
-ARN='aws_iam_role=arn:aws:iam::330923534537:role/dwhRole'
+   - HOST
+   - DB_NAME
+   - DB_USER
+   - DB_PASSWORD
+   - DB_PORT
+   - DB_REGION
+   - ARN='aws_iam_role=<arn>'
 
 Execute these comands as folows:
 
@@ -73,6 +69,6 @@ Execute these comands as folows:
    1. $ python etl.py
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjI1NDQxNTEsNTM0NTk3Mjc5LC0yMD
+eyJoaXN0b3J5IjpbLTE3OTM4MTI1MzQsNTM0NTk3Mjc5LC0yMD
 YzMzAxMTU3LC04OTcyODU1MzYsMjA1NDczNzExOV19
 -->
