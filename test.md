@@ -47,14 +47,25 @@ This fact table is configured as `DISTKEY` over `user_id`. This is because this 
 3. For **songplays** fact table, the sources are log_data and song_data.
 
 The programs used for ETL pipeline are:
-1. **sql_queries.py**: contains all SQL queries, create table statements and insert statements. This file is used in the next two programs.
-1. **create_tables.py**: This program creates the data model tables.
-1. **etl.py**: This program  processes song_data and log_data JSON files and load to data modelo tables.
+ - **sql_queries.py**: contains all SQL queries, create table statements and insert statements. This file is used in the next two programs.
+ - **create_tables.py**: This program creates the data model tables.
+ - **etl.py**: This program  processes song_data and log_data JSON files and load to data modelo tables.
  
 ## How to run
 Follow the next steps:
 
-1. Configure the file 
+ - Configure the file dwh.cfg
+
+ - HOST
+ - DB_NAME
+ - DB_USER
+ - DB_PASSWORD
+ - DB_PORT=5439
+   
+   [REGION] DB_REGION='us-west-2'
+
+[IAM_ROLE]
+ARN='aws_iam_role=arn:aws:iam::330923534537:role/dwhRole'
 
 Execute these comands as folows:
 
@@ -62,6 +73,6 @@ Execute these comands as folows:
    1. $ python etl.py
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg5MzE0NDQzLDUzNDU5NzI3OSwtMjA2Mz
-MwMTE1NywtODk3Mjg1NTM2LDIwNTQ3MzcxMTldfQ==
+eyJoaXN0b3J5IjpbLTE4MjI1NDQxNTEsNTM0NTk3Mjc5LC0yMD
+YzMzAxMTU3LC04OTcyODU1MzYsMjA1NDczNzExOV19
 -->
