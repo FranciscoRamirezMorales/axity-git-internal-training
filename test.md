@@ -19,9 +19,9 @@ For log data structucture the definition resides here:
 
 ## Data model
 ### Stage tables
+1.  **users** - users in the app
 
-### Dimension tables
-#### Dimension Tables
+### Dimension Tables
 
 1.  **users** - users in the app
     -   _user_id, first_name, last_name, gender, level_
@@ -32,7 +32,7 @@ For log data structucture the definition resides here:
 1.  **time** - timestamps of records in **songplays** broken down into specific units
     -   _start_time, hour, day, week, month, year, weekday
 
-### Fact table
+## Fact table
 1.  **songplays** - records in event data associated with song plays i.e. records with page `NextSong`
     -   _songplay_id, start_time, user_id, level, song_id, artist_id, session_id, location, user_agent_
 
@@ -70,5 +70,5 @@ A star schema was created for song play analysis and queries.
    3. To test the results, execute 'test.ipynb'
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjAxMTIxNjldfQ==
+eyJoaXN0b3J5IjpbMTUyNTIwMjA4Nl19
 -->
