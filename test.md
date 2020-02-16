@@ -65,12 +65,11 @@ Follow the next steps:
 
 1. Execute this command to create the database model:
 
-python create_tables.py
-
+       $ python create_tables.py
 1. 
    1. $ python etl.py
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NzI4MjgwLDUzNDU5NzI3OSwtMjA2Mz
-MwMTE1NywtODk3Mjg1NTM2LDIwNTQ3MzcxMTldfQ==
+eyJoaXN0b3J5IjpbLTE5MTM3NDgxMiw1MzQ1OTcyNzksLTIwNj
+MzMDExNTcsLTg5NzI4NTUzNiwyMDU0NzM3MTE5XX0=
 -->
