@@ -37,6 +37,8 @@ For log data structucture the definition resides here:
 1.  **songplays** - records in event data associated with song plays i.e. records with page `NextSong`
     -   _songplay_id, start_time, user_id, level, song_id, artist_id, session_id, location, user_agent_
 
+## ETL pipeline
+
 
 
 Log data json path: `s3://udacity-dend/log_json_path.json`
@@ -71,5 +73,5 @@ A star schema was created for song play analysis and queries.
    3. To test the results, execute 'test.ipynb'
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwODY5NDMyOF19
+eyJoaXN0b3J5IjpbLTE5NzIyNDk3MTldfQ==
 -->
