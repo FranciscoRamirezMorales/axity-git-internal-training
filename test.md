@@ -46,7 +46,14 @@ This fact table is configured as `DISTKEY` over `user_id`. This is because this 
 2. For **users**, **time** dimension tables, the source is log_data.
 3. For **songplays** fact table, the sources are log_data and song_data.
 
-## How to use
+The programs 
+1. **sql_queries.py**: contains all SQL queries, create table statements and insert statements. This file is used in multiple python files.
+2. **create_tables.py**: execute this program to create the Postgres database, and star schema tables.
+3. **etl.py**: execute this program to process song_data and log_data JSON files and load to star schema.
+ 
+
+
+## How to run
 
 
 Log data json path: `s3://udacity-dend/log_json_path.json`
@@ -81,6 +88,6 @@ A star schema was created for song play analysis and queries.
    3. To test the results, execute 'test.ipynb'
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NDA0ODgwOCwtMjA2MzMwMTE1NywtOD
-k3Mjg1NTM2LDIwNTQ3MzcxMTldfQ==
+eyJoaXN0b3J5IjpbLTE4NDc3ODU2MzEsLTIwNjMzMDExNTcsLT
+g5NzI4NTUzNiwyMDU0NzM3MTE5XX0=
 -->
