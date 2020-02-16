@@ -18,6 +18,8 @@ For log data structucture the definition resides here:
  - Log data json path: `s3://udacity-dend/log_json_path.json`
 
 ## Data model
+Stage tables
+
 
 
 Log data json path: `s3://udacity-dend/log_json_path.json`
@@ -52,5 +54,5 @@ A star schema was created for song play analysis and queries.
    3. To test the results, execute 'test.ipynb'
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3ODkyNzU4Nl19
+eyJoaXN0b3J5IjpbMTkzNTU2NzcyMV19
 -->
