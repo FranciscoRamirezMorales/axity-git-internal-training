@@ -53,44 +53,12 @@ The programs used for ETL pipeline are:
  
 ## How to run
 
-Execute these comandaas folows:
+Execute these comands as folows:
 
-   1. $ python3 create_tables.py
-   2. $ python3 etl.py
-   3. To test the results, execute 'test.ipynb'
-
-Log data json path: `s3://udacity-dend/log_json_path.json`
-A startup called Sparkify wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. The analytics team is particularly interested in understanding what songs users are listening to. Currently, they don't have an easy way to query their data, which resides in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
-
-The purpose is to create a database model to store the data stored in JSON files. This data model is a star schema model that allows to Sparkify query the data in a efficient way.
-
-# Project description
-
-For this project was neccesary to create a data model for Postgres database and build an ETL pipeline using Python. 
-
-### Data model
-
-A star schema was created for song play analysis and queries.
-* **Fact Table**: songplays: attributes referencing to the dimension tables.
-* **Dimension Tables**: users, songs, artists and time table. 
-
-## ETL pipeline
-1. For **songs**, **artist** dimension tables, the source is songs_data.
-2. For **users**, **time** dimension tables, the source is log_data.
-3. For **songplays** fact table, the source is log_data . 
-
-## Usage
-1. **sql_queries.py**: contains all SQL queries, create table statements and insert statements. This file is used in multiple python files.
-2. **create_tables.py**: execute this program to create the Postgres database, and star schema tables.
-3. **etl.py**: execute this program to process song_data and log_data JSON files and load to star schema.
-
-## Steps to create database and load JSON files data
-
-   1. $ python3 create_tables.py
-   2. $ python3 etl.py
-   3. To test the results, execute 'test.ipynb'
+   1. $ python create_tables.py
+   2. $ python etl.py
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MzMwMzE1MywtMjA2MzMwMTE1NywtOD
-k3Mjg1NTM2LDIwNTQ3MzcxMTldfQ==
+eyJoaXN0b3J5IjpbNTM0NTk3Mjc5LC0yMDYzMzAxMTU3LC04OT
+cyODU1MzYsMjA1NDczNzExOV19
 -->
