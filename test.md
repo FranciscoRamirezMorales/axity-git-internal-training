@@ -21,7 +21,16 @@ For log data structucture the definition resides here:
 ### Stage tables
 
 ### Dimension tables
+#### Dimension Tables
 
+1.  **users** - users in the app
+    -   _user_id, first_name, last_name, gender, level_
+1.  **songs** - songs in music database
+    -   _song_id, title, artist_id, year, duration_
+1.  **artists** - artists in music database
+    -   _artist_id, name, location, lattitude, longitude_
+1.  **time** - timestamps of records in **songplays** broken down into specific units
+    -   _start_time, hour, day, week, month, year, weekday_
 ### Fact table
 
 Log data json path: `s3://udacity-dend/log_json_path.json`
@@ -56,5 +65,5 @@ A star schema was created for song play analysis and queries.
    3. To test the results, execute 'test.ipynb'
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzg1NjY1OTVdfQ==
+eyJoaXN0b3J5IjpbNTM5MDg3NDc1XX0=
 -->
