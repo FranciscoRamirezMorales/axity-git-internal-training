@@ -33,20 +33,20 @@ For log data structucture the definition resides here:
 1.  **time** - timestamps of records in **songplays** broken down into specific units
     -   _start_time, hour, day, week, month, year, weekday
 
-All dimension are configurated as DISTSTYLE ALL. This allows to replicate the dimensions on all slices to speed up the joins with fact table.
+All dimension are configurated as `DISTSTYLE ALL`. This allows to replicate the dimensions on all slices to speed up the joins with fact table.
 
 ## Fact table
 1.  **songplays** - records in event data associated with song plays i.e. records with page `NextSong`
     -   _songplay_id, start_time, user_id, level, song_id, artist_id, session_id, location, user_agent_
 
-This fact table is configured as DISTKEY over user_id. This is because this fact table is designed to support queries based on the analysis about users, for 
+This fact table is configured as `DISTKEY` over `user_id`. This is because this fact table is designed to support queries based on the user behavior or user preferences.
 
 ## ETL pipeline
 1. For **songs**, **artist** dimension tables, the source is songs_data.
 2. For **users**, **time** dimension tables, the source is log_data.
 3. For **songplays** fact table, the sources are log_data and song_data.
 
-
+## How to use
 
 
 Log data json path: `s3://udacity-dend/log_json_path.json`
@@ -81,6 +81,6 @@ A star schema was created for song play analysis and queries.
    3. To test the results, execute 'test.ipynb'
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4Nzk3OTUwMSwtMjA2MzMwMTE1NywtOD
+eyJoaXN0b3J5IjpbLTc1NDA0ODgwOCwtMjA2MzMwMTE1NywtOD
 k3Mjg1NTM2LDIwNTQ3MzcxMTldfQ==
 -->
