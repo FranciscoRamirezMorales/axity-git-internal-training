@@ -10,11 +10,12 @@ The purpose for this project is:
    - load to dimensional model from stage tables
 
 ## Data sources
-The data resides in Amazon S3
+The data resides in JSON Amazon S3
 -   Song data: `s3://udacity-dend/song_data`
 -   Log data: `s3://udacity-dend/log_data`
-For log data the definition 
-Log data json path: `s3://udacity-dend/log_json_path.json`
+
+For log data structucture the definition resides here:
+ - Log data json path: `s3://udacity-dend/log_json_path.json`
 
 Log data json path: `s3://udacity-dend/log_json_path.json`
 A startup called Sparkify wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. The analytics team is particularly interested in understanding what songs users are listening to. Currently, they don't have an easy way to query their data, which resides in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
@@ -48,5 +49,5 @@ A star schema was created for song play analysis and queries.
    3. To test the results, execute 'test.ipynb'
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjYxNzc1NzZdfQ==
+eyJoaXN0b3J5IjpbMTk1MzQzMzMwM119
 -->
