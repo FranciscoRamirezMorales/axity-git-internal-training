@@ -19,8 +19,8 @@ For log data structucture the definition resides here:
 
 ## Data model
 ### Stage tables
-1.  **staging_events** - stores the data frJSON song_data
-2.  **staging_songs** - users in the app
+1.  **staging_songs** - stores the data from `song_data` JSON files
+2.  **staging_events** -  stores the data from `log_data` JSON files
 
 ### Dimension Tables
 
@@ -71,5 +71,5 @@ A star schema was created for song play analysis and queries.
    3. To test the results, execute 'test.ipynb'
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMzNjE4MzldfQ==
+eyJoaXN0b3J5IjpbMTIwODY5NDMyOF19
 -->
