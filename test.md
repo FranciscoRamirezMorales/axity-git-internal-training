@@ -46,10 +46,10 @@ This fact table is configured as `DISTKEY` over `user_id`. This is because this 
 2. For **users**, **time** dimension tables, the source is log_data.
 3. For **songplays** fact table, the sources are log_data and song_data.
 
-The programs used for 
-1. **sql_queries.py**: contains all SQL queries, create table statements and insert statements. This file is used in the next two programs
-2. **create_tables.py**: execute this program to create the Postgres database, and star schema tables.
-3. **etl.py**: execute this program to process song_data and log_data JSON files and load to star schema.
+The programs used for ETL pipeline are:
+1. **sql_queries.py**: contains all SQL queries, create table statements and insert statements. This file is used in the next two programs.
+2. **create_tables.py**: This program creates the data model tables.
+3. **etl.py**: This program  processes song_data and log_data JSON files and load to star schema.
  
 
 
@@ -88,6 +88,6 @@ A star schema was created for song play analysis and queries.
    3. To test the results, execute 'test.ipynb'
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMTU4ODgxNywtMjA2MzMwMTE1NywtOD
-k3Mjg1NTM2LDIwNTQ3MzcxMTldfQ==
+eyJoaXN0b3J5IjpbLTE3NDc0NzA4MzIsLTIwNjMzMDExNTcsLT
+g5NzI4NTUzNiwyMDU0NzM3MTE5XX0=
 -->
