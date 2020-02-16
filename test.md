@@ -35,11 +35,11 @@ For log data structucture the definition resides here:
 
 All dimension are configurated as DISTSTYLE ALL. This allows to replicate the dimensions on all slices to speed up the joins with fact table.
 
- 
-
 ## Fact table
 1.  **songplays** - records in event data associated with song plays i.e. records with page `NextSong`
     -   _songplay_id, start_time, user_id, level, song_id, artist_id, session_id, location, user_agent_
+
+This fact table is configured as DISTKEY over user_id
 
 ## ETL pipeline
 1. For **songs**, **artist** dimension tables, the source is songs_data.
@@ -81,6 +81,6 @@ A star schema was created for song play analysis and queries.
    3. To test the results, execute 'test.ipynb'
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjMzMDExNTcsLTg5NzI4NTUzNiwyMD
-U0NzM3MTE5XX0=
+eyJoaXN0b3J5IjpbMjAzNDA0NjMxNywtMjA2MzMwMTE1NywtOD
+k3Mjg1NTM2LDIwNTQ3MzcxMTldfQ==
 -->
