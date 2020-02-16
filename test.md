@@ -33,7 +33,9 @@ For log data structucture the definition resides here:
 1.  **time** - timestamps of records in **songplays** broken down into specific units
     -   _start_time, hour, day, week, month, year, weekday
 
-All dimension are configurated as DISTSTYLE ALL. This allows to replicate the dimensions on all slices  that every executed query from fact table that joins with any dimensión 
+All dimension are configurated as DISTSTYLE ALL. This allows to replicate the dimensions on all slices to speed up the joins with fact table.
+
+ 
 
 ## Fact table
 1.  **songplays** - records in event data associated with song plays i.e. records with page `NextSong`
@@ -79,6 +81,6 @@ A star schema was created for song play analysis and queries.
    3. To test the results, execute 'test.ipynb'
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjI0NDA5OTksLTg5NzI4NTUzNiwyMD
+eyJoaXN0b3J5IjpbLTIwNjMzMDExNTcsLTg5NzI4NTUzNiwyMD
 U0NzM3MTE5XX0=
 -->
