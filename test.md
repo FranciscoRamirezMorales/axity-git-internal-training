@@ -9,7 +9,12 @@ The purpose for this project is:
    -  extract data form S3 and load to stage tables
    - load to dimensional model from stage tables
 
+## Data sources
+The data resides in AWS S3
+-   Song data: `s3://udacity-dend/song_data`
+-   Log data: `s3://udacity-dend/log_data`
 
+Log data json path: `s3://udacity-dend/log_json_path.json`
 A startup called Sparkify wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. The analytics team is particularly interested in understanding what songs users are listening to. Currently, they don't have an easy way to query their data, which resides in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
 
 The purpose is to create a database model to store the data stored in JSON files. This data model is a star schema model that allows to Sparkify query the data in a efficient way.
@@ -41,5 +46,5 @@ A star schema was created for song play analysis and queries.
    3. To test the results, execute 'test.ipynb'
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1ODUxOTAwNF19
+eyJoaXN0b3J5IjpbLTY3NTIwODk4NF19
 -->
