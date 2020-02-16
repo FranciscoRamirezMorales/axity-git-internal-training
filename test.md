@@ -40,7 +40,8 @@ For log data structucture the definition resides here:
 ## ETL pipeline
 1. For **songs**, **artist** dimension tables, the source is songs_data.
 2. For **users**, **time** dimension tables, the source is log_data.
-3. For **songplays** fact table, the sources are log_data and song_data. 
+3. For **songplays** fact table, the sources are log_data and song_data.
+
 
 
 
@@ -76,5 +77,5 @@ A star schema was created for song play analysis and queries.
    3. To test the results, execute 'test.ipynb'
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNTg4ODMwN119
+eyJoaXN0b3J5IjpbMjA1NDczNzExOV19
 -->
