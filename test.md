@@ -63,12 +63,14 @@ Follow the next steps:
    - DB_REGION='<*region*>'
    - ARN='aws_iam_role=<*arn*>'
 
-2. Execute these comands as folow:
+1. Execute this command to create the database model:
 
-   1. $ python create_tables.py
+python create_tables.py
+
+1. 
    1. $ python etl.py
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODk5NDk2NTMsNTM0NTk3Mjc5LC0yMD
-YzMzAxMTU3LC04OTcyODU1MzYsMjA1NDczNzExOV19
+eyJoaXN0b3J5IjpbMTY2NzI4MjgwLDUzNDU5NzI3OSwtMjA2Mz
+MwMTE1NywtODk3Mjg1NTM2LDIwNTQ3MzcxMTldfQ==
 -->
