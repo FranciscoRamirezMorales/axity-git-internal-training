@@ -66,10 +66,16 @@ Follow the next steps:
 1. Execute this command to create the database model:
 
        $ python create_tables.py
-1. 
-   1. $ python etl.py
+
+1. Execute this command to load the data:
+
+       $ python etl.py
+
+## Validation query
+
+Execute the following query to validate:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTM3NDgxMiw1MzQ1OTcyNzksLTIwNj
-MzMDExNTcsLTg5NzI4NTUzNiwyMDU0NzM3MTE5XX0=
+eyJoaXN0b3J5IjpbLTE2Nzg5Nzk0ODQsNTM0NTk3Mjc5LC0yMD
+YzMzAxMTU3LC04OTcyODU1MzYsMjA1NDczNzExOV19
 -->
