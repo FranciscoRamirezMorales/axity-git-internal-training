@@ -36,6 +36,8 @@ For log data structucture the definition resides here:
 1.  **songplays** - records in event data associated with song plays i.e. records with page `NextSong`
     -   _songplay_id, start_time, user_id, level, song_id, artist_id, session_id, location, user_agent_
 
+
+
 Log data json path: `s3://udacity-dend/log_json_path.json`
 A startup called Sparkify wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. The analytics team is particularly interested in understanding what songs users are listening to. Currently, they don't have an easy way to query their data, which resides in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
 
@@ -68,5 +70,5 @@ A star schema was created for song play analysis and queries.
    3. To test the results, execute 'test.ipynb'
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDc1NjA1MjVdfQ==
+eyJoaXN0b3J5IjpbLTIxMjAxMTIxNjldfQ==
 -->
