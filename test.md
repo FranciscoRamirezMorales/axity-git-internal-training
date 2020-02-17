@@ -73,9 +73,33 @@ Follow the next steps:
 
 ## Validation query
 
-Execute the following query to validate:
+Execute the following queries to validate:
+
+    -- Who listens to more music? Men or womem?
+    SELECT us.gender,
+    	   COUNT(*) number 
+      FROM songplays	AS sp 
+      JOIN users 		AS us
+      	ON sp.user_id = us.user_id
+     GROUP BY
+     	   us.gender
+    ;
+
+
+    -- The most 5 listened artist
+    SELECT ar.name AS artist_name,
+    	   COUNT(*) number
+      FROM songplays	AS sp 
+      JOIN artists 		AS ar
+      	ON sp.artist_id = ar.artist_id
+     GROUP BY
+     	   ar.name
+    ORDER BY 2 DESC
+    LIMIT 5
+    ;
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzg5Nzk0ODQsNTM0NTk3Mjc5LC0yMD
-YzMzAxMTU3LC04OTcyODU1MzYsMjA1NDczNzExOV19
+eyJoaXN0b3J5IjpbLTIwMzYzOTgzNCwtMTY3ODk3OTQ4NCw1Mz
+Q1OTcyNzksLTIwNjMzMDExNTcsLTg5NzI4NTUzNiwyMDU0NzM3
+MTE5XX0=
 -->
