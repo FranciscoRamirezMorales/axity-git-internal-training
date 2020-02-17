@@ -71,10 +71,11 @@ Follow the next steps:
 
        $ python etl.py
 
-## Validation query
+## Analysis queries
 
-Execute the following queries to validate:
+The following two queries :
 
+```
     -- Who listens to more music? Men or womem?
     SELECT us.gender,
     	   COUNT(*) number 
@@ -84,8 +85,8 @@ Execute the following queries to validate:
      GROUP BY
      	   us.gender
     ;
-
-
+```
+```
     -- The most 5 listened artist
     SELECT ar.name AS artist_name,
     	   COUNT(*) number
@@ -97,9 +98,9 @@ Execute the following queries to validate:
     ORDER BY 2 DESC
     LIMIT 5
     ;
-
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzYzOTgzNCwtMTY3ODk3OTQ4NCw1Mz
-Q1OTcyNzksLTIwNjMzMDExNTcsLTg5NzI4NTUzNiwyMDU0NzM3
-MTE5XX0=
+eyJoaXN0b3J5IjpbLTE1OTQ4ODE2MjcsLTE2Nzg5Nzk0ODQsNT
+M0NTk3Mjc5LC0yMDYzMzAxMTU3LC04OTcyODU1MzYsMjA1NDcz
+NzExOV19
 -->
