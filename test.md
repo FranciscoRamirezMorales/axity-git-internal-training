@@ -73,7 +73,7 @@ Follow the next steps:
 
 ## Analysis queries
 
-The following two queries :
+The following two queries are for analysis example:
 
 ```
     -- Who listens to more music? Men or womem?
@@ -100,7 +100,7 @@ The following two queries :
     ;
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTQ4ODE2MjcsLTE2Nzg5Nzk0ODQsNT
-M0NTk3Mjc5LC0yMDYzMzAxMTU3LC04OTcyODU1MzYsMjA1NDcz
-NzExOV19
+eyJoaXN0b3J5IjpbLTk0NzMxMDk2MiwtMTY3ODk3OTQ4NCw1Mz
+Q1OTcyNzksLTIwNjMzMDExNTcsLTg5NzI4NTUzNiwyMDU0NzM3
+MTE5XX0=
 -->
