@@ -43,7 +43,13 @@ Antes de comenzar, debemos asegurarnos de los siguiente:
  - El único branch es master. Si existen otros branches, asegurar que han sido borrados.
  - Al ejecutar git status, la salida debe indicar que el directorio de trabajo esta limpio (`working directory clean`).
 
+# Pasos a seguir
 
+1.  En el branch master, agregar un color por defaulbranch - add a default color to the page
+2.  create a sidebar branch - create a sidebar for the page
+3.  on the master branch - change the heading of the page
+4.  on the sidebar branch - add more content to the sidebar
+5.  create a footer branch - add social links to the footer
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTc3ODAwMDYsMTg5MzgyOTkyM119
+eyJoaXN0b3J5IjpbLTEzNzk5MjYwOTcsMTg5MzgyOTkyM119
 -->
