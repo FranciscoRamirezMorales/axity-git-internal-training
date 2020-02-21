@@ -42,6 +42,7 @@ Antes de comenzar, debemos asegurarnos de los siguiente:
  - El único branch es master. Si existen otros branches, asegurar que han sido borrados.
  - Al ejecutar git status, la salida debe indicar que el directorio de trabajo esta limpio (`working directory clean`).
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MzgyOTkyM119
+eyJoaXN0b3J5IjpbOTM4MDA4MjA5LDE4OTM4Mjk5MjNdfQ==
 -->
