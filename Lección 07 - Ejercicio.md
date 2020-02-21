@@ -47,8 +47,14 @@ Antes de comenzar, debemos asegurarnos de los siguiente:
 
 ## 1. Agregar un color a la página
 
-1. En el b
+1. En el branch master agregar el siguiente contenido dentro del archivo `css/app.css`:
+
+```css
+body {
+    background-color: #00cae4;
+}
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMzk1NjMwLDE4OTM4Mjk5MjNdfQ==
+eyJoaXN0b3J5IjpbMTMzNzIyMzI1MSwxODkzODI5OTIzXX0=
 -->
