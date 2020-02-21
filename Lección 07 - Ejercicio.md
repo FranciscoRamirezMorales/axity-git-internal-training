@@ -47,9 +47,9 @@ Antes de comenzar, debemos asegurarnos de los siguiente:
 
 1.  En el branch **master**:
 	2.  agregar un color por default
-2. Crear un **branch** llamado sidebar y 
+2. Crear un **branch** llamado sidebar y crear 
 3. 
 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MDcyNjMzNSwxODkzODI5OTIzXX0=
+eyJoaXN0b3J5IjpbLTE5MTM4ODI0NTgsMTg5MzgyOTkyM119
 -->
