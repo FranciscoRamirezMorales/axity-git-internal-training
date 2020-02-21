@@ -45,11 +45,11 @@ Antes de comenzar, debemos asegurarnos de los siguiente:
 
 # Pasos a seguir
 
-1.  En el branch master, agregar un color por defaulbranch - add a default color to the page
-2.  create a sidebar branch - create a sidebar for the page
-3.  on the master branch - change the heading of the page
-4.  on the sidebar branch - add more content to the sidebar
-5.  create a footer branch - add social links to the footer
+1.  En el branch **master**:
+	2.  agregar un color por default
+2. Crear un **branch** llamado sidebar y 
+3. 
+4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzk5MjYwOTcsMTg5MzgyOTkyM119
+eyJoaXN0b3J5IjpbMTk1MDcyNjMzNSwxODkzODI5OTIzXX0=
 -->
