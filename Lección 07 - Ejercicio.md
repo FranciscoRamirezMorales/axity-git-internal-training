@@ -54,7 +54,8 @@ body {
     background-color: #00cae4;
 }
 ```
+2. Guardar el archivo y cerrar.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNzIyMzI1MSwxODkzODI5OTIzXX0=
+eyJoaXN0b3J5IjpbMTE2MTUyMzczOCwxODkzODI5OTIzXX0=
 -->
