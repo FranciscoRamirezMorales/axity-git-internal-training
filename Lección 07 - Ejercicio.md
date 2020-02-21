@@ -45,11 +45,10 @@ Antes de comenzar, debemos asegurarnos de los siguiente:
 
 # Pasos a seguir
 
-1.  En el branch **master**:
-	2.  agregar un color por default
-2. Crear un **branch** llamado sidebar y crear 
-3. 
-4. 
+## 1. Agregar un color a la página
+
+1. En el b
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTM4ODI0NTgsMTg5MzgyOTkyM119
+eyJoaXN0b3J5IjpbLTkyMzk1NjMwLDE4OTM4Mjk5MjNdfQ==
 -->
