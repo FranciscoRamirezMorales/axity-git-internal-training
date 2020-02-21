@@ -1,3 +1,4 @@
+# Pre-requisitos
 Antes de comenzar, debemos asegurarnos de los siguiente:
 
  - Estar ubicado en el proyecto/directorio `new-git-project` y asegurar que existen los siguientes archivos:
@@ -44,5 +45,5 @@ Antes de comenzar, debemos asegurarnos de los siguiente:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM4MDA4MjA5LDE4OTM4Mjk5MjNdfQ==
+eyJoaXN0b3J5IjpbLTEwNTc3ODAwMDYsMTg5MzgyOTkyM119
 -->
