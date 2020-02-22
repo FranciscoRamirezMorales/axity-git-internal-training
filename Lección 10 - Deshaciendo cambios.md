@@ -26,6 +26,8 @@ Este comando:
 git reset <referencia-al-commit>
 ```
 
+A diferencia de revert, un reset borra todos los commits indicados.
+
 Opciones que se pueden usar en un `reset`:
 -   `--mixed`
 -   `--soft`
@@ -33,10 +35,11 @@ Opciones que se pueden usar en un `reset`:
 
 [![Git reset](http://img.youtube.com/vi/UN7ki2G2yKc/0.jpg)](http://www.youtube.com/watch?v=UN7ki2G2yKc "Git reset")
 
-A diferencia de revert, un reset borra todos los commits indicados.
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MzYwMzU5NSwtOTE4MTgwODk0LC0xNj
-E4NDg2NDM3LDMyMjkwOTkxMV19
+eyJoaXN0b3J5IjpbLTE5ODY0NzMyNDUsLTkxODE4MDg5NCwtMT
+YxODQ4NjQzNywzMjI5MDk5MTFdfQ==
 -->
