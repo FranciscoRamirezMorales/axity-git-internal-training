@@ -62,8 +62,10 @@ $ git status
 
 10. Usar `git log --oneline` para ver el historial de commits.
 
+![img_09_git_merge_06](images/img_09_git_merge_06.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NjE2NzQ4LC0zODg0MjQ4MywzODgwNz
-UzNjgsODY3MDgyNTk0LDcyNjA1NjgyNywtNjgxNjQ0OTcyLDE3
-Nzg3NDI5OTEsLTM4MDA1MzQzNV19
+eyJoaXN0b3J5IjpbOTE1Mjg3MTk2LDEwOTYxNjc0OCwtMzg4ND
+I0ODMsMzg4MDc1MzY4LDg2NzA4MjU5NCw3MjYwNTY4MjcsLTY4
+MTY0NDk3MiwxNzc4NzQyOTkxLC0zODAwNTM0MzVdfQ==
 -->
