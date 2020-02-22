@@ -102,7 +102,7 @@ $ git checkout sidebar
 > Es importante entender que cuando hacemos `git checkout`, todos los archivos del repositorio de trabajo son removidos y en su lugar son colocados los archivos que cuyos **commits** corresponden al **branch** sobre el cual estamos haciendo **checkout**.
 
 ## Administrar branches
-### Visualizar los branches en el log
+### Visualizar los brahes en el log
 ```bash
 $ git log --oneline
 ```
@@ -110,23 +110,22 @@ $ git log --oneline
 ```bash
 $ git branch
 ```
-### Eliminar branches
+### Eliminar un branch
 ```bash
 $ git branch -d sidebar
 ```
 ### Crear un branch en un commit específico
 ```bash
-$ git branch alt-sidebar-loc bb352c
+$ git branc alt-sidebar-loc bb352c
 ```
 
-![img_07_git_branch_01](images/img_07_git_branch_01.png)
-
-
+![img_07_git_branch_01](images/img_07_git_branch_01png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMTAzNDI2NSwtMTA3MTY3ODE4MSwtMT
-MzNDE0NDUzMSwyMDgxMTYxOTE0LC00ODEwOTI5MDAsMTA3NjEz
-Njc0OSw1MjAyMDY2NjAsLTE0MTk0NTc3ODgsMTg0NzQ2OTg2MS
-wtNDMwNzI1MDEsMjg2Njg0MTk0LC0xNjYwODMwOTI1LC0xOTMw
-NTAyNDgsLTE4MTEyMTg1OTksMTgyNTUwMzE3NV19
+eyJoaXN0b3J5IjpbMTIxOTIzNzcxMywxNDExMDM0MjY1LC0xMD
+cxNjc4MTgxLC0xMzM0MTQ0NTMxLDIwODExNjE5MTQsLTQ4MTA5
+MjkwMCwxMDc2MTM2NzQ5LDUyMDIwNjY2MCwtMTQxOTQ1Nzc4OC
+wxODQ3NDY5ODYxLC00MzA3MjUwMSwyODY2ODQxOTQsLTE2NjA4
+MzA5MjUsLTE5MzA1MDI0OCwtMTgxMTIxODU5OSwxODI1NTAzMT
+c1XX0=
 -->
