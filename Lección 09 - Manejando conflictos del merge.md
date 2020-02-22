@@ -20,10 +20,13 @@ Para simular un conflicto durante un merge y aprender como manejar este tipo de 
  4. Establecer `master` como el branch activo.
  5. Ejecutar el comando de merge:
 
+```bash
+$ git merge heading-update
+```
+El resultado debería verse como sigue:
 
- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMjk2NDA0OCwxNzc4NzQyOTkxLC0zOD
+eyJoaXN0b3J5IjpbLTY4MTY0NDk3MiwxNzc4NzQyOTkxLC0zOD
 AwNTM0MzVdfQ==
 -->
