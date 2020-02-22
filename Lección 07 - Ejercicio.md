@@ -89,7 +89,7 @@ body {
 </footer>
 ```
 
-> Blockquote
+> Podemos personalizar el contenido del bloque si se desea. 
 
 5. Guardar y cerrar.
 6. Realizar `commit`  con el mensaje `"Add new sidebar content"`.
@@ -99,6 +99,6 @@ body {
 1. Realizar `checkout` para cambiar al branch `master`.
 2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MTcxMjQyMCwxNDM4MDE3MDYxLDE4Mj
+eyJoaXN0b3J5IjpbLTI5NDkyNDMzMywxNDM4MDE3MDYxLDE4Mj
 cxOTQzMzAsMTE2MTUyMzczOCwxODkzODI5OTIzXX0=
 -->
