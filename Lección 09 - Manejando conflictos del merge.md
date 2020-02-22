@@ -38,10 +38,8 @@ Aqui podemo observar los sigientes indicadores de conflicto durante el merge:
 
 -   `<<<<<<< HEAD` todo lo que está después de este indicado (hasta antes del siguiente) corresponde al branch actual.
 -   `||||||| merged common ancestors` todo lo que está después de este indicador (hasta antes del siguiente) muestra las líneas originales antes de realizar el merge.
--   `=======` indica el final de las líneas originales y todo lo que está después de este indicador (hasta antes del siguiente) muestra las líneas del branch que esta siendo 
-
-is the end of the original lines, everything that follows (until the next indicator) is what's on the branch that's being merged in
--   `>>>>>>> heading-update` is the ending indicator of what's on the branch that's being merged in (in this case, the `heading-update` branch)
+-   `=======` indica el final de las líneas originales y todo lo que está después de este indicador (hasta antes del siguiente) muestra las líneas del branch sobre el que se esta aplicando el merge.
+-   `>>>>>>> heading-update` indica el final dis the ending indicator of what's on the branch that's being merged in (in this case, the `heading-update` branch)
 
 
  7. Ejecutar el comando de `status` para conocer las acciones pendientes.
@@ -54,6 +52,6 @@ $ git status
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMjc0MDQ3MCw3MjYwNTY4MjcsLTY4MT
-Y0NDk3MiwxNzc4NzQyOTkxLC0zODAwNTM0MzVdfQ==
+eyJoaXN0b3J5IjpbLTIxMzc4OTI2OTIsNzI2MDU2ODI3LC02OD
+E2NDQ5NzIsMTc3ODc0Mjk5MSwtMzgwMDUzNDM1XX0=
 -->
