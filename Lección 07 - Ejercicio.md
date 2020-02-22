@@ -41,13 +41,13 @@ Antes de comenzar, debemos asegurarnos de los siguiente:
 
  - Todos los archivos han sido agregados al Staging Index y se ha realizado un commit.
  - El único branch es master. Si existen otros branches, asegurar que han sido borrados.
- - Al ejecutar git status, la salida debe indicar que el directorio de trabajo esta limpio (`working directory clean`).
+ - Al ejecutar `git status,` la salida debe indicar que el directorio de trabajo esta limpio (`working directory clean`).
 
 # Pasos a seguir
 
 ## 1. Agregar un color a la página
 
-1. En el branch master agregar el siguiente contenido dentro del archivo `css/app.css`:
+1. En el branch `master` agregar el siguiente contenido dentro del archivo `css/app.css`:
 
 ```css
 body {
@@ -62,7 +62,7 @@ body {
 ## 2. Agregar barra lateral
 
 1. Crear un `branch` llamado `sidebar` apuntando al **SHA** asociado al commit del mensaje `"Add starting HTML structure"`.
-1. Realizar checkout para cambiar al branch `slidebar`.
+1. Realizar `checkout` para cambiar al branch `slidebar`.
 1. Usar `git log --oneline` para ver el historial de commits.
 
 > Podemos abrir el archivo   `css/app.css` en Atom y posteriormente cambiar entre el branch `master` y `slidebar` para poder observar como se actualiza el contenido en las diferentes versiones del archivo.
@@ -93,8 +93,9 @@ body {
 
 ## Cambiar el encabezado en `master`
 
-
+1. Realizar `checkout` para cambiar al branch `master`.
+2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MTYxMzMyOCwxNDM4MDE3MDYxLDE4Mj
+eyJoaXN0b3J5IjpbLTI0NTM2ODE2MywxNDM4MDE3MDYxLDE4Mj
 cxOTQzMzAsMTE2MTUyMzczOCwxODkzODI5OTIzXX0=
 -->
