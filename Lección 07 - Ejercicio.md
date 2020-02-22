@@ -1,4 +1,5 @@
 # Ejercicio - Commits
+## Antes de comenzar
 
 Antes de comenzar, debemos asegurarnos de los siguiente:
 
@@ -44,9 +45,9 @@ Antes de comenzar, debemos asegurarnos de los siguiente:
  - El único branch es master. Si existen otros branches, asegurar que han sido borrados.
  - Al ejecutar `git status,` la salida debe indicar que el directorio de trabajo esta limpio (`working directory clean`).
 
-# Pasos a seguir
+## Pasos a seguir
 
-## 1. Agregar un color a la página
+### 1. Agregar un color a la página
 
 1. En el branch `master` agregar el siguiente contenido dentro del archivo `css/app.css`:
 
@@ -60,7 +61,7 @@ body {
 1. Realizar `commit`  con el mensaje `"Add starting HTML structure"`.
 1. Usar `git log --oneline` para ver el historial de commits.
 
-## 2. Agregar barra lateral
+### 2. Agregar barra lateral
 
 1. Crear un `branch` llamado `sidebar` apuntando al **SHA** asociado al commit del mensaje `"Add starting HTML structure"`.
 1. Realizar `checkout` para cambiar al branch `slidebar`.
@@ -98,14 +99,14 @@ body {
 5. Guardar y cerrar.
 6. Realizar `commit`  con el mensaje `"Add new sidebar content"`.
 
-## 3. Cambiar el encabezado en `master`
+### 3. Cambiar el encabezado en `master`
 
 1. Realizar `checkout` para cambiar al branch `master`.
 2. En el archivo `index.html` cambiar el texto del encabezado `<h1>` de `"Expedition"` a `"Adventure"`
 3. Guardar y cerrar.
 4. Realizar `commit`  con el mensaje `"Improve site heading for SEO"`.
 
-## 4. Agregar más contenido a la barra lateral
+### 4. Agregar más contenido a la barra lateral
 
 1. Realizar `checkout` para cambiar al branch `sidebar`.
 
@@ -115,7 +116,7 @@ body {
 3. Guardar y cerrar.
 4. Realizar `commit`  con el mensaje `"Update sidebar with favorite movie"`.
 
-## 5. Agregar enlaces de redes sociales al pie de página
+### 5. Agregar enlaces de redes sociales al pie de página
 
 1. Crear un branch llamado `footer` basado en el branch `master`. Para hacer esto podemos ejecutar:
 
@@ -148,8 +149,11 @@ $ git checkout -b footer master
 
 4. Guardar y cerrar.
 5. Realizar `commit`  con el mensaje `"Add links to social media"`.
+
+### 6. Ver todos los branches
+1. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMTk2MTM2MSwxMzYzMzcxOTUsLTYyOD
+eyJoaXN0b3J5IjpbMTI1NjQ0OTYzMCwxMzYzMzcxOTUsLTYyOD
 c4NDg0OCwtMTgxMjQ2MTcyNywtMTkxMDAzOTkwMSwxNDM4MDE3
 MDYxLDE4MjcxOTQzMzAsMTE2MTUyMzczOCwxODkzODI5OTIzXX
 0=
