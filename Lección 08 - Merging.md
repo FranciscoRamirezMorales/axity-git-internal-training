@@ -32,14 +32,15 @@ Este tipo de merge es el más común ya que implica combinar dos branches cuyas 
 
 > Esta acción implica realizar un `commit`, ya que la propia acción de este tipo de merge implica cambios sobre los archivos.
 
+> Recordemos en en la práctica anterior creamos un branch llamado `sidebar` basado en el branch `master`. Tanto en master como en sidebar realizamos cambios por lo que ambos branches tomaron rutas diferentes
+
 Para realizar un regular merge ejecutamos el siguiente comando:
 
 ```bash
 $ git merge sidebar
 ```
 
-> Recordemos en en la práctica anterior creamos un branch llamado `sidebar` basado en el branch `master`. Tanto en master como en sidebar 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MjYyOTQ0MCwyMTI5MDU4NjQxLC0zOD
-Q2NDIyMzEsNDc0MTQ3OTUyXX0=
+eyJoaXN0b3J5IjpbLTE3MzcyNDUzMDYsMjEyOTA1ODY0MSwtMz
+g0NjQyMjMxLDQ3NDE0Nzk1Ml19
 -->
