@@ -59,11 +59,12 @@ body {
 
 ## 2. Agregar barra lateral
 
-1. Crear un branch llamado `sidebar` 
+1. Crear un `branch` llamado `sidebar` apuntando al **SHA** asociado al commit del mensaje `"Add starting HTML structure"`
+2. 
 
 Ver como en ATOM cambia el contenido
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMzgzNTIyNCwxMTYxNTIzNzM4LDE4OT
+eyJoaXN0b3J5IjpbMTgwMTIxOTUwMywxMTYxNTIzNzM4LDE4OT
 M4Mjk5MjNdfQ==
 -->
