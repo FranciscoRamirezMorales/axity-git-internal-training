@@ -26,12 +26,12 @@ $ git merge footer
 ```
 
 ## Regular merge
-Este tipo de merge es el más común ya que implica combinar dos branches cuyas rutas son diferentes
+Este tipo de merge es el más común ya que implica combinar dos branches cuyas rutas son diferentes. Esta acción implica realizar un commit, ya que propia acción de este tipo de merge implica
 
 ```bash
 $ git merge sidebar
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjkxNDk4ODcsMjEyOTA1ODY0MSwtMz
-g0NjQyMjMxLDQ3NDE0Nzk1Ml19
+eyJoaXN0b3J5IjpbMTg4MzYwMDcyMSwyMTI5MDU4NjQxLC0zOD
+Q2NDIyMzEsNDc0MTQ3OTUyXX0=
 -->
