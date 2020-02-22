@@ -129,13 +129,13 @@ $ git checkout -b footer master
     <!-- start of new content -->
     <section>
         <h3 class="visuallyhidden">Social Links</h3>
-        <a class="social-link" href="https://twitter.com/udacity">
+        <a class="social-link" href="https://twitter.com/axity">
             <img src="img/social-twitter.png" alt="Twitter">
         </a>
-        <a class="social-link" href="https://www.instagram.com/udacity/">
+        <a class="social-link" href="https://www.instagram.com/axity/">
             <img src="img/social-instagram.png" alt="Instagram">
         </a>
-        <a class="social-link" href="https://plus.google.com/+Udacity">
+        <a class="social-link" href="https://plus.google.com/+axity">
             <img src="img/social-google.png" alt="Google Plus">
         </a>
     </section>
@@ -144,7 +144,7 @@ $ git checkout -b footer master
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIzMDQ4NDEzLC02Mjg3ODQ4NDgsLTE4MT
+eyJoaXN0b3J5IjpbMTM2MzM3MTk1LC02Mjg3ODQ4NDgsLTE4MT
 I0NjE3MjcsLTE5MTAwMzk5MDEsMTQzODAxNzA2MSwxODI3MTk0
 MzMwLDExNjE1MjM3MzgsMTg5MzgyOTkyM119
 -->
