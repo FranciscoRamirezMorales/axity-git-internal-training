@@ -23,14 +23,22 @@ Para simular un conflicto durante un merge y aprender como manejar este tipo de 
 ```bash
 $ git merge heading-update
 ```
+
 El resultado debería verse como sigue:
 
 ![img_09_git_merge_01](images/img_08_git_merge_01.png)
 
 Este mesaje indica que GIt no pudo realizar un merge automático y que debemos resolver estos conflictos de forma manual.
 
- 6. Ejecutar el comando de status para te
+ 6. Ejecutar el comando de `status` para conocer las acciones pendientes.
+
+```bash
+$ git status
+```
+
+![img_09_git_merge_01](images/img_08_git_merge_01.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODMxNjQ3MTYsLTY4MTY0NDk3MiwxNz
-c4NzQyOTkxLC0zODAwNTM0MzVdfQ==
+eyJoaXN0b3J5IjpbMTE0NjE4NTg0OSwtNjgxNjQ0OTcyLDE3Nz
+g3NDI5OTEsLTM4MDA1MzQzNV19
 -->
