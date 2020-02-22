@@ -58,7 +58,10 @@ body {
 
 
 
+
+Ver como en ATOM cambia el contenido
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODYwNDkzOCwxMTYxNTIzNzM4LDE4OT
-M4Mjk5MjNdfQ==
+eyJoaXN0b3J5IjpbLTIxMjU3OTQ2MDAsMTE2MTUyMzczOCwxOD
+kzODI5OTIzXX0=
 -->
