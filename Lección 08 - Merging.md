@@ -40,8 +40,10 @@ Para realizar un regular merge ejecutamos el siguiente comando:
 $ git merge sidebar
 ```
 > Esta acción implica realizar un `commit`, ya que la propia acción de este tipo de merge implica cambios sobre los archivos.
-> Podemos cambiar el mensaje del commit, pero es una 
+> Podemos cambiar el mensaje del commit, sin embargo es una práctica común usar el mensaje de commit del merge por defecto.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MzgwMzA1NCwtMTczNzI0NTMwNiwyMT
+eyJoaXN0b3J5IjpbLTY1Nzc2MDU0NiwtMTczNzI0NTMwNiwyMT
 I5MDU4NjQxLC0zODQ2NDIyMzEsNDc0MTQ3OTUyXX0=
 -->
