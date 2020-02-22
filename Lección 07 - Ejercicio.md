@@ -151,11 +151,12 @@ $ git checkout -b footer master
 5. Realizar `commit`  con el mensaje `"Add links to social media"`.
 
 ### 6. Ver todos los branches
-1. 
+1. Ejecutar el siguiente comando para ver toda la actividad histórica de los commits realizados en todos los branch
 
+![img_07_exe_01](images/img_07_exe_01)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4ODYyMjEzOCwxMjU2NDQ5NjMwLDEzNj
+eyJoaXN0b3J5IjpbLTk0OTAyMzQzOSwxMjU2NDQ5NjMwLDEzNj
 MzNzE5NSwtNjI4Nzg0ODQ4LC0xODEyNDYxNzI3LC0xOTEwMDM5
 OTAxLDE0MzgwMTcwNjEsMTgyNzE5NDMzMCwxMTYxNTIzNzM4LD
 E4OTM4Mjk5MjNdfQ==
