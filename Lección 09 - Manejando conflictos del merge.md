@@ -56,10 +56,14 @@ $ git status
 
 ![img_09_git_merge_04](images/img_08_git_merge_04.png)
 
- 9. Realizamos `commit`  con el mensaje `"Add starting HTML structure"`.
-1. Usar `git log --oneline` para ver el historial de commits.
+ 9. Realizamos `commit`  con el mensaje por defecto.
+
+![img_09_git_merge_05](images/img_08_git_merge_05.png)
+
+10. Usar `git log --oneline` para ver el historial de commits.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg4MDc1MzY4LDg2NzA4MjU5NCw3MjYwNT
-Y4MjcsLTY4MTY0NDk3MiwxNzc4NzQyOTkxLC0zODAwNTM0MzVd
-fQ==
+eyJoaXN0b3J5IjpbLTM4ODQyNDgzLDM4ODA3NTM2OCw4NjcwOD
+I1OTQsNzI2MDU2ODI3LC02ODE2NDQ5NzIsMTc3ODc0Mjk5MSwt
+MzgwMDUzNDM1XX0=
 -->
