@@ -24,8 +24,8 @@ Este es el mas simple de los merge, ya que como se puede observar en el video, e
 
 
 ## Regular merge
-Este tipo de merge es el más 
+Este tipo de merge es el más común ya que implica combinar dos branches 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE2MDQyMDc4LC0zODQ2NDIyMzEsNDc0MT
-Q3OTUyXX0=
+eyJoaXN0b3J5IjpbMTgwMzY1NTc0NiwtMzg0NjQyMjMxLDQ3ND
+E0Nzk1Ml19
 -->
