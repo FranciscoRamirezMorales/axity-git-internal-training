@@ -10,7 +10,14 @@ En esta lección mencionaremos como:
  - 
 
 
+## Revertir un commit
 
+```bash
+$ git revert <SHA-del-commit-a-revertir>
+```
+
+Esta acción deshace los cambios realizados 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTg0ODY0MzcsMzIyOTA5OTExXX0=
+eyJoaXN0b3J5IjpbMTk5MjQ3OTA1NywtMTYxODQ4NjQzNywzMj
+I5MDk5MTFdfQ==
 -->
