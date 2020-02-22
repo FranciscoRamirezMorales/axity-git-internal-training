@@ -14,11 +14,13 @@ En esta lección mencionaremos como:
 ```bash
 $ git commit --amend
 ```
+
+Este comando agregar los archivos modificados 
+
 Para poder usar este comando se deben realizar los siguientes pasos
--   edit the file(s)
--   save the file(s)
--   stage the file(s)
--   and run `git commit --amend`
+-   editar y guardar los archivos
+-   agregar los archivos a Staging Index
+-   ejecutar `git commit --amend`
 
 ## Revertir un commit
 
@@ -86,7 +88,7 @@ En este caso `HEAD` apunta al commit `9ec05ca` y:
 -   `HEAD^^^2` corresponde al commit `4c9749e` (este es el `HEAD^^` del segundo padre (`^2`))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQzNTc0NjU1LC03ODM4ODQyMDYsLTEwOD
+eyJoaXN0b3J5IjpbNTcyNDgwMjMwLC03ODM4ODQyMDYsLTEwOD
 MyNTQ3OTYsMTMyOTgzNTU2LC0xOTg2NDczMjQ1LC05MTgxODA4
 OTQsLTE2MTg0ODY0MzcsMzIyOTA5OTExXX0=
 -->
