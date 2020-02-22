@@ -159,11 +159,11 @@ git log --oneline --decorate --graph --all
 
 2. El resultado debe ser algo similar a lo siguiente:
 
-![img_07_exe_01](images/img_07_exe_01)
+![img_07_exe_01](images/img_07_exe_01.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NDk5NjI1OCwxMjU2NDQ5NjMwLDEzNj
-MzNzE5NSwtNjI4Nzg0ODQ4LC0xODEyNDYxNzI3LC0xOTEwMDM5
-OTAxLDE0MzgwMTcwNjEsMTgyNzE5NDMzMCwxMTYxNTIzNzM4LD
-E4OTM4Mjk5MjNdfQ==
+eyJoaXN0b3J5IjpbLTE1Mjc3NzMwOTEsMTI1NjQ0OTYzMCwxMz
+YzMzcxOTUsLTYyODc4NDg0OCwtMTgxMjQ2MTcyNywtMTkxMDAz
+OTkwMSwxNDM4MDE3MDYxLDE4MjcxOTQzMzAsMTE2MTUyMzczOC
+wxODkzODI5OTIzXX0=
 -->
