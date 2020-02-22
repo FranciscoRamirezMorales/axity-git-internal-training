@@ -108,7 +108,7 @@ En resumen, `git log --patch` muestra:
 
 ## Revisar un commit específico
 
-Hemos visto que `git log` nos proporciona información sobre los cambios hechos a los archovs dentro de un repositorio de Git.
+Hemos visto que `git log` nos proporciona información sobre los cambios hechos a los archivos dentro de un repositorio de Git.
 
 ¿Pero como podemos obtener información de un commit específico?
 
@@ -127,11 +127,11 @@ Para obtener información de un commit específico:
 A diferencia de `git log`, el comando `git show` puede ser combinado con las opciones `--stat`, `--patch` o `-p`, `-w`.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzc5MjQ2NDcsLTE4MjUwNTQzNDYsMj
-A4MTgxODI5OCwzODA4Mjc4NzgsLTEzNTgwMTA5ODgsLTM5NDYw
-NDI2NSwxMTA1NDcxMjIsMTE1NjkzMzc5MywzMDc5NDk1MDUsMj
-QxMjEyMzgyLC05MzM5NDQzMTgsMTkwMzQwNTU5OCwtMTE2NTQ5
-Mjk1MCwyNDkwOTM3NTAsLTEyODQwNDk4MTAsMTAwNzE5MDc1OS
-wtMTI2MjI4NTkzLC02NDQwNjcyMzksODEwODcxMjg4LDE0MzM3
-NDA5MDNdfQ==
+eyJoaXN0b3J5IjpbODI3MDA4NzA0LC0yMTM3OTI0NjQ3LC0xOD
+I1MDU0MzQ2LDIwODE4MTgyOTgsMzgwODI3ODc4LC0xMzU4MDEw
+OTg4LC0zOTQ2MDQyNjUsMTEwNTQ3MTIyLDExNTY5MzM3OTMsMz
+A3OTQ5NTA1LDI0MTIxMjM4MiwtOTMzOTQ0MzE4LDE5MDM0MDU1
+OTgsLTExNjU0OTI5NTAsMjQ5MDkzNzUwLC0xMjg0MDQ5ODEwLD
+EwMDcxOTA3NTksLTEyNjIyODU5MywtNjQ0MDY3MjM5LDgxMDg3
+MTI4OF19
 -->
