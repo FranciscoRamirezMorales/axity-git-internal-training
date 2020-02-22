@@ -1,7 +1,6 @@
+# Manejando conflictos durante un merge
 
-
-
-> Written with [StackEdit](https://stackedit.io/).
+Un conflicto durante un merge puede ocasionarse 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNTU0MjA1NTg0XX0=
 -->
