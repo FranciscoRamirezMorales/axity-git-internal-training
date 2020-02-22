@@ -8,8 +8,8 @@
 Para simular un conflicto durante un merge y aprender como manejar este tipo de conflicto realizaremos los siguientes pasos:
 
  1. Cambiar el encabezado en el branch `master`
- 2. Crear el branch 
+ 2. Crear el branch `heading-update` apuntado al commit 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMDU5MzEzNSwtMzgwMDUzNDM1XX0=
+eyJoaXN0b3J5IjpbMTc3ODc0Mjk5MSwtMzgwMDUzNDM1XX0=
 -->
