@@ -1,4 +1,4 @@
-# Ejercicio - Commits
+# Práctica 07 - Commits
 ## Antes de comenzar
 
 Antes de comenzar, debemos asegurarnos de los siguiente:
@@ -163,5 +163,5 @@ git log --oneline --decorate --graph --all
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzI1MDY4MDVdfQ==
+eyJoaXN0b3J5IjpbNDc2NjIwNjE4XX0=
 -->
