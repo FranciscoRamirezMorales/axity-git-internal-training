@@ -37,9 +37,45 @@ Opciones que se pueden usar en un `reset`:
 
 
 
+## Referencias relativas
 
+Particularmente con reset podemos usar referencias relativas en lugar de especificar un commit en particular
 
+Por ejemplo, si tenemos el siguiente log de commits:
+
+```
+* 9ec05ca (HEAD -> master) Revert "Set page heading to "Quests & Crusades""
+* db7e87a Set page heading to "Quests & Crusades"
+*   796ddb0 Merge branch 'heading-update'
+|\  
+| * 4c9749e (heading-update) Set page heading to "Crusade"
+* | 0c5975a Set page heading to "Quest"
+|/  
+*   1a56a81 Merge branch 'sidebar'
+|\  
+| * f69811c (sidebar) Update sidebar with favorite movie
+| * e6c65a6 Add new sidebar content
+* | e014d91 (footer) Add links to social media
+* | 209752a Improve site heading for SEO
+* | 3772ab1 Set background color for page
+|/  
+* 5bfe5e7 Add starting HTML structure
+* 6fa5f34 Add .gitignore file
+* a879849 Add header to blog
+* 94de470 Initial commit
+
+```
+
+Let's look at how we'd refer to some of the previous commits. Since `HEAD` points to the `9ec05ca` commit:
+
+-   `HEAD^` is the `db7e87a` commit
+-   `HEAD~1` is also the `db7e87a` commit
+-   `HEAD^^` is the `796ddb0` commit
+-   `HEAD~2` is also the `796ddb0` commit
+-   `HEAD^^^` is the `0c5975a` commit
+-   `HEAD~3` is also the `0c5975a` commit
+-   `HEAD^^^2` is the `4c9749e` commit (this is the grandparent's (`HEAD^^`) _second parent_ (`^2`))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODY0NzMyNDUsLTkxODE4MDg5NCwtMT
-YxODQ4NjQzNywzMjI5MDk5MTFdfQ==
+eyJoaXN0b3J5IjpbLTI2NjM4ODE2NSwtMTk4NjQ3MzI0NSwtOT
+E4MTgwODk0LC0xNjE4NDg2NDM3LDMyMjkwOTkxMV19
 -->
