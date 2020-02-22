@@ -97,8 +97,11 @@ body {
 ## Cambiar el encabezado en `master`
 
 1. Realizar `checkout` para cambiar al branch `master`.
-2. En el archivo index.html cambiar el texto del encabezado `<h1>` de `"Expedition"` a `"Adventure"`
+1. En el archivo index.html cambiar el texto del encabezado `<h1>` de `"Expedition"` a `"Adventure"`
+1. Guardar y cerrar.
+1. Realizar `commit`  con el mensaje `"Improve site heading for SEO"`.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTAwMzk5MDEsMTQzODAxNzA2MSwxOD
-I3MTk0MzMwLDExNjE1MjM3MzgsMTg5MzgyOTkyM119
+eyJoaXN0b3J5IjpbMTEyNzQ2MDg5MiwtMTkxMDAzOTkwMSwxND
+M4MDE3MDYxLDE4MjcxOTQzMzAsMTE2MTUyMzczOCwxODkzODI5
+OTIzXX0=
 -->
