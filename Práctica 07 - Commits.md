@@ -154,7 +154,7 @@ $ git checkout -b footer master
 1. Ejecutar el siguiente comando para ver toda la actividad histórica de los commits realizados en todos los branch:
 
 ```bash
-git log --oneline --decorate --graph --all
+$ git log --oneline --decorate --graph --all
 ```
 
 2. El resultado debe ser algo similar a lo siguiente:
@@ -163,5 +163,5 @@ git log --oneline --decorate --graph --all
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc2NjIwNjE4XX0=
+eyJoaXN0b3J5IjpbLTM2MjE5ODEzMCw0NzY2MjA2MThdfQ==
 -->
