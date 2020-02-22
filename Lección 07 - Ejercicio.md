@@ -55,13 +55,15 @@ body {
 }
 ```
 2. Guardar el archivo y cerrar.
+3. Realizar commit  con el nombre 
 
+## 1. Agregar un color a la página
 
 
 
 Ver como en ATOM cambia el contenido
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjU3OTQ2MDAsMTE2MTUyMzczOCwxOD
+eyJoaXN0b3J5IjpbLTE2OTEyOTI1NTYsMTE2MTUyMzczOCwxOD
 kzODI5OTIzXX0=
 -->
