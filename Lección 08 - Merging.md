@@ -2,14 +2,8 @@
 
 En esta lección veremos como:
 
- - Vistazo general
- - Crear Tag's
- - Crear Branches
- - Cambiar entre Branches
- - Administrar branches
- - Ejercicio
- - Realizar un Merge entre Branches
- - Tratar posibles problemas al hacer Merge
+ - xxxx
+ - xxxx
 
 ## Vistazo general
 En esta lección veremos los siguientes comandos:
@@ -26,5 +20,5 @@ En esta lección veremos los siguientes comandos:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMTE5OTMzN119
+eyJoaXN0b3J5IjpbNDc0MTQ3OTUyXX0=
 -->
