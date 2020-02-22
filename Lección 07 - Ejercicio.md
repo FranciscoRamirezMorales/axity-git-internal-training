@@ -62,13 +62,34 @@ body {
 ## 2. Agregar barra lateral
 
 1. Crear un `branch` llamado `sidebar` apuntando al **SHA** asociado al commit del mensaje `"Add starting HTML structure"`
-2. Realizar checkout para cambiar al branch `slidebar`
-3. Usar `git log --oneline` para ver el historial de commits
+1. Realizar checkout para cambiar al branch `slidebar`
+1. Usar `git log --oneline` para ver el historial de commits
 
 > Podemos abrir el archivo   `css/app.css` en Atom y posteriormente cambiar entre el branch `master` y `slidebar` para poder observar como se actualiza el contenido en las diferentes versiones del archivo.
 
+4. Crear una barra lateral. Para hacer esto se debe agre
+
+```html
+<div class="container">
+    <main>
+
+    </main>
+</div>
+
+<!-- start of new content -->
+<aside>
+    <h2>About Me</h2>
+
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos, debitis earum molestias veniam suscipit aliquam totam exercitationem tempore neque vitae. Minima, corporis pariatur facere at quo porro beatae similique! Odit.</p>
+</aside>
+<!-- end of new content -->
+
+<footer>
+    Made with ♥ @ Udacity
+</footer>
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNjkxOTU5MiwxMTYxNTIzNzM4LDE4OT
-M4Mjk5MjNdfQ==
+eyJoaXN0b3J5IjpbNDg1MjYzNzgxLDExNjE1MjM3MzgsMTg5Mz
+gyOTkyM119
 -->
