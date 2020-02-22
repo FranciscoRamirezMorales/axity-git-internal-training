@@ -21,7 +21,8 @@ Este es el mas simple de los merge, ya que como se puede observar en el video, e
 
 > Recordemos en en la práctica anterior creamos un branch llamado `footer` basado en el branch `master`. Sobre `footer` (el cual en ese momento es una copia de `master`) se agregaron los enlaces de redes sociales. Por lo que footer tiene el commit más `adelantado`.
 
-Tomando como base el resultado de la práctica anterior, para realizar un sast-forward merge ejecutamos el siguiente comando:
+Tomando como base el resultado de la práctica anterior, para realizar un fast-forward merge ejecutamos el siguiente comando:
+
 ```bash
 $ git merge footer
 ```
@@ -31,12 +32,14 @@ Este tipo de merge es el más común ya que implica combinar dos branches cuyas 
 
 > Esta acción implica realizar un `commit`, ya que la propia acción de este tipo de merge implica cambios sobre los archivos.
 
-Para 
+Para realizar un regular merge ejecutamos el siguiente comando:
 
 ```bash
 $ git merge sidebar
 ```
+
+> Recordemos en en la práctica anterior creamos un branch llamado `sidebar` basado en el branch `master`. Tanto en master como en sidebar 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjUyNDY2NzUsMjEyOTA1ODY0MSwtMz
-g0NjQyMjMxLDQ3NDE0Nzk1Ml19
+eyJoaXN0b3J5IjpbMTU5MjYyOTQ0MCwyMTI5MDU4NjQxLC0zOD
+Q2NDIyMzEsNDc0MTQ3OTUyXX0=
 -->
