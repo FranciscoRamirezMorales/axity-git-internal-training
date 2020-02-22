@@ -19,6 +19,8 @@ ara entender como funciona el comando merge, podemos ver el siguiente video:
 ## Fast-forward merge
 Este es el mas simple de los merge, ya que como se puede observar en el video, el apuntador `HEAD` del branch `master` es movido al commit mas `reciente/adelantado`.
 
+> Recordemos en en la práctica anterior creamos un branch llamado footer basado en el branch master. Sobre footer (el cual es )
+
 ```bash
 $ git merge footer
 ```
@@ -30,6 +32,6 @@ Este tipo de merge es el más común ya que implica combinar dos branches cuyas 
 $ git merge sidebar
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NjYxOTQ3NCwyMTI5MDU4NjQxLC0zOD
+eyJoaXN0b3J5IjpbMTE3MjU2NjY1MiwyMTI5MDU4NjQxLC0zOD
 Q2NDIyMzEsNDc0MTQ3OTUyXX0=
 -->
