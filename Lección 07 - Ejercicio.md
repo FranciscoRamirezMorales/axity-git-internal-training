@@ -114,9 +114,11 @@ body {
 3. Guardar y cerrar.
 4. Realizar `commit`  con el mensaje `"Update sidebar with favorite movie"`.
 
-#
+## 5. Agregar enlaces de redes sociales al pie de página
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjAxNzM0ODMsLTE4MTI0NjE3MjcsLT
+eyJoaXN0b3J5IjpbLTE0MDcyOTYwNjIsLTE4MTI0NjE3MjcsLT
 E5MTAwMzk5MDEsMTQzODAxNzA2MSwxODI3MTk0MzMwLDExNjE1
 MjM3MzgsMTg5MzgyOTkyM119
 -->
