@@ -25,10 +25,10 @@ $ git merge heading-update
 ```
 El resultado debería verse como sigue:
 
+![img_09_git_merge_01](images/img_08_git_merge_01.png)
 
-![img_09_git_merge_04](images/img_08_git_merge_04.png)
-
+Este mesaje indica que GIt no pudo realizar 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3ODAyMzAwOSwtNjgxNjQ0OTcyLDE3Nz
-g3NDI5OTEsLTM4MDA1MzQzNV19
+eyJoaXN0b3J5IjpbMTM0NzQ3ODU5LC02ODE2NDQ5NzIsMTc3OD
+c0Mjk5MSwtMzgwMDUzNDM1XX0=
 -->
