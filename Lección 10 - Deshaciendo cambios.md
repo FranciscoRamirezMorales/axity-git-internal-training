@@ -67,14 +67,14 @@ Por ejemplo, si tenemos el siguiente log de commits:
 
 En este caso `HEAD` apunta al commit `9ec05ca` y:
 
--   `HEAD^` correspon`db7e87a`
--   `HEAD~1` is also the `db7e87a` commit
--   `HEAD^^` is the `796ddb0` commit
--   `HEAD~2` is also the `796ddb0` commit
--   `HEAD^^^` is the `0c5975a` commit
--   `HEAD~3` is also the `0c5975a` commit
--   `HEAD^^^2` is the `4c9749e` commit (this is the grandparent's (`HEAD^^`) _second parent_ (`^2`))
+-   `HEAD^` corresponde al commit `db7e87a`
+-   `HEAD~1`corresponde al commit `db7e87a`
+-   `HEAD^^` corresponde al commit `796ddb0`
+-   `HEAD~2` corresponde al commit `796ddb0`
+-   `HEAD^^^` corresponde al commit `0c5975a`
+-   `HEAD~3` corresponde al commit `0c5975a`
+-   `HEAD^^^2` corresponde al commit `4c9749e` (este es el this is the grandparent's (`HEAD^^`) _second parent_ (`^2`))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2Mjk4NTkxMiwtMTk4NjQ3MzI0NSwtOT
-E4MTgwODk0LC0xNjE4NDg2NDM3LDMyMjkwOTkxMV19
+eyJoaXN0b3J5IjpbMTMyOTgzNTU2LC0xOTg2NDczMjQ1LC05MT
+gxODA4OTQsLTE2MTg0ODY0MzcsMzIyOTA5OTExXX0=
 -->
