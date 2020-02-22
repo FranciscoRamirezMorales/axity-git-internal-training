@@ -56,15 +56,16 @@ body {
 ```
 2. Guardar el archivo y cerrar.
 3. Realizar `commit`  con el mensaje `"Add starting HTML structure"`
+4. 
 
 ## 2. Agregar barra lateral
 
 1. Crear un `branch` llamado `sidebar` apuntando al **SHA** asociado al commit del mensaje `"Add starting HTML structure"`
-2. 
+2. Realizar checkout para cambiar al branch `slidebar`
 
 Ver como en ATOM cambia el contenido
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMTIxOTUwMywxMTYxNTIzNzM4LDE4OT
+eyJoaXN0b3J5IjpbLTM2NzQwNDgyNywxMTYxNTIzNzM4LDE4OT
 M4Mjk5MjNdfQ==
 -->
