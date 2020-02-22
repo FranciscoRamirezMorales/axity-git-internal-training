@@ -20,10 +20,11 @@ ara entender como funciona el comando merge, podemos ver el siguiente video:
 
 
 ## Fast-forward merge
-Este es el mas simple de los merge
+Este es el mas simple de los merge, ya que como se puede observar en el video, el apuntador HEAD del branch master es movido a
 
 ## Regular merge
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NDY0MjIzMSw0NzQxNDc5NTJdfQ==
+eyJoaXN0b3J5IjpbNzIxNjg2NjAxLC0zODQ2NDIyMzEsNDc0MT
+Q3OTUyXX0=
 -->
