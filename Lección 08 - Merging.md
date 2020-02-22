@@ -21,17 +21,22 @@ Este es el mas simple de los merge, ya que como se puede observar en el video, e
 
 > Recordemos en en la práctica anterior creamos un branch llamado `footer` basado en el branch `master`. Sobre `footer` (el cual en ese momento es una copia de `master`) se agregaron los enlaces de redes sociales. Por lo que footer tiene el commit más `adelantado`.
 
+Co
 ```bash
 $ git merge footer
 ```
 
 ## Regular merge
-Este tipo de merge es el más común ya que implica combinar dos branches cuyas rutas son diferentes. Esta acción implica realizar un commit, ya que propia acción de este tipo de merge implica
+Este tipo de merge es el más común ya que implica combinar dos branches cuyas rutas son diferentes. 
+
+> Esta acción implica realizar un `commit`, ya que la propia acción de este tipo de merge implica cambios sobre los archivos.
+
+Para 
 
 ```bash
 $ git merge sidebar
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MzYwMDcyMSwyMTI5MDU4NjQxLC0zOD
+eyJoaXN0b3J5IjpbMTc0MDYzMTIwMCwyMTI5MDU4NjQxLC0zOD
 Q2NDIyMzEsNDc0MTQ3OTUyXX0=
 -->
