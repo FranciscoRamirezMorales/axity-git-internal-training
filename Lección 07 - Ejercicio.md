@@ -116,9 +116,13 @@ body {
 
 ## 5. Agregar enlaces de redes sociales al pie de página
 
+1. Crear un branch llamado `footer` basado en el branch `master`. Para hacer esto podemos ejecutar:
 
+```
+git checkout -b footer master
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDcyOTYwNjIsLTE4MTI0NjE3MjcsLT
+eyJoaXN0b3J5IjpbLTE2MDc4MDMwMjgsLTE4MTI0NjE3MjcsLT
 E5MTAwMzk5MDEsMTQzODAxNzA2MSwxODI3MTk0MzMwLDExNjE1
 MjM3MzgsMTg5MzgyOTkyM119
 -->
