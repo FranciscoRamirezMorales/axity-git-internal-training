@@ -2,11 +2,11 @@
 
 En esta lección veremos los dos principales tipos de **Merge**:
 
- - ¿Que es merge?
+ - ¿Qué es merge?
  - Fast-forward merge
  - Regular merge
 
-## Antes de empezar
+## ¿Qué es merge?
 Recordemos que el propósito de un branch (por ejemplo `sidebar`) es que nos permite realizar cambios que no afectan al branch `master`. Una vez que realizamos cambios en el branch `sidebar` podemos decidir que esos cambios no aplicarán, eliminarlos o mantenerlos y posteriormente combinarlos con otra rama.
 
 **A la acción de combinar dos branch se le denomina `merge`.**
@@ -25,5 +25,5 @@ Este es el mas simple de los merge
 ## Regular merge
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgzNjUwODAyLDQ3NDE0Nzk1Ml19
+eyJoaXN0b3J5IjpbLTM4NDY0MjIzMSw0NzQxNDc5NTJdfQ==
 -->
