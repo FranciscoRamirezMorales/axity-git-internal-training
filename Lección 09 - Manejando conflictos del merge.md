@@ -26,7 +26,9 @@ $ git merge heading-update
 El resultado debería verse como sigue:
 
 
+![img_09_git_merge_04](images/img_08_git_merge_04.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MTY0NDk3MiwxNzc4NzQyOTkxLC0zOD
-AwNTM0MzVdfQ==
+eyJoaXN0b3J5IjpbMTU3ODAyMzAwOSwtNjgxNjQ0OTcyLDE3Nz
+g3NDI5OTEsLTM4MDA1MzQzNV19
 -->
