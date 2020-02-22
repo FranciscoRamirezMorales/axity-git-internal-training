@@ -65,9 +65,10 @@ body {
 2. Realizar checkout para cambiar al branch `slidebar`
 3. Usar `git log --oneline` para ver el historial de commits
 
-> Podemos abrir el archivo   `css/app.css` en Atom y posteriormente cambiar entre el branch `master` y `slidebar`
+> Podemos abrir el archivo   `css/app.css` en Atom y posteriormente cambiar entre el branch `master` y `slidebar` para poder observar como se actualiza el contenido en las diferentes versiones del archivo.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NzUzOTMwMSwxMTYxNTIzNzM4LDE4OT
+eyJoaXN0b3J5IjpbLTgzNjkxOTU5MiwxMTYxNTIzNzM4LDE4OT
 M4Mjk5MjNdfQ==
 -->
