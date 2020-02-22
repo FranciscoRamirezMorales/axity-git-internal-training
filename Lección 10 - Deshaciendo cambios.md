@@ -73,9 +73,10 @@ En este caso `HEAD` apunta al commit `9ec05ca` y:
 -   `HEAD~2` corresponde al commit `796ddb0`
 -   `HEAD^^^` corresponde al commit `0c5975a`
 -   `HEAD~3` corresponde al commit `0c5975a`
--   `HEAD^^^2` corresponde al commit `4c9749e` (este es el `HEAD^^` del segundo padre (`^2`) ^2)this is the grandparent's (`HEAD^^`) _second parent_ (`^2`))
+-   `HEAD^^^2` corresponde al commit `4c9749e` (este es el `HEAD^^` del segundo padre (`^2`))
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODMyNTQ3OTYsMTMyOTgzNTU2LC0xOT
-g2NDczMjQ1LC05MTgxODA4OTQsLTE2MTg0ODY0MzcsMzIyOTA5
-OTExXX0=
+eyJoaXN0b3J5IjpbLTc4Mzg4NDIwNiwtMTA4MzI1NDc5NiwxMz
+I5ODM1NTYsLTE5ODY0NzMyNDUsLTkxODE4MDg5NCwtMTYxODQ4
+NjQzNywzMjI5MDk5MTFdfQ==
 -->
