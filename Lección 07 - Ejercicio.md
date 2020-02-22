@@ -88,6 +88,9 @@ body {
     Made with ♥ @ Udacity
 </footer>
 ```
+
+> Blockquote
+
 5. Guardar y cerrar.
 6. Realizar `commit`  con el mensaje `"Add new sidebar content"`.
 
@@ -96,6 +99,6 @@ body {
 1. Realizar `checkout` para cambiar al branch `master`.
 2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NTM2ODE2MywxNDM4MDE3MDYxLDE4Mj
+eyJoaXN0b3J5IjpbMTk0MTcxMjQyMCwxNDM4MDE3MDYxLDE4Mj
 cxOTQzMzAsMTE2MTUyMzczOCwxODkzODI5OTIzXX0=
 -->
