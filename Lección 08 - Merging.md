@@ -27,6 +27,8 @@ Tomando como base el resultado de la práctica anterior, para realizar un fast-f
 $ git merge footer
 ```
 
+![img_08_git_merge_01](images/img_08_git_merge_01.png)
+
 ## Regular merge
 Este tipo de merge es el más común ya que implica combinar dos branches cuyas rutas son diferentes. 
 
@@ -38,13 +40,13 @@ Para realizar un regular merge ejecutamos el siguiente comando:
 $ git merge sidebar
 ```
 
-![img_07_git_tag_commit](images/img_07_git_tag_commit.png)
+![img_08_git_merge_02](images/img_08_git_merge_02.png)
 
 > Esta acción implica realizar un `commit`, ya que la propia acción de este tipo de merge implica cambios sobre los archivos.
 > Podemos cambiar el mensaje del commit, sin embargo es una práctica común usar el mensaje de commit del merge por defecto.
 
-
+![img_08_git_merge_03](images/img_08_git_merge_03.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzU2NDg2LC0xNzM3MjQ1MzA2LDIxMj
-kwNTg2NDEsLTM4NDY0MjIzMSw0NzQxNDc5NTJdfQ==
+eyJoaXN0b3J5IjpbMTEyNzI0MzAwMiwtMTczNzI0NTMwNiwyMT
+I5MDU4NjQxLC0zODQ2NDIyMzEsNDc0MTQ3OTUyXX0=
 -->
