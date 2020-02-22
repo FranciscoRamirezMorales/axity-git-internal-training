@@ -18,7 +18,7 @@ Para simular un conflicto durante un merge y aprender como manejar este tipo de 
  3. En el archivo `index.html`, cambiar el encabezado `"Adventure"` por `"Crusade"`en el branch `heading-update`. Mensaje: `"Set page heading to Crusade"`.
 
  4. Establecer `master` como el branch activo.
- 5. Ejecutar el comando de merge:
+ 5. Ejecutar el comando de `merge`:
 
 ```bash
 $ git merge heading-update
@@ -27,8 +27,10 @@ El resultado debería verse como sigue:
 
 ![img_09_git_merge_01](images/img_08_git_merge_01.png)
 
-Este mesaje indica que GIt no pudo realizar 
+Este mesaje indica que GIt no pudo realizar un merge automático y que debemos resolver estos conflictos de forma manual.
+
+ 6. Ejecutar el comando de status para te
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NzQ3ODU5LC02ODE2NDQ5NzIsMTc3OD
-c0Mjk5MSwtMzgwMDUzNDM1XX0=
+eyJoaXN0b3J5IjpbLTEzODMxNjQ3MTYsLTY4MTY0NDk3MiwxNz
+c4NzQyOTkxLC0zODAwNTM0MzVdfQ==
 -->
