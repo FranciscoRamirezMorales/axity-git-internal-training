@@ -55,7 +55,7 @@ body {
 }
 ```
 2. Guardar el archivo y cerrar.
-3. Realizar commit  con el nombre 
+3. Realizar **commit**  con el mensaje `"Add starting HTML structure"`
 
 ## 1. Agregar un color a la página
 
@@ -64,6 +64,6 @@ body {
 Ver como en ATOM cambia el contenido
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTEyOTI1NTYsMTE2MTUyMzczOCwxOD
-kzODI5OTIzXX0=
+eyJoaXN0b3J5IjpbLTc5NzA0MjMyNSwxMTYxNTIzNzM4LDE4OT
+M4Mjk5MjNdfQ==
 -->
