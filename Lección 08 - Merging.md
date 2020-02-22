@@ -1,9 +1,9 @@
 # Merging
 
-En esta lección veremos como:
+En esta lección veremos los dos principales tipos de **Merge**:
 
- - xxxx
- - xxxx
+ - Regular merge
+ - Fast-forward merge
 
 ## Vistazo general
 En esta lección veremos los siguientes comandos:
@@ -20,5 +20,5 @@ En esta lección veremos los siguientes comandos:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc0MTQ3OTUyXX0=
+eyJoaXN0b3J5IjpbMTEwNjMzOTMwLDQ3NDE0Nzk1Ml19
 -->
