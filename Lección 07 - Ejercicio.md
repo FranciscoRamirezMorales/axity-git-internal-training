@@ -152,9 +152,11 @@ $ git checkout -b footer master
 
 ### 6. Ver todos los branches
 1. 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NjQ0OTYzMCwxMzYzMzcxOTUsLTYyOD
-c4NDg0OCwtMTgxMjQ2MTcyNywtMTkxMDAzOTkwMSwxNDM4MDE3
-MDYxLDE4MjcxOTQzMzAsMTE2MTUyMzczOCwxODkzODI5OTIzXX
-0=
+eyJoaXN0b3J5IjpbMTI4ODYyMjEzOCwxMjU2NDQ5NjMwLDEzNj
+MzNzE5NSwtNjI4Nzg0ODQ4LC0xODEyNDYxNzI3LC0xOTEwMDM5
+OTAxLDE0MzgwMTcwNjEsMTgyNzE5NDMzMCwxMTYxNTIzNzM4LD
+E4OTM4Mjk5MjNdfQ==
 -->
