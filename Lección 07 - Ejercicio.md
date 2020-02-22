@@ -143,9 +143,11 @@ $ git checkout -b footer master
 </footer>
 ```
 
+> Modificar los enlaces a redes soci
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg3OTI0OTEzLDEzNjMzNzE5NSwtNjI4Nz
-g0ODQ4LC0xODEyNDYxNzI3LC0xOTEwMDM5OTAxLDE0MzgwMTcw
-NjEsMTgyNzE5NDMzMCwxMTYxNTIzNzM4LDE4OTM4Mjk5MjNdfQ
-==
+eyJoaXN0b3J5IjpbLTE3NTMwNzQzMTQsMTM2MzM3MTk1LC02Mj
+g3ODQ4NDgsLTE4MTI0NjE3MjcsLTE5MTAwMzk5MDEsMTQzODAx
+NzA2MSwxODI3MTk0MzMwLDExNjE1MjM3MzgsMTg5MzgyOTkyM1
+19
 -->
