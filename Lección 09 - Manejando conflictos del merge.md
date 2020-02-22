@@ -7,9 +7,12 @@
 
 Para simular un conflicto durante un merge y aprender como manejar este tipo de conflicto realizaremos los siguientes pasos:
 
- 1. Cambiar el encabezado en el branch `master`
+
+ 1. En el archivo `index.html`, cambiar el encabezado `"Adventure"` por `"Quest"`en el branch `master`.
+
  2. Crear el branch `heading-update` apuntado al commit 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3ODc0Mjk5MSwtMzgwMDUzNDM1XX0=
+eyJoaXN0b3J5IjpbMTI0MDAxMzAxNSwxNzc4NzQyOTkxLC0zOD
+AwNTM0MzVdfQ==
 -->
