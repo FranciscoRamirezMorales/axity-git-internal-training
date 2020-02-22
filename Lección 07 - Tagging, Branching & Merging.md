@@ -121,10 +121,10 @@ $ git branc alt-sidebar-loc bb352c
 
 ![img_07_git_branch_01](images/img_07_git_branch_01.png)
 
-# [***Ejercicio***](Ejercicio%2007%20-%20Commits.md#ejercicio---commits)
+# [**Práctica**](Práctica%2007%20-%20Commits.md#ejercicio---commits)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTg2NzMxMjYsLTEwOTYwMjMzODAsLT
+eyJoaXN0b3J5IjpbLTE0MjMwMjIwOTYsLTEwOTYwMjMzODAsLT
 E3Mzg2MTQyMzEsMTU0MjYwNzc2MSwxNDExMDM0MjY1LC0xMDcx
 Njc4MTgxLC0xMzM0MTQ0NTMxLDIwODExNjE5MTQsLTQ4MTA5Mj
 kwMCwxMDc2MTM2NzQ5LDUyMDIwNjY2MCwtMTQxOTQ1Nzc4OCwx
