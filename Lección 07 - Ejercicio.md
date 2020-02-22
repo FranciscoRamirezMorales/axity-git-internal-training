@@ -65,6 +65,9 @@ body {
 1. Realizar `checkout` para cambiar al branch `slidebar`.
 1. Usar `git log --oneline` para ver el historial de commits.
 
+> Verificar que 
+
+
 > Podemos abrir el archivo   `css/app.css` en Atom y posteriormente cambiar entre el branch `master` y `slidebar` para poder observar como se actualiza el contenido en las diferentes versiones del archivo.
 
 4. Crear una barra lateral. Para hacer esto se debe asegurar que el branch activo es `sidebar` y agregar el código del bloque `<aside>` al archivo HTML:
@@ -104,8 +107,10 @@ body {
 ## Agregar más contenido a la barra lateral
 
 1. Realizar `checkout` para cambiar al branch `sidebar`.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTQ4NzI4MzksLTE5MTAwMzk5MDEsMT
+eyJoaXN0b3J5IjpbLTEzNTMxMDg2MDcsLTE5MTAwMzk5MDEsMT
 QzODAxNzA2MSwxODI3MTk0MzMwLDExNjE1MjM3MzgsMTg5Mzgy
 OTkyM119
 -->
