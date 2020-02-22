@@ -1,0 +1,10 @@
+# Deshaciendo cambios
+
+Aunque es poco común deshacer los cambios de un commit es posible hacerlo. En esta lección solo mencionaremos los recursos disponibles para poder realizar este tipo de acciones.
+
+En esta lección veremos como:
+
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0MzE3OTg4MjRdfQ==
+-->
