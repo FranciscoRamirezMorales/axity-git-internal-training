@@ -51,10 +51,10 @@ $ git merge sidebar
 ### Información adicional
 
 -   [Basic Merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging#Basic-Merging) en Git Book
--   [git-merge](https://git-scm.com/docs/git-merge) from Git Docs
--   [git merge](https://www.atlassian.com/git/tutorials/git-merge) from Atlassian blog
+-   [git-merge](https://git-scm.com/docs/git-merge) en Git Docs
+-   [git merge](https://www.atlassian.com/git/tutorials/git-merge) en Atlassian blog
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMDUxMDk2MywtMTMxMjYxNTI1NiwtMT
-czNzI0NTMwNiwyMTI5MDU4NjQxLC0zODQ2NDIyMzEsNDc0MTQ3
-OTUyXX0=
+eyJoaXN0b3J5IjpbLTE0ODY3NTIwNzksLTEzMTI2MTUyNTYsLT
+E3MzcyNDUzMDYsMjEyOTA1ODY0MSwtMzg0NjQyMjMxLDQ3NDE0
+Nzk1Ml19
 -->
