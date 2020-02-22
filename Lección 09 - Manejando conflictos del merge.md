@@ -50,10 +50,10 @@ Este mensaje indica que GIt no pudo realizar un merge automático y que debemos 
 $ git status
 ```
 
-![img_09_git_merge_02](images/img_08_git_merge_02.png)
+![img_09_git_merge_03](images/img_08_git_merge_03.png)
 
-
+ 8. Para resolver estos conflictos solo debemos eliminar las líneas de los indicadores
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNzc4ODYxNyw3MjYwNTY4MjcsLTY4MT
-Y0NDk3MiwxNzc4NzQyOTkxLC0zODAwNTM0MzVdfQ==
+eyJoaXN0b3J5IjpbMjIwNTY1OTA4LDcyNjA1NjgyNywtNjgxNj
+Q0OTcyLDE3Nzg3NDI5OTEsLTM4MDA1MzQzNV19
 -->
