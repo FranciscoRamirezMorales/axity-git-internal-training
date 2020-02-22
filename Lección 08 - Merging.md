@@ -47,6 +47,13 @@ $ git merge sidebar
 
 ![img_08_git_merge_03](images/img_08_git_merge_03.png)
 
+Veamos el log de commits después de los merge:
+
+```bash
+git log --oneline --decorate --graph --all
+```
+
+![img_08_git_merge_04](images/img_08_git_merge_04.png)
 
 
 ### Información adicional
@@ -55,7 +62,7 @@ $ git merge sidebar
 -   [git-merge](https://git-scm.com/docs/git-merge) en Git Docs
 -   [git merge](https://www.atlassian.com/git/tutorials/git-merge) en Atlassian blog
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MzE5NjM0OSwtMTQ4Njc1MjA3OSwtMT
-MxMjYxNTI1NiwtMTczNzI0NTMwNiwyMTI5MDU4NjQxLC0zODQ2
-NDIyMzEsNDc0MTQ3OTUyXX0=
+eyJoaXN0b3J5IjpbLTE2MjY2NjcxNTgsLTE0ODY3NTIwNzksLT
+EzMTI2MTUyNTYsLTE3MzcyNDUzMDYsMjEyOTA1ODY0MSwtMzg0
+NjQyMjMxLDQ3NDE0Nzk1Ml19
 -->
