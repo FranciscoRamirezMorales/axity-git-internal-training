@@ -118,11 +118,13 @@ body {
 
 1. Crear un branch llamado `footer` basado en el branch `master`. Para hacer esto podemos ejecutar:
 
+```bash
+$ git checkout -b footer master
 ```
-git checkout -b footer master
-```
+2. Ejecutar `git log --oneline` para observar el efecto de esta acción.
+3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDc4MDMwMjgsLTE4MTI0NjE3MjcsLT
-E5MTAwMzk5MDEsMTQzODAxNzA2MSwxODI3MTk0MzMwLDExNjE1
-MjM3MzgsMTg5MzgyOTkyM119
+eyJoaXN0b3J5IjpbLTYyODc4NDg0OCwtMTgxMjQ2MTcyNywtMT
+kxMDAzOTkwMSwxNDM4MDE3MDYxLDE4MjcxOTQzMzAsMTE2MTUy
+MzczOCwxODkzODI5OTIzXX0=
 -->
