@@ -1,4 +1,5 @@
-# Pre-requisitos
+# Ejercicio
+## Pre-requisitos
 Antes de comenzar, debemos asegurarnos de los siguiente:
 
  - Estar ubicado en el proyecto/directorio `new-git-project` y asegurar que existen los siguientes archivos:
@@ -148,8 +149,7 @@ $ git checkout -b footer master
 4. Guardar y cerrar.
 5. Realizar `commit`  con el mensaje `"Add links to social media"`.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MTI3NDAzLDEzNjMzNzE5NSwtNjI4Nz
-g0ODQ4LC0xODEyNDYxNzI3LC0xOTEwMDM5OTAxLDE0MzgwMTcw
-NjEsMTgyNzE5NDMzMCwxMTYxNTIzNzM4LDE4OTM4Mjk5MjNdfQ
-==
+eyJoaXN0b3J5IjpbNjA2NjU1MjIsMTM2MzM3MTk1LC02Mjg3OD
+Q4NDgsLTE4MTI0NjE3MjcsLTE5MTAwMzk5MDEsMTQzODAxNzA2
+MSwxODI3MTk0MzMwLDExNjE1MjM3MzgsMTg5MzgyOTkyM119
 -->
