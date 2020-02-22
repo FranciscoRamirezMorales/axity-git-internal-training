@@ -7,9 +7,9 @@
 
 Para simular un conflicto durante un merge y aprender como manejar este tipo de conflicto realizaremos los siguientes pasos:
 
-
-
+ 1. Cambiar el encabezado en el branch `master`
+ 2. Crear el branch 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDkwODU1NjAsLTM4MDA1MzQzNV19
+eyJoaXN0b3J5IjpbMTgyMDU5MzEzNSwtMzgwMDUzNDM1XX0=
 -->
