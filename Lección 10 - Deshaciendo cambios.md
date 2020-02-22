@@ -43,7 +43,7 @@ Particularmente con reset podemos usar referencias relativas en lugar de especif
 
 Por ejemplo, si tenemos el siguiente log de commits:
 
-```
+```bash
 * 9ec05ca (HEAD -> master) Revert "Set page heading to "Quests & Crusades""
 * db7e87a Set page heading to "Quests & Crusades"
 *   796ddb0 Merge branch 'heading-update'
@@ -63,12 +63,11 @@ Por ejemplo, si tenemos el siguiente log de commits:
 * 6fa5f34 Add .gitignore file
 * a879849 Add header to blog
 * 94de470 Initial commit
-
 ```
 
-Let's look at how we'd refer to some of the previous commits. Since `HEAD` points to the `9ec05ca` commit:
+En este caso `HEAD` apunta al commit `9ec05ca` y:
 
--   `HEAD^` is the `db7e87a` commit
+-   `HEAD^` correspon`db7e87a`
 -   `HEAD~1` is also the `db7e87a` commit
 -   `HEAD^^` is the `796ddb0` commit
 -   `HEAD~2` is also the `796ddb0` commit
@@ -76,6 +75,6 @@ Let's look at how we'd refer to some of the previous commits. Since `HEAD` point
 -   `HEAD~3` is also the `0c5975a` commit
 -   `HEAD^^^2` is the `4c9749e` commit (this is the grandparent's (`HEAD^^`) _second parent_ (`^2`))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NjM4ODE2NSwtMTk4NjQ3MzI0NSwtOT
+eyJoaXN0b3J5IjpbLTM2Mjk4NTkxMiwtMTk4NjQ3MzI0NSwtOT
 E4MTgwODk0LC0xNjE4NDg2NDM3LDMyMjkwOTkxMV19
 -->
