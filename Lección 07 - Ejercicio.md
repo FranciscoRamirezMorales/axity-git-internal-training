@@ -56,14 +56,14 @@ body {
 ```
 
 2. Guardar el archivo y cerrar.
-1. Realizar `commit`  con el mensaje `"Add starting HTML structure"`
-1. Usar `git log --oneline` para ver el historial de commits
+1. Realizar `commit`  con el mensaje `"Add starting HTML structure"`.
+1. Usar `git log --oneline` para ver el historial de commits.
 
 ## 2. Agregar barra lateral
 
-1. Crear un `branch` llamado `sidebar` apuntando al **SHA** asociado al commit del mensaje `"Add starting HTML structure"`
-1. Realizar checkout para cambiar al branch `slidebar`
-1. Usar `git log --oneline` para ver el historial de commits
+1. Crear un `branch` llamado `sidebar` apuntando al **SHA** asociado al commit del mensaje `"Add starting HTML structure"`.
+1. Realizar checkout para cambiar al branch `slidebar`.
+1. Usar `git log --oneline` para ver el historial de commits.
 
 > Podemos abrir el archivo   `css/app.css` en Atom y posteriormente cambiar entre el branch `master` y `slidebar` para poder observar como se actualiza el contenido en las diferentes versiones del archivo.
 
@@ -88,8 +88,9 @@ body {
     Made with ♥ @ Udacity
 </footer>
 ```
-
+5. Guardar y cerrar.
+1. Realizar `commit`  con el mensaje `"Add starting HTML structure"`.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNzE5NDMzMCwxMTYxNTIzNzM4LDE4OT
-M4Mjk5MjNdfQ==
+eyJoaXN0b3J5IjpbLTM3NTA1NTc4MCwxODI3MTk0MzMwLDExNj
+E1MjM3MzgsMTg5MzgyOTkyM119
 -->
