@@ -6,10 +6,11 @@ En esta lección mencionaremos como:
 
  -  Cambiar el último commit
  - Agregar archivos omitidos al último commit
+ - Revertir un commit
  - 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIyOTA5OTExXX0=
+eyJoaXN0b3J5IjpbLTE2MTg0ODY0MzcsMzIyOTA5OTExXX0=
 -->
