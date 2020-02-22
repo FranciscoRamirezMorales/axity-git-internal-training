@@ -26,13 +26,13 @@ $ git merge heading-update
 
 El resultado debería verse como sigue:
 
-![img_09_git_merge_01](images/img_08_git_merge_01.png)
+![img_09_git_merge_01](images/img_09_git_merge_01.png)
 
 Este mensaje indica que GIt no pudo realizar un merge automático y que debemos resolver estos conflictos de forma manual.
 
  6. Abrir el archivo `index.html` en Atom.
 
-![img_09_git_merge_02](images/img_08_git_merge_02.png)
+![img_09_git_merge_02](images/img_09_git_merge_02.png)
 
 > Aqui podemos observar los sigientes indicadores de conflicto durante
 > el merge:
@@ -50,20 +50,20 @@ Este mensaje indica que GIt no pudo realizar un merge automático y que debemos 
 $ git status
 ```
 
-![img_09_git_merge_03](images/img_08_git_merge_03.png)
+![img_09_git_merge_03](images/img_09_git_merge_03.png)
 
  8. Para resolver estos conflictos solo debemos conservar la línea de código que deseamos mantener y eliminar las líneas de los indicadores. Veamos lo que sucede si no mantenemos ninguno de los dos cambios y en este punto cambiamos el texto del encabezado por `"Adventurous Quest"`
 
-![img_09_git_merge_04](images/img_08_git_merge_04.png)
+![img_09_git_merge_04](images/img_09_git_merge_04.png)
 
  9. Realizamos `commit`  con el mensaje por defecto.
 
-![img_09_git_merge_05](images/img_08_git_merge_05.png)
+![img_09_git_merge_05](images/img_09_git_merge_05.png)
 
 10. Usar `git log --oneline` para ver el historial de commits.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4ODQyNDgzLDM4ODA3NTM2OCw4NjcwOD
-I1OTQsNzI2MDU2ODI3LC02ODE2NDQ5NzIsMTc3ODc0Mjk5MSwt
-MzgwMDUzNDM1XX0=
+eyJoaXN0b3J5IjpbMTA5NjE2NzQ4LC0zODg0MjQ4MywzODgwNz
+UzNjgsODY3MDgyNTk0LDcyNjA1NjgyNywtNjgxNjQ0OTcyLDE3
+Nzg3NDI5OTEsLTM4MDA1MzQzNV19
 -->
