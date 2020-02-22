@@ -103,9 +103,9 @@ body {
 
 ## Agregar más contenido a la barra lateral
 
-
+1. Realizar `checkout` para cambiar al branch `sidebar`.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODYwMDI1NjQsLTE5MTAwMzk5MDEsMT
+eyJoaXN0b3J5IjpbLTE4NTQ4NzI4MzksLTE5MTAwMzk5MDEsMT
 QzODAxNzA2MSwxODI3MTk0MzMwLDExNjE1MjM3MzgsMTg5Mzgy
 OTkyM119
 -->
