@@ -21,7 +21,7 @@ Este es el mas simple de los merge, ya que como se puede observar en el video, e
 
 > Recordemos en en la práctica anterior creamos un branch llamado `footer` basado en el branch `master`. Sobre `footer` (el cual en ese momento es una copia de `master`) se agregaron los enlaces de redes sociales. Por lo que footer tiene el commit más `adelantado`.
 
-Co
+Tomando como base el resultado de la práctica anterior, para realizar un sast-forward merge ejecutamos el siguiente comando:
 ```bash
 $ git merge footer
 ```
@@ -37,6 +37,6 @@ Para
 $ git merge sidebar
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MDYzMTIwMCwyMTI5MDU4NjQxLC0zOD
-Q2NDIyMzEsNDc0MTQ3OTUyXX0=
+eyJoaXN0b3J5IjpbLTExNjUyNDY2NzUsMjEyOTA1ODY0MSwtMz
+g0NjQyMjMxLDQ3NDE0Nzk1Ml19
 -->
