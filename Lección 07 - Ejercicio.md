@@ -67,7 +67,7 @@ body {
 
 > Podemos abrir el archivo   `css/app.css` en Atom y posteriormente cambiar entre el branch `master` y `slidebar` para poder observar como se actualiza el contenido en las diferentes versiones del archivo.
 
-4. Crear una barra lateral. Para hacer esto se debe asegurar que el branch activo es `sidebar` agregar el código del bloque `<aside>` al archivo HTML:
+4. Crear una barra lateral. Para hacer esto se debe asegurar que el branch activo es `sidebar` y agregar el código del bloque `<aside>` al archivo HTML:
 
 ```html
 <div class="container">
@@ -89,8 +89,12 @@ body {
 </footer>
 ```
 5. Guardar y cerrar.
-1. Realizar `commit`  con el mensaje `"Add new sidebar content"`.
+6. Realizar `commit`  con el mensaje `"Add new sidebar content"`.
+
+## Cambiar el encabezado en `master`
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNTY2NjM3NSwxNDM4MDE3MDYxLDE4Mj
+eyJoaXN0b3J5IjpbMTY0MTYxMzMyOCwxNDM4MDE3MDYxLDE4Mj
 cxOTQzMzAsMTE2MTUyMzczOCwxODkzODI5OTIzXX0=
 -->
