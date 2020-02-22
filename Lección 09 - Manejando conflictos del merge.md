@@ -32,12 +32,9 @@ Este mensaje indica que GIt no pudo realizar un merge automático y que debemos 
 
  6. Abrir el archivo `index.html` en Atom.
 
-Podemos obervar que 
+![img_09_git_merge_02](images/img_08_git_merge_02.png)
 
-
-## Merge Conflict Indicators Explanation
-
-The editor has the following merge conflict indicators:
+Aqui podemo observar los sigientes indicadores de conflicto durante el merge:
 
 -   `<<<<<<< HEAD` everything below this line (until the next indicator) shows you what's on the current branch
 -   `||||||| merged common ancestors` everything below this line (until the next indicator) shows you what the original lines were
@@ -55,6 +52,6 @@ $ git status
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTE1NTg4NjYsLTY4MTY0NDk3MiwxNz
-c4NzQyOTkxLC0zODAwNTM0MzVdfQ==
+eyJoaXN0b3J5IjpbNzI2MDU2ODI3LC02ODE2NDQ5NzIsMTc3OD
+c0Mjk5MSwtMzgwMDUzNDM1XX0=
 -->
