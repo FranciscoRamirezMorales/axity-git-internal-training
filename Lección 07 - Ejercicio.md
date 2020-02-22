@@ -111,8 +111,11 @@ body {
 > Verificar que los commits realizados en el branch `master` no aparecen en `sidebar`.
 
 2. Agregar algún contenido dentro del bloque `<aside>`. Algo como `"my favorite is LOTR!"`
+3. Guardar y cerrar.
+4. Realizar `commit`  con el mensaje `"Update sidebar with favorite movie"`.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NDkzNDI0NywtMTkxMDAzOTkwMSwxND
-M4MDE3MDYxLDE4MjcxOTQzMzAsMTE2MTUyMzczOCwxODkzODI5
-OTIzXX0=
+eyJoaXN0b3J5IjpbLTE5ODg4NzExMDQsLTE5MTAwMzk5MDEsMT
+QzODAxNzA2MSwxODI3MTk0MzMwLDExNjE1MjM3MzgsMTg5Mzgy
+OTkyM119
 -->
