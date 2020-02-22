@@ -9,7 +9,7 @@ En esta lección veremos los dos principales tipos de **Merge**:
 ## ¿Qué es merge?
 Recordemos que el propósito de un branch (por ejemplo `sidebar`) es que nos permite realizar cambios que no afectan al branch `master`. Una vez que realizamos cambios en el branch `sidebar` podemos decidir que esos cambios no aplicarán, eliminarlos o mantenerlos y posteriormente combinarlos con otra rama.
 
-**A la acción de combinar dos branch se le denomina `merge`.**
+**A la acción de combinar dos branches se le denomina `merge`.**
 ara entender como funciona el comando merge, podemos ver el siguiente video:
 
 **Video >>> (dar clic)**
@@ -24,8 +24,8 @@ Este es el mas simple de los merge, ya que como se puede observar en el video, e
 
 
 ## Regular merge
-Este tipo de merge es el más común ya que implica combinar dos branches 
+Este tipo de merge es el más común ya que implica combinar dos branches que 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMzY1NTc0NiwtMzg0NjQyMjMxLDQ3ND
+eyJoaXN0b3J5IjpbMjEyOTA1ODY0MSwtMzg0NjQyMjMxLDQ3ND
 E0Nzk1Ml19
 -->
