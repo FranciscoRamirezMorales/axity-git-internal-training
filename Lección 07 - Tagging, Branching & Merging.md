@@ -121,13 +121,13 @@ $ git branc alt-sidebar-loc bb352c
 
 ![img_07_git_branch_01](images/img_07_git_branch_01.png)
 
-[Ejercicio](axity-git-internal-training/blob/master/Ejercicio%2007%20-%20Commits.md#ejercicio---commits)
+[Ejercicio](Ejercicio%2007%20-%20Commits.md#ejercicio---commits)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MzAwMjkwNCwxNTQyNjA3NzYxLDE0MT
-EwMzQyNjUsLTEwNzE2NzgxODEsLTEzMzQxNDQ1MzEsMjA4MTE2
-MTkxNCwtNDgxMDkyOTAwLDEwNzYxMzY3NDksNTIwMjA2NjYwLC
-0xNDE5NDU3Nzg4LDE4NDc0Njk4NjEsLTQzMDcyNTAxLDI4NjY4
-NDE5NCwtMTY2MDgzMDkyNSwtMTkzMDUwMjQ4LC0xODExMjE4NT
-k5LDE4MjU1MDMxNzVdfQ==
+eyJoaXN0b3J5IjpbLTE3Mzg2MTQyMzEsMTU0MjYwNzc2MSwxND
+ExMDM0MjY1LC0xMDcxNjc4MTgxLC0xMzM0MTQ0NTMxLDIwODEx
+NjE5MTQsLTQ4MTA5MjkwMCwxMDc2MTM2NzQ5LDUyMDIwNjY2MC
+wtMTQxOTQ1Nzc4OCwxODQ3NDY5ODYxLC00MzA3MjUwMSwyODY2
+ODQxOTQsLTE2NjA4MzA5MjUsLTE5MzA1MDI0OCwtMTgxMTIxOD
+U5OSwxODI1NTAzMTc1XX0=
 -->
