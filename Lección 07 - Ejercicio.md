@@ -122,10 +122,9 @@ body {
 $ git checkout -b footer master
 ```
 2. Ejecutar `git log --oneline` para observar el efecto de esta acción.
-3. Agregar enlaces de redes sociales. De
+3. Agregar enlaces de redes sociales. En el archivo `index.html` agregar el siguiente código dentro del bloque `<footer>`.
 
 ```html
-```
 <footer>
     <!-- start of new content -->
     <section>
@@ -143,9 +142,9 @@ $ git checkout -b footer master
     <!-- end of new content -->
 </footer>
 ```
-```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzExNzgxMDY1LC02Mjg3ODQ4NDgsLTE4MT
+eyJoaXN0b3J5IjpbMzIzMDQ4NDEzLC02Mjg3ODQ4NDgsLTE4MT
 I0NjE3MjcsLTE5MTAwMzk5MDEsMTQzODAxNzA2MSwxODI3MTk0
 MzMwLDExNjE1MjM3MzgsMTg5MzgyOTkyM119
 -->
