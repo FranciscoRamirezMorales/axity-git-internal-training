@@ -22,8 +22,14 @@ Este comando:
 
 ## Revertir un commit
 
-A diferencia de revert, un reset bo
+```bash
+git reset <referencia-al-commit>
+```
+
+A diferencia de revert, un reset borra todos los commits indicados.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE5NTIzNTY5LC0xNjE4NDg2NDM3LDMyMj
-kwOTkxMV19
+eyJoaXN0b3J5IjpbLTkxODE4MDg5NCwtMTYxODQ4NjQzNywzMj
+I5MDk5MTFdfQ==
 -->
