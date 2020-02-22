@@ -122,9 +122,30 @@ body {
 $ git checkout -b footer master
 ```
 2. Ejecutar `git log --oneline` para observar el efecto de esta acción.
-3. 
+3. Agregar enlaces de redes sociales. De
+
+```html
+```
+<footer>
+    <!-- start of new content -->
+    <section>
+        <h3 class="visuallyhidden">Social Links</h3>
+        <a class="social-link" href="https://twitter.com/udacity">
+            <img src="img/social-twitter.png" alt="Twitter">
+        </a>
+        <a class="social-link" href="https://www.instagram.com/udacity/">
+            <img src="img/social-instagram.png" alt="Instagram">
+        </a>
+        <a class="social-link" href="https://plus.google.com/+Udacity">
+            <img src="img/social-google.png" alt="Google Plus">
+        </a>
+    </section>
+    <!-- end of new content -->
+</footer>
+```
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyODc4NDg0OCwtMTgxMjQ2MTcyNywtMT
-kxMDAzOTkwMSwxNDM4MDE3MDYxLDE4MjcxOTQzMzAsMTE2MTUy
-MzczOCwxODkzODI5OTIzXX0=
+eyJoaXN0b3J5IjpbMzExNzgxMDY1LC02Mjg3ODQ4NDgsLTE4MT
+I0NjE3MjcsLTE5MTAwMzk5MDEsMTQzODAxNzA2MSwxODI3MTk0
+MzMwLDExNjE1MjM3MzgsMTg5MzgyOTkyM119
 -->
