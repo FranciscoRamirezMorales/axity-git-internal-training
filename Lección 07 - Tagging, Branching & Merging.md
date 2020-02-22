@@ -1,4 +1,4 @@
-## Tagging, Branching & Merging
+# Tagging, Branching & Merging
 
 En esta lección veremos como:
 
@@ -124,11 +124,11 @@ $ git branc alt-sidebar-loc bb352c
 # [**Práctica 07**](Práctica%2007%20-%20Commits.md#ejercicio---commits)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNDA4MjI0MywtMTQyMzAyMjA5NiwtMT
-A5NjAyMzM4MCwtMTczODYxNDIzMSwxNTQyNjA3NzYxLDE0MTEw
-MzQyNjUsLTEwNzE2NzgxODEsLTEzMzQxNDQ1MzEsMjA4MTE2MT
-kxNCwtNDgxMDkyOTAwLDEwNzYxMzY3NDksNTIwMjA2NjYwLC0x
-NDE5NDU3Nzg4LDE4NDc0Njk4NjEsLTQzMDcyNTAxLDI4NjY4ND
-E5NCwtMTY2MDgzMDkyNSwtMTkzMDUwMjQ4LC0xODExMjE4NTk5
-LDE4MjU1MDMxNzVdfQ==
+eyJoaXN0b3J5IjpbLTE4OTMyNzcxNTYsMTMzNDA4MjI0MywtMT
+QyMzAyMjA5NiwtMTA5NjAyMzM4MCwtMTczODYxNDIzMSwxNTQy
+NjA3NzYxLDE0MTEwMzQyNjUsLTEwNzE2NzgxODEsLTEzMzQxND
+Q1MzEsMjA4MTE2MTkxNCwtNDgxMDkyOTAwLDEwNzYxMzY3NDks
+NTIwMjA2NjYwLC0xNDE5NDU3Nzg4LDE4NDc0Njk4NjEsLTQzMD
+cyNTAxLDI4NjY4NDE5NCwtMTY2MDgzMDkyNSwtMTkzMDUwMjQ4
+LC0xODExMjE4NTk5XX0=
 -->
