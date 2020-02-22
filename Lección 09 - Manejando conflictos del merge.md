@@ -15,11 +15,15 @@ Para simular un conflicto durante un merge y aprender como manejar este tipo de 
 
  2. Crear el branch `heading-update` apuntado al penúltimo commit (el penúltimo commit debe estar asociado al mensaje `"Merge branch 'sidebar'"`). Este cambio debe ser hecho sobre el branch `heading-update`. 
 
- 3. En el archivo `index.html`, cambiar el encabezado `"Adventure"` por `"Crusade"`en el branch `heading-update`. Mensaje: `"Set page heading to Crusade"`
+ 3. En el archivo `index.html`, cambiar el encabezado `"Adventure"` por `"Crusade"`en el branch `heading-update`. Mensaje: `"Set page heading to Crusade"`.
+
+ 4. Establecer `master` como el branch activo.
+ 5. Ejecutar el comando de merge:
+
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzA0OTM5OTAsMTc3ODc0Mjk5MSwtMz
-gwMDUzNDM1XX0=
+eyJoaXN0b3J5IjpbMTAxMjk2NDA0OCwxNzc4NzQyOTkxLC0zOD
+AwNTM0MzVdfQ==
 -->
