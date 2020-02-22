@@ -89,8 +89,8 @@ body {
 </footer>
 ```
 5. Guardar y cerrar.
-1. Realizar `commit`  con el mensaje `"Add starting HTML structure"`.
+1. Realizar `commit`  con el mensaje `"Add new sidebar content"`.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NTA1NTc4MCwxODI3MTk0MzMwLDExNj
+eyJoaXN0b3J5IjpbMTQzODAxNzA2MSwxODI3MTk0MzMwLDExNj
 E1MjM3MzgsMTg5MzgyOTkyM119
 -->
