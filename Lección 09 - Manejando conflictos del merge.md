@@ -52,9 +52,10 @@ $ git status
 
 ![img_09_git_merge_03](images/img_08_git_merge_03.png)
 
- 8. Para resolver estos conflictos solo debemos conservar la línea de código que deseamos mantener y eliminar las líneas de los indicadores.
+ 8. Para resolver estos conflictos solo debemos conservar la línea de código que deseamos mantener y eliminar las líneas de los indicadores. Veamos lo que sucede si no mantenemos ninguno de los dos cambios y en este punto "Adventurous Quest"
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY3MDgyNTk0LDcyNjA1NjgyNywtNjgxNj
-Q0OTcyLDE3Nzg3NDI5OTEsLTM4MDA1MzQzNV19
+eyJoaXN0b3J5IjpbLTE2Mzk0NDQ2MCw4NjcwODI1OTQsNzI2MD
+U2ODI3LC02ODE2NDQ5NzIsMTc3ODc0Mjk5MSwtMzgwMDUzNDM1
+XX0=
 -->
