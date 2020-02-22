@@ -71,10 +71,7 @@ $ git log
 
 ![img_07_git_tag_commit](images/img_07_git_tag_commit.png)
 
-> Para efectos de las lecciones siguientes debemos eliminar el 
-> tag
-
-que hemos creado previamente.
+> Para efectos de las lecciones siguientes debemos eliminar el tag que hemos creado previamente.
 
 ## Crear Branches
 El siguiente video explica de forma general cómo funcionan los branches:
@@ -124,11 +121,11 @@ $ git branc alt-sidebar-loc bb352c
 # [**Práctica 07**](Práctica%2007%20-%20Commits.md#ejercicio---commits)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTMyNzcxNTYsMTMzNDA4MjI0MywtMT
-QyMzAyMjA5NiwtMTA5NjAyMzM4MCwtMTczODYxNDIzMSwxNTQy
-NjA3NzYxLDE0MTEwMzQyNjUsLTEwNzE2NzgxODEsLTEzMzQxND
-Q1MzEsMjA4MTE2MTkxNCwtNDgxMDkyOTAwLDEwNzYxMzY3NDks
-NTIwMjA2NjYwLC0xNDE5NDU3Nzg4LDE4NDc0Njk4NjEsLTQzMD
-cyNTAxLDI4NjY4NDE5NCwtMTY2MDgzMDkyNSwtMTkzMDUwMjQ4
-LC0xODExMjE4NTk5XX0=
+eyJoaXN0b3J5IjpbMTE2MTYzODQ5OCwxMzM0MDgyMjQzLC0xND
+IzMDIyMDk2LC0xMDk2MDIzMzgwLC0xNzM4NjE0MjMxLDE1NDI2
+MDc3NjEsMTQxMTAzNDI2NSwtMTA3MTY3ODE4MSwtMTMzNDE0ND
+UzMSwyMDgxMTYxOTE0LC00ODEwOTI5MDAsMTA3NjEzNjc0OSw1
+MjAyMDY2NjAsLTE0MTk0NTc3ODgsMTg0NzQ2OTg2MSwtNDMwNz
+I1MDEsMjg2Njg0MTk0LC0xNjYwODMwOTI1LC0xOTMwNTAyNDgs
+LTE4MTEyMTg1OTldfQ==
 -->
