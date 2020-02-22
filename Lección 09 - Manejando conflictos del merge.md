@@ -28,10 +28,24 @@ El resultado debería verse como sigue:
 
 ![img_09_git_merge_01](images/img_08_git_merge_01.png)
 
-Este mesaje indica que GIt no pudo realizar un merge automático y que debemos resolver estos conflictos de forma manual.
+Este mensaje indica que GIt no pudo realizar un merge automático y que debemos resolver estos conflictos de forma manual.
 
- 6. 
- 6. Ejecutar el comando de `status` para conocer las acciones pendientes.
+ 6. Abrir el archivo `index.html` en Atom.
+
+Podemos obervar que 
+
+
+## Merge Conflict Indicators Explanation
+
+The editor has the following merge conflict indicators:
+
+-   `<<<<<<< HEAD` everything below this line (until the next indicator) shows you what's on the current branch
+-   `||||||| merged common ancestors` everything below this line (until the next indicator) shows you what the original lines were
+-   `=======` is the end of the original lines, everything that follows (until the next indicator) is what's on the branch that's being merged in
+-   `>>>>>>> heading-update` is the ending indicator of what's on the branch that's being merged in (in this case, the `heading-update` branch)
+
+
+ 7. Ejecutar el comando de `status` para conocer las acciones pendientes.
 
 ```bash
 $ git status
@@ -41,6 +55,6 @@ $ git status
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDc1Nzc0NjksLTY4MTY0NDk3MiwxNz
+eyJoaXN0b3J5IjpbLTE0NTE1NTg4NjYsLTY4MTY0NDk3MiwxNz
 c4NzQyOTkxLC0zODAwNTM0MzVdfQ==
 -->
