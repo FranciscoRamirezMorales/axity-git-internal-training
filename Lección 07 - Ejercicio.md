@@ -143,11 +143,13 @@ $ git checkout -b footer master
 </footer>
 ```
 
-> Modificar los enlaces a redes soci
+> Modificar los enlaces a redes sociales si se desea.
 
+4. Guardar y cerrar.
+5. Realizar `commit`  con el mensaje `"Add links to social media"`.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTMwNzQzMTQsMTM2MzM3MTk1LC02Mj
-g3ODQ4NDgsLTE4MTI0NjE3MjcsLTE5MTAwMzk5MDEsMTQzODAx
-NzA2MSwxODI3MTk0MzMwLDExNjE1MjM3MzgsMTg5MzgyOTkyM1
-19
+eyJoaXN0b3J5IjpbLTk3MTI3NDAzLDEzNjMzNzE5NSwtNjI4Nz
+g0ODQ4LC0xODEyNDYxNzI3LC0xOTEwMDM5OTAxLDE0MzgwMTcw
+NjEsMTgyNzE5NDMzMCwxMTYxNTIzNzM4LDE4OTM4Mjk5MjNdfQ
+==
 -->
