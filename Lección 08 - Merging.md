@@ -46,7 +46,8 @@ $ git merge sidebar
 > Podemos cambiar el mensaje del commit, sin embargo es una práctica común usar el mensaje de commit del merge por defecto.
 
 ![img_08_git_merge_03](images/img_08_git_merge_03.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNzI0MzAwMiwtMTczNzI0NTMwNiwyMT
-I5MDU4NjQxLC0zODQ2NDIyMzEsNDc0MTQ3OTUyXX0=
+eyJoaXN0b3J5IjpbLTEzMTI2MTUyNTYsLTE3MzcyNDUzMDYsMj
+EyOTA1ODY0MSwtMzg0NjQyMjMxLDQ3NDE0Nzk1Ml19
 -->
