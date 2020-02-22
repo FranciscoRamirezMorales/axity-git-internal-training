@@ -97,8 +97,8 @@ body {
 ## Cambiar el encabezado en `master`
 
 1. Realizar `checkout` para cambiar al branch `master`.
-2. 
+2. En el archivo index.html cambiar el texto del encabezado `<h1>` de "Expedition" a "Adventure"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NDkyNDMzMywxNDM4MDE3MDYxLDE4Mj
-cxOTQzMzAsMTE2MTUyMzczOCwxODkzODI5OTIzXX0=
+eyJoaXN0b3J5IjpbLTEyNjIxNzU4NjMsMTQzODAxNzA2MSwxOD
+I3MTk0MzMwLDExNjE1MjM3MzgsMTg5MzgyOTkyM119
 -->
