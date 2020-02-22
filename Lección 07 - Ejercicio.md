@@ -32,7 +32,7 @@ Antes de comenzar, debemos asegurarnos de los siguiente:
     </div>
 
     <footer>
-        Made with ♥ @ Udacity
+        Made with ♥ @ Axity
     </footer>
     <script src="js/app.js"></script>
 </body>
@@ -144,7 +144,8 @@ $ git checkout -b footer master
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MzM3MTk1LC02Mjg3ODQ4NDgsLTE4MT
-I0NjE3MjcsLTE5MTAwMzk5MDEsMTQzODAxNzA2MSwxODI3MTk0
-MzMwLDExNjE1MjM3MzgsMTg5MzgyOTkyM119
+eyJoaXN0b3J5IjpbMjg3OTI0OTEzLDEzNjMzNzE5NSwtNjI4Nz
+g0ODQ4LC0xODEyNDYxNzI3LC0xOTEwMDM5OTAxLDE0MzgwMTcw
+NjEsMTgyNzE5NDMzMCwxMTYxNTIzNzM4LDE4OTM4Mjk5MjNdfQ
+==
 -->
