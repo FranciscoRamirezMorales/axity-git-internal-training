@@ -54,10 +54,9 @@ $ git status
 
  8. Para resolver estos conflictos solo debemos conservar la línea de código que deseamos mantener y eliminar las líneas de los indicadores. Veamos lo que sucede si no mantenemos ninguno de los dos cambios y en este punto cambiamos el texto del encabezado por `"Adventurous Quest"`
 
-
-
+![img_09_git_merge_04](images/img_08_git_merge_04.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjc0MTExOTcsODY3MDgyNTk0LDcyNj
-A1NjgyNywtNjgxNjQ0OTcyLDE3Nzg3NDI5OTEsLTM4MDA1MzQz
-NV19
+eyJoaXN0b3J5IjpbMTU3NzU0NTU0Miw4NjcwODI1OTQsNzI2MD
+U2ODI3LC02ODE2NDQ5NzIsMTc3ODc0Mjk5MSwtMzgwMDUzNDM1
+XX0=
 -->
