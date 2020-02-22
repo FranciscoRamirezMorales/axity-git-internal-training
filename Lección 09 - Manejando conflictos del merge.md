@@ -30,15 +30,17 @@ El resultado debería verse como sigue:
 
 Este mesaje indica que GIt no pudo realizar un merge automático y que debemos resolver estos conflictos de forma manual.
 
+ 6. 
  6. Ejecutar el comando de `status` para conocer las acciones pendientes.
 
 ```bash
 $ git status
 ```
 
-![img_09_git_merge_01](images/img_08_git_merge_01.png)
+![img_09_git_merge_02](images/img_08_git_merge_02.png)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NjE4NTg0OSwtNjgxNjQ0OTcyLDE3Nz
-g3NDI5OTEsLTM4MDA1MzQzNV19
+eyJoaXN0b3J5IjpbLTEwNDc1Nzc0NjksLTY4MTY0NDk3MiwxNz
+c4NzQyOTkxLC0zODAwNTM0MzVdfQ==
 -->
