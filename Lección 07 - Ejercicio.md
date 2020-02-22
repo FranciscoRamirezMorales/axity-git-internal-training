@@ -65,7 +65,7 @@ body {
 1. Realizar `checkout` para cambiar al branch `slidebar`.
 1. Usar `git log --oneline` para ver el historial de commits.
 
-> Verificar que 
+> Verificar que los commits realizados en el branch `master` no aparecen en `sidebar`.
 
 
 > Podemos abrir el archivo   `css/app.css` en Atom y posteriormente cambiar entre el branch `master` y `slidebar` para poder observar como se actualiza el contenido en las diferentes versiones del archivo.
@@ -108,9 +108,11 @@ body {
 
 1. Realizar `checkout` para cambiar al branch `sidebar`.
 
+> Verificar que los commits realizados en el branch `master` no aparecen en `sidebar`.
 
+2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTMxMDg2MDcsLTE5MTAwMzk5MDEsMT
-QzODAxNzA2MSwxODI3MTk0MzMwLDExNjE1MjM3MzgsMTg5Mzgy
-OTkyM119
+eyJoaXN0b3J5IjpbLTczODMwNjM1OSwtMTkxMDAzOTkwMSwxND
+M4MDE3MDYxLDE4MjcxOTQzMzAsMTE2MTUyMzczOCwxODkzODI5
+OTIzXX0=
 -->
