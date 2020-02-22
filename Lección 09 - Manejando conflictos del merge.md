@@ -11,14 +11,14 @@ Para simular un conflicto durante un merge y aprender como manejar este tipo de 
 
 > Recuerda realizar commit despues de cada paso.
 
- 1. En el archivo `index.html`, cambiar el encabezado `"Adventure"` por `"Quest"`en el branch `master`. Mensaje: "Set page heading "
+ 1. En el archivo `index.html`, cambiar el encabezado `"Adventure"` por `"Quest"`en el branch `master`. Mensaje: `"Set page heading to Quest"`.
 
  2. Crear el branch `heading-update` apuntado al penúltimo commit (el penúltimo commit debe estar asociado al mensaje `"Merge branch 'sidebar'"`). Este cambio debe ser hecho sobre el branch `heading-update`. 
 
- 3. En el archivo `index.html`, cambiar el encabezado `"Adventure"` por `"Crusade"`en el branch `master`.
+ 3. En el archivo `index.html`, cambiar el encabezado `"Adventure"` por `"Crusade"`en el branch `heading-update` `. Mensaje: `"Set page heading to Crusade"`
  4. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY2MzMyMzc1LDE3Nzg3NDI5OTEsLTM4MD
-A1MzQzNV19
+eyJoaXN0b3J5IjpbLTMxMDI2MTY5NCwxNzc4NzQyOTkxLC0zOD
+AwNTM0MzVdfQ==
 -->
