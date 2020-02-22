@@ -97,14 +97,14 @@ body {
 5. Guardar y cerrar.
 6. Realizar `commit`  con el mensaje `"Add new sidebar content"`.
 
-## Cambiar el encabezado en `master`
+## 3. Cambiar el encabezado en `master`
 
 1. Realizar `checkout` para cambiar al branch `master`.
 2. En el archivo `index.html` cambiar el texto del encabezado `<h1>` de `"Expedition"` a `"Adventure"`
 3. Guardar y cerrar.
 4. Realizar `commit`  con el mensaje `"Improve site heading for SEO"`.
 
-## Agregar más contenido a la barra lateral
+## 4. Agregar más contenido a la barra lateral
 
 1. Realizar `checkout` para cambiar al branch `sidebar`.
 
@@ -114,8 +114,9 @@ body {
 3. Guardar y cerrar.
 4. Realizar `commit`  con el mensaje `"Update sidebar with favorite movie"`.
 
+#
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MjkwMTQwNywtMTgxMjQ2MTcyNywtMT
-kxMDAzOTkwMSwxNDM4MDE3MDYxLDE4MjcxOTQzMzAsMTE2MTUy
-MzczOCwxODkzODI5OTIzXX0=
+eyJoaXN0b3J5IjpbLTEzMjAxNzM0ODMsLTE4MTI0NjE3MjcsLT
+E5MTAwMzk5MDEsMTQzODAxNzA2MSwxODI3MTk0MzMwLDExNjE1
+MjM3MzgsMTg5MzgyOTkyM119
 -->
