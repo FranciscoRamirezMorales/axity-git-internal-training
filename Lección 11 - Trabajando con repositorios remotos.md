@@ -124,9 +124,10 @@ h2 {
     background-color: #d32f2f;
 }
 ```
-
+ 6. Guardar y cerrar los archivos.
+ 7. Realizar `commit`  con el mensaje `"Improve site heading for SEO"`.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNDczNDU1NywtMTU0NDAzNTcwNywxNz
-EyNDIzOTQxLDEzNjQ4NzkxODcsNzA2ODAwOTcxLDEzNzY4NDgw
-OTQsLTUyMjc3OTkwNiw1MzQwOTgwMTddfQ==
+eyJoaXN0b3J5IjpbMTgzNzQzOTI4NywxMzE0NzM0NTU3LC0xNT
+Q0MDM1NzA3LDE3MTI0MjM5NDEsMTM2NDg3OTE4Nyw3MDY4MDA5
+NzEsMTM3Njg0ODA5NCwtNTIyNzc5OTA2LDUzNDA5ODAxN119
 -->
