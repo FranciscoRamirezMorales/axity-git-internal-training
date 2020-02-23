@@ -132,7 +132,7 @@ h2 {
 
  8. El archivo `index.html` debería verse así:
 
-![img_11_git_merge_01](images/img_11_git_merge_01.png)
+![img_11_git_remote_02](images/img_11_git_remote_02.png)
 
 ### Crear un repositorio en GitHub
 
@@ -170,10 +170,10 @@ $ git push origin master
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5ODAwNTYwNSwzNjExOTkwNTQsODUxOD
-kwMDgwLC0xOTkwODQyNzQ0LC0xODUyNTI4NTA4LDQ2OTc0ODAw
-MiwxMjEyMTQ4OTI3LDE2NTQ4Mzc0NzEsMTMxNDczNDU1NywtMT
-U0NDAzNTcwNywxNzEyNDIzOTQxLDEzNjQ4NzkxODcsNzA2ODAw
-OTcxLDEzNzY4NDgwOTQsLTUyMjc3OTkwNiw1MzQwOTgwMTddfQ
-==
+eyJoaXN0b3J5IjpbLTE1MDQwODE4NzUsMTM5ODAwNTYwNSwzNj
+ExOTkwNTQsODUxODkwMDgwLC0xOTkwODQyNzQ0LC0xODUyNTI4
+NTA4LDQ2OTc0ODAwMiwxMjEyMTQ4OTI3LDE2NTQ4Mzc0NzEsMT
+MxNDczNDU1NywtMTU0NDAzNTcwNywxNzEyNDIzOTQxLDEzNjQ4
+NzkxODcsNzA2ODAwOTcxLDEzNzY4NDgwOTQsLTUyMjc3OTkwNi
+w1MzQwOTgwMTddfQ==
 -->
