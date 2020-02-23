@@ -69,7 +69,7 @@ A simple app to keep track of destinations I'd like to visit.
 </html>
 ```
 
-### COntenido del archivo app.css
+### Contenido del archivo app.css
 
 ```css
 html {
@@ -133,7 +133,8 @@ h2 {
  7. Realizar `commit`  con el mensaje `"Initial commit"`.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NDgzNzQ3MSwxMzE0NzM0NTU3LC0xNT
-Q0MDM1NzA3LDE3MTI0MjM5NDEsMTM2NDg3OTE4Nyw3MDY4MDA5
-NzEsMTM3Njg0ODA5NCwtNTIyNzc5OTA2LDUzNDA5ODAxN119
+eyJoaXN0b3J5IjpbMTIxMjE0ODkyNywxNjU0ODM3NDcxLDEzMT
+Q3MzQ1NTcsLTE1NDQwMzU3MDcsMTcxMjQyMzk0MSwxMzY0ODc5
+MTg3LDcwNjgwMDk3MSwxMzc2ODQ4MDk0LC01MjI3Nzk5MDYsNT
+M0MDk4MDE3XX0=
 -->
