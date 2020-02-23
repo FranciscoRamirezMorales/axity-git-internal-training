@@ -132,9 +132,13 @@ h2 {
 
  7. Realizar `commit`  con el mensaje `"Initial commit"`.
 
+ 8. El archivo `index.html` debería verse así:
+
+![img_11_git_remote_01](images/img_11_git_remote_01.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMjE0ODkyNywxNjU0ODM3NDcxLDEzMT
-Q3MzQ1NTcsLTE1NDQwMzU3MDcsMTcxMjQyMzk0MSwxMzY0ODc5
-MTg3LDcwNjgwMDk3MSwxMzc2ODQ4MDk0LC01MjI3Nzk5MDYsNT
-M0MDk4MDE3XX0=
+eyJoaXN0b3J5IjpbLTE3NTQ5ODc2MDEsMTIxMjE0ODkyNywxNj
+U0ODM3NDcxLDEzMTQ3MzQ1NTcsLTE1NDQwMzU3MDcsMTcxMjQy
+Mzk0MSwxMzY0ODc5MTg3LDcwNjgwMDk3MSwxMzc2ODQ4MDk0LC
+01MjI3Nzk5MDYsNTM0MDk4MDE3XX0=
 -->
