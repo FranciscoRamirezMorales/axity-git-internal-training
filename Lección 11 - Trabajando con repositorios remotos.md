@@ -147,7 +147,7 @@ h2 {
  1. Ejecutar el siguiente comando 
 
 ```bash
-$ git remote add origin https://github.com/<>/my-travel-plans.git
+$ git remote add origin https://github.com/<my usuario>/my-travel-plans.git
 ```
 
  2. Para verificar que la conexión se ha creado correctamente debemos ejecutar el siguiente comando:
@@ -158,9 +158,9 @@ $ git remote -v
 
 ![img_11_git_merge_02](images/img_11_git_merge_02.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NTQzMTg4MiwtMTk5MDg0Mjc0NCwtMT
-g1MjUyODUwOCw0Njk3NDgwMDIsMTIxMjE0ODkyNywxNjU0ODM3
-NDcxLDEzMTQ3MzQ1NTcsLTE1NDQwMzU3MDcsMTcxMjQyMzk0MS
-wxMzY0ODc5MTg3LDcwNjgwMDk3MSwxMzc2ODQ4MDk0LC01MjI3
-Nzk5MDYsNTM0MDk4MDE3XX0=
+eyJoaXN0b3J5IjpbLTE4OTI4MDMzMjQsLTE5OTA4NDI3NDQsLT
+E4NTI1Mjg1MDgsNDY5NzQ4MDAyLDEyMTIxNDg5MjcsMTY1NDgz
+NzQ3MSwxMzE0NzM0NTU3LC0xNTQ0MDM1NzA3LDE3MTI0MjM5ND
+EsMTM2NDg3OTE4Nyw3MDY4MDA5NzEsMTM3Njg0ODA5NCwtNTIy
+Nzc5OTA2LDUzNDA5ODAxN119
 -->
