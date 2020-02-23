@@ -18,8 +18,11 @@ $ git remote
 
 ## El comando Git Remote
 
+Para conectarnos a un repositorio remoto ejecutemos los siguientes comandos:
 
+ 1. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NDg3OTE4Nyw3MDY4MDA5NzEsMTM3Nj
-g0ODA5NCwtNTIyNzc5OTA2LDUzNDA5ODAxN119
+eyJoaXN0b3J5IjpbMTgyMzQyOTk5MCwxMzY0ODc5MTg3LDcwNj
+gwMDk3MSwxMzc2ODQ4MDk0LC01MjI3Nzk5MDYsNTM0MDk4MDE3
+XX0=
 -->
