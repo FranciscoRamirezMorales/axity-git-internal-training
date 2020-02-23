@@ -22,7 +22,7 @@ $ git remote
 
 Para crear un repositorio remoto debemos ejecutar los siguientes comandos:
 
- 1. Crear el directorio `~/my-travel-plans`
+ 1. Crear el directorio `~/axity-git-course/my-travel-plans`
  2. Inicializar el directorio usando el comando `git init`
  3. Crear el archivo `README.md`
  4. Crear el archivo `index.html`
@@ -126,7 +126,7 @@ h2 {
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0OTIwNzY0NiwtMTU0NDAzNTcwNywxNz
+eyJoaXN0b3J5IjpbMTMxNDczNDU1NywtMTU0NDAzNTcwNywxNz
 EyNDIzOTQxLDEzNjQ4NzkxODcsNzA2ODAwOTcxLDEzNzY4NDgw
 OTQsLTUyMjc3OTkwNiw1MzQwOTgwMTddfQ==
 -->
