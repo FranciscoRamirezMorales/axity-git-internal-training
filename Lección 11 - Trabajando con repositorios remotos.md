@@ -137,11 +137,14 @@ h2 {
 ### Crear un repositorio en GitHub
 
  1. Crear una cuenta en GitHub
+
  2. Crear un repositorio con el nombre `my-travel-plans`
- 3. Asegurar que al momento de crear el repositorio NO ma Initialize with a README ⚠️
+
+ 3. Asegurar que al momento de crear el repositorio **NO** marcar la opción de `"Initialize this repository with a README"`.
+ 4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzMwNDU3MDgsNDY5NzQ4MDAyLDEyMT
-IxNDg5MjcsMTY1NDgzNzQ3MSwxMzE0NzM0NTU3LC0xNTQ0MDM1
-NzA3LDE3MTI0MjM5NDEsMTM2NDg3OTE4Nyw3MDY4MDA5NzEsMT
-M3Njg0ODA5NCwtNTIyNzc5OTA2LDUzNDA5ODAxN119
+eyJoaXN0b3J5IjpbOTc3MzE2ODkzLDQ2OTc0ODAwMiwxMjEyMT
+Q4OTI3LDE2NTQ4Mzc0NzEsMTMxNDczNDU1NywtMTU0NDAzNTcw
+NywxNzEyNDIzOTQxLDEzNjQ4NzkxODcsNzA2ODAwOTcxLDEzNz
+Y4NDgwOTQsLTUyMjc3OTkwNiw1MzQwOTgwMTddfQ==
 -->
