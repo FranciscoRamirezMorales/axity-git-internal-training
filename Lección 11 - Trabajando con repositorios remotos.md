@@ -26,7 +26,7 @@ Para crear un repositorio remoto debemos ejecutar los siguientes comandos:
  2. Inicializar el directorio usando el comando `git init`
  3. Crear el archivo `README.md`
  4. Crear el archivo `index.html`
- 5. Crear el archivo `app.cs`
+ 5. Crear el archivo `app.css`
 
 #### Contenido de `README.md`
 
@@ -65,11 +65,9 @@ A simple app to keep track of destinations I'd like to visit.
 </html>
 ```
 
-### CSS File Content
+### COntenido del archivo app.css
 
-Add the following information to the CSS file:
-
-```html
+```css
 html {
     box-sizing: border-box;
     height: 100%;
@@ -127,7 +125,7 @@ h2 {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNTEwNjcwNSwtMTU0NDAzNTcwNywxNz
-EyNDIzOTQxLDEzNjQ4NzkxODcsNzA2ODAwOTcxLDEzNzY4NDgw
-OTQsLTUyMjc3OTkwNiw1MzQwOTgwMTddfQ==
+eyJoaXN0b3J5IjpbMTUzMzIwNTY0LC0xNTQ0MDM1NzA3LDE3MT
+I0MjM5NDEsMTM2NDg3OTE4Nyw3MDY4MDA5NzEsMTM3Njg0ODA5
+NCwtNTIyNzc5OTA2LDUzNDA5ODAxN119
 -->
