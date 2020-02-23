@@ -134,11 +134,13 @@ h2 {
 
 ![img_11_git_merge_01](images/img_11_git_merge_01.png)
 
-### Crear una cuenta de GitHub
+### Crear un repositorio en GitHub
 
+ 1. Crear una cuenta en GitHub
+ 2. Crear un repositorio con el nombre 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTgxMTA4NTYsNDY5NzQ4MDAyLDEyMT
-IxNDg5MjcsMTY1NDgzNzQ3MSwxMzE0NzM0NTU3LC0xNTQ0MDM1
-NzA3LDE3MTI0MjM5NDEsMTM2NDg3OTE4Nyw3MDY4MDA5NzEsMT
-M3Njg0ODA5NCwtNTIyNzc5OTA2LDUzNDA5ODAxN119
+eyJoaXN0b3J5IjpbMTA2MjM0NjA1OSw0Njk3NDgwMDIsMTIxMj
+E0ODkyNywxNjU0ODM3NDcxLDEzMTQ3MzQ1NTcsLTE1NDQwMzU3
+MDcsMTcxMjQyMzk0MSwxMzY0ODc5MTg3LDcwNjgwMDk3MSwxMz
+c2ODQ4MDk0LC01MjI3Nzk5MDYsNTM0MDk4MDE3XX0=
 -->
