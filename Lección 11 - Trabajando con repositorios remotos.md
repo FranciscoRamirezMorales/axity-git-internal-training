@@ -137,9 +137,9 @@ h2 {
 ### Crear un repositorio en GitHub
 
  1. Crear una cuenta en GitHub
- 2. Crear un repositorio con el nombre 
+ 2. Crear un repositorio con el nombre `my-travel-plans`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MjM0NjA1OSw0Njk3NDgwMDIsMTIxMj
+eyJoaXN0b3J5IjpbLTY2NTYzMjIyMyw0Njk3NDgwMDIsMTIxMj
 E0ODkyNywxNjU0ODM3NDcxLDEzMTQ3MzQ1NTcsLTE1NDQwMzU3
 MDcsMTcxMjQyMzk0MSwxMzY0ODc5MTg3LDcwNjgwMDk3MSwxMz
 c2ODQ4MDk0LC01MjI3Nzk5MDYsNTM0MDk4MDE3XX0=
