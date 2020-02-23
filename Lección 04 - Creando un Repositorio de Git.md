@@ -34,7 +34,7 @@ Otra forma de hacerlo es ejecutando el siguiente comando:
 
 Inicializar un proyecto es una de las actividades más simples, basta con ejecutar el siguiente comando:
 
-    # git ini
+    # git init
 
 Al ejecutar el comando git init se generan todos los directorios y archivos necesarios que Git usará para mantener el control de versiones de todo.
 
@@ -132,9 +132,9 @@ Esto debería generar la salida:
 En este punto este mensaje no debería ser un problema ya que en este repositorio aún no existen **commits** que mostrar. En siguientes lecciones se verá con más detalle el comando `git log`.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk0MDkzMjQwLDc2NTMyNTg5OCwtMTQyOT
-MyMjMwNCwtMjQyNzMyMDczLDIwNjk3OTQ0NTQsLTEwOTAzNjkz
-NDIsLTE1MTMxOTAzMDAsLTEyMTMxMTE1NjYsLTExNzg5NjgyMj
-QsMjAwNjc1NDU5MCwtMTc1MzA2ODM4MCwxNzg2NDY5ODAxLDE2
-NDY4NzE0MzYsNDE3MzE2ODFdfQ==
+eyJoaXN0b3J5IjpbMjk4NDEyNjgyLDI5NDA5MzI0MCw3NjUzMj
+U4OTgsLTE0MjkzMjIzMDQsLTI0MjczMjA3MywyMDY5Nzk0NDU0
+LC0xMDkwMzY5MzQyLC0xNTEzMTkwMzAwLC0xMjEzMTExNTY2LC
+0xMTc4OTY4MjI0LDIwMDY3NTQ1OTAsLTE3NTMwNjgzODAsMTc4
+NjQ2OTgwMSwxNjQ2ODcxNDM2LDQxNzMxNjgxXX0=
 -->
