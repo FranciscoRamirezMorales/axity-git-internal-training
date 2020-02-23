@@ -8,8 +8,16 @@ Git es un sistema de control de versiones distribuido, lo que significa que no h
 
 ![img_11_git_remote_01](images/img_11_git_remote_01.png)
 
+La forma en que podemos interactuar y controlar un repositorio remoto es a través del comando remoto de Git:
+
+```bash
+$ git remote
+```
+
+[![Git remote](http://img.youtube.com/vi/414f0ukhOTY/0.jpg)](http://www.youtube.com/watch?v=414f0ukhOTY "Git remote")
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3Njg0ODA5NCwtNTIyNzc5OTA2LDUzND
-A5ODAxN119
+eyJoaXN0b3J5IjpbNzA2ODAwOTcxLDEzNzY4NDgwOTQsLTUyMj
+c3OTkwNiw1MzQwOTgwMTddfQ==
 -->
