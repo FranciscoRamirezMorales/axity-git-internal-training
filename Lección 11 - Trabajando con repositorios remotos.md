@@ -150,11 +150,12 @@ h2 {
 $ git remote add origin https://github.com/achamizoch/my-travel-plans.git
 ```
 
-
+ 2. Para verificar que la conexión se ha creado correctamente debemos ejecutar el siguiente comando:
+ 3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTA4NDI3NDQsLTE4NTI1Mjg1MDgsND
-Y5NzQ4MDAyLDEyMTIxNDg5MjcsMTY1NDgzNzQ3MSwxMzE0NzM0
-NTU3LC0xNTQ0MDM1NzA3LDE3MTI0MjM5NDEsMTM2NDg3OTE4Ny
-w3MDY4MDA5NzEsMTM3Njg0ODA5NCwtNTIyNzc5OTA2LDUzNDA5
-ODAxN119
+eyJoaXN0b3J5IjpbMTY2NTc1MDE0OSwtMTk5MDg0Mjc0NCwtMT
+g1MjUyODUwOCw0Njk3NDgwMDIsMTIxMjE0ODkyNywxNjU0ODM3
+NDcxLDEzMTQ3MzQ1NTcsLTE1NDQwMzU3MDcsMTcxMjQyMzk0MS
+wxMzY0ODc5MTg3LDcwNjgwMDk3MSwxMzc2ODQ4MDk0LC01MjI3
+Nzk5MDYsNTM0MDk4MDE3XX0=
 -->
