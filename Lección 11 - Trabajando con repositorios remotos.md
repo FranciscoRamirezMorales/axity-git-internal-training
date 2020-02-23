@@ -141,9 +141,15 @@ h2 {
  2. Crear un repositorio con el nombre `my-travel-plans`
 
  3. Asegurar que al momento de crear el repositorio **NO** marcar la opción de `"Initialize this repository with a README"`.
+
+###  Conectar al repositorio remoto
+
+ 1. Ejecutar el siguiente comando 
+
  4. 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc3MzE2ODkzLDQ2OTc0ODAwMiwxMjEyMT
+eyJoaXN0b3J5IjpbLTE4MTM0MDkyLDQ2OTc0ODAwMiwxMjEyMT
 Q4OTI3LDE2NTQ4Mzc0NzEsMTMxNDczNDU1NywtMTU0NDAzNTcw
 NywxNzEyNDIzOTQxLDEzNjQ4NzkxODcsNzA2ODAwOTcxLDEzNz
 Y4NDgwOTQsLTUyMjc3OTkwNiw1MzQwOTgwMTddfQ==
