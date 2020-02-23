@@ -63,16 +63,71 @@ A simple app to keep track of destinations I'd like to visit.
 
 </body>
 </html>
-
 ```
 
+### CSS File Content
 
-```bash
-$ cd ~/axity-git-course
+Add the following information to the CSS file:
+
+```html
+html {
+    box-sizing: border-box;
+    height: 100%;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+body {
+    display: flex;
+    margin: 0;
+    height: 100%;
+}
+
+.container {
+    margin: auto;
+    padding: 1em;
+    width: 80%;
+}
+
+.destination-container {
+    display: flex;
+    flex-flow: wrap;
+    justify-content: center;
+}
+
+.destination {
+    background: #03a9f4;
+    box-shadow: 0 1px 9px 0 rgba(0, 0, 0, 0.4);
+    color: white;
+    margin: 0.5em;
+    min-height: 200px;
+    flex: 0 1 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+h2 {
+    margin: 0;
+    transform: rotate(-45deg);
+    text-shadow: 0 0 5px #01579b;
+}
+
+#florida {
+    background-color: #03a9f4;
+}
+
+#paris {
+    background-color: #d32f2f;
+}
 ```
-`my-travel-plans`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYyOTgzMTI2LC0xNTQ0MDM1NzA3LDE3MT
-I0MjM5NDEsMTM2NDg3OTE4Nyw3MDY4MDA5NzEsMTM3Njg0ODA5
-NCwtNTIyNzc5OTA2LDUzNDA5ODAxN119
+eyJoaXN0b3J5IjpbMjAzNTEwNjcwNSwtMTU0NDAzNTcwNywxNz
+EyNDIzOTQxLDEzNjQ4NzkxODcsNzA2ODAwOTcxLDEzNzY4NDgw
+OTQsLTUyMjc3OTkwNiw1MzQwOTgwMTddfQ==
 -->
