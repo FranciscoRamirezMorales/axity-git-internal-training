@@ -18,7 +18,9 @@ $ git remote
 
 ## El comando Git Remote
 
-Para conectarnos a un repositorio remoto ejecutemos los siguientes comandos:
+### Práctica 09 - Simular un conflicto en merge
+
+Para creara un repositorio remoto debemos ejecutar los siguientes comandos:
 
  1. Crear el directorio `~/my-travel-plans`
  2. Inicializar el directorio usando el comando `git init`
@@ -31,7 +33,7 @@ $ cd ~/axity-git-course
 ```
 `my-travel-plans`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ2NDYwNjM2LC0xNTQ0MDM1NzA3LDE3MT
-I0MjM5NDEsMTM2NDg3OTE4Nyw3MDY4MDA5NzEsMTM3Njg0ODA5
-NCwtNTIyNzc5OTA2LDUzNDA5ODAxN119
+eyJoaXN0b3J5IjpbLTE2MzA0MzEyMzIsLTE1NDQwMzU3MDcsMT
+cxMjQyMzk0MSwxMzY0ODc5MTg3LDcwNjgwMDk3MSwxMzc2ODQ4
+MDk0LC01MjI3Nzk5MDYsNTM0MDk4MDE3XX0=
 -->
