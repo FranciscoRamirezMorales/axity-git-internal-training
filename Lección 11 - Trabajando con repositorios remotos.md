@@ -2,6 +2,8 @@
 
 En esta lección conoceremos como trabajar con repositorios remotos de GitHub y como obtener y enviar cambios a un repositorio remoto.
 
+## ¿Qué es GitHub?
+Git es un sistema de control de versiones distribuido, lo que significa que no hay un depósito principal de información. Cada desarrollador tiene una copia del repositorio. Por lo tanto, puede tener una copia del repositorio (que incluye las confirmaciones publicadas y el historial de versiones) y su amigo también puede tener una copia del mismo repositorio. Cada repositorio tiene exactamente la misma información que los otros, no hay un repositorio que sea el principal.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM0MDk4MDE3XX0=
+eyJoaXN0b3J5IjpbLTU5ODYxMzcxNSw1MzQwOTgwMTddfQ==
 -->
