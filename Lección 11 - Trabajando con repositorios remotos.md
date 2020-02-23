@@ -16,9 +16,7 @@ $ git remote
 
 [![Git remote](http://img.youtube.com/vi/414f0ukhOTY/0.jpg)](http://www.youtube.com/watch?v=414f0ukhOTY "Git remote")
 
-## El comando Git Remote
-
-### Práctica 11 - Git Remote
+## Práctica 11 - Git Remote
 
 Para crear un repositorio remoto debemos ejecutar los siguientes comandos:
 
@@ -134,11 +132,12 @@ h2 {
 
  8. El archivo `index.html` debería verse así:
 
-![img_11_git_remote_01](images/img_11_git_remote_01.png)
+![img_11_git_merge_01](images/img_11_git_merge_01.png)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTQ5ODc2MDEsMTIxMjE0ODkyNywxNj
-U0ODM3NDcxLDEzMTQ3MzQ1NTcsLTE1NDQwMzU3MDcsMTcxMjQy
-Mzk0MSwxMzY0ODc5MTg3LDcwNjgwMDk3MSwxMzc2ODQ4MDk0LC
-01MjI3Nzk5MDYsNTM0MDk4MDE3XX0=
+eyJoaXN0b3J5IjpbNDY5NzQ4MDAyLDEyMTIxNDg5MjcsMTY1ND
+gzNzQ3MSwxMzE0NzM0NTU3LC0xNTQ0MDM1NzA3LDE3MTI0MjM5
+NDEsMTM2NDg3OTE4Nyw3MDY4MDA5NzEsMTM3Njg0ODA5NCwtNT
+IyNzc5OTA2LDUzNDA5ODAxN119
 -->
