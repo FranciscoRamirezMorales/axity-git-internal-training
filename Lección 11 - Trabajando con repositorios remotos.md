@@ -16,8 +16,10 @@ $ git remote
 
 [![Git remote](http://img.youtube.com/vi/414f0ukhOTY/0.jpg)](http://www.youtube.com/watch?v=414f0ukhOTY "Git remote")
 
+## El comando Git Remote
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA2ODAwOTcxLDEzNzY4NDgwOTQsLTUyMj
-c3OTkwNiw1MzQwOTgwMTddfQ==
+eyJoaXN0b3J5IjpbMTM2NDg3OTE4Nyw3MDY4MDA5NzEsMTM3Nj
+g0ODA5NCwtNTIyNzc5OTA2LDUzNDA5ODAxN119
 -->
