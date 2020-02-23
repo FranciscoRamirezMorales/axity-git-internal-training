@@ -147,13 +147,14 @@ h2 {
  1. Ejecutar el siguiente comando 
 
 ```bash
-$ git remote add origin https://github.com/richardkalehoff/RichardsFantasticProject.git
+$ git remote add origin https://github.com/achamizoch/my-travel-plans.git
 ```
- 4. 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTI1Mjg1MDgsNDY5NzQ4MDAyLDEyMT
-IxNDg5MjcsMTY1NDgzNzQ3MSwxMzE0NzM0NTU3LC0xNTQ0MDM1
-NzA3LDE3MTI0MjM5NDEsMTM2NDg3OTE4Nyw3MDY4MDA5NzEsMT
-M3Njg0ODA5NCwtNTIyNzc5OTA2LDUzNDA5ODAxN119
+eyJoaXN0b3J5IjpbLTE5OTA4NDI3NDQsLTE4NTI1Mjg1MDgsND
+Y5NzQ4MDAyLDEyMTIxNDg5MjcsMTY1NDgzNzQ3MSwxMzE0NzM0
+NTU3LC0xNTQ0MDM1NzA3LDE3MTI0MjM5NDEsMTM2NDg3OTE4Ny
+w3MDY4MDA5NzEsMTM3Njg0ODA5NCwtNTIyNzc5OTA2LDUzNDA5
+ODAxN119
 -->
