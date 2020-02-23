@@ -155,12 +155,11 @@ $ git remote add origin https://github.com/<my usuario>/my-travel-plans.git
 ```bash
 $ git remote -v
 ```
-
-![img_11_git_merge_02](images/img_11_git_merge_02.png)
+### Enviando commits a 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTI4MDMzMjQsLTE5OTA4NDI3NDQsLT
-E4NTI1Mjg1MDgsNDY5NzQ4MDAyLDEyMTIxNDg5MjcsMTY1NDgz
-NzQ3MSwxMzE0NzM0NTU3LC0xNTQ0MDM1NzA3LDE3MTI0MjM5ND
-EsMTM2NDg3OTE4Nyw3MDY4MDA5NzEsMTM3Njg0ODA5NCwtNTIy
-Nzc5OTA2LDUzNDA5ODAxN119
+eyJoaXN0b3J5IjpbMTQ1NDUwODcxNCwtMTk5MDg0Mjc0NCwtMT
+g1MjUyODUwOCw0Njk3NDgwMDIsMTIxMjE0ODkyNywxNjU0ODM3
+NDcxLDEzMTQ3MzQ1NTcsLTE1NDQwMzU3MDcsMTcxMjQyMzk0MS
+wxMzY0ODc5MTg3LDcwNjgwMDk3MSwxMzc2ODQ4MDk0LC01MjI3
+Nzk5MDYsNTM0MDk4MDE3XX0=
 -->
