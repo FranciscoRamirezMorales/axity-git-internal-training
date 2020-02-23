@@ -142,15 +142,18 @@ h2 {
 
  3. Asegurar que al momento de crear el repositorio **NO** marcar la opción de `"Initialize this repository with a README"`.
 
-###  Conectar al repositorio remoto
+###  Crear una conexión del repositorio local al remoto
 
  1. Ejecutar el siguiente comando 
 
+```bash
+$ git remote add origin https://github.com/richardkalehoff/RichardsFantasticProject.git
+```
  4. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTM0MDkyLDQ2OTc0ODAwMiwxMjEyMT
-Q4OTI3LDE2NTQ4Mzc0NzEsMTMxNDczNDU1NywtMTU0NDAzNTcw
-NywxNzEyNDIzOTQxLDEzNjQ4NzkxODcsNzA2ODAwOTcxLDEzNz
-Y4NDgwOTQsLTUyMjc3OTkwNiw1MzQwOTgwMTddfQ==
+eyJoaXN0b3J5IjpbLTE4NTI1Mjg1MDgsNDY5NzQ4MDAyLDEyMT
+IxNDg5MjcsMTY1NDgzNzQ3MSwxMzE0NzM0NTU3LC0xNTQ0MDM1
+NzA3LDE3MTI0MjM5NDEsMTM2NDg3OTE4Nyw3MDY4MDA5NzEsMT
+M3Njg0ODA5NCwtNTIyNzc5OTA2LDUzNDA5ODAxN119
 -->
