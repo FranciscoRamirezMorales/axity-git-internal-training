@@ -18,6 +18,7 @@ Para simular un conflicto durante un merge y aprender como manejar este tipo de 
  3. En el archivo `index.html`, cambiar el encabezado `"Adventure"` por `"Crusade"`en el branch `heading-update`. Mensaje: `"Set page heading to Crusade"`.
 
  4. Establecer `master` como el branch activo.
+
  5. Ejecutar el comando de `merge`:
 
 ```bash
@@ -65,7 +66,8 @@ $ git status
 ![img_09_git_merge_06](images/img_09_git_merge_06.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE1Mjg3MTk2LDEwOTYxNjc0OCwtMzg4ND
-I0ODMsMzg4MDc1MzY4LDg2NzA4MjU5NCw3MjYwNTY4MjcsLTY4
-MTY0NDk3MiwxNzc4NzQyOTkxLC0zODAwNTM0MzVdfQ==
+eyJoaXN0b3J5IjpbNTI3NzgyODk0LDkxNTI4NzE5NiwxMDk2MT
+Y3NDgsLTM4ODQyNDgzLDM4ODA3NTM2OCw4NjcwODI1OTQsNzI2
+MDU2ODI3LC02ODE2NDQ5NzIsMTc3ODc0Mjk5MSwtMzgwMDUzND
+M1XX0=
 -->
