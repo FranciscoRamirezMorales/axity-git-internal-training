@@ -20,9 +20,9 @@ $ git remote
 
 Para conectarnos a un repositorio remoto ejecutemos los siguientes comandos:
 
- 1. 
+ 1. al directorio cd `~/axity-git-course`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMzQyOTk5MCwxMzY0ODc5MTg3LDcwNj
+eyJoaXN0b3J5IjpbMTcxMjQyMzk0MSwxMzY0ODc5MTg3LDcwNj
 gwMDk3MSwxMzc2ODQ4MDk0LC01MjI3Nzk5MDYsNTM0MDk4MDE3
 XX0=
 -->
