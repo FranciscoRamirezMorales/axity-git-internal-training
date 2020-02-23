@@ -30,18 +30,18 @@ Para crear un repositorio remoto debemos ejecutar los siguientes comandos:
 
 #### Contenido de README.md
 
-```
+```markdown
 # Travel Destinations
 
 A simple app to keep track of destinations I'd like to visit.
-
 ```
+
 ```bash
 $ cd ~/axity-git-course
 ```
 `my-travel-plans`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU4MjI0NTgzLC0xNTQ0MDM1NzA3LDE3MT
-I0MjM5NDEsMTM2NDg3OTE4Nyw3MDY4MDA5NzEsMTM3Njg0ODA5
-NCwtNTIyNzc5OTA2LDUzNDA5ODAxN119
+eyJoaXN0b3J5IjpbMTg5ODUxNTYwMiwtMTU0NDAzNTcwNywxNz
+EyNDIzOTQxLDEzNjQ4NzkxODcsNzA2ODAwOTcxLDEzNzY4NDgw
+OTQsLTUyMjc3OTkwNiw1MzQwOTgwMTddfQ==
 -->
