@@ -115,8 +115,10 @@ body {
 
 > Verificar que los commits realizados en el branch `master` no aparecen en `sidebar`.
 
-2. En el archivo `index.html` agregar algún contenido en el bloque `<p>` del bloque `<aside>`. Algo como `"My favorite movie is LOTR!"`
+2. En el archivo `index.html` agregar algún contenido en el bloque `<p>` del bloque `<aside>`. Algo como `"My favorite movie is LOTR!"`.
+
 3. Guardar y cerrar.
+
 4. Realizar `commit`  con el mensaje `"Update sidebar with favorite movie"`.
 
 ### 5. Agregar enlaces de redes sociales al pie de página
@@ -127,6 +129,7 @@ body {
 $ git checkout -b footer master
 ```
 2. Ejecutar `git log --oneline` para observar el efecto de esta acción.
+
 3. Agregar enlaces de redes sociales. En el archivo `index.html` agregar el siguiente código dentro del bloque `<footer>`.
 
 ```html
@@ -151,6 +154,7 @@ $ git checkout -b footer master
 > Modificar los enlaces a redes sociales si se desea.
 
 4. Guardar y cerrar.
+
 5. Realizar `commit`  con el mensaje `"Add links to social media"`.
 
 ### 6. Ver todos los branches
@@ -166,6 +170,6 @@ $ git log --oneline --decorate --graph --all
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNjk3MzI0NCwtMzYyMTk4MTMwLDQ3Nj
-YyMDYxOF19
+eyJoaXN0b3J5IjpbLTEzNDkzMDkxMTQsLTM2MjE5ODEzMCw0Nz
+Y2MjA2MThdfQ==
 -->
