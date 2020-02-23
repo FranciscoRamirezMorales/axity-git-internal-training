@@ -18,9 +18,9 @@ $ git remote
 
 ## El comando Git Remote
 
-### Práctica 11 - Simular un conflicto en merge
+### Práctica 11 - Git Remote
 
-Para creara un repositorio remoto debemos ejecutar los siguientes comandos:
+Para crear un repositorio remoto debemos ejecutar los siguientes comandos:
 
  1. Crear el directorio `~/my-travel-plans`
  2. Inicializar el directorio usando el comando `git init`
@@ -28,7 +28,7 @@ Para creara un repositorio remoto debemos ejecutar los siguientes comandos:
  4. Crear el archivo `index.html`
  5. Crear el archivo `app.cs`
 
-### README File Content
+#### Contenido de README.md
 
 ```
 # Travel Destinations
@@ -41,7 +41,7 @@ $ cd ~/axity-git-course
 ```
 `my-travel-plans`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzExNDg0MzMsLTE1NDQwMzU3MDcsMT
-cxMjQyMzk0MSwxMzY0ODc5MTg3LDcwNjgwMDk3MSwxMzc2ODQ4
-MDk0LC01MjI3Nzk5MDYsNTM0MDk4MDE3XX0=
+eyJoaXN0b3J5IjpbODU4MjI0NTgzLC0xNTQ0MDM1NzA3LDE3MT
+I0MjM5NDEsMTM2NDg3OTE4Nyw3MDY4MDA5NzEsMTM3Njg0ODA5
+NCwtNTIyNzc5OTA2LDUzNDA5ODAxN119
 -->
