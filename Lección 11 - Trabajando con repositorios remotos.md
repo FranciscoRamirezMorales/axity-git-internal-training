@@ -151,11 +151,14 @@ $ git remote add origin https://github.com/achamizoch/my-travel-plans.git
 ```
 
  2. Para verificar que la conexión se ha creado correctamente debemos ejecutar el siguiente comando:
- 3. 
+
+```bash
+$ git remote -v
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NTc1MDE0OSwtMTk5MDg0Mjc0NCwtMT
-g1MjUyODUwOCw0Njk3NDgwMDIsMTIxMjE0ODkyNywxNjU0ODM3
-NDcxLDEzMTQ3MzQ1NTcsLTE1NDQwMzU3MDcsMTcxMjQyMzk0MS
-wxMzY0ODc5MTg3LDcwNjgwMDk3MSwxMzc2ODQ4MDk0LC01MjI3
-Nzk5MDYsNTM0MDk4MDE3XX0=
+eyJoaXN0b3J5IjpbMzEyODcwMjQxLC0xOTkwODQyNzQ0LC0xOD
+UyNTI4NTA4LDQ2OTc0ODAwMiwxMjEyMTQ4OTI3LDE2NTQ4Mzc0
+NzEsMTMxNDczNDU1NywtMTU0NDAzNTcwNywxNzEyNDIzOTQxLD
+EzNjQ4NzkxODcsNzA2ODAwOTcxLDEzNzY4NDgwOTQsLTUyMjc3
+OTkwNiw1MzQwOTgwMTddfQ==
 -->
