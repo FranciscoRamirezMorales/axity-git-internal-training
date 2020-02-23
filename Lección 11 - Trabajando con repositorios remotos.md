@@ -36,12 +36,45 @@ Para crear un repositorio remoto debemos ejecutar los siguientes comandos:
 A simple app to keep track of destinations I'd like to visit.
 ```
 
+### Contenido de index.html
+
+Add the following content to the index.html file:
+
+```html
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Travels</title>
+    <meta name="description" content="">
+    <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+
+    <div class="container">
+        <div class="destination-container">
+            <div class="destination" id="florida">
+                <h2>Florida</h2>
+            </div>
+
+            <div class="destination" id="paris">
+                <h2>Paris</h2>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
+
+```
+
+
 ```bash
 $ cd ~/axity-git-course
 ```
 `my-travel-plans`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5ODUxNTYwMiwtMTU0NDAzNTcwNywxNz
-EyNDIzOTQxLDEzNjQ4NzkxODcsNzA2ODAwOTcxLDEzNzY4NDgw
-OTQsLTUyMjc3OTkwNiw1MzQwOTgwMTddfQ==
+eyJoaXN0b3J5IjpbLTE4MDYxODY3MjMsLTE1NDQwMzU3MDcsMT
+cxMjQyMzk0MSwxMzY0ODc5MTg3LDcwNjgwMDk3MSwxMzc2ODQ4
+MDk0LC01MjI3Nzk5MDYsNTM0MDk4MDE3XX0=
 -->
