@@ -138,9 +138,10 @@ h2 {
 
  1. Crear una cuenta en GitHub
  2. Crear un repositorio con el nombre `my-travel-plans`
+ 3. Asegurar que al momento de crear el repositorio NO ma Initialize with a README ⚠️
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NTYzMjIyMyw0Njk3NDgwMDIsMTIxMj
-E0ODkyNywxNjU0ODM3NDcxLDEzMTQ3MzQ1NTcsLTE1NDQwMzU3
-MDcsMTcxMjQyMzk0MSwxMzY0ODc5MTg3LDcwNjgwMDk3MSwxMz
-c2ODQ4MDk0LC01MjI3Nzk5MDYsNTM0MDk4MDE3XX0=
+eyJoaXN0b3J5IjpbLTE5MzMwNDU3MDgsNDY5NzQ4MDAyLDEyMT
+IxNDg5MjcsMTY1NDgzNzQ3MSwxMzE0NzM0NTU3LC0xNTQ0MDM1
+NzA3LDE3MTI0MjM5NDEsMTM2NDg3OTE4Nyw3MDY4MDA5NzEsMT
+M3Njg0ODA5NCwtNTIyNzc5OTA2LDUzNDA5ODAxN119
 -->
