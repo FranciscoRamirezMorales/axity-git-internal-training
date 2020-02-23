@@ -161,9 +161,10 @@ Para entender  como funciona el comando push veamos el siguiente video:
 
 **Video >>> (dar clic)**
 
+[![Git push](http://img.youtube.com/vi/21TvMEtMRys/0.jpg)](http://www.youtube.com/watch?v=21TvMEtMRys "Git push")
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAxNjQzNzA0LC0xOTkwODQyNzQ0LC0xOD
+eyJoaXN0b3J5IjpbODUxODkwMDgwLC0xOTkwODQyNzQ0LC0xOD
 UyNTI4NTA4LDQ2OTc0ODAwMiwxMjEyMTQ4OTI3LDE2NTQ4Mzc0
 NzEsMTMxNDczNDU1NywtMTU0NDAzNTcwNywxNzEyNDIzOTQxLD
 EzNjQ4NzkxODcsNzA2ODAwOTcxLDEzNzY4NDgwOTQsLTUyMjc3
