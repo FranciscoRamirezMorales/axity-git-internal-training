@@ -165,11 +165,15 @@ Para entender  como funciona el comando push veamos el siguiente video:
 
  1. Para enviar los commits de nuestro repositorio local al repositorio remoto debemos ejecutar:
 
+```bash
+$ git push origin master
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTEwOTQ1LDM2MTE5OTA1NCw4NTE4OT
-AwODAsLTE5OTA4NDI3NDQsLTE4NTI1Mjg1MDgsNDY5NzQ4MDAy
-LDEyMTIxNDg5MjcsMTY1NDgzNzQ3MSwxMzE0NzM0NTU3LC0xNT
-Q0MDM1NzA3LDE3MTI0MjM5NDEsMTM2NDg3OTE4Nyw3MDY4MDA5
-NzEsMTM3Njg0ODA5NCwtNTIyNzc5OTA2LDUzNDA5ODAxN119
+eyJoaXN0b3J5IjpbMTM5ODAwNTYwNSwzNjExOTkwNTQsODUxOD
+kwMDgwLC0xOTkwODQyNzQ0LC0xODUyNTI4NTA4LDQ2OTc0ODAw
+MiwxMjEyMTQ4OTI3LDE2NTQ4Mzc0NzEsMTMxNDczNDU1NywtMT
+U0NDAzNTcwNywxNzEyNDIzOTQxLDEzNjQ4NzkxODcsNzA2ODAw
+OTcxLDEzNzY4NDgwOTQsLTUyMjc3OTkwNiw1MzQwOTgwMTddfQ
+==
 -->
