@@ -28,7 +28,7 @@ Para crear un repositorio remoto debemos ejecutar los siguientes comandos:
  4. Crear el archivo `index.html`
  5. Crear el archivo `app.cs`
 
-#### Contenido de README.md
+#### Contenido de `README.md`
 
 ```markdown
 # Travel Destinations
@@ -36,9 +36,7 @@ Para crear un repositorio remoto debemos ejecutar los siguientes comandos:
 A simple app to keep track of destinations I'd like to visit.
 ```
 
-### Contenido de index.html
-
-Add the following content to the index.html file:
+### Contenido de `index.html`
 
 ```html
 <!doctype html>
@@ -74,7 +72,7 @@ $ cd ~/axity-git-course
 ```
 `my-travel-plans`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDYxODY3MjMsLTE1NDQwMzU3MDcsMT
-cxMjQyMzk0MSwxMzY0ODc5MTg3LDcwNjgwMDk3MSwxMzc2ODQ4
-MDk0LC01MjI3Nzk5MDYsNTM0MDk4MDE3XX0=
+eyJoaXN0b3J5IjpbOTYyOTgzMTI2LC0xNTQ0MDM1NzA3LDE3MT
+I0MjM5NDEsMTM2NDg3OTE4Nyw3MDY4MDA5NzEsMTM3Njg0ODA5
+NCwtNTIyNzc5OTA2LDUzNDA5ODAxN119
 -->
