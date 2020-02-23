@@ -20,12 +20,14 @@ $ git remote
 
 Para conectarnos a un repositorio remoto ejecutemos los siguientes comandos:
 
+ 1. Crear el directorio `~/my-travel-plans`
+ 2. Inicializar el directorio usando el comando git ini
 ```bash
 $ cd ~/axity-git-course
 ```
-
+`my-travel-plans`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDQwMzU3MDcsMTcxMjQyMzk0MSwxMz
-Y0ODc5MTg3LDcwNjgwMDk3MSwxMzc2ODQ4MDk0LC01MjI3Nzk5
-MDYsNTM0MDk4MDE3XX0=
+eyJoaXN0b3J5IjpbOTcyMjA2ODk3LC0xNTQ0MDM1NzA3LDE3MT
+I0MjM5NDEsMTM2NDg3OTE4Nyw3MDY4MDA5NzEsMTM3Njg0ODA5
+NCwtNTIyNzc5OTA2LDUzNDA5ODAxN119
 -->
