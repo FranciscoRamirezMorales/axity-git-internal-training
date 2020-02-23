@@ -163,11 +163,13 @@ Para entender  como funciona el comando push veamos el siguiente video:
 
 [![Git push](http://img.youtube.com/vi/21TvMEtMRys/0.jpg)](http://www.youtube.com/watch?v=21TvMEtMRys "Git push")
 
+ 1. Para enviar los commits de nuestro repositorio local al repositorio remoto debemos ejecutar:
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYxMTk5MDU0LDg1MTg5MDA4MCwtMTk5MD
-g0Mjc0NCwtMTg1MjUyODUwOCw0Njk3NDgwMDIsMTIxMjE0ODky
-NywxNjU0ODM3NDcxLDEzMTQ3MzQ1NTcsLTE1NDQwMzU3MDcsMT
-cxMjQyMzk0MSwxMzY0ODc5MTg3LDcwNjgwMDk3MSwxMzc2ODQ4
-MDk0LC01MjI3Nzk5MDYsNTM0MDk4MDE3XX0=
+eyJoaXN0b3J5IjpbLTIwOTEwOTQ1LDM2MTE5OTA1NCw4NTE4OT
+AwODAsLTE5OTA4NDI3NDQsLTE4NTI1Mjg1MDgsNDY5NzQ4MDAy
+LDEyMTIxNDg5MjcsMTY1NDgzNzQ3MSwxMzE0NzM0NTU3LC0xNT
+Q0MDM1NzA3LDE3MTI0MjM5NDEsMTM2NDg3OTE4Nyw3MDY4MDA5
+NzEsMTM3Njg0ODA5NCwtNTIyNzc5OTA2LDUzNDA5ODAxN119
 -->
