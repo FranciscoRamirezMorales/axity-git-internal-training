@@ -17,14 +17,14 @@ $ git remote
 [![Git remote](http://img.youtube.com/vi/414f0ukhOTY/0.jpg)](http://www.youtube.com/watch?v=414f0ukhOTY "Git remote")
 
 
-# [**Práctica 11**](Práctica%2007%20-%20Commits.md#ejercicio---commits)
+# [**Práctica 11**](Pr%C3%A1ctica%2011%20-%20Git%20Remote.md#pr%C3%A1ctica-11---git-remote)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NTgxOTU1NCwtMTQxNDI4OTk4OSwxOT
-U4ODQ5Mjc3LDExOTI3MDY0MTEsLTQ1NTAxMjA5LC01MDI1MjI1
-ODgsMTY4Nzg3ODY2NywtMTA0MzIyMDA4MCwtMTAxNDk4MjEzNy
-wtMjM4MjI5OTc1LC0xNTA0MDgxODc1LDEzOTgwMDU2MDUsMzYx
-MTk5MDU0LDg1MTg5MDA4MCwtMTk5MDg0Mjc0NCwtMTg1MjUyOD
-UwOCw0Njk3NDgwMDIsMTIxMjE0ODkyNywxNjU0ODM3NDcxLDEz
-MTQ3MzQ1NTddfQ==
+eyJoaXN0b3J5IjpbMzcyNzc4MDYwLC0xNDE0Mjg5OTg5LDE5NT
+g4NDkyNzcsMTE5MjcwNjQxMSwtNDU1MDEyMDksLTUwMjUyMjU4
+OCwxNjg3ODc4NjY3LC0xMDQzMjIwMDgwLC0xMDE0OTgyMTM3LC
+0yMzgyMjk5NzUsLTE1MDQwODE4NzUsMTM5ODAwNTYwNSwzNjEx
+OTkwNTQsODUxODkwMDgwLC0xOTkwODQyNzQ0LC0xODUyNTI4NT
+A4LDQ2OTc0ODAwMiwxMjEyMTQ4OTI3LDE2NTQ4Mzc0NzEsMTMx
+NDczNDU1N119
 -->
