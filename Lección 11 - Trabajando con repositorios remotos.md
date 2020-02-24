@@ -197,7 +197,7 @@ $ git push origin master
 $ git pull origin master
 ```
 
-
+![img_11_git_remote_05](images/img_11_git_remote_05.png)
 
 
 
@@ -207,11 +207,11 @@ $ git pull origin master
 
 `let traveling = true;`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NTAxMjA5LC01MDI1MjI1ODgsMTY4Nz
-g3ODY2NywtMTA0MzIyMDA4MCwtMTAxNDk4MjEzNywtMjM4MjI5
-OTc1LC0xNTA0MDgxODc1LDEzOTgwMDU2MDUsMzYxMTk5MDU0LD
-g1MTg5MDA4MCwtMTk5MDg0Mjc0NCwtMTg1MjUyODUwOCw0Njk3
-NDgwMDIsMTIxMjE0ODkyNywxNjU0ODM3NDcxLDEzMTQ3MzQ1NT
-csLTE1NDQwMzU3MDcsMTcxMjQyMzk0MSwxMzY0ODc5MTg3LDcw
-NjgwMDk3MV19
+eyJoaXN0b3J5IjpbMTE5MjcwNjQxMSwtNDU1MDEyMDksLTUwMj
+UyMjU4OCwxNjg3ODc4NjY3LC0xMDQzMjIwMDgwLC0xMDE0OTgy
+MTM3LC0yMzgyMjk5NzUsLTE1MDQwODE4NzUsMTM5ODAwNTYwNS
+wzNjExOTkwNTQsODUxODkwMDgwLC0xOTkwODQyNzQ0LC0xODUy
+NTI4NTA4LDQ2OTc0ODAwMiwxMjEyMTQ4OTI3LDE2NTQ4Mzc0Nz
+EsMTMxNDczNDU1NywtMTU0NDAzNTcwNywxNzEyNDIzOTQxLDEz
+NjQ4NzkxODddfQ==
 -->
