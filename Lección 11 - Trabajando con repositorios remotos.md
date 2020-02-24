@@ -206,7 +206,7 @@ $ git pull origin master
 
 [![Git fetch](http://img.youtube.com/vi/jwyQUfE1Eqw/0.jpg)](http://www.youtube.com/watch?v=jwyQUfE1Eqw "Git fetch")
 
-### Ejercicio: Intente usar git fech
+### Ejercicio: Intente usar `git fetch`
 
  1. Hacer un cambio en `index.html` en GitHub
  2. Hacer un cambio en `index.html` en el repositorio local
@@ -216,11 +216,11 @@ $ git pull origin master
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDI3MzAwMTMsLTE0MTQyODk5ODksMT
-k1ODg0OTI3NywxMTkyNzA2NDExLC00NTUwMTIwOSwtNTAyNTIy
-NTg4LDE2ODc4Nzg2NjcsLTEwNDMyMjAwODAsLTEwMTQ5ODIxMz
-csLTIzODIyOTk3NSwtMTUwNDA4MTg3NSwxMzk4MDA1NjA1LDM2
-MTE5OTA1NCw4NTE4OTAwODAsLTE5OTA4NDI3NDQsLTE4NTI1Mj
-g1MDgsNDY5NzQ4MDAyLDEyMTIxNDg5MjcsMTY1NDgzNzQ3MSwx
-MzE0NzM0NTU3XX0=
+eyJoaXN0b3J5IjpbMTI4NTY4MTE5NSwtMTQxNDI4OTk4OSwxOT
+U4ODQ5Mjc3LDExOTI3MDY0MTEsLTQ1NTAxMjA5LC01MDI1MjI1
+ODgsMTY4Nzg3ODY2NywtMTA0MzIyMDA4MCwtMTAxNDk4MjEzNy
+wtMjM4MjI5OTc1LC0xNTA0MDgxODc1LDEzOTgwMDU2MDUsMzYx
+MTk5MDU0LDg1MTg5MDA4MCwtMTk5MDg0Mjc0NCwtMTg1MjUyOD
+UwOCw0Njk3NDgwMDIsMTIxMjE0ODkyNywxNjU0ODM3NDcxLDEz
+MTQ3MzQ1NTddfQ==
 -->
