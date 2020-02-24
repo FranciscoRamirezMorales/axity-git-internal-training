@@ -1,5 +1,9 @@
 # Control de versiones con Git
 
+Objetivo:
+
+
+
 ## Día 1
 
  - [Lección 01 - Introducción.md](Lecci%C3%B3n%2001%20-%20Introducci%C3%B3n.md)
@@ -24,5 +28,6 @@
 
  - [Lección 11 - Trabajando con repositorios remotos.md](Lecci%C3%B3n%2011%20-%20Trabajando%20con%20repositorios%20remotos.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMzA4NzQxMSwxOTc4MjkyMzE5XX0=
+eyJoaXN0b3J5IjpbNzc4MzI5ODk1LDE0MTMwODc0MTEsMTk3OD
+I5MjMxOV19
 -->
