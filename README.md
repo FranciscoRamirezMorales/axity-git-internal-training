@@ -8,7 +8,7 @@ Esta orientado a todos aquellos colaboradores o consultores cuyas actividades es
 
  - Programación o codificación
 
- - Implementación de soluciones tecnológicas
+ - Soluciones tecnológicas que deriven en codificación
 
 # Objetivos del curso
 
@@ -83,5 +83,5 @@ En este curso aprenderás:
 
 **Nota**: La VM viene configurada con 4 GB de memoria y 2 Cores/Procesadores. Ajustar si es necesario.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEyNTk2MDQwXX0=
+eyJoaXN0b3J5IjpbLTE5NDM4MjMxNDRdfQ==
 -->
