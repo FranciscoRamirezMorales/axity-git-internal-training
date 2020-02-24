@@ -42,8 +42,10 @@ Antes de comenzar, debemos asegurarnos de los siguiente:
 ```
 
  - Todos los archivos han sido agregados al Staging Index y se ha realizado un commit.
+ 
  - El único branch es master. Si existen otros branches, asegurar que han sido borrados.
- - Al ejecutar `git status,` la salida debe indicar que el directorio de trabajo esta limpio (`working directory clean`).
+ 
+ - Al ejecutar `git status,` la salida debe indicar que el directorio de trabajo está limpio (`working directory clean`).
 
 ## Pasos a seguir
 
@@ -174,6 +176,6 @@ $ git log --oneline --decorate --graph --all
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNzQ3NTA5MCwtMzYyMTk4MTMwLDQ3Nj
-YyMDYxOF19
+eyJoaXN0b3J5IjpbNDQxNDE5NDgwLC0zNjIxOTgxMzAsNDc2Nj
+IwNjE4XX0=
 -->
