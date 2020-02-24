@@ -58,14 +58,18 @@ body {
 ```
 
 2. Guardar el archivo y cerrar.
-1. Realizar `commit`  con el mensaje `"Add starting HTML structure"`.
-1. Usar `git log --oneline` para ver el historial de commits.
+
+3. Realizar `commit`  con el mensaje `Add starting HTML structure`.
+
+4. Usar `git log --oneline` para ver el historial de commits.
 
 ### 2. Agregar barra lateral
 
-1. Crear un `branch` llamado `sidebar` apuntando al **SHA** asociado al commit del mensaje `"Add starting HTML structure"`.
-1. Realizar `checkout` para cambiar al branch `slidebar`.
-1. Usar `git log --oneline` para ver el historial de commits.
+1. Crear un `branch` llamado `sidebar` apuntando al **SHA** asociado al commit del mensaje `Add starting HTML structure`.
+
+2. Realizar `checkout` para cambiar al branch `slidebar`.
+
+3. Usar `git log --oneline` para ver el historial de commits.
 
 > Verificar que los commits realizados en el branch `master` no aparecen en `sidebar`.
 
@@ -97,13 +101,13 @@ body {
 > Podemos personalizar el contenido del bloque si se desea. 
 
 5. Guardar y cerrar.
-6. Realizar `commit`  con el mensaje `"Add new sidebar content"`.
+6. Realizar `commit`  con el mensaje `Add new sidebar content`.
 
 ### 3. Cambiar el encabezado en `master`
 
 1. Realizar `checkout` para cambiar al branch `master`.
 
-2. En el archivo `index.html` cambiar el texto del encabezado `<h1>` de `Expedition` a `"Adventure`
+2. En el archivo `index.html` cambiar el texto del encabezado `<h1>` de `Expedition` a `Adventure`
 
 3. Guardar y cerrar.
 
@@ -170,6 +174,6 @@ $ git log --oneline --decorate --graph --all
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQwNDMxMTQ0LC0zNjIxOTgxMzAsNDc2Nj
-IwNjE4XX0=
+eyJoaXN0b3J5IjpbLTczNzQ3NTA5MCwtMzYyMTk4MTMwLDQ3Nj
+YyMDYxOF19
 -->
