@@ -1,8 +1,12 @@
 # Acerca del curso
 
-- En este curso conocerás acerca de los Sistema de Control de Versionamiento
+En este curso aprenderás:
 
-En este curso aprenderás a usar Git y GitHub como herramienta de versionamiento
+- Acerca de los Sistema de Control de Versionamiento.
+
+ - A usar Git y GitHub como herramienta de versionamiento.
+
+- Trabajar de forma colaborativa con GitHub
 
 # Objetivos del participante
 
@@ -67,5 +71,5 @@ En este curso aprenderás a usar Git y GitHub como herramienta de versionamiento
 
 **Nota**: La VM viene configurada con 4 GB de memoria y 2 Cores/Procesadores. Ajustar si es necesario.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc1Mzk0Mjg5XX0=
+eyJoaXN0b3J5IjpbLTQyNTU4NTg3N119
 -->
