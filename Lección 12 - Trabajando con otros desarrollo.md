@@ -71,11 +71,14 @@ $ git show 5966b66
 
 ## Filtrar por un palabra en el mensaje del commit
 
-
+```bash
+$ git log --grep=bug
+$ git log --grep bug
+```
 
 ## Resumen
 
-Fork es una acción hecha sobre el sevicio de GitHub:
+Fork es una acción hecha sobre el servicio de GitHub:
 
  - Realiza una copia idéntica de otro repositorio.
  - Se tiene control total sobre la copia del repositorio.
@@ -84,6 +87,6 @@ Fork es una acción hecha sobre el sevicio de GitHub:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjI1NDQwNjQsLTIxNDQ2NzExNzksOT
-A4NTg3NTA4XX0=
+eyJoaXN0b3J5IjpbNTg1ODIzMDQ5LC0yMTQ0NjcxMTc5LDkwOD
+U4NzUwOF19
 -->
