@@ -1,4 +1,5 @@
 # Instalando Git
+
 Para habilitar un ambiente de Git es necesario realizar los siguientes pasos:
 
  - Instalar Git
@@ -82,7 +83,7 @@ Para configurar el editor por defecto (**Atom**) de Git ejecutar el siguiente co
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTM1NzUyNTQsMTk5MDc4NTMxOCwxNz
-IyMzQwNzc4LDE5NTI4MzMzLDEzMzIyNTU0NTIsMTc3ODk1NTA1
-MF19
+eyJoaXN0b3J5IjpbLTE0OTQ5MDEwNjAsLTIwOTM1NzUyNTQsMT
+k5MDc4NTMxOCwxNzIyMzQwNzc4LDE5NTI4MzMzLDEzMzIyNTU0
+NTIsMTc3ODk1NTA1MF19
 -->
