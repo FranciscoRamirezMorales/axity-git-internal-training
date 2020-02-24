@@ -10,7 +10,7 @@
 
 ## Entendiendo la funcionalidad de `Fork`
 
- - `Fork` es una acción hecha sobre el servicio de GitHub:
+ - `Fork` es una acción hecha sobre el servicio de **GitHub**:
 
  - Realiza una copia idéntica de otro repositorio.
  
@@ -18,11 +18,11 @@
  
  - Los cambios realizados en la copia no afectan al repositorio original.
  
- - `Fork` no es un comando de git
+ - `Fork` no es un comando de **Git**
  
- - `Fork` es una funcionalidad de Github
+ - `Fork` es una funcionalidad de **GitHub**
 
-Para entender como funciona la funcionalidad de `fork` en GitHub realice los siguientes pasos:
+Para entender cómo funciona la funcionalidad de `fork` en **GitHub** realice los siguientes pasos:
 
 1. Use `git clone` para clonar [Proyecto my-travel-plans de Lam](https://github.com/udacity/course-collaboration-travel-plans).
 
@@ -89,6 +89,6 @@ $ git log --grep bug
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2ODc1MDkxMyw1ODU4MjMwNDksLTIxND
-Q2NzExNzksOTA4NTg3NTA4XX0=
+eyJoaXN0b3J5IjpbLTE5NDc1NjA3MDcsNTg1ODIzMDQ5LC0yMT
+Q0NjcxMTc5LDkwODU4NzUwOF19
 -->
