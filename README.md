@@ -1,6 +1,9 @@
-# Acerca del curso
 
-**Control de Versiones con Git** es un curso que ha sido desarrollado como parte del programa de capacitación interna de Axity.
+
+# Control de Versiones con Git
+
+## Acerca del curso
+Es un curso que ha sido desarrollado como parte del programa de capacitación interna de Axity.
 
 Está orientado a todos aquellos colaboradores o consultores cuyas actividades están enfocadas en:
 
@@ -10,7 +13,7 @@ Está orientado a todos aquellos colaboradores o consultores cuyas actividades e
 
  - Soluciones tecnológicas que deriven en codificación
 
-# Objetivos del curso
+## Objetivos del curso
 
 En este curso aprenderás:
 
@@ -20,7 +23,7 @@ En este curso aprenderás:
 
 - Trabajar de forma colaborativa con GitHub
 
-# Contenido del curso
+## Contenido del curso
 
  - [Lección 01 - Introducción](Lecci%C3%B3n%2001%20-%20Introducci%C3%B3n.md)
 
@@ -44,7 +47,7 @@ En este curso aprenderás:
 
  - [Lección 11 - Trabajando con repositorios remotos](Lecci%C3%B3n%2011%20-%20Trabajando%20con%20repositorios%20remotos.md)
 
-# Pre-requisitos
+## Pre-requisitos
 
  - Conocimiento sobre comandos básicos de Linux
 
@@ -65,5 +68,5 @@ En este curso aprenderás:
 **Nota**: La VM viene configurada con 4 GB de memoria y 2 Cores/Procesadores. Ajustar si es necesario.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NTM5MjAyOV19
+eyJoaXN0b3J5IjpbLTE5NTQzNzYxNTBdfQ==
 -->
