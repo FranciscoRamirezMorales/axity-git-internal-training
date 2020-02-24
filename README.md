@@ -30,8 +30,6 @@ En este curso aprenderás:
 
  - [Lección 04 - Creando un Repositorio de Git](Lecci%C3%B3n%2004%20-%20Creando%20un%20Repositorio%20de%20Git.md)
 
-### Día 2
-
  - [Lección 05 - Analizando el Historial del Repositorio](Lecci%C3%B3n%2005%20-%20Analizando%20el%20Historial%20del%20Repositorio.md)
 
  - [Lección 06 - Agregando commits al repositorio](Lecci%C3%B3n%2006%20-%20Agregando%20commits%20al%20repositorio.md)
@@ -40,8 +38,6 @@ En este curso aprenderás:
 
  - [Lección 08 - Merging](Lecci%C3%B3n%2008%20-%20Merging.md)
 
-### Día 3
-
  - [Lección 09 - Manejando conflictos del merge](Lecci%C3%B3n%2009%20-%20Manejando%20conflictos%20del%20merge.md)
 
  - [Lección 10 - Deshaciendo cambios](Lecci%C3%B3n%2010%20-%20Deshaciendo%20cambios.md)
@@ -49,7 +45,6 @@ En este curso aprenderás:
  - [Lección 11 - Trabajando con repositorios remotos](Lecci%C3%B3n%2011%20-%20Trabajando%20con%20repositorios%20remotos.md)
 
 # Pre-requisitos
-
 
  - Conocimiento sobre comandos básicos de Linux
 
@@ -68,6 +63,7 @@ En este curso aprenderás:
 -   Para validar, iniciar la VM con el usuario: **axity** y contraseña: **Welcome1**.
 
 **Nota**: La VM viene configurada con 4 GB de memoria y 2 Cores/Procesadores. Ajustar si es necesario.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5OTYzNjc2Nl19
+eyJoaXN0b3J5IjpbLTIwMzM2ODA5OTVdfQ==
 -->
