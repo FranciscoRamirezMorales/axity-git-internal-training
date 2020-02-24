@@ -185,18 +185,19 @@ $ git push origin master
 }
 ```
 
- 2. Agregar la siguiente línea dentro de las reglas de <h2
+ 2. Agregar la siguiente línea dentro de las reglas de `h2`
 
-`transition: transform 0.5s;` to the `
+`transition: transform 0.5s;`
+
  4.  Hacer commit con el mensaje "Add animation to destination headings".
  5. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MjU1NDc2MiwtMTA0MzIyMDA4MCwtMT
-AxNDk4MjEzNywtMjM4MjI5OTc1LC0xNTA0MDgxODc1LDEzOTgw
-MDU2MDUsMzYxMTk5MDU0LDg1MTg5MDA4MCwtMTk5MDg0Mjc0NC
-wtMTg1MjUyODUwOCw0Njk3NDgwMDIsMTIxMjE0ODkyNywxNjU0
-ODM3NDcxLDEzMTQ3MzQ1NTcsLTE1NDQwMzU3MDcsMTcxMjQyMz
-k0MSwxMzY0ODc5MTg3LDcwNjgwMDk3MSwxMzc2ODQ4MDk0LC01
-MjI3Nzk5MDZdfQ==
+eyJoaXN0b3J5IjpbLTE1ODU3OTUyNTIsLTEwNDMyMjAwODAsLT
+EwMTQ5ODIxMzcsLTIzODIyOTk3NSwtMTUwNDA4MTg3NSwxMzk4
+MDA1NjA1LDM2MTE5OTA1NCw4NTE4OTAwODAsLTE5OTA4NDI3ND
+QsLTE4NTI1Mjg1MDgsNDY5NzQ4MDAyLDEyMTIxNDg5MjcsMTY1
+NDgzNzQ3MSwxMzE0NzM0NTU3LC0xNTQ0MDM1NzA3LDE3MTI0Mj
+M5NDEsMTM2NDg3OTE4Nyw3MDY4MDA5NzEsMTM3Njg0ODA5NCwt
+NTIyNzc5OTA2XX0=
 -->
