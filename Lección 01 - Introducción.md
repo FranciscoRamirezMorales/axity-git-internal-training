@@ -1,7 +1,42 @@
-# Control de versiones con Git
+# Introducción
 
-Objetivo:
+##  Introducción
 
+Un controlador de versiones es una herramienta que gestiona los cambios de un conjunto de archivos. Cada conjunto de cambios genera una nueva versión de los archivos. El controlador de versiones permite, además de la gestión de cambios, recuperar una versión vieja
+
+de los archivos o un archivo, así como resolver conflictos entre versiones.
+
+Aunque su principal uso es para agilizar la colaboración en el
+
+desarrollo de proyectos de *software*, también puede utilizarse para
+
+otros fines (como estas notas) e inclusive para trabajar solo (como en
+
+una tesis o proyecto).
+
+Especificamente, un controlador de versiones ofrece lo siguiente:
+
+1. Nada de lo que es *"comiteado"* (_commited_, ahorita vemos que es eso)
+
+se perderá.
+
+2. Lleva un registro de *quién* hizo *qué* cambios y *cuándo* los
+
+hizo.
+
+3. Es *casi* imposible (nota el casi...) sobreescribir los cambios de tu
+
+colaborador. El controlador de versiones notificará que hay un
+
+**conflicto** y pedirá que lo resuelvas antes de continuar.
+
+En esta clase usaremos `git`, aunque debemos de notar que no es el
+
+único controlador de versiones que existe, entre los más populares se
+
+encuentran `bazaar`, `mercurial` y `subversion` (Aunque este último
+
+pertenece a una diferente clase de controladores de versiones).
 
 
 ## Día 1
@@ -28,6 +63,6 @@ Objetivo:
 
  - [Lección 11 - Trabajando con repositorios remotos.md](Lecci%C3%B3n%2011%20-%20Trabajando%20con%20repositorios%20remotos.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc4MzI5ODk1LDE0MTMwODc0MTEsMTk3OD
+eyJoaXN0b3J5IjpbMzMyNzQxMTQyLDE0MTMwODc0MTEsMTk3OD
 I5MjMxOV19
 -->
