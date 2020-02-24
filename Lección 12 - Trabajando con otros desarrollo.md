@@ -75,13 +75,13 @@ $ git log --author=Surma
 $ git log --author="Paul Lewis"
 ```
 
-## Filtrar por commit especifico
+## Filtrar por commit específico
 
 ```bash
 $ git show 5966b66
 ```
 
-## Filtrar por un palabra en el mensaje del commit
+## Filtrar por una palabra en el mensaje del commit
 
 ```bash
 $ git log --grep=bug
@@ -89,6 +89,6 @@ $ git log --grep bug
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NDE5ODA4MSw1ODU4MjMwNDksLTIxND
+eyJoaXN0b3J5IjpbLTIwNTg3NTQyNCw1ODU4MjMwNDksLTIxND
 Q2NzExNzksOTA4NTg3NTA4XX0=
 -->
