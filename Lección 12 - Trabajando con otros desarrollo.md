@@ -41,10 +41,12 @@ Ahora hagamos lo siguiente:
 
 Fork es una acción hecha sobre el sevicio de GitHub:
 
-Realiza una copia idéntica de otro repositorio
-Se tiene control total sobre la copia del repositorio
-Los cambios realizados en la copia no afectan al repositorio original
+ - Realiza una copia idéntica de otro repositorio.
+ - Se tiene control total sobre la copia del repositorio.
+ - Los cambios realizados en la copia no afectan al repositorio original.
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIxMDEyNTMwLDkwODU4NzUwOF19
+eyJoaXN0b3J5IjpbLTIxNDQ2NzExNzksOTA4NTg3NTA4XX0=
 -->
