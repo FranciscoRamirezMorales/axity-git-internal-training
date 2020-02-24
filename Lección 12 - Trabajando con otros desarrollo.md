@@ -35,8 +35,12 @@ Ahora hagamos lo siguiente:
 
 **¿Qués es lo que observa ahora?**
 
-> Podemos ver ahora ".
+> Podemos ver ahora los cambios son enviados al repositorio de Lam".
+
+## Resumen
+
+Fork es
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3ODk1OTgxMiw5MDg1ODc1MDhdfQ==
+eyJoaXN0b3J5IjpbLTIxNDI4ODUxNzUsOTA4NTg3NTA4XX0=
 -->
