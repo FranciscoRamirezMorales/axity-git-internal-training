@@ -38,7 +38,7 @@ Ahora hagamos lo siguiente:
 
 > Podemos ver ahora los cambios son enviados al repositorio de Lam".
 
-## Revisando el historial de cambios
+## Revisar el historial de cambios
 
  1. Clonar el [Proyecto Lighhouse](https://github.com/GoogleChrome/lighthouse).
 
@@ -50,10 +50,13 @@ Ahora hagamos lo siguiente:
 $ git shortlog
 ```
 
-### Alfabéticamente por el número de commits
+### Por el número de commits ordenado numéricamente 
 
- 
+ ```
+$ git shortlog -s -n
+```
 
+## Filtrado 
 ## Resumen
 
 Fork es una acción hecha sobre el sevicio de GitHub:
@@ -65,6 +68,6 @@ Fork es una acción hecha sobre el sevicio de GitHub:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMzgyMjMxMSwtMjE0NDY3MTE3OSw5MD
+eyJoaXN0b3J5IjpbMTg1MDA5NjIwNCwtMjE0NDY3MTE3OSw5MD
 g1ODc1MDhdfQ==
 -->
