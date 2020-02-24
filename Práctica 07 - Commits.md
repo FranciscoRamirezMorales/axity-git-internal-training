@@ -76,7 +76,7 @@ body {
 > Verificar que los commits realizados en el branch `master` no aparecen en `sidebar`.
 
 
-> Podemos abrir el archivo   `css/app.css` en Atom y posteriormente cambiar entre el branch `master` y `slidebar` para poder observar como se actualiza el contenido en las diferentes versiones del archivo.
+> Podemos abrir el archivo   `css/app.css` en Atom y posteriormente cambiar entre el branch `master` y `slidebar` para poder observar cómo se actualiza el contenido en las diferentes versiones del archivo.
 
 4. Crear una barra lateral. Para hacer esto se debe asegurar que el branch activo es `sidebar` y agregar el código del bloque `<aside>` al archivo HTML:
 
@@ -176,6 +176,6 @@ $ git log --oneline --decorate --graph --all
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQxNDE5NDgwLC0zNjIxOTgxMzAsNDc2Nj
+eyJoaXN0b3J5IjpbNTczNTg3MTU2LC0zNjIxOTgxMzAsNDc2Nj
 IwNjE4XX0=
 -->
