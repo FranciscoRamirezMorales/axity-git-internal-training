@@ -50,7 +50,9 @@ Ahora hagamos lo siguiente:
 $ git shortlog
 ```
 
+### Alfabéticamente por el número de commits
 
+ 
 
 ## Resumen
 
@@ -63,6 +65,6 @@ Fork es una acción hecha sobre el sevicio de GitHub:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ3OTAwMzg3LC0yMTQ0NjcxMTc5LDkwOD
-U4NzUwOF19
+eyJoaXN0b3J5IjpbLTkxMzgyMjMxMSwtMjE0NDY3MTE3OSw5MD
+g1ODc1MDhdfQ==
 -->
