@@ -1,5 +1,13 @@
 # Introducción
 
+En este curso aprenderás a usar hasta tener más de lo que necesitas para trabajar con Git, adicionalmente **aprenderás a utilizar GitHub** como un repositorio remoto, incluyendo formas de **trabajar en equipo, flujos de trabajo, tokens, SSH, Pull Request y otros temas avanzados** que serán de mucha utilidad en tu vida profesional.
+
+En los inicios del curso **empezaremos desde lo más básico** haciendo ejercicios prácticos. Durante el transcurso del curso, **trabajaras de forma colectiva**, real y aplicando los conocimientos **con más de 14 ejercicios y ejemplos**.
+
+Durante todo el curso, **los temas nuevos tendrán su introducción con diapositivas divertidas** y reales **que te harán comprender** los conceptos que muchas personas tienden a sentir complejos a primera impresión.
+
+Temas como el **Stash, Rebase, Pull Request, Reflog** y otros, son cubiertos para brindarte el control que necesitas para trabajar en tus proyectos de forma segura.
+
 ## Lo que aprenderás
 
  - Una base sólida de Git.
@@ -33,12 +41,13 @@
  - [Lección 08 - Merging.md](Lecci%C3%B3n%2008%20-%20Merging.md)
 
 ### Día 3
+
  - [Lección 09 - Manejando conflictos del merge.md](Lecci%C3%B3n%2009%20-%20Manejando%20conflictos%20del%20merge.md)
 
  - [Lección 10 - Deshaciendo cambios.md](Lecci%C3%B3n%2010%20-%20Deshaciendo%20cambios.md)
 
  - [Lección 11 - Trabajando con repositorios remotos.md](Lecci%C3%B3n%2011%20-%20Trabajando%20con%20repositorios%20remotos.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MDE4MzgxMCwxNDEzMDg3NDExLDE5Nz
-gyOTIzMTldfQ==
+eyJoaXN0b3J5IjpbOTkwNTc0MTY3LDE0MTMwODc0MTEsMTk3OD
+I5MjMxOV19
 -->
