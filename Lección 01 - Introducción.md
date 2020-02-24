@@ -2,19 +2,14 @@
 
 En este curso aprenderás:
  - Para que sirven los Sistemas de Control de Versiones (VCS)
- - A usar **Git** desde los comandos más básicos para trabajar de forma local hasta poder interactuar de forma remota
- - A utilizar **GitHub** como un servicio de repositorio remoto y aprender a trabajar con equipos de desarrollo.
+
+ - A usar **Git** desde los comandos más básicos para trabajar de forma local hasta poder interactuar de forma remota.
+
+ - A utilizar **GitHub** como un servicio de repositorio remoto.
+
+ - A trabajar con equipos de desarrollo de forma colaborativa.
 
 
-
-## Lo que aprenderás
-
- - Una base sólida de Git.
-
- - Conocimiento necesario para trabajar en equipo en proyectos de diseño y/o desarrollo de aplicaciones.
-
- - Conocer y utilizar GitHub para mantener un repositorio remoto seguro. 
--   Aprender a trabajar de forma colectiva en el mismo proyecto.
 
 
 ## Agenda
@@ -47,6 +42,6 @@ En este curso aprenderás:
 
  - [Lección 11 - Trabajando con repositorios remotos.md](Lecci%C3%B3n%2011%20-%20Trabajando%20con%20repositorios%20remotos.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NTg3MDI2NywxNDEzMDg3NDExLDE5Nz
-gyOTIzMTldfQ==
+eyJoaXN0b3J5IjpbLTIxMDQzNzI3MDEsMTQxMzA4NzQxMSwxOT
+c4MjkyMzE5XX0=
 -->
