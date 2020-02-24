@@ -3,12 +3,16 @@
 ## Lo que aprenderás
 
  - Una base sólida de Git.
+
  - Conocimiento necesario para trabajar en equipo en proyectos de diseño y/o desarrollo de aplicaciones.
+
  - Conocer y utilizar GitHub para mantener un repositorio remoto seguro. 
 -   Aprender a trabajar de forma colectiva en el mismo proyecto.
 
 
-## Día 1
+## Agenda
+
+### Día 1
 
  - [Lección 01 - Introducción.md](Lecci%C3%B3n%2001%20-%20Introducci%C3%B3n.md)
 
@@ -18,6 +22,8 @@
 
  - [Lección 04 - Creando un Repositorio de Git.md](Lecci%C3%B3n%2004%20-%20Creando%20un%20Repositorio%20de%20Git.md)
 
+### Día 2
+
  - [Lección 05 - Analizando el Historial del Repositorio.md](Lecci%C3%B3n%2005%20-%20Analizando%20el%20Historial%20del%20Repositorio.md)
 
  - [Lección 06 - Agregando commits al repositorio.md](Lecci%C3%B3n%2006%20-%20Agregando%20commits%20al%20repositorio.md)
@@ -26,12 +32,13 @@
 
  - [Lección 08 - Merging.md](Lecci%C3%B3n%2008%20-%20Merging.md)
 
+### Día 3
  - [Lección 09 - Manejando conflictos del merge.md](Lecci%C3%B3n%2009%20-%20Manejando%20conflictos%20del%20merge.md)
 
  - [Lección 10 - Deshaciendo cambios.md](Lecci%C3%B3n%2010%20-%20Deshaciendo%20cambios.md)
 
  - [Lección 11 - Trabajando con repositorios remotos.md](Lecci%C3%B3n%2011%20-%20Trabajando%20con%20repositorios%20remotos.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg1NjY3NTA2LDE0MTMwODc0MTEsMTk3OD
-I5MjMxOV19
+eyJoaXN0b3J5IjpbMTg4MDE4MzgxMCwxNDEzMDg3NDExLDE5Nz
+gyOTIzMTldfQ==
 -->
