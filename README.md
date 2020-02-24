@@ -1,5 +1,9 @@
 # Acerca del curso
 
+**Control de Versiones con Git** es un curso que ha sido desarrollado 
+
+# Objetivos del curso
+
 En este curso aprenderás:
 
 - Acerca de los Sistema de Control de Versionamiento.
@@ -71,5 +75,5 @@ En este curso aprenderás:
 
 **Nota**: La VM viene configurada con 4 GB de memoria y 2 Cores/Procesadores. Ajustar si es necesario.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNTU4NTg3N119
+eyJoaXN0b3J5IjpbMTc4MjAxODY5Ml19
 -->
