@@ -6,10 +6,10 @@ En esta lección veremos:
 
  - Cómo realizar un Merge entre Branches
 
- - los dos principales tipos de **Merge**
- - Fast-forward merge
+ - Los dos principales tipos de **Merge**:
+	 - Fast-forward merge
 
- - Regular merge
+	 - Regular merge
 
 ## ¿Qué es merge?
 
@@ -71,7 +71,7 @@ $ git log --oneline --decorate --graph --all
 -   [git-merge](https://git-scm.com/docs/git-merge) en Git Docs
 -   [git merge](https://www.atlassian.com/git/tutorials/git-merge) en Atlassian blog
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTczODU4MDEsLTE0ODY3NTIwNzksLT
-EzMTI2MTUyNTYsLTE3MzcyNDUzMDYsMjEyOTA1ODY0MSwtMzg0
-NjQyMjMxLDQ3NDE0Nzk1Ml19
+eyJoaXN0b3J5IjpbMTA3OTcxNzIxOSwtMTQ4Njc1MjA3OSwtMT
+MxMjYxNTI1NiwtMTczNzI0NTMwNiwyMTI5MDU4NjQxLC0zODQ2
+NDIyMzEsNDc0MTQ3OTUyXX0=
 -->
