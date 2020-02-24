@@ -1,4 +1,4 @@
-# Tagging, Branching & Merging
+# Tagging & Branching
 
 En esta lección veremos cómo:
 
@@ -12,11 +12,7 @@ En esta lección veremos cómo:
 
  - Administrar branches
 
- - Ejercicio
-
- - Realizar un Merge entre Branches
-
- - Tratar posibles problemas al hacer Merge
+ - Práctica
 
 ## Vistazo general
 En esta lección veremos los siguientes comandos:
@@ -141,7 +137,7 @@ $ git branch alt-sidebar-loc bb352c
 # [**Práctica 07**](Práctica%2007%20-%20Commits.md#ejercicio---commits)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzg1NDA5NywxMzM0MDgyMjQzLC0xND
+eyJoaXN0b3J5IjpbMTkxMTAwODMwMSwxMzM0MDgyMjQzLC0xND
 IzMDIyMDk2LC0xMDk2MDIzMzgwLC0xNzM4NjE0MjMxLDE1NDI2
 MDc3NjEsMTQxMTAzNDI2NSwtMTA3MTY3ODE4MSwtMTMzNDE0ND
 UzMSwyMDgxMTYxOTE0LC00ODEwOTI5MDAsMTA3NjEzNjc0OSw1
