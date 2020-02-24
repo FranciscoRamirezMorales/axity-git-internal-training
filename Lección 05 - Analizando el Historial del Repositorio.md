@@ -1,4 +1,4 @@
-# Lección 05 - Analizando el Historial del Repositorio
+# Analizando el Historial del Repositorio
 
 En esta lección revisaremos los siguientes temas:
 
@@ -131,11 +131,11 @@ Para obtener información de un commit específico:
 A diferencia de `git log`, el comando `git show` puede ser combinado con las opciones `--stat`, `--patch` o `-p`, `-w`.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU1NjA0NzI2LC0yNjM0NTM4NjIsODI3MD
-A4NzA0LC0yMTM3OTI0NjQ3LC0xODI1MDU0MzQ2LDIwODE4MTgy
-OTgsMzgwODI3ODc4LC0xMzU4MDEwOTg4LC0zOTQ2MDQyNjUsMT
-EwNTQ3MTIyLDExNTY5MzM3OTMsMzA3OTQ5NTA1LDI0MTIxMjM4
-MiwtOTMzOTQ0MzE4LDE5MDM0MDU1OTgsLTExNjU0OTI5NTAsMj
-Q5MDkzNzUwLC0xMjg0MDQ5ODEwLDEwMDcxOTA3NTksLTEyNjIy
-ODU5M119
+eyJoaXN0b3J5IjpbMjAwNjEzMjc2MSwtMjYzNDUzODYyLDgyNz
+AwODcwNCwtMjEzNzkyNDY0NywtMTgyNTA1NDM0NiwyMDgxODE4
+Mjk4LDM4MDgyNzg3OCwtMTM1ODAxMDk4OCwtMzk0NjA0MjY1LD
+ExMDU0NzEyMiwxMTU2OTMzNzkzLDMwNzk0OTUwNSwyNDEyMTIz
+ODIsLTkzMzk0NDMxOCwxOTAzNDA1NTk4LC0xMTY1NDkyOTUwLD
+I0OTA5Mzc1MCwtMTI4NDA0OTgxMCwxMDA3MTkwNzU5LC0xMjYy
+Mjg1OTNdfQ==
 -->
