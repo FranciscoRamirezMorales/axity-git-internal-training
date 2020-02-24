@@ -47,8 +47,15 @@ En este curso aprenderás:
 
 
  - Conocimiento sobre comandos básicos de Linux
- - 
+-   Laptop con:
+    - Mínimo 8 Gb de RAM
+    - Mínimo 25 GB disponibles en disco
+ - Tener habilitado en el BIOS las opciones de virtualización. Si no tienen permisos de administrador para habilitar estas opciones, acérquense con el área de soporte para que los apoyen e indique que se requiere para una capacitación.
+ - Descargar e instalar VMware Player 15
+-   Descargar la VM para el curso del siguiente URL [https://intellego365-my.sharepoint.com/:f:/g/personal/alexander_chamizo_axity_com/Ekptm4JU0mdLjL5x6tBSxXQBnTS7QjCe8GXRznS5j7KDFA?e=N6TJmV](https://intellego365-my.sharepoint.com/:f:/g/personal/alexander_chamizo_axity_com/Ekptm4JU0mdLjL5x6tBSxXQBnTS7QjCe8GXRznS5j7KDFA?e=N6TJmV)
+-   Para validar, iniciar la VM con el usuario: **axity** y contraseña: **Welcome1**.
 
+**Nota**: La VM viene configurada con 4 GB de memoria y 2 Cores/Procesadores. Ajustar si es necesario.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTE5ODAzMV19
+eyJoaXN0b3J5IjpbLTEwMzgwOTQxNTBdfQ==
 -->
