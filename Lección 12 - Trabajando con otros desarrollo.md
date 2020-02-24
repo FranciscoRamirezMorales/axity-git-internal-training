@@ -40,7 +40,8 @@ Ahora hagamos lo siguiente:
 
 ## Revisando el historial de cambios
 
- 1. Clonar el pro
+ 1. Clonar el [Proyecto Lighhouse](https://github.com/GoogleChrome/lighthouse).
+ 2. Moverse al directorio del repositorio recién clo
 
 ## Resumen
 
@@ -53,6 +54,6 @@ Fork es una acción hecha sobre el sevicio de GitHub:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTI2OTgyOCwtMjE0NDY3MTE3OSw5MD
+eyJoaXN0b3J5IjpbLTU3OTUyMDU4MSwtMjE0NDY3MTE3OSw5MD
 g1ODc1MDhdfQ==
 -->
