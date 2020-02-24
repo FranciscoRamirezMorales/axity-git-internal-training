@@ -14,7 +14,9 @@ Para entender como funciona la funcionalidad de `fork` en GitHub realice los sig
 1. Use `git clone` para clonar [Proyecto my-travel-plans de Lam](https://github.com/udacity/course-collaboration-travel-plans).
 2. Hacer al menos un cambio en el repositorio (local).
 3. Hacer commit.
-4. 
+4. Usar git push para enviar los cambios al repositorio de **Lam**
+
+¿Qués es 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNDc3MDE4Nyw5MDg1ODc1MDhdfQ==
+eyJoaXN0b3J5IjpbMTkwMDM1NDM3MSw5MDg1ODc1MDhdfQ==
 -->
