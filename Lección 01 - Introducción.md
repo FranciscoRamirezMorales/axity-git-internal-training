@@ -14,13 +14,13 @@
 
  - [Lección 07 - Tagging, Branching & Merging.md](Lecci%C3%B3n%2007%20-%20Tagging%2C%20Branching%20%26%20Merging.md)
 
- - [Lección 08 - Merging.md](https://github.com/achamizoch/axity-git-internal-training/blob/master/Lecci%C3%B3n%2008%20-%20Merging.md)
+ - [Lección 08 - Merging.md](Lecci%C3%B3n%2008%20-%20Merging.md)
 
- - [Lección 09 - Manejando conflictos del merge.md](https://github.com/achamizoch/axity-git-internal-training/blob/master/Lecci%C3%B3n%2009%20-%20Manejando%20conflictos%20del%20merge.md)
+ - [Lección 09 - Manejando conflictos del merge.md](Lecci%C3%B3n%2009%20-%20Manejando%20conflictos%20del%20merge.md)
 
- - [Lección 10 - Deshaciendo cambios.md](https://github.com/achamizoch/axity-git-internal-training/blob/master/Lecci%C3%B3n%2010%20-%20Deshaciendo%20cambios.md)
+ - [Lección 10 - Deshaciendo cambios.md](Lecci%C3%B3n%2010%20-%20Deshaciendo%20cambios.md)
 
- - [Lección 11 - Trabajando con repositorios remotos.md](https://github.com/achamizoch/axity-git-internal-training/blob/master/Lecci%C3%B3n%2011%20-%20Trabajando%20con%20repositorios%20remotos.md)
+ - [Lección 11 - Trabajando con repositorios remotos.md](Lecci%C3%B3n%2011%20-%20Trabajando%20con%20repositorios%20remotos.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNTMwNzc4NiwxOTc4MjkyMzE5XX0=
+eyJoaXN0b3J5IjpbMTAxODM2MTMxMiwxOTc4MjkyMzE5XX0=
 -->
