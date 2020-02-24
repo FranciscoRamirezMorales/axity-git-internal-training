@@ -52,7 +52,7 @@ Un **repositorio** - es un directorio que contiene un proyecto, así como alguno
 
 Los repositorios pueden existir localmente en tu computadora o como una copia remota en otra computadora. 
 
-> Un repositorio está formado por **Commits**.*
+> Un repositorio está formado por **Commits**.
 
 ### Working Directory / Directorio de Trabajo
 
@@ -69,7 +69,7 @@ Un Checkout es cuando el contenido del Repositorio se ha copiado al Directorio d
 
 ### Staging Area / Staging Index / Index
 
-Es un archivo en el directorio de Git que almacena información sobre lo que se incluirá en en el siguiente **Commit**, es decir, los archivos en el Staging Area están listos para ser agregados al repositorio.
+Es un archivo en el directorio de Git que almacena información sobre lo que se incluirá en el siguiente **Commit**, es decir, los archivos en el Staging Area están listos para ser agregados al repositorio.
 
 ### SHA
 
@@ -92,7 +92,7 @@ Echemos un vistazo a alto nivel para entender como usar Git al observar el flujo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzI1MTg2MjAsLTE4MjMwMDY4NzAsLT
-IxNDQ2NzcyMDQsMTcyMDQwODE3LC01MTU5NDQ0NjksLTE5ODUy
-ODI1MjddfQ==
+eyJoaXN0b3J5IjpbOTc2NDU1NDM1LC0xODIzMDA2ODcwLC0yMT
+Q0Njc3MjA0LDE3MjA0MDgxNywtNTE1OTQ0NDY5LC0xOTg1Mjgy
+NTI3XX0=
 -->
