@@ -41,7 +41,10 @@ Ahora hagamos lo siguiente:
 ## Revisando el historial de cambios
 
  1. Clonar el [Proyecto Lighhouse](https://github.com/GoogleChrome/lighthouse).
- 2. Moverse al directorio del repositorio recién clo
+
+ 2. Moverse al directorio del repositorio recién clonado.
+
+### 
 
 ## Resumen
 
@@ -54,6 +57,6 @@ Fork es una acción hecha sobre el sevicio de GitHub:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3OTUyMDU4MSwtMjE0NDY3MTE3OSw5MD
+eyJoaXN0b3J5IjpbMjAxOTQ5MTI1NiwtMjE0NDY3MTE3OSw5MD
 g1ODc1MDhdfQ==
 -->
