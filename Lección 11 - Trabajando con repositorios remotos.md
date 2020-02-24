@@ -147,7 +147,7 @@ h2 {
  1. Ejecutar el siguiente comando 
 
 ```bash
-$ git remote add origin https://github.com/<my usuario>/my-travel-plans.git
+$ git remote add origin https://github.com/<usuario>/my-travel-plans.git
 ```
 
  2. Para verificar que la conexión se ha creado correctamente debemos ejecutar el siguiente comando:
@@ -216,11 +216,11 @@ $ git pull origin master
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTQyODk5ODksMTk1ODg0OTI3NywxMT
-kyNzA2NDExLC00NTUwMTIwOSwtNTAyNTIyNTg4LDE2ODc4Nzg2
-NjcsLTEwNDMyMjAwODAsLTEwMTQ5ODIxMzcsLTIzODIyOTk3NS
-wtMTUwNDA4MTg3NSwxMzk4MDA1NjA1LDM2MTE5OTA1NCw4NTE4
-OTAwODAsLTE5OTA4NDI3NDQsLTE4NTI1Mjg1MDgsNDY5NzQ4MD
-AyLDEyMTIxNDg5MjcsMTY1NDgzNzQ3MSwxMzE0NzM0NTU3LC0x
-NTQ0MDM1NzA3XX0=
+eyJoaXN0b3J5IjpbLTE0MDM5MDI4ODUsLTE0MTQyODk5ODksMT
+k1ODg0OTI3NywxMTkyNzA2NDExLC00NTUwMTIwOSwtNTAyNTIy
+NTg4LDE2ODc4Nzg2NjcsLTEwNDMyMjAwODAsLTEwMTQ5ODIxMz
+csLTIzODIyOTk3NSwtMTUwNDA4MTg3NSwxMzk4MDA1NjA1LDM2
+MTE5OTA1NCw4NTE4OTAwODAsLTE5OTA4NDI3NDQsLTE4NTI1Mj
+g1MDgsNDY5NzQ4MDAyLDEyMTIxNDg5MjcsMTY1NDgzNzQ3MSwx
+MzE0NzM0NTU3XX0=
 -->
