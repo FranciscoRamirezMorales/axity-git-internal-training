@@ -263,21 +263,21 @@ $ echo "project.docx" >> .gitignore
 ```
 > También podemos usar un editor para agregar la línea del comando anterior.
 
- - Ejecutamos `git status` para comprobar que para `project.docx` GIt no registra los cambios:
+ - Ejecutamos `git status` para comprobar que para `project.docx` **Git** no registra los cambios:
 ```bash
 $ git status
 ```
 
 ![img_06_git_ignore](images/img_06_git_ignore.png)
 
-Dentro del archivo .gitignore podemos usar algunos carácteres especiales para definir patrones de grupos de archivos, por ejemplo:
+Dentro del archivo .gitignore podemos usar algunos caracteres especiales para definir patrones de grupos de archivos, por ejemplo:
 -   líneas en blanco para espaciado
 -   `#` - comentar una línea
 -   `*` - coincidir 0 o más caracteres
   - *.png -> image1.png, picture.png, box.png
 -   `?` - coincidir 1 caracter
     -  `be?rs` **->** bears, beers
--   `[abc]` - coincidir a, b, _or_ c
+-   `[abc]` - coincidir a, b, _o_ c
 -   `**` - coincidir directorios anidados: `a/**/z` coincide con:
     -   a/z
     -   a/b/z
@@ -300,11 +300,11 @@ $ git log
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQzNDc0MTY5LDExNTUwNzU2MDUsLTE2MT
-M3NDYwMzEsODQyNDA2NzY5LDQwODI1ODA0MCwtMTIxMTc0NTc0
-Miw3ODIzMTcwNCwtNjIzMjMwMTAyLDc5NTY2NDM2LDQ3NzYyNT
-QyNCwxNTQ2ODI3Mzk0LC0yMjMyMTA1NzIsMTQ3MjgwMzgzNywx
-ODExNzUxMDgwLC02MjIxNjc3MjcsLTEwMTY0Njg5MjksNDEyNT
-Q5ODgzLDE3MDg3NDQ5MzQsLTk1NDY2NjE0Niw4NDcwNjQwNDVd
-fQ==
+eyJoaXN0b3J5IjpbLTgxNDQ5NDE2OSwxMTU1MDc1NjA1LC0xNj
+EzNzQ2MDMxLDg0MjQwNjc2OSw0MDgyNTgwNDAsLTEyMTE3NDU3
+NDIsNzgyMzE3MDQsLTYyMzIzMDEwMiw3OTU2NjQzNiw0Nzc2Mj
+U0MjQsMTU0NjgyNzM5NCwtMjIzMjEwNTcyLDE0NzI4MDM4Mzcs
+MTgxMTc1MTA4MCwtNjIyMTY3NzI3LC0xMDE2NDY4OTI5LDQxMj
+U0OTg4MywxNzA4NzQ0OTM0LC05NTQ2NjYxNDYsODQ3MDY0MDQ1
+XX0=
 -->
