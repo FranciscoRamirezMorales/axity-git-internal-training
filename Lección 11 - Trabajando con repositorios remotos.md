@@ -177,13 +177,21 @@ $ git push origin master
 
 ### Recuperar cambios desde un repositorio remoto
 
- 1. En la cuenta de GitHub, en el repositorio `my-travel-plans`, modificar el archivo `app.cs` 
+ 1. En la cuenta de GitHub, en el repositorio `my-travel-plans`, editar el archivo `app.cs` y agregar el siguiente código:
+
+```css
+.destination:hover h2 {
+    transform: rotate(0deg);
+}
+```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5ODA2ODkxNiwtMTAxNDk4MjEzNywtMj
-M4MjI5OTc1LC0xNTA0MDgxODc1LDEzOTgwMDU2MDUsMzYxMTk5
-MDU0LDg1MTg5MDA4MCwtMTk5MDg0Mjc0NCwtMTg1MjUyODUwOC
-w0Njk3NDgwMDIsMTIxMjE0ODkyNywxNjU0ODM3NDcxLDEzMTQ3
-MzQ1NTcsLTE1NDQwMzU3MDcsMTcxMjQyMzk0MSwxMzY0ODc5MT
-g3LDcwNjgwMDk3MSwxMzc2ODQ4MDk0LC01MjI3Nzk5MDYsNTM0
-MDk4MDE3XX0=
+eyJoaXN0b3J5IjpbLTE1OTI3ODY2MDQsLTEwMTQ5ODIxMzcsLT
+IzODIyOTk3NSwtMTUwNDA4MTg3NSwxMzk4MDA1NjA1LDM2MTE5
+OTA1NCw4NTE4OTAwODAsLTE5OTA4NDI3NDQsLTE4NTI1Mjg1MD
+gsNDY5NzQ4MDAyLDEyMTIxNDg5MjcsMTY1NDgzNzQ3MSwxMzE0
+NzM0NTU3LC0xNTQ0MDM1NzA3LDE3MTI0MjM5NDEsMTM2NDg3OT
+E4Nyw3MDY4MDA5NzEsMTM3Njg0ODA5NCwtNTIyNzc5OTA2LDUz
+NDA5ODAxN119
 -->
