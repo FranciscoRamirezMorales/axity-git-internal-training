@@ -21,7 +21,7 @@ En esta lección revisaremos los siguientes temas:
 >    ```Your branch is up to date with 'origin/master'.```
 >    ```nothing to commit, working tree clean```
 
-En este punto no podemos saber que cambios se hicieron sobre los archivo de este repositorio.
+En este punto no podemos saber qué cambios se hicieron sobre los archivos de este repositorio.
 
 Para conocer todos los cambios realizados sobre el repositorio, ejecutar el siguiente comando:
 
@@ -127,11 +127,11 @@ Para obtener información de un commit específico:
 A diferencia de `git log`, el comando `git show` puede ser combinado con las opciones `--stat`, `--patch` o `-p`, `-w`.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI3MDA4NzA0LC0yMTM3OTI0NjQ3LC0xOD
-I1MDU0MzQ2LDIwODE4MTgyOTgsMzgwODI3ODc4LC0xMzU4MDEw
-OTg4LC0zOTQ2MDQyNjUsMTEwNTQ3MTIyLDExNTY5MzM3OTMsMz
-A3OTQ5NTA1LDI0MTIxMjM4MiwtOTMzOTQ0MzE4LDE5MDM0MDU1
-OTgsLTExNjU0OTI5NTAsMjQ5MDkzNzUwLC0xMjg0MDQ5ODEwLD
-EwMDcxOTA3NTksLTEyNjIyODU5MywtNjQ0MDY3MjM5LDgxMDg3
-MTI4OF19
+eyJoaXN0b3J5IjpbLTIzNTM3MzE3Nyw4MjcwMDg3MDQsLTIxMz
+c5MjQ2NDcsLTE4MjUwNTQzNDYsMjA4MTgxODI5OCwzODA4Mjc4
+NzgsLTEzNTgwMTA5ODgsLTM5NDYwNDI2NSwxMTA1NDcxMjIsMT
+E1NjkzMzc5MywzMDc5NDk1MDUsMjQxMjEyMzgyLC05MzM5NDQz
+MTgsMTkwMzQwNTU5OCwtMTE2NTQ5Mjk1MCwyNDkwOTM3NTAsLT
+EyODQwNDk4MTAsMTAwNzE5MDc1OSwtMTI2MjI4NTkzLC02NDQw
+NjcyMzldfQ==
 -->
