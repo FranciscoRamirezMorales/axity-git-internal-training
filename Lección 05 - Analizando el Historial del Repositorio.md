@@ -98,7 +98,7 @@ Ejecutar el siguiente comando para ver su comportamiento:
     
    ó
     
-    # git log -patch
+    # git log --patch
 
 ![img_git_log_patch](images/img_git_log_patch.png)
 ###
@@ -131,7 +131,7 @@ Para obtener información de un commit específico:
 A diferencia de `git log`, el comando `git show` puede ser combinado con las opciones `--stat`, `--patch` o `-p`, `-w`.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNjEzMjc2MSwtMjYzNDUzODYyLDgyNz
+eyJoaXN0b3J5IjpbLTI5MTA3MTY3NiwtMjYzNDUzODYyLDgyNz
 AwODcwNCwtMjEzNzkyNDY0NywtMTgyNTA1NDM0NiwyMDgxODE4
 Mjk4LDM4MDgyNzg3OCwtMTM1ODAxMDk4OCwtMzk0NjA0MjY1LD
 ExMDU0NzEyMiwxMTU2OTMzNzkzLDMwNzk0OTUwNSwyNDEyMTIz
