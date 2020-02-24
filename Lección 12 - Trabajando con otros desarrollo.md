@@ -63,6 +63,7 @@ $ git log --author=Surma
 $ git log --author="Paul Lewis"
 ```
 
+## Filtrar por commit especifico
 
 ## Resumen
 
@@ -75,6 +76,6 @@ Fork es una acción hecha sobre el sevicio de GitHub:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4Mzc0MzU4MSwtMjE0NDY3MTE3OSw5MD
-g1ODc1MDhdfQ==
+eyJoaXN0b3J5IjpbLTExMjE1ODE4NTEsLTIxNDQ2NzExNzksOT
+A4NTg3NTA4XX0=
 -->
