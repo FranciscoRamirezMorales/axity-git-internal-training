@@ -50,14 +50,19 @@ En este curso aprenderás:
 
  -   Laptop con:
 
-    - Mínimo 8 Gb de RAM
-    - Mínimo 25 GB disponibles en disco
- - Tener habilitado en el BIOS las opciones de virtualización. Si no tienen permisos de administrador para habilitar estas opciones, acérquense con el área de soporte para que los apoyen e indique que se requiere para una capacitación.
+	    - Mínimo 8 Gb de RAM
+
+	    - Mínimo 25 GB disponibles en disco
+
+ - Tener habilitado en el BIOS las opciones de virtualización. Si no se tienen los permisos de administrador para habilitar estas opciones, acercarse con el área de soporte para que los habiliten.
+
  - Descargar e instalar [VMware Player 15](https://www.vmware.com/go/downloadworkstationplayer)
+
 -   Descargar la VM para el curso (solicitar al instructor)
+
 -   Para validar, iniciar la VM con el usuario: **axity** y contraseña: **Welcome1**.
 
 **Nota**: La VM viene configurada con 4 GB de memoria y 2 Cores/Procesadores. Ajustar si es necesario.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MTY4MDUzM119
+eyJoaXN0b3J5IjpbNjgyNzg3NTg0XX0=
 -->
