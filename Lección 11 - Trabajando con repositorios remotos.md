@@ -189,19 +189,25 @@ $ git push origin master
 
 `transition: transform 0.5s;`
 
+ 3.  Hacer commit con el mensaje `Add animation to destination headings`.
+ 5. 
+
+
+
+
+
+
+
+
  3. Crear el archivo `app.js` en el directorio `js`. Ingresar la siguiente línea:
 
 `let traveling = true;`
-
- 4.  Hacer commit con el mensaje `Add animation to destination headings`.
- 5. 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjU5NzY3OTcsMTY4Nzg3ODY2NywtMT
-A0MzIyMDA4MCwtMTAxNDk4MjEzNywtMjM4MjI5OTc1LC0xNTA0
-MDgxODc1LDEzOTgwMDU2MDUsMzYxMTk5MDU0LDg1MTg5MDA4MC
-wtMTk5MDg0Mjc0NCwtMTg1MjUyODUwOCw0Njk3NDgwMDIsMTIx
-MjE0ODkyNywxNjU0ODM3NDcxLDEzMTQ3MzQ1NTcsLTE1NDQwMz
-U3MDcsMTcxMjQyMzk0MSwxMzY0ODc5MTg3LDcwNjgwMDk3MSwx
-Mzc2ODQ4MDk0XX0=
+eyJoaXN0b3J5IjpbLTUwMjUyMjU4OCwxNjg3ODc4NjY3LC0xMD
+QzMjIwMDgwLC0xMDE0OTgyMTM3LC0yMzgyMjk5NzUsLTE1MDQw
+ODE4NzUsMTM5ODAwNTYwNSwzNjExOTkwNTQsODUxODkwMDgwLC
+0xOTkwODQyNzQ0LC0xODUyNTI4NTA4LDQ2OTc0ODAwMiwxMjEy
+MTQ4OTI3LDE2NTQ4Mzc0NzEsMTMxNDczNDU1NywtMTU0NDAzNT
+cwNywxNzEyNDIzOTQxLDEzNjQ4NzkxODcsNzA2ODAwOTcxLDEz
+NzY4NDgwOTRdfQ==
 -->
