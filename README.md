@@ -1,6 +1,23 @@
-# El curso
+# Acerca del curso
 
-En este curso aprenderá a usar Git y GitHub como herramienta de versionamiento
+- En este curso conocerás acerca de los Sistema de Control de Versionamiento
+
+En este curso aprenderás a usar Git y GitHub como herramienta de versionamiento
+
+# Objetivos del participante
+
+-   El participante **interactuará** con la línea de comandos.
+-   El participante **mantendrá** un repositorio de código versionado de sus archivos y programas.
+-   El participante **creará** gráficas y ecuaciones de calidad para presentaciones y publicaciones.
+-   El participante **visualizará** expresiones análiticas y **observará** su comportamiento al variar parámetros.
+-   El participante **leerá** y **escribirá** a archivos locales y en file system distribuido.
+-   El participante **creará** interfaces con CDH.
+-   El participante **analizará** datos ajustando curvas y optimización.
+-   El participante **comprenderá** los componentes basicos de una plataforma Big Data, precisión y complejidad.
+-   El participante **seleccionará** el algoritmo apropiado para cada problema.
+-   El participante **implementará** el algoritmo seleccionado.
+-   El participante **probará** y _debugeará_ la implementación.
+
 # Contenido del curso
 
  - [Lección 01 - Introducción.md](Lecci%C3%B3n%2001%20-%20Introducci%C3%B3n.md)
@@ -50,5 +67,5 @@ En este curso aprenderá a usar Git y GitHub como herramienta de versionamiento
 
 **Nota**: La VM viene configurada con 4 GB de memoria y 2 Cores/Procesadores. Ajustar si es necesario.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NzgyNTQ3NF19
+eyJoaXN0b3J5IjpbNjc1Mzk0Mjg5XX0=
 -->
