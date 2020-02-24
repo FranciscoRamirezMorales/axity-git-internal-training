@@ -18,13 +18,11 @@
 
 [Lección 09 - Manejando conflictos del merge.md](https://github.com/achamizoch/axity-git-internal-training/blob/master/Lecci%C3%B3n%2009%20-%20Manejando%20conflictos%20del%20merge.md "Lección 09 - Manejando conflictos del merge.md")
 
-[Lección 09 - Manejando conflictos del merge.md updated from](https://github.com/achamizoch/axity-git-internal-training/commit/66bcbab0ffac5135454a3d0903be350cb90303fd "Lección 09 - Manejando conflictos del merge.md updated from https://stackedit.io/") [https://s…](https://stackedit.io/)
-
 [Lección 10 - Deshaciendo cambios.md](https://github.com/achamizoch/axity-git-internal-training/blob/master/Lecci%C3%B3n%2010%20-%20Deshaciendo%20cambios.md "Lección 10 - Deshaciendo cambios.md")
 
 [Lección 10 - Deshaciendo cambios.md updated from](https://github.com/achamizoch/axity-git-internal-training/commit/2aafcb30edd423f09354fc781a855a25d811f63b "Lección 10 - Deshaciendo cambios.md updated from https://stackedit.io/") [https://stackedit.io/](https://stackedit.io/)
 
 [Lección 11 - Trabajando con repositorios remotos.md](https://github.com/achamizoch/axity-git-internal-training/blob/master/Lecci%C3%B3n%2011%20-%20Trabajando%20con%20repositorios%20remotos.md "Lección 11 - Trabajando con repositorios remotos.md")
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTI1MzE4MzksMTk3ODI5MjMxOV19
+eyJoaXN0b3J5IjpbMjIxODk5OTQ1LDE5NzgyOTIzMTldfQ==
 -->
