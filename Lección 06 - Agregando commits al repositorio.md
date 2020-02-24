@@ -227,9 +227,12 @@ Como podemos ver `git diff` muestra los cambios antes de hacer `get commit`.
 
 Recordemos en lecciones anteriores el comando `git add .`
 
-git add . agrega todos los archivos que han sido creados o modificados al Staging Index. Pero:
+`git add .` agrega todos los archivos que han sido creados o modificados al **Staging Index**. Pero:
+
  - ¿qué pasa si no queremos que todos sean agregados?
- - ¿cómo puedo ignorar archivos específico?
+
+ - ¿cómo puedo ignorar archivos específicos?
+
  - ¿Cómo puedo evitar que Git lleve el registro de cambios a archivos puntuales?
 
 Imaginemos que creamos un archivo `project.docx` que no deseamos que sus cambios sean registrados por Git:
@@ -297,7 +300,7 @@ $ git log
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzAzNjI0NDIsMTE1NTA3NTYwNSwtMT
+eyJoaXN0b3J5IjpbLTE1NjQ2MjA0NjMsMTE1NTA3NTYwNSwtMT
 YxMzc0NjAzMSw4NDI0MDY3NjksNDA4MjU4MDQwLC0xMjExNzQ1
 NzQyLDc4MjMxNzA0LC02MjMyMzAxMDIsNzk1NjY0MzYsNDc3Nj
 I1NDI0LDE1NDY4MjczOTQsLTIyMzIxMDU3MiwxNDcyODAzODM3
