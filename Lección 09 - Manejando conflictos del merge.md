@@ -13,7 +13,7 @@ Para simular un conflicto durante un merge y aprender como manejar este tipo de 
 
  1. En el archivo `index.html`, cambiar el encabezado `Adventure` por `Quest`en el branch `master`. Mensaje: `Set page heading to Quest`.
 
- 2. Crear el branch `heading-update` apuntado al penúltimo commit (el penúltimo commit debe estar asociado al mensaje `Merge branch sidebar`). Este cambio debe ser hecho sobre el branch `heading-update`. 
+ 2. Crear el branch `heading-update` apuntado al penúltimo commit (el penúltimo commit debe estar asociado al mensaje `Merge branch 'sidebar'`). Este cambio debe ser hecho sobre el branch `heading-update`. 
 
  3. En el archivo `index.html`, cambiar el encabezado `Adventure` por `Crusade`en el branch `heading-update`. Mensaje: `Set page heading to Crusade`.
 
@@ -66,7 +66,7 @@ $ git status
 ![img_09_git_merge_06](images/img_09_git_merge_06.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MjY2MTY0NCw5MTUyODcxOTYsMTA5Nj
+eyJoaXN0b3J5IjpbMTU4MzAzNTkzOCw5MTUyODcxOTYsMTA5Nj
 E2NzQ4LC0zODg0MjQ4MywzODgwNzUzNjgsODY3MDgyNTk0LDcy
 NjA1NjgyNywtNjgxNjQ0OTcyLDE3Nzg3NDI5OTEsLTM4MDA1Mz
 QzNV19
