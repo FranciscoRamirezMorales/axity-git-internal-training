@@ -1,6 +1,7 @@
 # Manejando conflictos durante un merge
 
  - Un conflicto durante un merge puede ocurrir cuando una misma línea en un archivo es modificada en dos o más branches por separado. Por ejemplo, si dos personas realizan un cambio sobre el texto del título de la página web en diferentes branches.
+
  - En estos casos Git no puede determinar de forma automática cual línea conservar y cual eliminar.
 
 ## Forzar a un conflicto en merge
@@ -66,8 +67,8 @@ $ git status
 ![img_09_git_merge_06](images/img_09_git_merge_06.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MzAzNTkzOCw5MTUyODcxOTYsMTA5Nj
-E2NzQ4LC0zODg0MjQ4MywzODgwNzUzNjgsODY3MDgyNTk0LDcy
-NjA1NjgyNywtNjgxNjQ0OTcyLDE3Nzg3NDI5OTEsLTM4MDA1Mz
-QzNV19
+eyJoaXN0b3J5IjpbLTE4NzY1NDU1ODQsOTE1Mjg3MTk2LDEwOT
+YxNjc0OCwtMzg4NDI0ODMsMzg4MDc1MzY4LDg2NzA4MjU5NCw3
+MjYwNTY4MjcsLTY4MTY0NDk3MiwxNzc4NzQyOTkxLC0zODAwNT
+M0MzVdfQ==
 -->
