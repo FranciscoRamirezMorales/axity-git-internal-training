@@ -12,7 +12,7 @@ Para crear un repositorio remoto debemos ejecutar los siguientes comandos:
 
  5. Crear el archivo `app.css`
 
-#### Contenido de `README.md`
+### Contenido de `README.md`
 
 ```markdown
 # Travel Destinations
@@ -20,7 +20,7 @@ Para crear un repositorio remoto debemos ejecutar los siguientes comandos:
 A simple app to keep track of destinations I'd like to visit.
 ```
 
-### Contenido de `index.html`
+## Contenido de `index.html`
 
 ```html
 <!doctype html>
@@ -49,7 +49,7 @@ A simple app to keep track of destinations I'd like to visit.
 </html>
 ```
 
-### Contenido del archivo app.css
+## Contenido del archivo app.css
 
 ```css
 html {
@@ -116,7 +116,7 @@ h2 {
 
 ![img_11_git_remote_02](images/img_11_git_remote_02.png)
 
-### Crear un repositorio en GitHub
+## Crear un repositorio en GitHub
 
  1. Crear una cuenta en GitHub
 
@@ -124,7 +124,7 @@ h2 {
 
  3. Asegurar que al momento de crear el repositorio **NO** marcar la opción de `Initialize this repository with a README`.
 
-###  Crear una conexión del repositorio local al remoto
+##  Crear una conexión del repositorio local al remoto
 
  1. Ejecutar el siguiente comando 
 
@@ -137,7 +137,7 @@ $ git remote add origin https://github.com/<usuario>/my-travel-plans.git
 ```bash
 $ git remote -v
 ```
-### Enviando commits al repositorio remoto (push)
+## Enviando commits al repositorio remoto (push)
 
 Para entender  cómo funciona el comando `push` veamos el siguiente video:
 
@@ -157,7 +157,7 @@ $ git push origin master
 
 ![img_11_git_remote_04](images/img_11_git_remote_04.png)
 
-### Recuperar cambios desde un repositorio remoto
+## Recuperar cambios desde un repositorio remoto
 
  1. En la cuenta de GitHub, en el repositorio `my-travel-plans`, editar el archivo `app.cs` y agregar el siguiente código:
 
@@ -182,7 +182,7 @@ $ git pull origin master
 ![img_11_git_remote_05](images/img_11_git_remote_05.png)
 
 
-### Diferencia entre pull vs fetch
+## Diferencia entre pull vs fetch
 
 **Video >>> (dar clic)**
 
@@ -197,5 +197,5 @@ $ git pull origin master
  5. Realizar `pull` para enviar a **GitHub** el commit del merge.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc2MDQwMzMzXX0=
+eyJoaXN0b3J5IjpbLTMzOTAyMjc1M119
 -->
