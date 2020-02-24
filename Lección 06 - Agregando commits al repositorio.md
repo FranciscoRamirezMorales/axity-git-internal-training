@@ -126,7 +126,7 @@ El comando `git commit` abrirá `Atom` donde podemos ingresar el mensaje del com
 
 ![img_06_git_commit_atom](images/img_06_git_commit_atom.png)
 
-En este casa ingresaremos el mensaje `Initial commit`. Pero tú puedes ingresar el mensaje que desees. 
+En este caso ingresaremos el mensaje `Initial commit`. Pero tú puedes ingresar el mensaje que desees. 
 
 Guardamos el archivo y cerramos Atom. Esto nos devolverá a la terminal con el siguiente resultado.
 
@@ -165,7 +165,7 @@ $ git log
 
 ## Mensajes de un commit
 
-Un commit debe registrar un solo cambio. Esto no es limitante para que un commit pueda registrar un cambio en varias líneas de código o varios archivos. Por ejemplo, imáginemos que decidimos cambiar el fondo de nuestra página web, esto requeriría:
+Un commit debe registrar un solo cambio. Esto no es limitante para que un commit pueda registrar un cambio en varias líneas de código o varios archivos. Por ejemplo, imaginemos que decidimos cambiar el fondo de nuestra página web, esto requeriría:
 
  - agregar una nueva imagen
  - modificar el código html
@@ -181,7 +181,7 @@ Un mensaje de commit **debe**:
 
 Un mensaje de commit **no debe**:
  - Explicar el cómo o el por qué (`git log -p` hace eso)
- - contener la palabra **y**, si esto sucede es probable que se esten realizando varios cambios por lo que es recomendable separarlos diferentes commits
+ - contener la palabra **y**, si esto sucede es probable que se estén realizando varios cambios por lo que es recomendable separarlos diferentes commits
 
 Para definir un buen mensaje de commit podemos referirnos a los siguientes recursos:
 
@@ -297,11 +297,11 @@ $ git log
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NTA3NTYwNSwtMTYxMzc0NjAzMSw4ND
-I0MDY3NjksNDA4MjU4MDQwLC0xMjExNzQ1NzQyLDc4MjMxNzA0
-LC02MjMyMzAxMDIsNzk1NjY0MzYsNDc3NjI1NDI0LDE1NDY4Mj
-czOTQsLTIyMzIxMDU3MiwxNDcyODAzODM3LDE4MTE3NTEwODAs
-LTYyMjE2NzcyNywtMTAxNjQ2ODkyOSw0MTI1NDk4ODMsMTcwOD
-c0NDkzNCwtOTU0NjY2MTQ2LDg0NzA2NDA0NSwtNTM5Nzg4Mzcy
+eyJoaXN0b3J5IjpbLTcwODM2OTUwNSwxMTU1MDc1NjA1LC0xNj
+EzNzQ2MDMxLDg0MjQwNjc2OSw0MDgyNTgwNDAsLTEyMTE3NDU3
+NDIsNzgyMzE3MDQsLTYyMzIzMDEwMiw3OTU2NjQzNiw0Nzc2Mj
+U0MjQsMTU0NjgyNzM5NCwtMjIzMjEwNTcyLDE0NzI4MDM4Mzcs
+MTgxMTc1MTA4MCwtNjIyMTY3NzI3LC0xMDE2NDY4OTI5LDQxMj
+U0OTg4MywxNzA4NzQ0OTM0LC05NTQ2NjYxNDYsODQ3MDY0MDQ1
 XX0=
 -->
