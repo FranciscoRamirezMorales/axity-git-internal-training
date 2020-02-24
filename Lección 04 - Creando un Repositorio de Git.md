@@ -9,9 +9,7 @@ Si recordamos:
 Para generar un repositorio de Git es necesario realizar las siguientes tareas:
 
  - Crear un directorio
-- Inicializar el repositorio
-otra opción es
- - Clonando un repositorio
+- Inicializar el repositorio clonar un repositorio
  - Determinar el estatus de un repositorio
 
 ## Crear directorio
@@ -132,7 +130,7 @@ Esto debería generar la salida:
 En este punto este mensaje no debería ser un problema ya que en este repositorio aún no existen **commits** que mostrar. En siguientes lecciones se verá con más detalle el comando `git log`.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MzYxMTkwOSwyOTQwOTMyNDAsNzY1Mz
+eyJoaXN0b3J5IjpbMTg3NzQ0ODkxMSwyOTQwOTMyNDAsNzY1Mz
 I1ODk4LC0xNDI5MzIyMzA0LC0yNDI3MzIwNzMsMjA2OTc5NDQ1
 NCwtMTA5MDM2OTM0MiwtMTUxMzE5MDMwMCwtMTIxMzExMTU2Ni
 wtMTE3ODk2ODIyNCwyMDA2NzU0NTkwLC0xNzUzMDY4MzgwLDE3
