@@ -171,18 +171,19 @@ $ git push origin master
 
 ![img_11_git_remote_03](images/img_11_git_remote_03.png)
 
- 2. En GitHub validar que los archivos y commits han sido sincronizados.
+ 2. En la cuenta de GitHub validar que los archivos y commits han sido sincronizados.
 
 ![img_11_git_remote_04](images/img_11_git_remote_04.png)
 
+### Recuperar cambios desde un repositorio remoto
 
-
-
+ 1. En la cuenta de GitHub
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTQ5ODIxMzcsLTIzODIyOTk3NSwtMT
-UwNDA4MTg3NSwxMzk4MDA1NjA1LDM2MTE5OTA1NCw4NTE4OTAw
-ODAsLTE5OTA4NDI3NDQsLTE4NTI1Mjg1MDgsNDY5NzQ4MDAyLD
-EyMTIxNDg5MjcsMTY1NDgzNzQ3MSwxMzE0NzM0NTU3LC0xNTQ0
-MDM1NzA3LDE3MTI0MjM5NDEsMTM2NDg3OTE4Nyw3MDY4MDA5Nz
-EsMTM3Njg0ODA5NCwtNTIyNzc5OTA2LDUzNDA5ODAxN119
+eyJoaXN0b3J5IjpbLTc4MjE4Mzc0NSwtMTAxNDk4MjEzNywtMj
+M4MjI5OTc1LC0xNTA0MDgxODc1LDEzOTgwMDU2MDUsMzYxMTk5
+MDU0LDg1MTg5MDA4MCwtMTk5MDg0Mjc0NCwtMTg1MjUyODUwOC
+w0Njk3NDgwMDIsMTIxMjE0ODkyNywxNjU0ODM3NDcxLDEzMTQ3
+MzQ1NTcsLTE1NDQwMzU3MDcsMTcxMjQyMzk0MSwxMzY0ODc5MT
+g3LDcwNjgwMDk3MSwxMzc2ODQ4MDk0LC01MjI3Nzk5MDYsNTM0
+MDk4MDE3XX0=
 -->
