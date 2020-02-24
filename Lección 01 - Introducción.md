@@ -11,9 +11,9 @@ En este curso aprenderás:
  - A trabajar con equipos de desarrollo de forma colaborativa.
 
 
+# Agenda
 
-
-## Agenda
+## D
 
  - [Lección 01 - Introducción](Lecci%C3%B3n%2001%20-%20Introducci%C3%B3n.md)
 
@@ -42,6 +42,6 @@ En este curso aprenderás:
  - [Lección 11 - Trabajando con repositorios remotos](Lecci%C3%B3n%2011%20-%20Trabajando%20con%20repositorios%20remotos.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MjU2NTA4OCwxNDEzMDg3NDExLDE5Nz
-gyOTIzMTldfQ==
+eyJoaXN0b3J5IjpbOTA3MzQ5NTMxLDE0MTMwODc0MTEsMTk3OD
+I5MjMxOV19
 -->
