@@ -39,11 +39,13 @@ Ahora hagamos lo siguiente:
 
 ## Resumen
 
-Fork es una acción dond
+Fork es una acción hecha sobre el sevicio de GitHub la cual:
 
-Se realiza una copia idéntica de otro repositorio
-El repositorio o
+
+Realiza una copia idéntica de otro repositorio
+
+El re
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMTA2NjI1Myw5MDg1ODc1MDhdfQ==
+eyJoaXN0b3J5IjpbMTk4OTcwNTE4Niw5MDg1ODc1MDhdfQ==
 -->
