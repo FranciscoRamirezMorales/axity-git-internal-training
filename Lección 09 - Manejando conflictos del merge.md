@@ -8,11 +8,11 @@
 
 ### Práctica 09 - Simular un conflicto en merge
 
-Para simular un conflicto durante un merge y aprender como manejar este tipo de conflicto realizaremos los siguientes pasos:
+Para simular un conflicto durante un merge y aprender cómo manejar este tipo de conflicto realizaremos los siguientes pasos:
 
-> Recuerda realizar commit despues de cada paso.
+> Recuerda realizar commit después de cada paso.
 
- 1. En el archivo `index.html`, cambiar el encabezado `Adventure` por `Quest`en el branch `master`. Mensaje: `Set page heading to Quest`.
+ 1. En el archivo `index.html`, cambiar el encabezado `Adventure` por `Quest` en el branch `master`. Mensaje: `Set page heading to Quest`.
 
  2. Crear el branch `heading-update` apuntado al penúltimo commit (el penúltimo commit debe estar asociado al mensaje `Merge branch 'sidebar'`). Este cambio debe ser hecho sobre el branch `heading-update`. 
 
@@ -67,8 +67,8 @@ $ git status
 ![img_09_git_merge_06](images/img_09_git_merge_06.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzY1NDU1ODQsOTE1Mjg3MTk2LDEwOT
-YxNjc0OCwtMzg4NDI0ODMsMzg4MDc1MzY4LDg2NzA4MjU5NCw3
-MjYwNTY4MjcsLTY4MTY0NDk3MiwxNzc4NzQyOTkxLC0zODAwNT
-M0MzVdfQ==
+eyJoaXN0b3J5IjpbOTI2MDY2OTY2LDkxNTI4NzE5NiwxMDk2MT
+Y3NDgsLTM4ODQyNDgzLDM4ODA3NTM2OCw4NjcwODI1OTQsNzI2
+MDU2ODI3LC02ODE2NDQ5NzIsMTc3ODc0Mjk5MSwtMzgwMDUzND
+M1XX0=
 -->
