@@ -206,18 +206,21 @@ $ git pull origin master
 
 [![Git fetch](http://img.youtube.com/vi/jwyQUfE1Eqw/0.jpg)](http://www.youtube.com/watch?v=jwyQUfE1Eqw "Git fetch")
 
-Ejercicio: Intente usar git fech
+### Ejercicio: Intente usar git fech
 
- 1. Haga un cambio en `index.html` en GitHub
- 2. Haga un cambio en `index.html` en el repositorio local
- 3. Ejecute git fetch para obtener los cambios.
- 4. Realice un merge
+ 1. Hacer un cambio en `index.html` en GitHub
+ 2. Hacer un cambio en `index.html` en el repositorio local
+ 3. Ejecutar `git fetch` para obtener los cambios.
+ 4. Realizar un merge entre los cambios remotos y los locales
+ 5. Realizar pull para enviar a GitHub el commit del merge.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NzUwODU3MCwxOTU4ODQ5Mjc3LDExOT
-I3MDY0MTEsLTQ1NTAxMjA5LC01MDI1MjI1ODgsMTY4Nzg3ODY2
-NywtMTA0MzIyMDA4MCwtMTAxNDk4MjEzNywtMjM4MjI5OTc1LC
-0xNTA0MDgxODc1LDEzOTgwMDU2MDUsMzYxMTk5MDU0LDg1MTg5
-MDA4MCwtMTk5MDg0Mjc0NCwtMTg1MjUyODUwOCw0Njk3NDgwMD
-IsMTIxMjE0ODkyNywxNjU0ODM3NDcxLDEzMTQ3MzQ1NTcsLTE1
-NDQwMzU3MDddfQ==
+eyJoaXN0b3J5IjpbLTE0MTQyODk5ODksMTk1ODg0OTI3NywxMT
+kyNzA2NDExLC00NTUwMTIwOSwtNTAyNTIyNTg4LDE2ODc4Nzg2
+NjcsLTEwNDMyMjAwODAsLTEwMTQ5ODIxMzcsLTIzODIyOTk3NS
+wtMTUwNDA4MTg3NSwxMzk4MDA1NjA1LDM2MTE5OTA1NCw4NTE4
+OTAwODAsLTE5OTA4NDI3NDQsLTE4NTI1Mjg1MDgsNDY5NzQ4MD
+AyLDEyMTIxNDg5MjcsMTY1NDgzNzQ3MSwxMzE0NzM0NTU3LC0x
+NTQ0MDM1NzA3XX0=
 -->
