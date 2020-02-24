@@ -1,6 +1,6 @@
 # Agregando commits al repositorio
 
-En esta lección veremos como:
+En esta lección veremos cómo:
 
  - Empezar a utilizar nuestro repositorio
  - Agregar commits
@@ -297,11 +297,11 @@ $ git log
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTM3NDYwMzEsODQyNDA2NzY5LDQwOD
-I1ODA0MCwtMTIxMTc0NTc0Miw3ODIzMTcwNCwtNjIzMjMwMTAy
-LDc5NTY2NDM2LDQ3NzYyNTQyNCwxNTQ2ODI3Mzk0LC0yMjMyMT
-A1NzIsMTQ3MjgwMzgzNywxODExNzUxMDgwLC02MjIxNjc3Mjcs
-LTEwMTY0Njg5MjksNDEyNTQ5ODgzLDE3MDg3NDQ5MzQsLTk1ND
-Y2NjE0Niw4NDcwNjQwNDUsLTUzOTc4ODM3MiwyMDEwMTI0NzU1
+eyJoaXN0b3J5IjpbMTE1NTA3NTYwNSwtMTYxMzc0NjAzMSw4ND
+I0MDY3NjksNDA4MjU4MDQwLC0xMjExNzQ1NzQyLDc4MjMxNzA0
+LC02MjMyMzAxMDIsNzk1NjY0MzYsNDc3NjI1NDI0LDE1NDY4Mj
+czOTQsLTIyMzIxMDU3MiwxNDcyODAzODM3LDE4MTE3NTEwODAs
+LTYyMjE2NzcyNywtMTAxNjQ2ODkyOSw0MTI1NDk4ODMsMTcwOD
+c0NDkzNCwtOTU0NjY2MTQ2LDg0NzA2NDA0NSwtNTM5Nzg4Mzcy
 XX0=
 -->
