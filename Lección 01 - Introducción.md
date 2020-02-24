@@ -13,7 +13,7 @@ En este curso aprenderás:
 
 # Agenda
 
-## D
+## Día 1
 
  - [Lección 01 - Introducción](Lecci%C3%B3n%2001%20-%20Introducci%C3%B3n.md)
 
@@ -23,7 +23,7 @@ En este curso aprenderás:
 
  - [Lección 04 - Creando un Repositorio de Git](Lecci%C3%B3n%2004%20-%20Creando%20un%20Repositorio%20de%20Git.md)
 
-### Día 2
+## Día 2
 
  - [Lección 05 - Analizando el Historial del Repositorio](Lecci%C3%B3n%2005%20-%20Analizando%20el%20Historial%20del%20Repositorio.md)
 
@@ -33,7 +33,7 @@ En este curso aprenderás:
 
  - [Lección 08 - Merging](Lecci%C3%B3n%2008%20-%20Merging.md)
 
-### Día 3
+## Día 3
 
  - [Lección 09 - Manejando conflictos del merge](Lecci%C3%B3n%2009%20-%20Manejando%20conflictos%20del%20merge.md)
 
@@ -42,6 +42,6 @@ En este curso aprenderás:
  - [Lección 11 - Trabajando con repositorios remotos](Lecci%C3%B3n%2011%20-%20Trabajando%20con%20repositorios%20remotos.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA3MzQ5NTMxLDE0MTMwODc0MTEsMTk3OD
-I5MjMxOV19
+eyJoaXN0b3J5IjpbLTE2OTE5MDIxMTgsMTQxMzA4NzQxMSwxOT
+c4MjkyMzE5XX0=
 -->
