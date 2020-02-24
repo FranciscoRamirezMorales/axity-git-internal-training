@@ -103,11 +103,11 @@ body {
 
 1. Realizar `checkout` para cambiar al branch `master`.
 
-2. En el archivo `index.html` cambiar el texto del encabezado `<h1>` de `"Expedition"` a `"Adventure"`
+2. En el archivo `index.html` cambiar el texto del encabezado `<h1>` de `Expedition` a `"Adventure`
 
 3. Guardar y cerrar.
 
-4. Realizar `commit`  con el mensaje `"Improve site heading for SEO"`.
+4. Realizar `commit`  con el mensaje `Improve site heading for SEO`.
 
 ### 4. Agregar más contenido a la barra lateral
 
@@ -115,11 +115,11 @@ body {
 
 > Verificar que los commits realizados en el branch `master` no aparecen en `sidebar`.
 
-2. En el archivo `index.html` agregar algún contenido en el bloque `<p>` del bloque `<aside>`. Algo como `"My favorite movie is LOTR!"`.
+2. En el archivo `index.html` agregar algún contenido en el bloque `<p>` del bloque `<aside>`. Algo como `My favorite movie is LOTR!`.
 
 3. Guardar y cerrar.
 
-4. Realizar `commit`  con el mensaje `"Update sidebar with favorite movie"`.
+4. Realizar `commit`  con el mensaje `Update sidebar with favorite movie`.
 
 ### 5. Agregar enlaces de redes sociales al pie de página
 
@@ -155,7 +155,7 @@ $ git checkout -b footer master
 
 4. Guardar y cerrar.
 
-5. Realizar `commit`  con el mensaje `"Add links to social media"`.
+5. Realizar `commit`  con el mensaje `Add links to social media`.
 
 ### 6. Ver todos los branches
 1. Ejecutar el siguiente comando para ver toda la actividad histórica de los commits realizados en todos los branch:
@@ -170,6 +170,6 @@ $ git log --oneline --decorate --graph --all
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDkzMDkxMTQsLTM2MjE5ODEzMCw0Nz
-Y2MjA2MThdfQ==
+eyJoaXN0b3J5IjpbNDQwNDMxMTQ0LC0zNjIxOTgxMzAsNDc2Nj
+IwNjE4XX0=
 -->
