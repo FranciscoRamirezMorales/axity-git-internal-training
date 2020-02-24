@@ -18,7 +18,7 @@ En esta lección mencionaremos como:
 $ git commit --amend
 ```
 
-Este comando modifica el ultimo commit para agregar los ultimos archivos modificados y agregados al Staging Index
+Este comando modifica el ultimo commit para agregar los últimos archivos modificados y agregados al **Staging Index**.
 
 Para poder usar este comando se deben realizar los siguientes pasos
 -   editar y guardar los archivos
@@ -93,8 +93,8 @@ En este caso `HEAD` apunta al commit `9ec05ca` y:
 -   `HEAD^^^2` corresponde al commit `4c9749e` (este es el `HEAD^^` del segundo padre (`^2`))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczODYyNTY0NywxODkwOTM3ODg1LC01ND
-E5OTU5NDcsLTc4Mzg4NDIwNiwtMTA4MzI1NDc5NiwxMzI5ODM1
-NTYsLTE5ODY0NzMyNDUsLTkxODE4MDg5NCwtMTYxODQ4NjQzNy
-wzMjI5MDk5MTFdfQ==
+eyJoaXN0b3J5IjpbNDY5NTI4NTU4LDE4OTA5Mzc4ODUsLTU0MT
+k5NTk0NywtNzgzODg0MjA2LC0xMDgzMjU0Nzk2LDEzMjk4MzU1
+NiwtMTk4NjQ3MzI0NSwtOTE4MTgwODk0LC0xNjE4NDg2NDM3LD
+MyMjkwOTkxMV19
 -->
