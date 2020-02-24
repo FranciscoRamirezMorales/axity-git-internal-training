@@ -12,7 +12,8 @@ En esta lección veremos los dos principales tipos de **Merge**:
 Recordemos que el propósito de un branch (por ejemplo `sidebar`) es que nos permite realizar cambios que no afectan al branch `master`. Una vez que realizamos cambios en el branch `sidebar` podemos decidir que esos cambios no aplicarán, eliminarlos o mantenerlos y posteriormente combinarlos con otra rama.
 
 **A la acción de combinar dos branches se le denomina `merge`.**
-ara entender como funciona el comando merge, podemos ver el siguiente video:
+
+Para entender cómo funciona el comando merge, podemos ver el siguiente video:
 
 **Video >>> (dar clic)**
 
@@ -64,7 +65,7 @@ $ git log --oneline --decorate --graph --all
 -   [git-merge](https://git-scm.com/docs/git-merge) en Git Docs
 -   [git merge](https://www.atlassian.com/git/tutorials/git-merge) en Atlassian blog
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDI3ODM5NTQsLTE0ODY3NTIwNzksLT
-EzMTI2MTUyNTYsLTE3MzcyNDUzMDYsMjEyOTA1ODY0MSwtMzg0
-NjQyMjMxLDQ3NDE0Nzk1Ml19
+eyJoaXN0b3J5IjpbLTg3MjUyNTY2OCwtMTQ4Njc1MjA3OSwtMT
+MxMjYxNTI1NiwtMTczNzI0NTMwNiwyMTI5MDU4NjQxLC0zODQ2
+NDIyMzEsNDc0MTQ3OTUyXX0=
 -->
