@@ -47,7 +47,7 @@ En este curso aprenderás:
 
  - [Lección 11 - Trabajando con repositorios remotos](Lecci%C3%B3n%2011%20-%20Trabajando%20con%20repositorios%20remotos.md)
 
- - [Lección 12 - Trabajando con otros desarrollo](Lecci%C3%B3n%2012%20-%20Trabajando%20con%20otros%20desarrollo.md#trabajando-con-otros-desarrollos)
+ - [Lección 12 - Trabajando con otros desarrollos](Lecci%C3%B3n%2012%20-%20Trabajando%20con%20otros%20desarrollo.md#trabajando-con-otros-desarrollos)
 
 ## Pre-requisitos
 
@@ -70,5 +70,5 @@ En este curso aprenderás:
 **Nota**: La VM viene configurada con 4 GB de memoria y 2 Cores/Procesadores. Ajustar si es necesario.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNjE0Mzg2NSwtMTk1NDM3NjE1MF19
+eyJoaXN0b3J5IjpbLTMyNzQ0Mzc3NCwtMTk1NDM3NjE1MF19
 -->
