@@ -1,6 +1,6 @@
 # Trabajando con otros desarrollos
 
-En esta lección veremos:
+ - En esta lección veremos:
 Entendiendo la funcionalidad de `Fork`
 Revisando el historial de cambios
 Resumen
@@ -44,7 +44,7 @@ Ahora hagamos lo siguiente:
 
  2. Moverse al directorio del repositorio recién clonado.
 
-### Por el autor
+### Agrupado por autor
 
 ```bash
 $ git shortlog
@@ -52,11 +52,16 @@ $ git shortlog
 
 ### Por el número de commits ordenado numéricamente 
 
- ```
+```bash
 $ git shortlog -s -n
 ```
 
-## Filtrado 
+## Filtrar por autor
+
+```bash
+$ git log --author=Surma
+```
+
 ## Resumen
 
 Fork es una acción hecha sobre el sevicio de GitHub:
@@ -68,6 +73,6 @@ Fork es una acción hecha sobre el sevicio de GitHub:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MDA5NjIwNCwtMjE0NDY3MTE3OSw5MD
+eyJoaXN0b3J5IjpbLTg0MTY1NzIwNCwtMjE0NDY3MTE3OSw5MD
 g1ODc1MDhdfQ==
 -->
