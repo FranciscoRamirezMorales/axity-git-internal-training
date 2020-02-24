@@ -29,7 +29,7 @@ En este curso aprenderás:
 
  - [Lección 06 - Agregando commits al repositorio](Lecci%C3%B3n%2006%20-%20Agregando%20commits%20al%20repositorio.md)
 
- - [Lección 07 - Tagging & Branching](Lecci%C3%B3n%2007%20-%20Tagging%2C%20Branching%20%26%20Merging.md)
+ - [Lección 07 - Tagging & Branching](Lecci%C3%B3n%2007%20-%20Tagging%2C%20Branching%20%26%20Merging.md#tagging-branching--merging)
 
  - [Lección 08 - Merging](Lecci%C3%B3n%2008%20-%20Merging.md)
 
@@ -42,6 +42,6 @@ En este curso aprenderás:
  - [Lección 11 - Trabajando con repositorios remotos](Lecci%C3%B3n%2011%20-%20Trabajando%20con%20repositorios%20remotos.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjkxMTkwMDUsLTE2OTE5MDIxMTgsMT
-QxMzA4NzQxMSwxOTc4MjkyMzE5XX0=
+eyJoaXN0b3J5IjpbLTE3Nzk1MzcyMSwtMTY5MTkwMjExOCwxND
+EzMDg3NDExLDE5NzgyOTIzMTldfQ==
 -->
