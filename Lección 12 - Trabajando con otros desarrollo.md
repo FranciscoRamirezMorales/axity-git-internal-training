@@ -39,8 +39,11 @@ Ahora hagamos lo siguiente:
 
 ## Resumen
 
-Fork es
+Fork es una acción dond
+
+Se realiza una copia idéntica de otro repositorio
+El repositorio o
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDI4ODUxNzUsOTA4NTg3NTA4XX0=
+eyJoaXN0b3J5IjpbLTgyMTA2NjI1Myw5MDg1ODc1MDhdfQ==
 -->
