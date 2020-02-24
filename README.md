@@ -47,6 +47,8 @@ En este curso aprenderás:
 
  - [Lección 11 - Trabajando con repositorios remotos](Lecci%C3%B3n%2011%20-%20Trabajando%20con%20repositorios%20remotos.md)
 
+
+
 ## Pre-requisitos
 
  - Conocimiento sobre comandos básicos de Linux
@@ -68,5 +70,5 @@ En este curso aprenderás:
 **Nota**: La VM viene configurada con 4 GB de memoria y 2 Cores/Procesadores. Ajustar si es necesario.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzczMTE3MTQzLC0xOTU0Mzc2MTUwXX0=
+eyJoaXN0b3J5IjpbMTQ4NzQ1ODYxMSwtMTk1NDM3NjE1MF19
 -->
