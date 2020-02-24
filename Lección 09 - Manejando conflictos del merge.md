@@ -11,7 +11,7 @@ Para simular un conflicto durante un merge y aprender como manejar este tipo de 
 
 > Recuerda realizar commit despues de cada paso.
 
- 1. En el archivo `index.html`, cambiar el encabezado `"Adventure"` por `"Quest"`en el branch `master`. Mensaje: `"Set page heading to Quest"`.
+ 1. En el archivo `index.html`, cambiar el encabezado `Adventure` por `"Quest`en el branch `master`. Mensaje: `"Set page heading to Quest"`.
 
  2. Crear el branch `heading-update` apuntado al penúltimo commit (el penúltimo commit debe estar asociado al mensaje `"Merge branch 'sidebar'"`). Este cambio debe ser hecho sobre el branch `heading-update`. 
 
@@ -53,7 +53,7 @@ $ git status
 
 ![img_09_git_merge_03](images/img_09_git_merge_03.png)
 
- 8. Para resolver estos conflictos solo debemos conservar la línea de código que deseamos mantener y eliminar las líneas de los indicadores. Veamos lo que sucede si no mantenemos ninguno de los dos cambios y en este punto cambiamos el texto del encabezado por `"Adventurous Quest"`
+ 8. Para resolver estos conflictos solo debemos conservar la línea de código que deseamos mantener y eliminar las líneas de los indicadores. Veamos lo que sucede si no mantenemos ninguno de los dos cambios y en este punto cambiamos el texto del encabezado por `Adventurous Quest`
 
 ![img_09_git_merge_04](images/img_09_git_merge_04.png)
 
@@ -66,8 +66,8 @@ $ git status
 ![img_09_git_merge_06](images/img_09_git_merge_06.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI3NzgyODk0LDkxNTI4NzE5NiwxMDk2MT
-Y3NDgsLTM4ODQyNDgzLDM4ODA3NTM2OCw4NjcwODI1OTQsNzI2
-MDU2ODI3LC02ODE2NDQ5NzIsMTc3ODc0Mjk5MSwtMzgwMDUzND
-M1XX0=
+eyJoaXN0b3J5IjpbLTkwNDg3NjQ0MCw5MTUyODcxOTYsMTA5Nj
+E2NzQ4LC0zODg0MjQ4MywzODgwNzUzNjgsODY3MDgyNTk0LDcy
+NjA1NjgyNywtNjgxNjQ0OTcyLDE3Nzg3NDI5OTEsLTM4MDA1Mz
+QzNV19
 -->
