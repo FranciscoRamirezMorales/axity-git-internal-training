@@ -74,6 +74,7 @@ $ git log
 > Para efectos de las lecciones siguientes debemos eliminar el tag que hemos creado previamente.
 
 ## Crear Branches
+
 El siguiente video explica de forma general cómo funcionan los branches:
 
 **Video >>> (dar clic)**
@@ -83,35 +84,46 @@ El siguiente video explica de forma general cómo funcionan los branches:
 El comando que usaremos para administrar los branches es `git branch`.
 
 ### Visualizar los branches existentes
+
 ```bash
 $ git branch
 ```
 
 ### Crear un nuevo branch
+
 ```bash
 $ git branch sidebar
 ```
 
 ## Cambiar entre branches
+
 ```bash
 $ git checkout sidebar
 ```
 > Es importante entender que cuando hacemos `git checkout`, todos los archivos del repositorio de trabajo son removidos y en su lugar son colocados los archivos que cuyos **commits** corresponden al **branch** sobre el cual estamos haciendo **checkout**.
 
 ## Administrar branches
+
 ### Visualizar los brahes en el log
+
 ```bash
 $ git log --oneline
 ```
+
 ### Visualizar el branch activo
+
 ```bash
 $ git branch
 ```
+
 ### Eliminar un branch
+
 ```bash
 $ git branch -d sidebar
 ```
+
 ### Crear un branch en un commit específico
+
 ```bash
 $ git branc alt-sidebar-loc bb352c
 ```
@@ -121,11 +133,11 @@ $ git branc alt-sidebar-loc bb352c
 # [**Práctica 07**](Práctica%2007%20-%20Commits.md#ejercicio---commits)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgyMTUzMDc0LDEzMzQwODIyNDMsLTE0Mj
-MwMjIwOTYsLTEwOTYwMjMzODAsLTE3Mzg2MTQyMzEsMTU0MjYw
-Nzc2MSwxNDExMDM0MjY1LC0xMDcxNjc4MTgxLC0xMzM0MTQ0NT
-MxLDIwODExNjE5MTQsLTQ4MTA5MjkwMCwxMDc2MTM2NzQ5LDUy
-MDIwNjY2MCwtMTQxOTQ1Nzc4OCwxODQ3NDY5ODYxLC00MzA3Mj
-UwMSwyODY2ODQxOTQsLTE2NjA4MzA5MjUsLTE5MzA1MDI0OCwt
-MTgxMTIxODU5OV19
+eyJoaXN0b3J5IjpbMTk0NTA4OTE3NCwxMzM0MDgyMjQzLC0xND
+IzMDIyMDk2LC0xMDk2MDIzMzgwLC0xNzM4NjE0MjMxLDE1NDI2
+MDc3NjEsMTQxMTAzNDI2NSwtMTA3MTY3ODE4MSwtMTMzNDE0ND
+UzMSwyMDgxMTYxOTE0LC00ODEwOTI5MDAsMTA3NjEzNjc0OSw1
+MjAyMDY2NjAsLTE0MTk0NTc3ODgsMTg0NzQ2OTg2MSwtNDMwNz
+I1MDEsMjg2Njg0MTk0LC0xNjYwODMwOTI1LC0xOTMwNTAyNDgs
+LTE4MTEyMTg1OTldfQ==
 -->
