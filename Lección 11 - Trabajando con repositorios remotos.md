@@ -128,7 +128,7 @@ h2 {
 ```
  6. Guardar y cerrar los archivos.
 
- 7. Realizar `commit`  con el mensaje `"Initial commit"`.
+ 7. Realizar `commit`  con el mensaje `Initial commit`.
 
  8. El archivo `index.html` debería verse así:
 
@@ -140,7 +140,7 @@ h2 {
 
  2. Crear un repositorio con el nombre `my-travel-plans`
 
- 3. Asegurar que al momento de crear el repositorio **NO** marcar la opción de `"Initialize this repository with a README"`.
+ 3. Asegurar que al momento de crear el repositorio **NO** marcar la opción de `Initialize this repository with a README`.
 
 ###  Crear una conexión del repositorio local al remoto
 
@@ -193,15 +193,15 @@ $ git push origin master
 
 `let traveling = true;`
 
- 4.  Hacer commit con el mensaje `"Add animation to destination headings"`.
+ 4.  Hacer commit con el mensaje `Add animation to destination headings`.
  5. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4Nzg3ODY2NywtMTA0MzIyMDA4MCwtMT
-AxNDk4MjEzNywtMjM4MjI5OTc1LC0xNTA0MDgxODc1LDEzOTgw
-MDU2MDUsMzYxMTk5MDU0LDg1MTg5MDA4MCwtMTk5MDg0Mjc0NC
-wtMTg1MjUyODUwOCw0Njk3NDgwMDIsMTIxMjE0ODkyNywxNjU0
-ODM3NDcxLDEzMTQ3MzQ1NTcsLTE1NDQwMzU3MDcsMTcxMjQyMz
-k0MSwxMzY0ODc5MTg3LDcwNjgwMDk3MSwxMzc2ODQ4MDk0LC01
-MjI3Nzk5MDZdfQ==
+eyJoaXN0b3J5IjpbLTE5MjU5NzY3OTcsMTY4Nzg3ODY2NywtMT
+A0MzIyMDA4MCwtMTAxNDk4MjEzNywtMjM4MjI5OTc1LC0xNTA0
+MDgxODc1LDEzOTgwMDU2MDUsMzYxMTk5MDU0LDg1MTg5MDA4MC
+wtMTk5MDg0Mjc0NCwtMTg1MjUyODUwOCw0Njk3NDgwMDIsMTIx
+MjE0ODkyNywxNjU0ODM3NDcxLDEzMTQ3MzQ1NTcsLTE1NDQwMz
+U3MDcsMTcxMjQyMzk0MSwxMzY0ODc5MTg3LDcwNjgwMDk3MSwx
+Mzc2ODQ4MDk0XX0=
 -->
