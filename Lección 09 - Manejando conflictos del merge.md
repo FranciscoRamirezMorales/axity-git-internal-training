@@ -43,8 +43,8 @@ Este mensaje indica que **Git** no pudo realizar un merge automático y que debe
 > -   `||||||| merged common ancestors` todo lo que está después de este indicador (hasta antes del siguiente) muestra las líneas originales
 > antes de realizar el merge.
 > -   `=======` indica el final de las líneas originales y todo lo que está después de este indicador (hasta antes del siguiente) muestra las
-> líneas del branch sobre el que se esta aplicando el merge.
-> -   `>>>>>>> heading-update` indica el final de las líneas del branch sobre el que se esta aplicando el merge.
+> líneas del branch sobre el que se está aplicando el merge.
+> -   `>>>>>>> heading-update` indica el final de las líneas del branch sobre el que se está aplicando el merge.
 
  7. Ejecutar el comando de `status` para conocer las acciones pendientes.
 
@@ -67,8 +67,8 @@ $ git status
 ![img_09_git_merge_06](images/img_09_git_merge_06.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NDc0MjA2NSw5MTUyODcxOTYsMTA5Nj
-E2NzQ4LC0zODg0MjQ4MywzODgwNzUzNjgsODY3MDgyNTk0LDcy
-NjA1NjgyNywtNjgxNjQ0OTcyLDE3Nzg3NDI5OTEsLTM4MDA1Mz
-QzNV19
+eyJoaXN0b3J5IjpbLTEwODczNDc0MDcsOTE1Mjg3MTk2LDEwOT
+YxNjc0OCwtMzg4NDI0ODMsMzg4MDc1MzY4LDg2NzA4MjU5NCw3
+MjYwNTY4MjcsLTY4MTY0NDk3MiwxNzc4NzQyOTkxLC0zODAwNT
+M0MzVdfQ==
 -->
