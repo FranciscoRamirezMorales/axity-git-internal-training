@@ -177,9 +177,9 @@ $ git push origin master
 
 ### Recuperar cambios desde un repositorio remoto
 
- 1. En la cuenta de GitHub
+ 1. En la cuenta de GitHub, en el repositorio `my-travel-plans`, modificar el archivo `app.cs` 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MjE4Mzc0NSwtMTAxNDk4MjEzNywtMj
+eyJoaXN0b3J5IjpbMTc5ODA2ODkxNiwtMTAxNDk4MjEzNywtMj
 M4MjI5OTc1LC0xNTA0MDgxODc1LDEzOTgwMDU2MDUsMzYxMTk5
 MDU0LDg1MTg5MDA4MCwtMTk5MDg0Mjc0NCwtMTg1MjUyODUwOC
 w0Njk3NDgwMDIsMTIxMjE0ODkyNywxNjU0ODM3NDcxLDEzMTQ3
