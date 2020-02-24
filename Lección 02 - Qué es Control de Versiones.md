@@ -4,7 +4,7 @@
 
 Objetivos principales de Git:
 
- - Mantener un historial detallado del proyecto, así como la capacidad de trabajar en diferentes versiones del mismo. 
+ - Mantener un historial detallado del proyecto, así como la capacidad de trabajar en diferentes versiones de este. 
  - Mantener un historial detallado de un proyecto para dar seguimiento a su progreso y avance a lo largo del tiempo. 
  - Volver a cualquier punto del proyecto para recuperar datos o archivos.
 
@@ -42,7 +42,7 @@ Sistema de Control de Versiones (VCS) es una herramienta que administra diferent
 
 ###  Commit
 
-Git esta diseñado para administrar datos/archivos como un conjunto de fotos de un mini sistema de archivos. En Git, cada vez que se realiza una acción de *Commit*, básicamente se toma una fotografía del estado en que se encuentran todos los archivos en ese momento y almacena una referencia a esa foto.
+Git está diseñado para administrar datos/archivos como un conjunto de fotos de un mini sistema de archivos. En Git, cada vez que se realiza una acción de *Commit*, básicamente se toma una fotografía del estado en que se encuentran todos los archivos en ese momento y almacena una referencia a esa foto.
 
 > Un **Commit** es la unidad básica y fundamental en Git.
 
@@ -92,6 +92,7 @@ Echemos un vistazo a alto nivel para entender como usar Git al observar el flujo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjMwMDY4NzAsLTIxNDQ2NzcyMDQsMT
-cyMDQwODE3LC01MTU5NDQ0NjksLTE5ODUyODI1MjddfQ==
+eyJoaXN0b3J5IjpbLTE0MzI1MTg2MjAsLTE4MjMwMDY4NzAsLT
+IxNDQ2NzcyMDQsMTcyMDQwODE3LC01MTU5NDQ0NjksLTE5ODUy
+ODI1MjddfQ==
 -->
