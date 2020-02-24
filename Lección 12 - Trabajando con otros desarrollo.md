@@ -18,7 +18,10 @@ Para entender como funciona la funcionalidad de `fork` en GitHub realice los sig
 
 **¿Qués es lo que observa?**
 
-Ah
+Ahora hagamos lo siguiente:
+
+ 1. Ingresemos en el [Proyecto my-travel-plans de Lam](https://github.com/udacity/course-collaboration-travel-plans).
+ 2. Damos clic en el boton 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTEyNDUyMTMsOTA4NTg3NTA4XX0=
+eyJoaXN0b3J5IjpbMzUzNDY1OTQ5LDkwODU4NzUwOF19
 -->
