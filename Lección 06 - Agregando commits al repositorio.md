@@ -135,9 +135,10 @@ En este caso ingresaremos el mensaje `Initial commit`. Pero tú puedes ingresar 
 Guardamos el archivo y cerramos Atom. Esto nos devolverá a la terminal con el siguiente resultado.
 
 ![img_06_git commit_atom_out](images/img_06_git_commit_atom_out.png)
+
 Ahora veamos otra forma de hacer commit.
 
-Para esto haremos una segunda modificación al archivo index.html agregando las siguientes líneas dentro del bloque `<body>`:
+Para esto haremos una segunda modificación al archivo `index.html` agregando las siguientes líneas dentro del bloque `<body>`:
 
 ```html
 <header>
@@ -304,7 +305,7 @@ $ git log
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMzA5MTEyMSwxMTU1MDc1NjA1LC0xNj
+eyJoaXN0b3J5IjpbMTkyOTE3MTcyNSwxMTU1MDc1NjA1LC0xNj
 EzNzQ2MDMxLDg0MjQwNjc2OSw0MDgyNTgwNDAsLTEyMTE3NDU3
 NDIsNzgyMzE3MDQsLTYyMzIzMDEwMiw3OTU2NjQzNiw0Nzc2Mj
 U0MjQsMTU0NjgyNzM5NCwtMjIzMjEwNTcyLDE0NzI4MDM4Mzcs
