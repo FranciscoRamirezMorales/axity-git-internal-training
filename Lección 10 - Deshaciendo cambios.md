@@ -5,8 +5,11 @@ Aunque es poco común deshacer los cambios de un commit es posible hacerlo. En e
 En esta lección mencionaremos como:
 
  -  Cambiar el último commit
+
  - Agregar archivos omitidos al último commit
+
  - Revertir un commit
+
  - Reset
 
 ## Cambiar el último commit
@@ -90,8 +93,8 @@ En este caso `HEAD` apunta al commit `9ec05ca` y:
 -   `HEAD^^^2` corresponde al commit `4c9749e` (este es el `HEAD^^` del segundo padre (`^2`))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MDkzNzg4NSwtNTQxOTk1OTQ3LC03OD
-M4ODQyMDYsLTEwODMyNTQ3OTYsMTMyOTgzNTU2LC0xOTg2NDcz
-MjQ1LC05MTgxODA4OTQsLTE2MTg0ODY0MzcsMzIyOTA5OTExXX
-0=
+eyJoaXN0b3J5IjpbMTczODYyNTY0NywxODkwOTM3ODg1LC01ND
+E5OTU5NDcsLTc4Mzg4NDIwNiwtMTA4MzI1NDc5NiwxMzI5ODM1
+NTYsLTE5ODY0NzMyNDUsLTkxODE4MDg5NCwtMTYxODQ4NjQzNy
+wzMjI5MDk5MTFdfQ==
 -->
