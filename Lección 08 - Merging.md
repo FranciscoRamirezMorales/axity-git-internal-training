@@ -20,9 +20,10 @@ Para entender cómo funciona el comando merge, podemos ver el siguiente video:
 [![Git merge](http://img.youtube.com/vi/gQiWicrreJg/0.jpg)](http://www.youtube.com/watch?v=gQiWicrreJg "Git merge")
 
 ## Fast-forward merge
-Este es el mas simple de los merge, ya que como se puede observar en el video, el apuntador `HEAD` del branch `master` es movido al commit más `adelantado`.
 
-> Recordemos en en la práctica anterior creamos un branch llamado `footer` basado en el branch `master`. Sobre `footer` (el cual en ese momento es una copia de `master`) se agregaron los enlaces de redes sociales. Por lo que footer tiene el commit más `adelantado`.
+Este es el más simple de los merge, ya que como se puede observar en el video, el apuntador `HEAD` del branch `master` es movido al commit más `adelantado`.
+
+> Recordemos en la práctica anterior creamos un branch llamado `footer` basado en el branch `master`. Sobre `footer` (el cual en ese momento es una copia de `master`) se agregaron los enlaces de redes sociales. Por lo que footer tiene el commit más `adelantado`.
 
 Tomando como base el resultado de la práctica anterior, para realizar un fast-forward merge ejecutamos el siguiente comando:
 
@@ -33,9 +34,10 @@ $ git merge footer
 ![img_08_git_merge_01](images/img_08_git_merge_01.png)
 
 ## Regular merge
+
 Este tipo de merge es el más común ya que implica combinar dos branches cuyas rutas son diferentes. 
 
-> Recordemos en en la práctica anterior creamos un branch llamado `sidebar` basado en el branch `master`. Tanto en master como en sidebar realizamos cambios por lo que ambos branches tomaron rutas diferentes
+> Recordemos en la práctica anterior creamos un branch llamado `sidebar` basado en el branch `master`. Tanto en master como en sidebar realizamos cambios por lo que ambos branches tomaron rutas diferentes.
 
 Para realizar un regular merge ejecutamos el siguiente comando:
 
@@ -46,7 +48,7 @@ $ git merge sidebar
 ![img_08_git_merge_02](images/img_08_git_merge_02.png)
 
 > Esta acción implica realizar un `commit`, ya que la propia acción de este tipo de merge implica cambios sobre los archivos.
-> Podemos cambiar el mensaje del commit, sin embargo es una práctica común usar el mensaje de commit del merge por defecto.
+> Podemos cambiar el mensaje del commit, sin embargo, es una práctica común usar el mensaje de commit del merge por defecto.
 
 ![img_08_git_merge_03](images/img_08_git_merge_03.png)
 
@@ -65,7 +67,7 @@ $ git log --oneline --decorate --graph --all
 -   [git-merge](https://git-scm.com/docs/git-merge) en Git Docs
 -   [git merge](https://www.atlassian.com/git/tutorials/git-merge) en Atlassian blog
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MjUyNTY2OCwtMTQ4Njc1MjA3OSwtMT
+eyJoaXN0b3J5IjpbLTc4ODI2OTE1NCwtMTQ4Njc1MjA3OSwtMT
 MxMjYxNTI1NiwtMTczNzI0NTMwNiwyMTI5MDU4NjQxLC0zODQ2
 NDIyMzEsNDc0MTQ3OTUyXX0=
 -->
