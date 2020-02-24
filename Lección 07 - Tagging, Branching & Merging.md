@@ -46,6 +46,7 @@ Después de esto guardamos y cerramos el editor.
 > si no se incluye la opción `-a` entonces se creará un **tag ligero**
 
 Para verificar que el **tag** se ha creado e identificar el punto (SHA) donde se ha creado el tag ejecutamos:
+
 ```bash
 $ git tag -a v1.0
 $ git log
@@ -104,7 +105,7 @@ $ git checkout sidebar
 
 ## Administrar branches
 
-### Visualizar los brahes en el log
+### Visualizar los branches en el log
 
 ```bash
 $ git log --oneline
@@ -125,7 +126,7 @@ $ git branch -d sidebar
 ### Crear un branch en un commit específico
 
 ```bash
-$ git branc alt-sidebar-loc bb352c
+$ git branch alt-sidebar-loc bb352c
 ```
 
 ![img_07_git_branch_01](images/img_07_git_branch_01.png)
@@ -133,7 +134,7 @@ $ git branc alt-sidebar-loc bb352c
 # [**Práctica 07**](Práctica%2007%20-%20Commits.md#ejercicio---commits)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NTA4OTE3NCwxMzM0MDgyMjQzLC0xND
+eyJoaXN0b3J5IjpbMTU2MzE1NTI5MywxMzM0MDgyMjQzLC0xND
 IzMDIyMDk2LC0xMDk2MDIzMzgwLC0xNzM4NjE0MjMxLDE1NDI2
 MDc3NjEsMTQxMTAzNDI2NSwtMTA3MTY3ODE4MSwtMTMzNDE0ND
 UzMSwyMDgxMTYxOTE0LC00ODEwOTI5MDAsMTA3NjEzNjc0OSw1
