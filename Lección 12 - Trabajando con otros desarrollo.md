@@ -44,7 +44,13 @@ Ahora hagamos lo siguiente:
 
  2. Moverse al directorio del repositorio recién clonado.
 
-### 
+### Por el autor
+
+```bash
+$ git shortlog
+```
+
+
 
 ## Resumen
 
@@ -57,6 +63,6 @@ Fork es una acción hecha sobre el sevicio de GitHub:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxOTQ5MTI1NiwtMjE0NDY3MTE3OSw5MD
-g1ODc1MDhdfQ==
+eyJoaXN0b3J5IjpbODQ3OTAwMzg3LC0yMTQ0NjcxMTc5LDkwOD
+U4NzUwOF19
 -->
