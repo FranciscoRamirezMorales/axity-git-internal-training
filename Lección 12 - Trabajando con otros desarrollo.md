@@ -1,8 +1,9 @@
 # Trabajando con otros desarrollos
 
 En esta lección veremos:
-
-Usar la función Fork
+Entendiendo la funcionalidad de `Fork`
+Revisando el historial de cambios
+Resumen
 
 ## Entendiendo la funcionalidad de `Fork`
 
@@ -37,6 +38,10 @@ Ahora hagamos lo siguiente:
 
 > Podemos ver ahora los cambios son enviados al repositorio de Lam".
 
+## Revisando el historial de cambios
+
+ 1. Clonar el pro
+
 ## Resumen
 
 Fork es una acción hecha sobre el sevicio de GitHub:
@@ -48,6 +53,6 @@ Fork es una acción hecha sobre el sevicio de GitHub:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMTQyMDE3MSwtMjE0NDY3MTE3OSw5MD
+eyJoaXN0b3J5IjpbLTIwMTI2OTgyOCwtMjE0NDY3MTE3OSw5MD
 g1ODc1MDhdfQ==
 -->
