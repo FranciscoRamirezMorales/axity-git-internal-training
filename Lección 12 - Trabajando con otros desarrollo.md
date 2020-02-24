@@ -16,7 +16,9 @@ Para entender como funciona la funcionalidad de `fork` en GitHub realice los sig
 3. Hacer commit.
 4. Usar git push para enviar los cambios al repositorio de **Lam**
 
-¿Qués es 
+**¿Qués es lo que observa?**
+
+Ah
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMDM1NDM3MSw5MDg1ODc1MDhdfQ==
+eyJoaXN0b3J5IjpbLTIwOTEyNDUyMTMsOTA4NTg3NTA4XX0=
 -->
