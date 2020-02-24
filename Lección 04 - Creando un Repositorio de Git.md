@@ -9,7 +9,7 @@ Si recordamos:
 Para generar un repositorio de Git es necesario realizar las siguientes tareas:
 
  - Crear un directorio
-- Inicializar el repositorio clonar un repositorio remoto
+- Inicializar el repositorio o clonar un repositorio remoto
  - Determinar el estatus de un repositorio
 
 ## Crear directorio
@@ -34,7 +34,7 @@ Inicializar un proyecto es una de las actividades más simples, basta con ejecut
 
     # git init
 
-Al ejecutar el comando git init se generan todos los directorios y archivos necesarios que Git usará para mantener el control de versiones de todo.
+Al ejecutar el comando `git init` se generan todos los directorios y archivos necesarios que Git usará para mantener el control de versiones de todo.
 
 ![img_git_repo](images/img_git_repo.png)
 
@@ -130,10 +130,10 @@ Esto debería generar la salida:
 En este punto este mensaje no debería ser un problema ya que en este repositorio aún no existen **commits** que mostrar. En siguientes lecciones se verá con más detalle el comando `git log`.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMTgxNzY2NywxNDk4Mjc5MTAxLDI5ND
-A5MzI0MCw3NjUzMjU4OTgsLTE0MjkzMjIzMDQsLTI0MjczMjA3
-MywyMDY5Nzk0NDU0LC0xMDkwMzY5MzQyLC0xNTEzMTkwMzAwLC
-0xMjEzMTExNTY2LC0xMTc4OTY4MjI0LDIwMDY3NTQ1OTAsLTE3
-NTMwNjgzODAsMTc4NjQ2OTgwMSwxNjQ2ODcxNDM2LDQxNzMxNj
-gxXX0=
+eyJoaXN0b3J5IjpbLTYxNTg4MDc2MCwtNzAxODE3NjY3LDE0OT
+gyNzkxMDEsMjk0MDkzMjQwLDc2NTMyNTg5OCwtMTQyOTMyMjMw
+NCwtMjQyNzMyMDczLDIwNjk3OTQ0NTQsLTEwOTAzNjkzNDIsLT
+E1MTMxOTAzMDAsLTEyMTMxMTE1NjYsLTExNzg5NjgyMjQsMjAw
+Njc1NDU5MCwtMTc1MzA2ODM4MCwxNzg2NDY5ODAxLDE2NDY4Nz
+E0MzYsNDE3MzE2ODFdfQ==
 -->
