@@ -1,6 +1,6 @@
 # Tagging, Branching & Merging
 
-En esta lección veremos como:
+En esta lección veremos cómo:
 
  - Vistazo general
  - Crear Tag's
@@ -22,7 +22,7 @@ En esta lección veremos los siguientes comandos:
 
 [![Git Tag](http://img.youtube.com/vi/D4VdXT72ASE/0.jpg)](http://www.youtube.com/watch?v=D4VdXT72ASE "Git Tag")
 
-## Cear un Tag
+## Crear un Tag
 
 ### Crear un tag en el punto actual
 
@@ -121,11 +121,11 @@ $ git branc alt-sidebar-loc bb352c
 # [**Práctica 07**](Práctica%2007%20-%20Commits.md#ejercicio---commits)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MTYzODQ5OCwxMzM0MDgyMjQzLC0xND
-IzMDIyMDk2LC0xMDk2MDIzMzgwLC0xNzM4NjE0MjMxLDE1NDI2
-MDc3NjEsMTQxMTAzNDI2NSwtMTA3MTY3ODE4MSwtMTMzNDE0ND
-UzMSwyMDgxMTYxOTE0LC00ODEwOTI5MDAsMTA3NjEzNjc0OSw1
-MjAyMDY2NjAsLTE0MTk0NTc3ODgsMTg0NzQ2OTg2MSwtNDMwNz
-I1MDEsMjg2Njg0MTk0LC0xNjYwODMwOTI1LC0xOTMwNTAyNDgs
-LTE4MTEyMTg1OTldfQ==
+eyJoaXN0b3J5IjpbMzgyMTUzMDc0LDEzMzQwODIyNDMsLTE0Mj
+MwMjIwOTYsLTEwOTYwMjMzODAsLTE3Mzg2MTQyMzEsMTU0MjYw
+Nzc2MSwxNDExMDM0MjY1LC0xMDcxNjc4MTgxLC0xMzM0MTQ0NT
+MxLDIwODExNjE5MTQsLTQ4MTA5MjkwMCwxMDc2MTM2NzQ5LDUy
+MDIwNjY2MCwtMTQxOTQ1Nzc4OCwxODQ3NDY5ODYxLC00MzA3Mj
+UwMSwyODY2ODQxOTQsLTE2NjA4MzA5MjUsLTE5MzA1MDI0OCwt
+MTgxMTIxODU5OV19
 -->
