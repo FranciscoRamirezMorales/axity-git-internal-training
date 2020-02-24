@@ -1,9 +1,9 @@
 # Trabajando con otros desarrollos
 
  - En esta lección veremos:
-Entendiendo la funcionalidad de `Fork`
-Revisando el historial de cambios
-Resumen
+ - Entendiendo la funcionalidad de `Fork`
+ - Revisando el historial de cambios
+ - Resumen
 
 ## Entendiendo la funcionalidad de `Fork`
 
@@ -60,7 +60,9 @@ $ git shortlog -s -n
 
 ```bash
 $ git log --author=Surma
+$ git log --author="Paul Lewis"
 ```
+
 
 ## Resumen
 
@@ -73,6 +75,6 @@ Fork es una acción hecha sobre el sevicio de GitHub:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MTY1NzIwNCwtMjE0NDY3MTE3OSw5MD
+eyJoaXN0b3J5IjpbLTU4Mzc0MzU4MSwtMjE0NDY3MTE3OSw5MD
 g1ODc1MDhdfQ==
 -->
