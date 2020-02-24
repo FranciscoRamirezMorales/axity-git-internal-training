@@ -219,7 +219,7 @@ $ git diff
 
 ![img_06_git_diff_01](images/img_06_git_diff_01.png)
 
-Como podemos ver `git diff` muestra los cambios antes de hacer `get commit`.
+Como podemos ver `git diff` muestra los cambios antes de hacer `git commit`.
 
 > Realizar commit antes de continuar definiendo un mensaje, un ejemplo puede ser `Change the travel type`
 
@@ -277,7 +277,7 @@ Dentro del archivo .gitignore podemos usar algunos caracteres especiales para de
   - *.png -> image1.png, picture.png, box.png
 -   `?` - coincidir 1 caracter
     -  `be?rs` **->** bears, beers
--   `[abc]` - coincidir a, b, _o_ c
+-   `[abc]` - coincidir a, b _o_ c
 -   `**` - coincidir directorios anidados: `a/**/z` coincide con:
     -   a/z
     -   a/b/z
@@ -294,13 +294,13 @@ $ git add .gitignore
 ```bash
 $ git commit -m "Add .gitignore file"
 ```
- - Por último ejecutamos git log para revisar los cambios realizados:
+ - Por último, ejecutamos git log para revisar los cambios realizados:
 ```bash
 $ git log
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNDQ5NDE2OSwxMTU1MDc1NjA1LC0xNj
+eyJoaXN0b3J5IjpbLTYxNTA4Mjk4NywxMTU1MDc1NjA1LC0xNj
 EzNzQ2MDMxLDg0MjQwNjc2OSw0MDgyNTgwNDAsLTEyMTE3NDU3
 NDIsNzgyMzE3MDQsLTYyMzIzMDEwMiw3OTU2NjQzNiw0Nzc2Mj
 U0MjQsMTU0NjgyNzM5NCwtMjIzMjEwNTcyLDE0NzI4MDM4Mzcs
