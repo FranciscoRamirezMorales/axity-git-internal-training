@@ -200,18 +200,19 @@ $ git pull origin master
 ![img_11_git_remote_05](images/img_11_git_remote_05.png)
 
 
+### Diferencia entre pull vs fetch
+
+**Video >>> (dar clic)**
+
+[![Git fetch](http://img.youtube.com/vi/jwyQUfE1Eqw/0.jpg)](http://www.youtube.com/watch?v=jwyQUfE1Eqw "Git fetch")
 
 
-
- 5. Crear el archivo `app.js` en el directorio `js`. Ingresar la siguiente línea:
-
-`let traveling = true;`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MjcwNjQxMSwtNDU1MDEyMDksLTUwMj
-UyMjU4OCwxNjg3ODc4NjY3LC0xMDQzMjIwMDgwLC0xMDE0OTgy
-MTM3LC0yMzgyMjk5NzUsLTE1MDQwODE4NzUsMTM5ODAwNTYwNS
-wzNjExOTkwNTQsODUxODkwMDgwLC0xOTkwODQyNzQ0LC0xODUy
-NTI4NTA4LDQ2OTc0ODAwMiwxMjEyMTQ4OTI3LDE2NTQ4Mzc0Nz
-EsMTMxNDczNDU1NywtMTU0NDAzNTcwNywxNzEyNDIzOTQxLDEz
-NjQ4NzkxODddfQ==
+eyJoaXN0b3J5IjpbMTk1ODg0OTI3NywxMTkyNzA2NDExLC00NT
+UwMTIwOSwtNTAyNTIyNTg4LDE2ODc4Nzg2NjcsLTEwNDMyMjAw
+ODAsLTEwMTQ5ODIxMzcsLTIzODIyOTk3NSwtMTUwNDA4MTg3NS
+wxMzk4MDA1NjA1LDM2MTE5OTA1NCw4NTE4OTAwODAsLTE5OTA4
+NDI3NDQsLTE4NTI1Mjg1MDgsNDY5NzQ4MDAyLDEyMTIxNDg5Mj
+csMTY1NDgzNzQ3MSwxMzE0NzM0NTU3LC0xNTQ0MDM1NzA3LDE3
+MTI0MjM5NDFdfQ==
 -->
