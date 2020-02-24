@@ -1,5 +1,7 @@
 # Control de versiones con Git
 
+## Día 1
+
  - [Lección 01 - Introducción.md](Lecci%C3%B3n%2001%20-%20Introducci%C3%B3n.md)
 
  - [Lección 02 - Qué es Control de Versiones.md](Lecci%C3%B3n%2002%20-%20Qu%C3%A9%20es%20Control%20de%20Versiones.md)
@@ -22,5 +24,5 @@
 
  - [Lección 11 - Trabajando con repositorios remotos.md](Lecci%C3%B3n%2011%20-%20Trabajando%20con%20repositorios%20remotos.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxODM2MTMxMiwxOTc4MjkyMzE5XX0=
+eyJoaXN0b3J5IjpbMTQxMzA4NzQxMSwxOTc4MjkyMzE5XX0=
 -->
