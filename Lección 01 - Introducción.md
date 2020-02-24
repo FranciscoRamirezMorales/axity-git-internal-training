@@ -4,11 +4,7 @@ En este curso aprenderás a:
  - Usar **Git** desde los comandos más básicos para trabajar de forma local hasta poder interactuar de forma remota
  - Utilizar **GitHub** como un servicio de repositorio remoto y aprender a trabajar con equipos de desarrollo.
 
-En los inicios del curso **empezaremos desde lo más básico** haciendo ejercicios prácticos. Durante el transcurso del curso, **trabajaras de forma colectiva**, real y aplicando los conocimientos **con más de 14 ejercicios y ejemplos**.
 
-Durante todo el curso, **los temas nuevos tendrán su introducción con diapositivas divertidas** y reales **que te harán comprender** los conceptos que muchas personas tienden a sentir complejos a primera impresión.
-
-Temas como el **Stash, Rebase, Pull Request, Reflog** y otros, son cubiertos para brindarte el control que necesitas para trabajar en tus proyectos de forma segura.
 
 ## Lo que aprenderás
 
@@ -50,6 +46,6 @@ Temas como el **Stash, Rebase, Pull Request, Reflog** y otros, son cubiertos par
 
  - [Lección 11 - Trabajando con repositorios remotos.md](Lecci%C3%B3n%2011%20-%20Trabajando%20con%20repositorios%20remotos.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NTI1MDY5MiwxNDEzMDg3NDExLDE5Nz
+eyJoaXN0b3J5IjpbLTk2MDIzMDI1NCwxNDEzMDg3NDExLDE5Nz
 gyOTIzMTldfQ==
 -->
