@@ -10,9 +10,6 @@ En este curso aprenderás:
 
  - A trabajar con equipos de desarrollo de forma colaborativa.
 
-
-
-
 ## Agenda
 
 ### Día 1
@@ -64,5 +61,5 @@ En este curso aprenderás:
 
 **Nota**: La VM viene configurada con 4 GB de memoria y 2 Cores/Procesadores. Ajustar si es necesario.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgyNzg3NTg0XX0=
+eyJoaXN0b3J5IjpbMjEwMTczNjg0Ml19
 -->
