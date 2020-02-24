@@ -19,11 +19,11 @@ Para habilitar un ambiente de Git es necesario realizar los siguientes pasos:
 
 > También podemos usar `apt-get` para instalar Git.
 
-> Si se requiere, ingresar el password **Welcome1** y reponder "**Y**" en todas las opciones.
+> Si se requiere, ingresar la contraseña **Welcome1** y responder "**Y**" en todas las opciones.
 
 ## Configurar Terminal de Linux
 
-Agregar las siguientes líneas al archivo `.bashrc` (Usar **vi** o algun otro editor):
+Agregar las siguientes líneas al archivo `.bashrc` (Usar **vi** o algún otro editor):
 
 ```
 # Enable tab completion
@@ -55,7 +55,7 @@ La ruta debería verse así:
 
 ## Configuración Inicial de Git
 
-Ejecutar las siguientes lineas para realizar la configuración inicial de Git:
+Ejecutar las siguientes líneas para realizar la configuración inicial de Git:
 
 Configurar Git con tu nombre
 
@@ -83,7 +83,7 @@ Para configurar el editor por defecto (**Atom**) de Git ejecutar el siguiente co
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTQ5MDEwNjAsLTIwOTM1NzUyNTQsMT
-k5MDc4NTMxOCwxNzIyMzQwNzc4LDE5NTI4MzMzLDEzMzIyNTU0
-NTIsMTc3ODk1NTA1MF19
+eyJoaXN0b3J5IjpbOTIzOTc5Nzk4LC0xNDk0OTAxMDYwLC0yMD
+kzNTc1MjU0LDE5OTA3ODUzMTgsMTcyMjM0MDc3OCwxOTUyODMz
+MywxMzMyMjU1NDUyLDE3Nzg5NTUwNTBdfQ==
 -->
