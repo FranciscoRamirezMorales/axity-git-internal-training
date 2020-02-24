@@ -3,9 +3,13 @@
 En esta lección veremos cómo:
 
  - Empezar a utilizar nuestro repositorio
+
  - Agregar commits
+
  - Mensajes de un commit
+
  - Revisar lo que ha cambiado
+
  - Omitir archivos en Git
 
 ## Empezar a utilizar nuestro repositorio
@@ -300,7 +304,7 @@ $ git log
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNTA4Mjk4NywxMTU1MDc1NjA1LC0xNj
+eyJoaXN0b3J5IjpbMTgwMzA5MTEyMSwxMTU1MDc1NjA1LC0xNj
 EzNzQ2MDMxLDg0MjQwNjc2OSw0MDgyNTgwNDAsLTEyMTE3NDU3
 NDIsNzgyMzE3MDQsLTYyMzIzMDEwMiw3OTU2NjQzNiw0Nzc2Mj
 U0MjQsMTU0NjgyNzM5NCwtMjIzMjEwNTcyLDE0NzI4MDM4Mzcs
