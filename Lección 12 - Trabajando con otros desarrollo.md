@@ -65,6 +65,14 @@ $ git log --author="Paul Lewis"
 
 ## Filtrar por commit especifico
 
+```bash
+$ git show 5966b66
+```
+
+## Filtrar por un palabra en el mensaje del commit
+
+
+
 ## Resumen
 
 Fork es una acción hecha sobre el sevicio de GitHub:
@@ -76,6 +84,6 @@ Fork es una acción hecha sobre el sevicio de GitHub:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjE1ODE4NTEsLTIxNDQ2NzExNzksOT
+eyJoaXN0b3J5IjpbLTE5NjI1NDQwNjQsLTIxNDQ2NzExNzksOT
 A4NTg3NTA4XX0=
 -->
