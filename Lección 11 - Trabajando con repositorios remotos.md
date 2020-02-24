@@ -189,9 +189,13 @@ $ git push origin master
 
 `transition: transform 0.5s;`
 
- 3.  En el branch `master` hacer commit con el mensaje `Add animation to destination headings`.
- 4. En el repositorio local,  
+ 3.  En el branch `master`, hacer commit con el mensaje `Add animation to destination headings`.
 
+ 4. En el repositorio local,  obtener los cambios hechos desde GitHub. Para hacer esto ejecutar el siguiente comando:
+
+```bash
+$ git pull origin master
+```
 
 
 
@@ -203,11 +207,11 @@ $ git push origin master
 
 `let traveling = true;`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNjIyMzYzMywtNTAyNTIyNTg4LDE2OD
-c4Nzg2NjcsLTEwNDMyMjAwODAsLTEwMTQ5ODIxMzcsLTIzODIy
-OTk3NSwtMTUwNDA4MTg3NSwxMzk4MDA1NjA1LDM2MTE5OTA1NC
-w4NTE4OTAwODAsLTE5OTA4NDI3NDQsLTE4NTI1Mjg1MDgsNDY5
-NzQ4MDAyLDEyMTIxNDg5MjcsMTY1NDgzNzQ3MSwxMzE0NzM0NT
-U3LC0xNTQ0MDM1NzA3LDE3MTI0MjM5NDEsMTM2NDg3OTE4Nyw3
-MDY4MDA5NzFdfQ==
+eyJoaXN0b3J5IjpbLTQ1NTAxMjA5LC01MDI1MjI1ODgsMTY4Nz
+g3ODY2NywtMTA0MzIyMDA4MCwtMTAxNDk4MjEzNywtMjM4MjI5
+OTc1LC0xNTA0MDgxODc1LDEzOTgwMDU2MDUsMzYxMTk5MDU0LD
+g1MTg5MDA4MCwtMTk5MDg0Mjc0NCwtMTg1MjUyODUwOCw0Njk3
+NDgwMDIsMTIxMjE0ODkyNywxNjU0ODM3NDcxLDEzMTQ3MzQ1NT
+csLTE1NDQwMzU3MDcsMTcxMjQyMzk0MSwxMzY0ODc5MTg3LDcw
+NjgwMDk3MV19
 -->
