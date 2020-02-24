@@ -34,7 +34,7 @@ Inicializar un proyecto es una de las actividades más simples, basta con ejecut
 
     # git init
 
-Al ejecutar el comando `git init` se generan todos los directorios y archivos necesarios que Git usará para mantener el control de versiones de todo.
+Al ejecutar el comando `git init` se generan todos los directorios y archivos necesarios que **Git** usará para mantener el control de versiones de todo.
 
 ![img_git_repo](images/img_git_repo.png)
 
@@ -130,7 +130,7 @@ Esto debería generar la salida:
 En este punto este mensaje no debería ser un problema ya que en este repositorio aún no existen **commits** que mostrar. En siguientes lecciones se verá con más detalle el comando `git log`.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNTg4MDc2MCwtNzAxODE3NjY3LDE0OT
+eyJoaXN0b3J5IjpbMTk3ODkxMTgxNiwtNzAxODE3NjY3LDE0OT
 gyNzkxMDEsMjk0MDkzMjQwLDc2NTMyNTg5OCwtMTQyOTMyMjMw
 NCwtMjQyNzMyMDczLDIwNjk3OTQ0NTQsLTEwOTAzNjkzNDIsLT
 E1MTMxOTAzMDAsLTEyMTMxMTE1NjYsLTExNzg5NjgyMjQsMjAw
