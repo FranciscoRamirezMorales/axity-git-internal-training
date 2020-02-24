@@ -189,7 +189,7 @@ $ git push origin master
 
 `transition: transform 0.5s;`
 
- 3.  Hacer commit con el mensaje `Add animation to destination headings`.
+ 3.  En el branch `master` hacer commit con el mensaje `Add animation to destination headings`.
  5. 
 
 
@@ -203,11 +203,11 @@ $ git push origin master
 
 `let traveling = true;`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMjUyMjU4OCwxNjg3ODc4NjY3LC0xMD
-QzMjIwMDgwLC0xMDE0OTgyMTM3LC0yMzgyMjk5NzUsLTE1MDQw
-ODE4NzUsMTM5ODAwNTYwNSwzNjExOTkwNTQsODUxODkwMDgwLC
-0xOTkwODQyNzQ0LC0xODUyNTI4NTA4LDQ2OTc0ODAwMiwxMjEy
-MTQ4OTI3LDE2NTQ4Mzc0NzEsMTMxNDczNDU1NywtMTU0NDAzNT
-cwNywxNzEyNDIzOTQxLDEzNjQ4NzkxODcsNzA2ODAwOTcxLDEz
-NzY4NDgwOTRdfQ==
+eyJoaXN0b3J5IjpbLTE4ODg0NDE2NjYsLTUwMjUyMjU4OCwxNj
+g3ODc4NjY3LC0xMDQzMjIwMDgwLC0xMDE0OTgyMTM3LC0yMzgy
+Mjk5NzUsLTE1MDQwODE4NzUsMTM5ODAwNTYwNSwzNjExOTkwNT
+QsODUxODkwMDgwLC0xOTkwODQyNzQ0LC0xODUyNTI4NTA4LDQ2
+OTc0ODAwMiwxMjEyMTQ4OTI3LDE2NTQ4Mzc0NzEsMTMxNDczND
+U1NywtMTU0NDAzNTcwNywxNzEyNDIzOTQxLDEzNjQ4NzkxODcs
+NzA2ODAwOTcxXX0=
 -->
