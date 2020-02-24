@@ -3,9 +3,13 @@
 En esta lección revisaremos los siguientes temas:
 
  - Mostrar los commits del repositorio
+
  - Cambiar la forma en que Git Log muestra la información
+
  - Revisar los archivos modificados
+
  - Revisar los cambios en los archivos
+
  - Revisar un commit específico
 
 ## Mostrar los commits del repositorio
@@ -127,11 +131,11 @@ Para obtener información de un commit específico:
 A diferencia de `git log`, el comando `git show` puede ser combinado con las opciones `--stat`, `--patch` o `-p`, `-w`.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MzQ1Mzg2Miw4MjcwMDg3MDQsLTIxMz
-c5MjQ2NDcsLTE4MjUwNTQzNDYsMjA4MTgxODI5OCwzODA4Mjc4
-NzgsLTEzNTgwMTA5ODgsLTM5NDYwNDI2NSwxMTA1NDcxMjIsMT
-E1NjkzMzc5MywzMDc5NDk1MDUsMjQxMjEyMzgyLC05MzM5NDQz
-MTgsMTkwMzQwNTU5OCwtMTE2NTQ5Mjk1MCwyNDkwOTM3NTAsLT
-EyODQwNDk4MTAsMTAwNzE5MDc1OSwtMTI2MjI4NTkzLC02NDQw
-NjcyMzldfQ==
+eyJoaXN0b3J5IjpbMzU1NjA0NzI2LC0yNjM0NTM4NjIsODI3MD
+A4NzA0LC0yMTM3OTI0NjQ3LC0xODI1MDU0MzQ2LDIwODE4MTgy
+OTgsMzgwODI3ODc4LC0xMzU4MDEwOTg4LC0zOTQ2MDQyNjUsMT
+EwNTQ3MTIyLDExNTY5MzM3OTMsMzA3OTQ5NTA1LDI0MTIxMjM4
+MiwtOTMzOTQ0MzE4LDE5MDM0MDU1OTgsLTExNjU0OTI5NTAsMj
+Q5MDkzNzUwLC0xMjg0MDQ5ODEwLDEwMDcxOTA3NTksLTEyNjIy
+ODU5M119
 -->
