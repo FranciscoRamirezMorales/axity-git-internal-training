@@ -157,7 +157,7 @@ $ git remote -v
 ```
 ### Enviando commits al repositorio remoto (push)
 
-Para entender  como funciona el comando push veamos el siguiente video:
+Para entender  cómo funciona el comando `push` veamos el siguiente video:
 
 **Video >>> (dar clic)**
 
@@ -216,7 +216,7 @@ $ git pull origin master
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDM5MDI4ODUsLTE0MTQyODk5ODksMT
+eyJoaXN0b3J5IjpbLTE2MDI3MzAwMTMsLTE0MTQyODk5ODksMT
 k1ODg0OTI3NywxMTkyNzA2NDExLC00NTUwMTIwOSwtNTAyNTIy
 NTg4LDE2ODc4Nzg2NjcsLTEwNDMyMjAwODAsLTEwMTQ5ODIxMz
 csLTIzODIyOTk3NSwtMTUwNDA4MTg3NSwxMzk4MDA1NjA1LDM2
