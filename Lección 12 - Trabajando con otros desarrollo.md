@@ -2,9 +2,9 @@
 
 En esta lección veremos:
 
-Usar la función fork
+Usar la función Fork
 
-## Entendiendo la funcionalidad de `fork`
+## Entendiendo la funcionalidad de `Fork`
 
  - `fork` no es un comando de git
  - `fork` es una funcionalidad de Github
@@ -48,5 +48,6 @@ Fork es una acción hecha sobre el sevicio de GitHub:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDQ2NzExNzksOTA4NTg3NTA4XX0=
+eyJoaXN0b3J5IjpbLTUyMTQyMDE3MSwtMjE0NDY3MTE3OSw5MD
+g1ODc1MDhdfQ==
 -->
