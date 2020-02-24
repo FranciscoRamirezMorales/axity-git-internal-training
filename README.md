@@ -45,6 +45,10 @@ En este curso aprenderás:
 
 # Pre-requisitos
 
+
+ - Conocimiento sobre comandos básicos de Linux
+ - 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTYxOTIwMDBdfQ==
+eyJoaXN0b3J5IjpbLTExOTE5ODAzMV19
 -->
