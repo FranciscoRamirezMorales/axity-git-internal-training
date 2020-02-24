@@ -240,7 +240,7 @@ Imaginemos que creamos un archivo `project.docx` que no deseamos que sus cambios
 ```bash
 $ touch project.docx
 ```
-Ejecutamos:
+Ahora ejecutamos:
 ```bash
 $ git status
 ```
@@ -251,7 +251,7 @@ Aquí podemos observar que Git está llevando un registro del archivo `project.d
 
 Ahora, para indicarle a Git que omita los cambios de del archivo `project.docx` necesitamos hacer los siguiente:
 
- - Crear un archivo llamadao `.gitignore` (nótese que incluye un punto al inicio):
+ - Crear un archivo llamado `.gitignore` (nótese que incluye un punto al inicio):
 
 ```bash
 $ touch .gitignore
@@ -300,11 +300,11 @@ $ git log
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjQ2MjA0NjMsMTE1NTA3NTYwNSwtMT
-YxMzc0NjAzMSw4NDI0MDY3NjksNDA4MjU4MDQwLC0xMjExNzQ1
-NzQyLDc4MjMxNzA0LC02MjMyMzAxMDIsNzk1NjY0MzYsNDc3Nj
-I1NDI0LDE1NDY4MjczOTQsLTIyMzIxMDU3MiwxNDcyODAzODM3
-LDE4MTE3NTEwODAsLTYyMjE2NzcyNywtMTAxNjQ2ODkyOSw0MT
-I1NDk4ODMsMTcwODc0NDkzNCwtOTU0NjY2MTQ2LDg0NzA2NDA0
-NV19
+eyJoaXN0b3J5IjpbNjQzNDc0MTY5LDExNTUwNzU2MDUsLTE2MT
+M3NDYwMzEsODQyNDA2NzY5LDQwODI1ODA0MCwtMTIxMTc0NTc0
+Miw3ODIzMTcwNCwtNjIzMjMwMTAyLDc5NTY2NDM2LDQ3NzYyNT
+QyNCwxNTQ2ODI3Mzk0LC0yMjMyMTA1NzIsMTQ3MjgwMzgzNywx
+ODExNzUxMDgwLC02MjIxNjc3MjcsLTEwMTY0Njg5MjksNDEyNT
+Q5ODgzLDE3MDg3NDQ5MzQsLTk1NDY2NjE0Niw4NDcwNjQwNDVd
+fQ==
 -->
