@@ -1,6 +1,8 @@
 # Introducción
 
-En este curso aprenderás a usar Git desde los comandos más básicos hasta aqu, adicionalmente **aprenderás a utilizar GitHub** como un repositorio remoto, incluyendo formas de **trabajar en equipo, flujos de trabajo, tokens, SSH, Pull Request y otros temas avanzados** que serán de mucha utilidad en tu vida profesional.
+En este curso aprenderás a:
+ - Usar Git desde los comandos más básicos para trabajar de forma local hasta poder interactuar de forma remota
+ - Uzas GitHub como un repositorio remoto, incluyendo formas de **trabajar en equipo, flujos de trabajo, tokens, SSH, Pull Request y otros temas avanzados** que serán de mucha utilidad en tu vida profesional.
 
 En los inicios del curso **empezaremos desde lo más básico** haciendo ejercicios prácticos. Durante el transcurso del curso, **trabajaras de forma colectiva**, real y aplicando los conocimientos **con más de 14 ejercicios y ejemplos**.
 
@@ -48,6 +50,6 @@ Temas como el **Stash, Rebase, Pull Request, Reflog** y otros, son cubiertos par
 
  - [Lección 11 - Trabajando con repositorios remotos.md](Lecci%C3%B3n%2011%20-%20Trabajando%20con%20repositorios%20remotos.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzczMjE0NjUyLDE0MTMwODc0MTEsMTk3OD
-I5MjMxOV19
+eyJoaXN0b3J5IjpbLTEzODAwNTUzNjUsMTQxMzA4NzQxMSwxOT
+c4MjkyMzE5XX0=
 -->
