@@ -13,7 +13,7 @@ Para entender como funciona la funcionalidad de `fork` en GitHub realice los sig
 
 1. Use `git clone` para clonar [Proyecto my-travel-plans de Lam](https://github.com/udacity/course-collaboration-travel-plans).
 2. Hacer al menos un cambio en el repositorio (local).
-3. Hacer commit.
+3. Hacer `commit`.
 4. Usar git push para enviar los cambios al repositorio de **Lam**
 
 **¿Qués es lo que observa?**
@@ -22,7 +22,9 @@ Ahora hagamos lo siguiente:
 
  1. Ingresemos en el [Proyecto my-travel-plans de Lam](https://github.com/udacity/course-collaboration-travel-plans).
  2. Damos clic en el botón **Fork**.
- 3. Verificamos que ahora tenemos 
+ 3. Verificamos que ahora el repositorio de Lam se encuentra listado en nuestros repositorios.
+ 4. Volvemos a ejecutar  git push para enviar los cambios al repositorio de **Lam**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyOTY4MzQ5LDkwODU4NzUwOF19
+eyJoaXN0b3J5IjpbODk4MzYwNDk5LDkwODU4NzUwOF19
 -->
