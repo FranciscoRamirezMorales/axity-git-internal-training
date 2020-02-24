@@ -37,7 +37,7 @@ En este curso aprenderás:
 
  - [Lección 06 - Agregando commits al repositorio](Lecci%C3%B3n%2006%20-%20Agregando%20commits%20al%20repositorio.md)
 
- - [Lección 07 - Tagging, Branching & Merging](Lecci%C3%B3n%2007%20-%20Tagging%2C%20Branching%20%26%20Merging.md)
+ - [Lección 07 - Tagging & Branching](Lecci%C3%B3n%2007%20-%20Tagging%2C%20Branching%20%26%20Merging.md#tagging-branching--merging)
 
  - [Lección 08 - Merging](Lecci%C3%B3n%2008%20-%20Merging.md)
 
@@ -68,5 +68,5 @@ En este curso aprenderás:
 **Nota**: La VM viene configurada con 4 GB de memoria y 2 Cores/Procesadores. Ajustar si es necesario.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTQzNzYxNTBdfQ==
+eyJoaXN0b3J5IjpbMzczMTE3MTQzLC0xOTU0Mzc2MTUwXX0=
 -->
