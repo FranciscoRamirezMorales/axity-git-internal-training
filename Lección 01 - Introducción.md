@@ -2,7 +2,7 @@
 
  - [Lección 01 - Introducción.md](Lecci%C3%B3n%2001%20-%20Introducci%C3%B3n.md)
 
- - [Lección 02 - Qué es Control de Versiones.md](https://github.com/achamizoch/axity-git-internal-training/blob/master/Lecci%C3%B3n%2002%20-%20Qu%C3%A9%20es%20Control%20de%20Versiones.md)
+ - [Lección 02 - Qué es Control de Versiones.md](Lecci%C3%B3n%2002%20-%20Qu%C3%A9%20es%20Control%20de%20Versiones.md)
 
  - [Lección 03 - Instalando Git.md](https://github.com/achamizoch/axity-git-internal-training/blob/master/Lecci%C3%B3n%2003%20-%20Instalando%20Git.md)
 
@@ -22,5 +22,5 @@
 
  - [Lección 11 - Trabajando con repositorios remotos.md](https://github.com/achamizoch/axity-git-internal-training/blob/master/Lecci%C3%B3n%2011%20-%20Trabajando%20con%20repositorios%20remotos.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MzY2MzU1MiwxOTc4MjkyMzE5XX0=
+eyJoaXN0b3J5IjpbLTEwODk2ODA1MDcsMTk3ODI5MjMxOV19
 -->
