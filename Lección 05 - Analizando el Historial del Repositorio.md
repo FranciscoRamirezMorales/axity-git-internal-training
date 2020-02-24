@@ -39,7 +39,7 @@ Por defecto este comando muestra la siguiente información:
 -   Fecha
 -   Mensaje
 
-Para navegar a través de log podemos usar las siguiente teclas:
+Para navegar a través del log podemos usar las siguientes teclas:
 
 -   scroll **down**
     -   `j` o `↓` para moverse hacia abajo una línea a la vez
@@ -110,7 +110,7 @@ En resumen, `git log --patch` muestra:
 
 Hemos visto que `git log` nos proporciona información sobre los cambios hechos a los archivos dentro de un repositorio de Git.
 
-¿Pero como podemos obtener información de un commit específico?
+¿Pero cómo podemos obtener información de un commit específico?
 
     # git log -p 15bc8f5
 
@@ -127,7 +127,7 @@ Para obtener información de un commit específico:
 A diferencia de `git log`, el comando `git show` puede ser combinado con las opciones `--stat`, `--patch` o `-p`, `-w`.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNTM3MzE3Nyw4MjcwMDg3MDQsLTIxMz
+eyJoaXN0b3J5IjpbLTI2MzQ1Mzg2Miw4MjcwMDg3MDQsLTIxMz
 c5MjQ2NDcsLTE4MjUwNTQzNDYsMjA4MTgxODI5OCwzODA4Mjc4
 NzgsLTEzNTgwMTA5ODgsLTM5NDYwNDI2NSwxMTA1NDcxMjIsMT
 E1NjkzMzc5MywzMDc5NDk1MDUsMjQxMjEyMzgyLC05MzM5NDQz
