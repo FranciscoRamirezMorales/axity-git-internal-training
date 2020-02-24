@@ -300,17 +300,17 @@ $ git add .gitignore
 ```bash
 $ git commit -m "Add .gitignore file"
 ```
- - Por último, ejecutamos git log para revisar los cambios realizados:
+ - Por último, ejecutamos `git log` para revisar los cambios realizados:
 ```bash
 $ git log
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA4ODY2OTczLC0zMTU4OTAwMTcsMTkyOT
-E3MTcyNSwxMTU1MDc1NjA1LC0xNjEzNzQ2MDMxLDg0MjQwNjc2
-OSw0MDgyNTgwNDAsLTEyMTE3NDU3NDIsNzgyMzE3MDQsLTYyMz
-IzMDEwMiw3OTU2NjQzNiw0Nzc2MjU0MjQsMTU0NjgyNzM5NCwt
-MjIzMjEwNTcyLDE0NzI4MDM4MzcsMTgxMTc1MTA4MCwtNjIyMT
-Y3NzI3LC0xMDE2NDY4OTI5LDQxMjU0OTg4MywxNzA4NzQ0OTM0
+eyJoaXN0b3J5IjpbLTM4OTI4Njk2Nyw4MDg4NjY5NzMsLTMxNT
+g5MDAxNywxOTI5MTcxNzI1LDExNTUwNzU2MDUsLTE2MTM3NDYw
+MzEsODQyNDA2NzY5LDQwODI1ODA0MCwtMTIxMTc0NTc0Miw3OD
+IzMTcwNCwtNjIzMjMwMTAyLDc5NTY2NDM2LDQ3NzYyNTQyNCwx
+NTQ2ODI3Mzk0LC0yMjMyMTA1NzIsMTQ3MjgwMzgzNywxODExNz
+UxMDgwLC02MjIxNjc3MjcsLTEwMTY0Njg5MjksNDEyNTQ5ODgz
 XX0=
 -->
