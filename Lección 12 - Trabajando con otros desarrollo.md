@@ -11,7 +11,7 @@ Usar la función fork
 
 Para entender como funciona la funcionalidad de fork en GitHub realice los siguientes pasos:
 
-1. Use git clone para clonar 
+1. Use git clone para clonar https://github.com/udacity/course-collaboration-travel-plans
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODEzOTcyNDUsOTA4NTg3NTA4XX0=
+eyJoaXN0b3J5IjpbMTE3MjI0OTY0Niw5MDg1ODc1MDhdfQ==
 -->
