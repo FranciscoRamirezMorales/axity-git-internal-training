@@ -198,7 +198,7 @@ https://udacity.github.io/git-styleguide/
 
 El comando `git diff` puede ser usado para ver los cambios que se han hecho, pero a los que no se les ha hecho commit.
 
-Para entender la funcionalidad de este comando realicemos en siguiente cambio en el archivo index.html:
+Para entender la funcionalidad de este comando realicemos en siguiente cambio en el archivo `index.html`:
 
 En el tag (``<h1>``), cambiar el título de **Expedition** a **Adventure**:
 
@@ -305,11 +305,11 @@ $ git log
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyOTE3MTcyNSwxMTU1MDc1NjA1LC0xNj
-EzNzQ2MDMxLDg0MjQwNjc2OSw0MDgyNTgwNDAsLTEyMTE3NDU3
-NDIsNzgyMzE3MDQsLTYyMzIzMDEwMiw3OTU2NjQzNiw0Nzc2Mj
-U0MjQsMTU0NjgyNzM5NCwtMjIzMjEwNTcyLDE0NzI4MDM4Mzcs
-MTgxMTc1MTA4MCwtNjIyMTY3NzI3LC0xMDE2NDY4OTI5LDQxMj
-U0OTg4MywxNzA4NzQ0OTM0LC05NTQ2NjYxNDYsODQ3MDY0MDQ1
-XX0=
+eyJoaXN0b3J5IjpbLTMxNTg5MDAxNywxOTI5MTcxNzI1LDExNT
+UwNzU2MDUsLTE2MTM3NDYwMzEsODQyNDA2NzY5LDQwODI1ODA0
+MCwtMTIxMTc0NTc0Miw3ODIzMTcwNCwtNjIzMjMwMTAyLDc5NT
+Y2NDM2LDQ3NzYyNTQyNCwxNTQ2ODI3Mzk0LC0yMjMyMTA1NzIs
+MTQ3MjgwMzgzNywxODExNzUxMDgwLC02MjIxNjc3MjcsLTEwMT
+Y0Njg5MjksNDEyNTQ5ODgzLDE3MDg3NDQ5MzQsLTk1NDY2NjE0
+Nl19
 -->
