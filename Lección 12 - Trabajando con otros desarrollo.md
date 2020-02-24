@@ -32,7 +32,7 @@ Para entender cómo funciona la funcionalidad de `fork` en **GitHub** realice lo
 
 4. Usar git push para enviar los cambios al repositorio de **Lam**
 
-**¿Qués es lo que observa?**
+**¿Qué es lo que observa?**
 
 > Podemos observar que al ejecutar git push nos devuelve el error "unable to access".
 
@@ -46,7 +46,7 @@ Ahora hagamos lo siguiente:
 
  4. Volvemos a ejecutar `git push` para enviar los cambios al repositorio de **Lam**
 
-**¿Qués es lo que observa ahora?**
+**¿Qué es lo que observa ahora?**
 
 > Podemos ver ahora los cambios son enviados al repositorio de Lam".
 
@@ -89,6 +89,6 @@ $ git log --grep bug
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDc1NjA3MDcsNTg1ODIzMDQ5LC0yMT
-Q0NjcxMTc5LDkwODU4NzUwOF19
+eyJoaXN0b3J5IjpbLTM5NDE5ODA4MSw1ODU4MjMwNDksLTIxND
+Q2NzExNzksOTA4NTg3NTA4XX0=
 -->
