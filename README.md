@@ -2,7 +2,9 @@
 
 **Control de Versiones con Git** es un curso que ha sido desarrollado como parte del programa de capacitación interna de Axity.
 
-Esta orientado a todos aquellos colaboradores o consultores que 
+Esta orientado a todos aquellos colaboradores o consultores cuyas actividades estan enfocadas en el 
+desarrollo de software
+
 
 # Objetivos del curso
 
@@ -77,5 +79,5 @@ En este curso aprenderás:
 
 **Nota**: La VM viene configurada con 4 GB de memoria y 2 Cores/Procesadores. Ajustar si es necesario.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDQ4NzM5NzRdfQ==
+eyJoaXN0b3J5IjpbLTI3NDczMDc3M119
 -->
