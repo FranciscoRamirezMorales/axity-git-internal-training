@@ -1,14 +1,26 @@
 # Trabajando con otros desarrollos
 
  - En esta lección veremos:
+
  - Entendiendo la funcionalidad de `Fork`
+
  - Revisando el historial de cambios
+
  - Resumen
 
 ## Entendiendo la funcionalidad de `Fork`
 
- - `fork` no es un comando de git
- - `fork` es una funcionalidad de Github
+ - `Fork` es una acción hecha sobre el servicio de GitHub:
+
+ - Realiza una copia idéntica de otro repositorio.
+ 
+ - Se tiene control total sobre la copia del repositorio.
+ 
+ - Los cambios realizados en la copia no afectan al repositorio original.
+ 
+ - `Fork` no es un comando de git
+ 
+ - `Fork` es una funcionalidad de Github
 
 Para entender como funciona la funcionalidad de `fork` en GitHub realice los siguientes pasos:
 
@@ -76,17 +88,7 @@ $ git log --grep=bug
 $ git log --grep bug
 ```
 
-## Resumen
-
-Fork es una acción hecha sobre el servicio de GitHub:
-
- - Realiza una copia idéntica de otro repositorio.
- - Se tiene control total sobre la copia del repositorio.
- - Los cambios realizados en la copia no afectan al repositorio original.
-
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg1ODIzMDQ5LC0yMTQ0NjcxMTc5LDkwOD
-U4NzUwOF19
+eyJoaXN0b3J5IjpbMTg2ODc1MDkxMyw1ODU4MjMwNDksLTIxND
+Q2NzExNzksOTA4NTg3NTA4XX0=
 -->
