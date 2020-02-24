@@ -189,7 +189,7 @@ $ git push origin master
 
 `transition: transform 0.5s;`
 
- 3. Crear el archivo app.js en el directorio js. Ingresar la siguiente línea:
+ 3. Crear el archivo `app.js` en el directorio `js`. Ingresar la siguiente línea:
 
 `let traveling = true;`
 
@@ -197,11 +197,11 @@ $ git push origin master
  5. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk1NDQ0MDEzLC0xMDQzMjIwMDgwLC0xMD
-E0OTgyMTM3LC0yMzgyMjk5NzUsLTE1MDQwODE4NzUsMTM5ODAw
-NTYwNSwzNjExOTkwNTQsODUxODkwMDgwLC0xOTkwODQyNzQ0LC
-0xODUyNTI4NTA4LDQ2OTc0ODAwMiwxMjEyMTQ4OTI3LDE2NTQ4
-Mzc0NzEsMTMxNDczNDU1NywtMTU0NDAzNTcwNywxNzEyNDIzOT
-QxLDEzNjQ4NzkxODcsNzA2ODAwOTcxLDEzNzY4NDgwOTQsLTUy
-Mjc3OTkwNl19
+eyJoaXN0b3J5IjpbMTY4Nzg3ODY2NywtMTA0MzIyMDA4MCwtMT
+AxNDk4MjEzNywtMjM4MjI5OTc1LC0xNTA0MDgxODc1LDEzOTgw
+MDU2MDUsMzYxMTk5MDU0LDg1MTg5MDA4MCwtMTk5MDg0Mjc0NC
+wtMTg1MjUyODUwOCw0Njk3NDgwMDIsMTIxMjE0ODkyNywxNjU0
+ODM3NDcxLDEzMTQ3MzQ1NTcsLTE1NDQwMzU3MDcsMTcxMjQyMz
+k0MSwxMzY0ODc5MTg3LDcwNjgwMDk3MSwxMzc2ODQ4MDk0LC01
+MjI3Nzk5MDZdfQ==
 -->
