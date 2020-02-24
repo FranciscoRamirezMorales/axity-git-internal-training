@@ -7,6 +7,9 @@ En esta lección veremos los dos principales tipos de **Merge**:
  - Fast-forward merge
 
  - Regular merge
+ - Realizar un Merge entre Branches
+
+ - Tratar posibles problemas al hacer Merge
 
 ## ¿Qué es merge?
 Recordemos que el propósito de un branch (por ejemplo `sidebar`) es que nos permite realizar cambios que no afectan al branch `master`. Una vez que realizamos cambios en el branch `sidebar` podemos decidir que esos cambios no aplicarán, eliminarlos o mantenerlos y posteriormente combinarlos con otra rama.
@@ -67,7 +70,7 @@ $ git log --oneline --decorate --graph --all
 -   [git-merge](https://git-scm.com/docs/git-merge) en Git Docs
 -   [git merge](https://www.atlassian.com/git/tutorials/git-merge) en Atlassian blog
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODI2OTE1NCwtMTQ4Njc1MjA3OSwtMT
-MxMjYxNTI1NiwtMTczNzI0NTMwNiwyMTI5MDU4NjQxLC0zODQ2
-NDIyMzEsNDc0MTQ3OTUyXX0=
+eyJoaXN0b3J5IjpbNDE1MDIxMjg5LC0xNDg2NzUyMDc5LC0xMz
+EyNjE1MjU2LC0xNzM3MjQ1MzA2LDIxMjkwNTg2NDEsLTM4NDY0
+MjIzMSw0NzQxNDc5NTJdfQ==
 -->
