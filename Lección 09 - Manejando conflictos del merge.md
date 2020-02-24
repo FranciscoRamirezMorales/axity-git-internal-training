@@ -16,7 +16,7 @@ Para simular un conflicto durante un merge y aprender cómo manejar este tipo de
 
  2. Crear el branch `heading-update` apuntado al penúltimo commit (el penúltimo commit debe estar asociado al mensaje `Merge branch 'sidebar'`). Este cambio debe ser hecho sobre el branch `heading-update`. 
 
- 3. En el archivo `index.html`, cambiar el encabezado `Adventure` por `Crusade`en el branch `heading-update`. Mensaje: `Set page heading to Crusade`.
+ 3. En el archivo `index.html`, cambiar el encabezado `Adventure` por `Crusade` en el branch `heading-update`. Mensaje: `Set page heading to Crusade`.
 
  4. Establecer `master` como el branch activo.
 
@@ -30,13 +30,13 @@ El resultado debería verse como sigue:
 
 ![img_09_git_merge_01](images/img_09_git_merge_01.png)
 
-Este mensaje indica que GIt no pudo realizar un merge automático y que debemos resolver estos conflictos de forma manual.
+Este mensaje indica que **Git** no pudo realizar un merge automático y que debemos resolver estos conflictos de forma manual.
 
  6. Abrir el archivo `index.html` en Atom.
 
 ![img_09_git_merge_02](images/img_09_git_merge_02.png)
 
-> Aqui podemos observar los sigientes indicadores de conflicto durante
+> Aquí podemos observar los siguientes indicadores de conflicto durante
 > el merge:
 > 
 > -   `<<<<<<< HEAD` todo lo que está después de este indicado (hasta antes del siguiente) corresponde al branch actual.
@@ -67,8 +67,8 @@ $ git status
 ![img_09_git_merge_06](images/img_09_git_merge_06.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI2MDY2OTY2LDkxNTI4NzE5NiwxMDk2MT
-Y3NDgsLTM4ODQyNDgzLDM4ODA3NTM2OCw4NjcwODI1OTQsNzI2
-MDU2ODI3LC02ODE2NDQ5NzIsMTc3ODc0Mjk5MSwtMzgwMDUzND
-M1XX0=
+eyJoaXN0b3J5IjpbMTM3NDc0MjA2NSw5MTUyODcxOTYsMTA5Nj
+E2NzQ4LC0zODg0MjQ4MywzODgwNzUzNjgsODY3MDgyNTk0LDcy
+NjA1NjgyNywtNjgxNjQ0OTcyLDE3Nzg3NDI5OTEsLTM4MDA1Mz
+QzNV19
 -->
