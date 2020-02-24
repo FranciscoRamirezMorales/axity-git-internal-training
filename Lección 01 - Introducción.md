@@ -1,7 +1,7 @@
 # Introducción
 
 En este curso aprenderás:
- - Para que sirven los Sistemas de Control de Versiones (VCS)
+ - Para que sirven los Sistemas de Control de Versiones (VCS).
 
  - A usar **Git** desde los comandos más básicos para trabajar de forma local hasta poder interactuar de forma remota.
 
@@ -42,6 +42,6 @@ En este curso aprenderás:
 
  - [Lección 11 - Trabajando con repositorios remotos.md](Lecci%C3%B3n%2011%20-%20Trabajando%20con%20repositorios%20remotos.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDQzNzI3MDEsMTQxMzA4NzQxMSwxOT
+eyJoaXN0b3J5IjpbLTE0ODM4NDk1NjksMTQxMzA4NzQxMSwxOT
 c4MjkyMzE5XX0=
 -->
