@@ -1,15 +1,6 @@
-# Introducción
+# El curso
 
-En este curso aprenderás:
-
- - Para que sirven los Sistemas de Control de Versiones (VCS).
-
- - A usar **Git** desde los comandos más básicos para trabajar de forma local hasta poder interactuar de forma remota.
-
- - A utilizar **GitHub** como un servicio de repositorio remoto.
-
- - A trabajar con equipos de desarrollo de forma colaborativa.
-
+En este curso aprenderá a usar Git y GitHub como herramienta de versionamiento
 # Contenido del curso
 
  - [Lección 01 - Introducción.md](Lecci%C3%B3n%2001%20-%20Introducci%C3%B3n.md)
@@ -59,5 +50,5 @@ En este curso aprenderás:
 
 **Nota**: La VM viene configurada con 4 GB de memoria y 2 Cores/Procesadores. Ajustar si es necesario.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTcxNzczNzNdfQ==
+eyJoaXN0b3J5IjpbMTA5NzgyNTQ3NF19
 -->
