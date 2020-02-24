@@ -2,17 +2,10 @@
 
 ## Lo que aprenderás
 
--   Una base sólida de Git
-    
--   Conocimiento necesario para trabajar en equipo en proyectos de diseño y/o desarrollo de aplicaciones
-    
--   Conocer y utilizar GitHub para mantener un repositorio remoto seguro
-    
--   Uso de GitHub para administración de proyectos
-    
--   Uso de Wikis, Proyectos, GitHub Pages
-    
--   Aprender a trabajar de forma colectiva en el mismo proyecto
+ - Una base sólida de Git.
+ - Conocimiento necesario para trabajar en equipo en proyectos de diseño y/o desarrollo de aplicaciones.
+ - Conocer y utilizar GitHub para mantener un repositorio remoto seguro. 
+-   Aprender a trabajar de forma colectiva en el mismo proyecto.
 
 
 ## Día 1
@@ -39,6 +32,6 @@
 
  - [Lección 11 - Trabajando con repositorios remotos.md](Lecci%C3%B3n%2011%20-%20Trabajando%20con%20repositorios%20remotos.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI5Nzg0MzcsMTQxMzA4NzQxMSwxOTc4Mj
-kyMzE5XX0=
+eyJoaXN0b3J5IjpbNTg1NjY3NTA2LDE0MTMwODc0MTEsMTk3OD
+I5MjMxOV19
 -->
