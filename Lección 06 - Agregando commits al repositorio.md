@@ -221,7 +221,7 @@ $ git diff
 
 Como podemos ver `git diff` muestra los cambios antes de hacer `get commit`.
 
-> Realizar commit antes de continuar definiendo un mensaje, un ejemplo puede ser `Change the travel type`.
+> Realizar commit antes de continuar definiendo un mensaje, un ejemplo puede ser `Change the travel type`
 
 ## Omitir archivos en Git
 
@@ -297,11 +297,11 @@ $ git log
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDEzNjIwNTcsMTE1NTA3NTYwNSwtMT
-YxMzc0NjAzMSw4NDI0MDY3NjksNDA4MjU4MDQwLC0xMjExNzQ1
-NzQyLDc4MjMxNzA0LC02MjMyMzAxMDIsNzk1NjY0MzYsNDc3Nj
-I1NDI0LDE1NDY4MjczOTQsLTIyMzIxMDU3MiwxNDcyODAzODM3
-LDE4MTE3NTEwODAsLTYyMjE2NzcyNywtMTAxNjQ2ODkyOSw0MT
-I1NDk4ODMsMTcwODc0NDkzNCwtOTU0NjY2MTQ2LDg0NzA2NDA0
-NV19
+eyJoaXN0b3J5IjpbMTg2NDgwNjMyNSwxMTU1MDc1NjA1LC0xNj
+EzNzQ2MDMxLDg0MjQwNjc2OSw0MDgyNTgwNDAsLTEyMTE3NDU3
+NDIsNzgyMzE3MDQsLTYyMzIzMDEwMiw3OTU2NjQzNiw0Nzc2Mj
+U0MjQsMTU0NjgyNzM5NCwtMjIzMjEwNTcyLDE0NzI4MDM4Mzcs
+MTgxMTc1MTA4MCwtNjIyMTY3NzI3LC0xMDE2NDY4OTI5LDQxMj
+U0OTg4MywxNzA4NzQ0OTM0LC05NTQ2NjYxNDYsODQ3MDY0MDQ1
+XX0=
 -->
