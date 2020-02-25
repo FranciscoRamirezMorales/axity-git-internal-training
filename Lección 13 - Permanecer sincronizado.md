@@ -49,9 +49,20 @@ $ git fetch upstream master
 $ git log --oneline --graph --decorate --all
 ```
 
+ - Hacer merge
 
+```bash
+# Asegurar que nos encontramos en el branch correctopara hacer el merge
+$ git checkout master
+
+# Hacer merge de proyecto original a nuestro branch
+$ git merge upstream/master
+
+# send Lam's changes to *my* remote
+$ git push origin master
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM5NjAyMjUxLC0xNjU0MTUyOTkzLDE4Nj
-Y0NjUzNDQsLTE1MTE5MDA0MDgsMTkwMzM2NTczMSwxOTUxMDE5
-MDgwXX0=
+eyJoaXN0b3J5IjpbLTExMjUzNDg2OTgsMzM5NjAyMjUxLC0xNj
+U0MTUyOTkzLDE4NjY0NjUzNDQsLTE1MTE5MDA0MDgsMTkwMzM2
+NTczMSwxOTUxMDE5MDgwXX0=
 -->
