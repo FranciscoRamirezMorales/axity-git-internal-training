@@ -14,10 +14,10 @@ Un **pull request** es una petición o solicitud al administrador (Maintainer) d
  - Dar clic sobre el botón "**New pull request**".
  - Del lado izquierdo seleccione el repositorio original y el branch sobre el cual se solicita aplicar los cambios.
  - Del lado derecho seleccione su repositorio (Fork) y el branch que creó previamente y sobre el que hizo los commits.
- - Dar clic sobre el botón "`Create Pull Request`".
+ - Dar clic sobre el botón "`Create pull request`".
  - 
  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NjQ2NTM0NCwtMTUxMTkwMDQwOCwxOT
-AzMzY1NzMxLDE5NTEwMTkwODBdfQ==
+eyJoaXN0b3J5IjpbMTg3Mzk1MTM2LDE4NjY0NjUzNDQsLTE1MT
+E5MDA0MDgsMTkwMzM2NTczMSwxOTUxMDE5MDgwXX0=
 -->
