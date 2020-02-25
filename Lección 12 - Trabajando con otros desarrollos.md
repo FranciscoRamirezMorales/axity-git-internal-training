@@ -90,7 +90,7 @@ $ git log --grep bug
 
 ## Identificar en lo que podemos trabajar
 
-En proyectos donde los equipos de desarrollo son más grandes es común que todos aquellos participan estén colaborando de forma activa. Para hacer esto de forma coordinada y ordenada es común que existan un archivo llamado CONTRIBUTING.md.
+En proyectos donde los equipos de desarrollo son más grandes es común que todos aquellos participan estén colaborando de forma activa. Para hacer esto de forma coordinada y ordenada es común que existan un archivo llamado `CONTRIBUTING.md`.
 
 Este archivo típicamente consta de dos secciones:
 
@@ -98,7 +98,7 @@ Este archivo típicamente consta de dos secciones:
 
 - For Maintainers
 
-CONTRIBUTING.md contiene información que explica:
+`CONTRIBUTING.md` contiene información que explica:
 
  - Como debe estar formateado el código
 
@@ -112,16 +112,16 @@ Para estos casos la sección de Issues nos permite realizar una petición para p
  - Una nueva funcionalidad
  - Algún oro tema
 
-Navegue en el [Proyecto Lighhouse](https://github.com/GoogleChrome/lighthouse) para ubicar el archivo CONTRIBUTING.md.
+Navegue en el [Proyecto Lighhouse](https://github.com/GoogleChrome/lighthouse) para ubicar el archivo `CONTRIBUTING.md`.
 
-Dentro de la sección de Issues para familiarizarse. Note que el botón de "New Issue" siempre está presente en esta sección.
+Dentro de la sección de Issues para familiarizarse. Note que el botón de "**New Issue**" siempre está presente en esta sección.
 
-Intente crear un nuevo Issue para ver las opciones que nos permite.
+Intente crear un nuevo **Issue** para ver las opciones que nos permite.
 
 ![img_12_git_issues_01](images/img_12_git_issues_01.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ5NjQ3ODMwLDc0OTY0NzgzMCwxMjc2OT
-Q2NzMsMzEyMzI3MTY3LC01OTkzNjgzMzksLTIwNTg3NTQyNF19
-
+eyJoaXN0b3J5IjpbMTgxMzQ0MjAwNCw3NDk2NDc4MzAsMTI3Nj
+k0NjczLDMxMjMyNzE2NywtNTk5MzY4MzM5LC0yMDU4NzU0MjRd
+fQ==
 -->
