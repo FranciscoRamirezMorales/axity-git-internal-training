@@ -4,7 +4,7 @@ Un **pull request** es una petición o solicitud al administrador (Maintainer) d
 
  - Hacer Fork sobre el proyecto de [Axity](https://github.com/achamizoch/axity-collaboration-travel-plans)
 
- - Crear un `branch` con un nombre significativo
+ - Crear un `branch` con el nombre include-
  - Hacer al menos un `commit` en el branch que ha creado
  - Hacer `push` sobre su proyecto asociado al Fork
  - Ingrese a su cuenta de GitHub en el repositorio sobre el que realizó el Fork (no el original, el que se creó en su cuenta)
@@ -12,8 +12,9 @@ Un **pull request** es una petición o solicitud al administrador (Maintainer) d
 ![img_13_git_request_01](images/img_13_git_request_01.png)
 
  - Dé clic sobre el botón "**New pull request**"
- - Del lado izquierdo seleccione el repositorio original y el branch sobre el cual se desea
+ - Del lado izquierdo seleccione el repositorio original y el branch sobre el cual se solicita aplicar los cambios
+ - Del lado derecho seleccione su repositorio (Fork) y el branch que creó previamente y sobre el que hizo los commits
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzU3OTY4MjUsLTE1MTE5MDA0MDgsMT
-kwMzM2NTczMSwxOTUxMDE5MDgwXX0=
+eyJoaXN0b3J5IjpbMTk3NTc1OTk5OSwtMTUxMTkwMDQwOCwxOT
+AzMzY1NzMxLDE5NTEwMTkwODBdfQ==
 -->
