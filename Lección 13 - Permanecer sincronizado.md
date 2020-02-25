@@ -7,7 +7,8 @@ Un **pull request** es una petición o solicitud al administrador (Maintainer) d
  - Crear un `branch` con un nombre significativo
  - Hacer al menos un `commit` en el branch que ha creado
  - Hacer `push` sobre su proyecto asociado al Fork
- - 
+ - Ingrese a su cuenta de GitHub en el repositorio sobre el que realizó el Fork (no el original, el que se creó en )
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMzM2NTczMSwxOTUxMDE5MDgwXX0=
+eyJoaXN0b3J5IjpbLTExOTg3OTI5MiwxOTAzMzY1NzMxLDE5NT
+EwMTkwODBdfQ==
 -->
