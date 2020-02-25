@@ -90,7 +90,7 @@ $ git log --grep bug
 
 ## Identificar en lo que podemos trabajar
 
-
+En proyectos donde los equipos de desarrollo son más grandes es común que todos aquellos participan estén colaborando de forma activa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA0NzUyNjQyLC0yMDU4NzU0MjRdfQ==
+eyJoaXN0b3J5IjpbMjA1NTcyMzI4MSwtMjA1ODc1NDI0XX0=
 -->
