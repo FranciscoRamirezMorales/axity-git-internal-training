@@ -10,7 +10,7 @@ En esta lección veremos como:
 
  - Revertir un commit
 
- - Reset
+ - Eliminar un commit
 
 ## Cambiar el último commit
 
@@ -93,8 +93,8 @@ En este caso `HEAD` apunta al commit `9ec05ca` y:
 -   `HEAD^^^2` corresponde al commit `4c9749e` (este es el `HEAD^^` del segundo padre (`^2`))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MzMxNTU1LDQ2OTUyODU1OCwxODkwOT
-M3ODg1LC01NDE5OTU5NDcsLTc4Mzg4NDIwNiwtMTA4MzI1NDc5
-NiwxMzI5ODM1NTYsLTE5ODY0NzMyNDUsLTkxODE4MDg5NCwtMT
-YxODQ4NjQzNywzMjI5MDk5MTFdfQ==
+eyJoaXN0b3J5IjpbMTE2MTAyMjMyMyw0Njk1Mjg1NTgsMTg5MD
+kzNzg4NSwtNTQxOTk1OTQ3LC03ODM4ODQyMDYsLTEwODMyNTQ3
+OTYsMTMyOTgzNTU2LC0xOTg2NDczMjQ1LC05MTgxODA4OTQsLT
+E2MTg0ODY0MzcsMzIyOTA5OTExXX0=
 -->
