@@ -30,20 +30,27 @@ Un **pull request** es una petición o solicitud al administrador (Maintainer) d
 
 ## Obtener los cambios del repositorio original
 
+ - Crear la conexión al repositorio original
 ```bash
 $ git remote add upstream https://github.com/achamizoch/axity-collaboration-travel-plans.git
+$ git remote -v
 ```
 
-> 
-> 
 > Podemos renombrar las conexiones de la siguiente forma:
 > 
 > $ git remote rename mine origin
 > $ git remote rename source-repo upstream
 ```
 
+ - Obtener los cambios
+
+```bash
+$ git fetch upstream master
+```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NzA1MjAwOCwtMTY1NDE1Mjk5MywxOD
-Y2NDY1MzQ0LC0xNTExOTAwNDA4LDE5MDMzNjU3MzEsMTk1MTAx
-OTA4MF19
+eyJoaXN0b3J5IjpbLTIwNTAwNDk0MTMsLTE2NTQxNTI5OTMsMT
+g2NjQ2NTM0NCwtMTUxMTkwMDQwOCwxOTAzMzY1NzMxLDE5NTEw
+MTkwODBdfQ==
 -->
