@@ -28,7 +28,9 @@ Un **pull request** es una petición o solicitud al administrador (Maintainer) d
 
  - Dar clic sobre el botón "`Create pull request`".
 
+## Obtener los ca
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTQxNTI5OTMsMTg2NjQ2NTM0NCwtMT
-UxMTkwMDQwOCwxOTAzMzY1NzMxLDE5NTEwMTkwODBdfQ==
+eyJoaXN0b3J5IjpbLTE5MTY1Njc3MjgsLTE2NTQxNTI5OTMsMT
+g2NjQ2NTM0NCwtMTUxMTkwMDQwOCwxOTAzMzY1NzMxLDE5NTEw
+MTkwODBdfQ==
 -->
