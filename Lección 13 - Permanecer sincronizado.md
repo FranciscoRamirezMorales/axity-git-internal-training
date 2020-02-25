@@ -40,17 +40,18 @@ $ git remote -v
 > 
 > $ git remote rename mine origin
 > $ git remote rename source-repo upstream
-```
+>
 
  - Obtener los cambios
 
 ```bash
 $ git fetch upstream master
+$ git log --oneline --graph --decorate --all
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTAwNDk0MTMsLTE2NTQxNTI5OTMsMT
+eyJoaXN0b3J5IjpbLTEyOTc4MjU3MzcsLTE2NTQxNTI5OTMsMT
 g2NjQ2NTM0NCwtMTUxMTkwMDQwOCwxOTAzMzY1NzMxLDE5NTEw
 MTkwODBdfQ==
 -->
