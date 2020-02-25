@@ -92,10 +92,17 @@ $ git log --grep bug
 
 En proyectos donde los equipos de desarrollo son más grandes es común que todos aquellos participan estén colaborando de forma activa. Para hacer esto de forma coordinada y ordenada es común que existan un archivo llamado CONTRIBUTING.md.
 
+Este archivo típicamente consta de dos secciones:
+
+- For Contributors
+
+- For Maintainers
+
 CONTRIBUTING.md contiene información que explica:
-Como debe estar formatedo el código
-Pasos a seguir para contribuir
+ - Como debe estar formatedo el código
+
+ - Pasos a seguir para contribuir
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNzE2Nzk2MSwtMjA1ODc1NDI0XX0=
+eyJoaXN0b3J5IjpbLTU5OTM2ODMzOSwtMjA1ODc1NDI0XX0=
 -->
