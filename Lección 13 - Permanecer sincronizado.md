@@ -31,10 +31,12 @@ Un **pull request** es una petición o solicitud al administrador (Maintainer) d
 ## Obtener los cambios del repositorio original
 
 ```bash
-$ git remote add upstream https://github.com/udacity/course-collaboration-travel-plans.git
+$ git remote add upstream https://github.com/achamizoch/axity-collaboration-travel-plans.git
 ```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA2NTEzODE4LC0xNjU0MTUyOTkzLDE4Nj
-Y0NjUzNDQsLTE1MTE5MDA0MDgsMTkwMzM2NTczMSwxOTUxMDE5
-MDgwXX0=
+eyJoaXN0b3J5IjpbLTM3MjAyOTc4MiwtMTY1NDE1Mjk5MywxOD
+Y2NDY1MzQ0LC0xNTExOTAwNDA4LDE5MDMzNjU3MzEsMTk1MTAx
+OTA4MF19
 -->
