@@ -95,12 +95,20 @@ En este caso `HEAD` apunta al commit `9ec05ca` y:
 ### Práctica 1 - Deshacer cambios
 
  1. Realizar un cambio en algún archivo.
+
  2. Hacer `commit` de prueba.
+
  3. Realizar otro cambio en un archivo distinto al `commit` anterior y agregarlo a **Staging Index**.
- 4. Hacer `git commit --amend`.
- 5. Hacer `git reset <SHA-del-commit-de prueba>`
+
+ 4. Revisar el log.
+
+ 5. Hacer `git commit --amend`.
+
+ 6. Hacer `git reset <SHA-del-commit-de prueba>`.
+
+ 7. 4. Revisar el log.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNzYxNjM4MSwxOTQwMjcwNjYwLDExNj
+eyJoaXN0b3J5IjpbMTUwNzg1ODg5NCwxOTQwMjcwNjYwLDExNj
 EwMjIzMjMsNDY5NTI4NTU4LDE4OTA5Mzc4ODUsLTU0MTk5NTk0
 NywtNzgzODg0MjA2LC0xMDgzMjU0Nzk2LDEzMjk4MzU1NiwtMT
 k4NjQ3MzI0NSwtOTE4MTgwODk0LC0xNjE4NDg2NDM3LDMyMjkw
