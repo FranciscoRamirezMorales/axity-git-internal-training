@@ -6,7 +6,7 @@
 
  - Revisando el historial de cambios
 
- - Resumen
+ - 
 
 ## Entendiendo la funcionalidad de `Fork`
 
@@ -89,5 +89,5 @@ $ git log --grep bug
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTg3NTQyNF19
+eyJoaXN0b3J5IjpbLTE2ODcwMDE2MzcsLTIwNTg3NTQyNF19
 -->
