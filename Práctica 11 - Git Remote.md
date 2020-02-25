@@ -194,8 +194,9 @@ $ git pull origin master
  2. Hacer un cambio en `index.html` en el repositorio local
  3. Ejecutar `git fetch` para obtener los cambios.
  4. Realizar un merge entre los cambios remotos y los locales
- 5. Realizar `pull` para enviar a **GitHub** el commit del merge.
+ 5. Realizar `push` para enviar a **GitHub** el commit del merge.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzc4MDAzMjksLTMzOTAyMjc1M119
+eyJoaXN0b3J5IjpbLTE1MjE0Mjk4NzYsLTE1Nzc4MDAzMjksLT
+MzOTAyMjc1M119
 -->
