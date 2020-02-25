@@ -112,9 +112,13 @@ Para estos casos la sección de Issues nos permite realizar una petición para p
  - Una nueva funcionalidad
  - Algún oro tema
 
+Navegue en el [Proyecto Lighhouse](https://github.com/GoogleChrome/lighthouse) dentro de la sección de Issues para familiarizarse.
+
+N
+
 ![img_12_git_issues_01](images/img_12_git_issues_01.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMTkxMjk5MiwxMjc2OTQ2NzMsMzEyMz
-I3MTY3LC01OTkzNjgzMzksLTIwNTg3NTQyNF19
+eyJoaXN0b3J5IjpbNDM5NTQwNTIxLDEyNzY5NDY3MywzMTIzMj
+cxNjcsLTU5OTM2ODMzOSwtMjA1ODc1NDI0XX0=
 -->
