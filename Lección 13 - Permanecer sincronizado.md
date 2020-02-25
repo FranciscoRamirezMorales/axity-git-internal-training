@@ -12,8 +12,8 @@ Un **pull request** es una petición o solicitud al administrador (Maintainer) d
 ![img_13_git_request_01](images/img_13_git_request_01.png)
 
  - Dé clic sobre el botón "**New pull request**"
- - 
+ - Del lado izquierdo seleccione el repositorio original y el branch sobre el cual se desea
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTE5MDA0MDgsMTkwMzM2NTczMSwxOT
-UxMDE5MDgwXX0=
+eyJoaXN0b3J5IjpbLTExMzU3OTY4MjUsLTE1MTE5MDA0MDgsMT
+kwMzM2NTczMSwxOTUxMDE5MDgwXX0=
 -->
