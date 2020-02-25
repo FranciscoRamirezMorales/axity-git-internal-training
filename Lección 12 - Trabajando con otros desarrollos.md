@@ -6,7 +6,7 @@
 
  - Como obtener el historial de cambios
 
- - Como 
+ - Como identificar en lo que podemos trabajar
 
 ## Entendiendo la funcionalidad de `Fork`
 
@@ -88,6 +88,9 @@ $ git log --grep=bug
 $ git log --grep bug
 ```
 
+## Identificar en lo que podemos trabajar
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NzQzNjIxNCwtMjA1ODc1NDI0XX0=
+eyJoaXN0b3J5IjpbNTA0NzUyNjQyLC0yMDU4NzU0MjRdfQ==
 -->
