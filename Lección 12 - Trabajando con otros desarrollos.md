@@ -112,7 +112,9 @@ Para estos casos la sección de Issues nos permite realizar una petición para p
  - Una nueva funcionalidad
  - Algún oro tema
 
+![img_12_git_issues_01](images/img_12_git_issues_01.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NDAwMTgyNCwxMjc2OTQ2NzMsMzEyMz
+eyJoaXN0b3J5IjpbLTgzMTkxMjk5MiwxMjc2OTQ2NzMsMzEyMz
 I3MTY3LC01OTkzNjgzMzksLTIwNTg3NTQyNF19
 -->
