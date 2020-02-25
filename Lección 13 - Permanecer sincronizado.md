@@ -55,14 +55,15 @@ $ git log --oneline --graph --decorate --all
 # Asegurar que nos encontramos en el branch correctopara hacer el merge
 $ git checkout master
 
-# Hacer merge de proyecto original a nuestro branch
+# Hacer merge del branch del proyecto original a nuestro branch
 $ git merge upstream/master
 
-# send Lam's changes to *my* remote
+# Enviar los cambios del repositorio remoto a nuestro repositorio remoto
 $ git push origin master
 ```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjUzNDg2OTgsMzM5NjAyMjUxLC0xNj
-U0MTUyOTkzLDE4NjY0NjUzNDQsLTE1MTE5MDA0MDgsMTkwMzM2
-NTczMSwxOTUxMDE5MDgwXX0=
+eyJoaXN0b3J5IjpbMTg0MDc3OTE0NCwzMzk2MDIyNTEsLTE2NT
+QxNTI5OTMsMTg2NjQ2NTM0NCwtMTUxMTkwMDQwOCwxOTAzMzY1
+NzMxLDE5NTEwMTkwODBdfQ==
 -->
