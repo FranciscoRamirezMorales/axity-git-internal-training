@@ -1,6 +1,6 @@
 # Permanecer sincronizado con un repositorio remoto
 
-Un **pull request** es una petición o solicitud al administrador (Maintainer) del repositorio original para incluir cambios en su proyecto sobre el cual hemos echo un `Fork`.
+Un **pull request** es una petición o solicitud al administrador (Maintainer) del repositorio original para incluir cambios en su proyecto sobre el cual hemos hecho un `Fork`.
 
  - Hacer Fork sobre el proyecto de [Axity](https://github.com/achamizoch/axity-collaboration-travel-plans)
 
@@ -52,7 +52,7 @@ $ git log --oneline --graph --decorate --all
  - Hacer merge
 
 ```bash
-# Asegurar que nos encontramos en el branch correctopara hacer el merge
+# Asegurar que nos encontramos en el branch correcto para hacer el merge
 $ git checkout master
 
 # Hacer merge del branch del proyecto original a nuestro branch
@@ -63,7 +63,7 @@ $ git push origin master
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MDc3OTE0NCwzMzk2MDIyNTEsLTE2NT
-QxNTI5OTMsMTg2NjQ2NTM0NCwtMTUxMTkwMDQwOCwxOTAzMzY1
-NzMxLDE5NTEwMTkwODBdfQ==
+eyJoaXN0b3J5IjpbMTYyMzg3NTU5MCwxODQwNzc5MTQ0LDMzOT
+YwMjI1MSwtMTY1NDE1Mjk5MywxODY2NDY1MzQ0LC0xNTExOTAw
+NDA4LDE5MDMzNjU3MzEsMTk1MTAxOTA4MF19
 -->
