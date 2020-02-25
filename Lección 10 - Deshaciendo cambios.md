@@ -103,13 +103,12 @@ En este caso `HEAD` apunta al commit `9ec05ca` y:
  4. Hacer `git commit --amend`.
 
  5. Revisar el log.
- 
 
- 7. Hacer `git reset <SHA-del-commit-de prueba>`.
+ 7. Hacer `git reset --hard <SHA-del-commit-de prueba>`.
 
- 8. 4. Revisar el log.
+ 8. Revisar el log.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NDI4NzU1OCwxOTQwMjcwNjYwLDExNj
+eyJoaXN0b3J5IjpbMTgxMjczNTUzNSwxOTQwMjcwNjYwLDExNj
 EwMjIzMjMsNDY5NTI4NTU4LDE4OTA5Mzc4ODUsLTU0MTk5NTk0
 NywtNzgzODg0MjA2LC0xMDgzMjU0Nzk2LDEzMjk4MzU1NiwtMT
 k4NjQ3MzI0NSwtOTE4MTgwODk0LC0xNjE4NDg2NDM3LDMyMjkw
