@@ -38,8 +38,8 @@ $ git remote -v
 
 > Podemos renombrar las conexiones de la siguiente forma:
 > 
-> $ git remote rename mine origin
-> $ git remote rename source-repo upstream
+> `$ git remote rename mine origin`
+> `$ git remote rename source-repo upstream`
 >
 
  - Obtener los cambios
@@ -51,7 +51,7 @@ $ git log --oneline --graph --decorate --all
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTc4MjU3MzcsLTE2NTQxNTI5OTMsMT
-g2NjQ2NTM0NCwtMTUxMTkwMDQwOCwxOTAzMzY1NzMxLDE5NTEw
-MTkwODBdfQ==
+eyJoaXN0b3J5IjpbMzM5NjAyMjUxLC0xNjU0MTUyOTkzLDE4Nj
+Y0NjUzNDQsLTE1MTE5MDA0MDgsMTkwMzM2NTczMSwxOTUxMDE5
+MDgwXX0=
 -->
