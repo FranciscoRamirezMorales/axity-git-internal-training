@@ -118,9 +118,11 @@ Dentro de la sección de Issues para familiarizarse. Note que el botón de "New 
 
 Intente crear un nuevo Issue para ver las opciones que nos permite.
 
+
 ![img_12_git_issues_01](images/img_12_git_issues_01.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ5NjQ3ODMwLDEyNzY5NDY3MywzMTIzMj
-cxNjcsLTU5OTM2ODMzOSwtMjA1ODc1NDI0XX0=
+eyJoaXN0b3J5IjpbMTUzMDIxNjMyNCw3NDk2NDc4MzAsMTI3Nj
+k0NjczLDMxMjMyNzE2NywtNTk5MzY4MzM5LC0yMDU4NzU0MjRd
+fQ==
 -->
