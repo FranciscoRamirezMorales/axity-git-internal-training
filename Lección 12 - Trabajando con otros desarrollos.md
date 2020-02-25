@@ -48,7 +48,7 @@ Ahora hagamos lo siguiente:
 
 **¿Qué es lo que observa ahora?**
 
-> Podemos ver ahora los cambios son enviados al repositorio de Lam".
+> Podemos ver ahora los cambios son enviados al repositorio de Lam de nuestra cuenta de GitHub".
 
 ## Revisar el historial de cambios
 
@@ -121,7 +121,7 @@ Intente crear un nuevo **Issue** para ver las opciones que nos permite.
 ![img_12_git_issues_01](images/img_12_git_issues_01.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMzQ0MjAwNCw3NDk2NDc4MzAsMTI3Nj
-k0NjczLDMxMjMyNzE2NywtNTk5MzY4MzM5LC0yMDU4NzU0MjRd
-fQ==
+eyJoaXN0b3J5IjpbMzM3MjUzODE3LDE4MTM0NDIwMDQsNzQ5Nj
+Q3ODMwLDEyNzY5NDY3MywzMTIzMjcxNjcsLTU5OTM2ODMzOSwt
+MjA1ODc1NDI0XX0=
 -->
