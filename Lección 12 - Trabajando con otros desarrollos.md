@@ -100,11 +100,12 @@ Este archivo típicamente consta de dos secciones:
 
 CONTRIBUTING.md contiene información que explica:
 
- - Como debe estar formatedo el código
+ - Como debe estar formateado el código
 
  - Pasos a seguir para contribuir
 
+Antes de empezar a colaborar en un proyecto es importante saber 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEyMzI3MTY3LC01OTkzNjgzMzksLTIwNT
-g3NTQyNF19
+eyJoaXN0b3J5IjpbMTI3Njk0NjczLDMxMjMyNzE2NywtNTk5Mz
+Y4MzM5LC0yMDU4NzU0MjRdfQ==
 -->
