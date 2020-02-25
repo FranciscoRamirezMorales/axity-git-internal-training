@@ -110,8 +110,9 @@ Para estos casos la sección de Issues nos permite realizar una petición para p
 
  - Un bug
  - Una nueva funcionalidad
- - 
+ - Algún oro tema
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU1NDIxMTE1LDEyNzY5NDY3MywzMTIzMj
-cxNjcsLTU5OTM2ODMzOSwtMjA1ODc1NDI0XX0=
+eyJoaXN0b3J5IjpbLTc0NDAwMTgyNCwxMjc2OTQ2NzMsMzEyMz
+I3MTY3LC01OTkzNjgzMzksLTIwNTg3NTQyNF19
 -->
