@@ -112,13 +112,15 @@ Para estos casos la sección de Issues nos permite realizar una petición para p
  - Una nueva funcionalidad
  - Algún oro tema
 
-Navegue en el [Proyecto Lighhouse](https://github.com/GoogleChrome/lighthouse) dentro de la sección de Issues para familiarizarse. Note que el botón de "New Issue" siempre esta presente en esta sección.
+Navegue en el [Proyecto Lighhouse](https://github.com/GoogleChrome/lighthouse) para ubicar el archivo CONTRIBUTING.md.
 
-Intente crear un nuevo Issue.
+Dentro de la sección de Issues para familiarizarse. Note que el botón de "New Issue" siempre esta presente en esta sección.
+
+Intente crear un nuevo Issue para ver las opciones que nos permite..
 
 ![img_12_git_issues_01](images/img_12_git_issues_01.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjE2NDEzNTYsMTI3Njk0NjczLDMxMj
+eyJoaXN0b3J5IjpbLTE5MzgyMjY1ODAsMTI3Njk0NjczLDMxMj
 MyNzE2NywtNTk5MzY4MzM5LC0yMDU4NzU0MjRdfQ==
 -->
