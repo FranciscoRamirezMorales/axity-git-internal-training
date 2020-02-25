@@ -2,11 +2,11 @@
 
  - En esta lección veremos:
 
- - Entendiendo la funcionalidad de `Fork`
+ - La funcionalidad de `Fork`
 
- - Revisando el historial de cambios
+ - Como obtener el historial de cambios
 
- - 
+ - Como 
 
 ## Entendiendo la funcionalidad de `Fork`
 
@@ -89,5 +89,5 @@ $ git log --grep bug
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODcwMDE2MzcsLTIwNTg3NTQyNF19
+eyJoaXN0b3J5IjpbMTY5NzQzNjIxNCwtMjA1ODc1NDI0XX0=
 -->
