@@ -104,8 +104,10 @@ CONTRIBUTING.md contiene información que explica:
 
  - Pasos a seguir para contribuir
 
-Antes de empezar a colaborar en un proyecto es importante saber 
+Antes de empezar a colaborar en un proyecto es importante saber si alguien más ya está trabajando en eso mismo.
+
+Para estos casos 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3Njk0NjczLDMxMjMyNzE2NywtNTk5Mz
-Y4MzM5LC0yMDU4NzU0MjRdfQ==
+eyJoaXN0b3J5IjpbNTYxMDQyMDE4LDEyNzY5NDY3MywzMTIzMj
+cxNjcsLTU5OTM2ODMzOSwtMjA1ODc1NDI0XX0=
 -->
