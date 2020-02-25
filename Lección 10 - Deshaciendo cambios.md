@@ -2,7 +2,7 @@
 
 Aunque es poco común deshacer los cambios de un commit es posible hacerlo. En esta lección solo mencionaremos los recursos disponibles para poder realizar este tipo de acciones.
 
-En esta lección mencionaremos como:
+En esta lección veremos como:
 
  -  Cambiar el último commit
 
@@ -35,7 +35,7 @@ Este comando:
  - Esta acción deshace los cambios realizados por el commit proporcionado
  - Crea un nuevo commit para registrar el cambio
 
-## Revertir un commit
+## Eliminar un commit
 
 ```bash
 git reset <referencia-al-commit>
@@ -93,8 +93,8 @@ En este caso `HEAD` apunta al commit `9ec05ca` y:
 -   `HEAD^^^2` corresponde al commit `4c9749e` (este es el `HEAD^^` del segundo padre (`^2`))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY5NTI4NTU4LDE4OTA5Mzc4ODUsLTU0MT
-k5NTk0NywtNzgzODg0MjA2LC0xMDgzMjU0Nzk2LDEzMjk4MzU1
-NiwtMTk4NjQ3MzI0NSwtOTE4MTgwODk0LC0xNjE4NDg2NDM3LD
-MyMjkwOTkxMV19
+eyJoaXN0b3J5IjpbMTI5MzMxNTU1LDQ2OTUyODU1OCwxODkwOT
+M3ODg1LC01NDE5OTU5NDcsLTc4Mzg4NDIwNiwtMTA4MzI1NDc5
+NiwxMzI5ODM1NTYsLTE5ODY0NzMyNDUsLTkxODE4MDg5NCwtMT
+YxODQ4NjQzNywzMjI5MDk5MTFdfQ==
 -->
