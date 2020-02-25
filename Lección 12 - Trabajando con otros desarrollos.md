@@ -106,8 +106,12 @@ CONTRIBUTING.md contiene información que explica:
 
 Antes de empezar a colaborar en un proyecto es importante saber si alguien más ya está trabajando en eso mismo.
 
-Para estos casos 
+Para estos casos la sección de Issues nos permite realizar una petición para poder contribuir sobre:
+
+ - Un bug
+ - Una nueva funcionalidad
+ - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYxMDQyMDE4LDEyNzY5NDY3MywzMTIzMj
+eyJoaXN0b3J5IjpbODU1NDIxMTE1LDEyNzY5NDY3MywzMTIzMj
 cxNjcsLTU5OTM2ODMzOSwtMjA1ODc1NDI0XX0=
 -->
