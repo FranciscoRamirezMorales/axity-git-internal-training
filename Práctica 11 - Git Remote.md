@@ -118,7 +118,7 @@ h2 {
 
 ## Crear un repositorio en GitHub
 
- 1. Crear una cuenta en GitHub
+ 1. Crear una cuenta en [GitHub](https://github.com)
 
  2. Crear un repositorio con el nombre `my-travel-plans`
 
@@ -197,5 +197,5 @@ $ git pull origin master
  5. Realizar `pull` para enviar a **GitHub** el commit del merge.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzOTAyMjc1M119
+eyJoaXN0b3J5IjpbLTE1Nzc4MDAzMjksLTMzOTAyMjc1M119
 -->
