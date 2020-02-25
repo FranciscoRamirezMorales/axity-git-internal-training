@@ -99,10 +99,12 @@ Este archivo típicamente consta de dos secciones:
 - For Maintainers
 
 CONTRIBUTING.md contiene información que explica:
+
  - Como debe estar formatedo el código
 
  - Pasos a seguir para contribuir
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5OTM2ODMzOSwtMjA1ODc1NDI0XX0=
+eyJoaXN0b3J5IjpbMzEyMzI3MTY3LC01OTkzNjgzMzksLTIwNT
+g3NTQyNF19
 -->
