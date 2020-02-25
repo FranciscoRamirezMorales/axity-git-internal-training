@@ -28,9 +28,13 @@ Un **pull request** es una petición o solicitud al administrador (Maintainer) d
 
  - Dar clic sobre el botón "`Create pull request`".
 
-## Obtener los ca
+## Obtener los cambios del repositorio original
+
+```bash
+$ git remote add upstream https://github.com/udacity/course-collaboration-travel-plans.git
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTY1Njc3MjgsLTE2NTQxNTI5OTMsMT
-g2NjQ2NTM0NCwtMTUxMTkwMDQwOCwxOTAzMzY1NzMxLDE5NTEw
-MTkwODBdfQ==
+eyJoaXN0b3J5IjpbNzA2NTEzODE4LC0xNjU0MTUyOTkzLDE4Nj
+Y0NjUzNDQsLTE1MTE5MDA0MDgsMTkwMzM2NTczMSwxOTUxMDE5
+MDgwXX0=
 -->
