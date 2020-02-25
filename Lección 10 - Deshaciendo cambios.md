@@ -92,9 +92,15 @@ En este caso `HEAD` apunta al commit `9ec05ca` y:
 -   `HEAD~3` corresponde al commit `0c5975a`
 -   `HEAD^^^2` corresponde al commit `4c9749e` (este es el `HEAD^^` del segundo padre (`^2`))
 
+### Práctica 1 - Deshacer cambios
+
+ 1. Realizar un cambio en algún archivo.
+ 2. Hacer commit.
+ 3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MDI3MDY2MCwxMTYxMDIyMzIzLDQ2OT
-UyODU1OCwxODkwOTM3ODg1LC01NDE5OTU5NDcsLTc4Mzg4NDIw
-NiwtMTA4MzI1NDc5NiwxMzI5ODM1NTYsLTE5ODY0NzMyNDUsLT
-kxODE4MDg5NCwtMTYxODQ4NjQzNywzMjI5MDk5MTFdfQ==
+eyJoaXN0b3J5IjpbMjAzNTg4NjA0OCwxOTQwMjcwNjYwLDExNj
+EwMjIzMjMsNDY5NTI4NTU4LDE4OTA5Mzc4ODUsLTU0MTk5NTk0
+NywtNzgzODg0MjA2LC0xMDgzMjU0Nzk2LDEzMjk4MzU1NiwtMT
+k4NjQ3MzI0NSwtOTE4MTgwODk0LC0xNjE4NDg2NDM3LDMyMjkw
+OTkxMV19
 -->
